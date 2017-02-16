@@ -20,7 +20,7 @@ List of Requirements:
  - As an advisor, I want students to be able to easily share their planned schedule, so that I can understand their plans
  - As a student, I want to see information about class dependencies/prerequisites, so that I can understand whether my schedule is acheivable
  - As an administrator, I want the website to pull information from existing infrastructure, so that I can avoid manually updating information
- - As a student, I want to see relevant information about the class
+ - As a student, I want to see relevant information about the class, so that I can plan my workload around the difficulty of the class
  
 Methodology: We plan to utilize an Agile methodology
 
