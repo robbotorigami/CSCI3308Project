@@ -1,5 +1,5 @@
 # CSCI3308Project
-Who: Robert Belter (robbotorigami), Michael Rahn (7UR73L), Raghav Sharma (Sharmaragahv260)
+Who: Robert Belter (robbotorigami), Michael Rahn (7UR73L), Raghav Sharma (Sharmaraghav260)
 
 Title: CU Scheduler
 
