@@ -31,3 +31,6 @@ Methodology: We plan to utilize an Agile methodology
 Project Tracking software: we intend to use Trello, and potentially Github issues
 
 Link: https://trello.com/b/f3YAkExL/tasks
+
+
+[Latest Master Preview (be wary of caching)](http://htmlpreview.github.io/?https://github.com/robbotorigami/CSCI3308Project/blob/master/index.html)
