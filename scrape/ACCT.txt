@@ -1,0 +1,484 @@
+0
+ACCT 3220 - Corporate Financial Reporting 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Frances Tice
+
+Room KOBL 230
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ACCT 3220 - Corporate Financial Reporting 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Frances Tice
+
+Room KOBL 255
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24651
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ACCT 3220 - Corporate Financial Reporting 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Frances Tice
+
+Room KOBL 255
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24652
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ACCT 3230 - Corporate Financial Reporting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Zeyun Chen
+
+Room KOBL 230
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24653
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ACCT 3230 - Corporate Financial Reporting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zeyun Chen
+
+Room KOBL 230
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24654
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ACCT 3230 - Corporate Financial Reporting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Zeyun Chen
+
+Room KOBL 230
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24936
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ACCT 3320 - Cost Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Long
+
+Room KOBL 235
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ACCT 3320 - Cost Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Long
+
+Room KOBL 235
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24656
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ACCT 3440 - Income Taxation of Individuals
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Long
+
+Room KOBL 340
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24658
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ACCT 3440 - Income Taxation of Individuals
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Morley
+
+Room KOBL S110
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34693
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+ACCT 4240 - Advanced Financial Accounting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Randy Johnston
+
+Room KOBL 235
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+ACCT 4250 - Financial Statement Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Nondorf
+
+Room KOBL 102
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ACCT 4540 - Accounting Information Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Marshall
+
+Room KOBL 320
+Meeting Time Tu 6:30PM - 9:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25080
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ACCT 4620 - Auditing and Assurance Services
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Frederick
+
+Room KOBL 220
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24659
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ACCT 4827 - Integrated Reporting for Socially Responsible Strategies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Catherine Milburn
+
+Room KOBL 375
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24924
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ACCT 4850 - Senior Seminar - Accounting Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Randy Johnston
+
+Room KOBL 308
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ACCT 4850 - Senior Seminar - Accounting Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Randy Johnston
+
+Room KOBL 308
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ACCT 5240 - Advanced Financial Accounting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Randy Johnston
+
+Room KOBL 235
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24657
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ACCT 5250 - Financial Statement Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Nondorf
+
+Room KOBL 102
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ACCT 5450 - Income Taxation of Business Entities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Bus Entity Taxation
+Instructor Susan Morley
+
+Room KOBL S110
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24792
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ACCT 5450 - Income Taxation of Business Entities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Bus Entity Taxation
+Instructor Susan Morley
+
+Room KOBL 375
+Meeting Time MoTuWeTh 7:45AM - 9:15AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24793
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ACCT 5540 - Accounting Information Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Marshall
+
+Room KOBL 320
+Meeting Time Tu 6:30PM - 9:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ACCT 5620 - Auditing and Assurance Services
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Frederick
+
+Room KOBL 220
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ACCT 5827 - Integrated Reporting for Socially Responsible Strategies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Catherine Milburn
+
+Room KOBL 375
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24944
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ACCT 6350 - Current Issues in Professional Accounting--Accounting Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Munter
+
+Room KOBL 340
+Meeting Time Fr 9:00AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ACCT 6350 - Current Issues in Professional Accounting--Accounting Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Munter
+Paul Munter
+
+Room KOBL 230
+KOBL 230
+Meeting Time Fr 12:30PM - 3:15PM
+We 5:00PM - 8:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24926
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ACCT 6450 - Taxation of Corporations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sloan Speck
+
+Room WLAW 205
+Meeting Time MoWe 10:45AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38254
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+ACCT 6620 - Advanced Auditing: Business Risk and Decision Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Frederick
+
+Room KOBL 255
+Meeting Time We 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+ACCT 6620 - Advanced Auditing: Business Risk and Decision Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Frederick
+
+Room KOBL 255
+Meeting Time We 6:30PM - 9:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+ACCT 6700 - Income Taxation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Hasen
+
+Room WLAW 204
+Meeting Time MoWe 9:00AM - 10:40AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,2801 @@
+0
+APPM 1235 - Pre-Calculus for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Sandra Williams
+
+Room ECCR 135
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 150-LECBoulder 16-Wk Session/Full Sem
+Class Code 22888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+APPM 1235 - Pre-Calculus for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Tutmaher
+
+Room FLMG 103
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 170-LECBoulder 16-Wk Session/Full Sem
+Class Code 22375
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+APPM 1235 - Pre-Calculus for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Mink
+
+Room ECCR 151
+Meeting Time Th 12:00PM - 12:50PM
+Section 250-RECBoulder 16-Wk Session/Full Sem
+Class Code 22889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+APPM 1235 - Pre-Calculus for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Mink
+
+Room FLMG 157
+Meeting Time Th 2:00PM - 2:50PM
+Section 270-RECBoulder 16-Wk Session/Full Sem
+Class Code 22376
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+APPM 1345 - Calculus 1 with Algebra, Part B
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Murray Cox
+
+Room ECCR 105
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 150-LECBoulder 16-Wk Session/Full Sem
+Class Code 22017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+APPM 1345 - Calculus 1 with Algebra, Part B
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Murray Cox
+
+Room ECCR 1B51
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 160-LECBoulder 16-Wk Session/Full Sem
+Class Code 33682
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+APPM 1345 - Calculus 1 with Algebra, Part B
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Broido
+
+Room ECCR 151
+Meeting Time Th 10:00AM - 10:50AM
+Section 230-RECBoulder 16-Wk Session/Full Sem
+Class Code 33683
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+APPM 1345 - Calculus 1 with Algebra, Part B
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Broido
+
+Room ECCR 1B55
+Meeting Time Th 11:00AM - 11:50AM
+Section 240-RECBoulder 16-Wk Session/Full Sem
+Class Code 33684
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+APPM 1345 - Calculus 1 with Algebra, Part B
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Broido
+
+Room ECCR 151
+Meeting Time Th 2:00PM - 2:50PM
+Section 270-RECBoulder 16-Wk Session/Full Sem
+Class Code 33122
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Yermal Bhat
+
+Room ECCR 150
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 120-LECBoulder 16-Wk Session/Full Sem
+Class Code 15569
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Yermal Bhat
+
+Room ECCR 200
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 130-LECBoulder 16-Wk Session/Full Sem
+Class Code 22445
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hallowell
+
+Room FLMG 104
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 150-LECBoulder 16-Wk Session/Full Sem
+Class Code 24464
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hallowell
+
+Room FLMG 104
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 170-LECBoulder 16-Wk Session/Full Sem
+Class Code 21691
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Tillquist
+
+Room ECCR 118
+Meeting Time Tu 8:00AM - 8:50AM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 15570
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Tillquist
+
+Room ECCR 118
+Meeting Time Tu 9:00AM - 9:50AM
+Section 221-RECBoulder 16-Wk Session/Full Sem
+Class Code 22448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alan Medinger
+
+Room ECCR 116
+Meeting Time Tu 9:00AM - 9:50AM
+Section 222-RECBoulder 16-Wk Session/Full Sem
+Class Code 23604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Slattum
+
+Room ECCR 118
+Meeting Time Tu 10:00AM - 10:50AM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 15572
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Caleb Miller
+
+Room ECCR 116
+Meeting Time Tu 10:00AM - 10:50AM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 22449
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Caleb Miller
+
+Room ECCR 116
+Meeting Time Tu 11:00AM - 11:50AM
+Section 241-RECBoulder 16-Wk Session/Full Sem
+Class Code 22450
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Slattum
+
+Room ECCR 118
+Meeting Time Tu 11:00AM - 11:50AM
+Section 242-RECBoulder 16-Wk Session/Full Sem
+Class Code 15571
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Caleb Miller
+
+Room ECCR 116
+Meeting Time Tu 12:00PM - 12:50PM
+Section 251-RECBoulder 16-Wk Session/Full Sem
+Class Code 32596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Slattum
+
+Room ECCR 118
+Meeting Time Tu 12:00PM - 12:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 23605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Jones
+
+Room ECCR 116
+Meeting Time Tu 1:00PM - 1:50PM
+Section 262-RECBoulder 16-Wk Session/Full Sem
+Class Code 22451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Jones
+
+Room ECCR 116
+Meeting Time Tu 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 23524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Jones
+
+Room ECCR 108
+Meeting Time Tu 3:00PM - 3:50PM
+Section 281-RECBoulder 16-Wk Session/Full Sem
+Class Code 22446
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+APPM 1350 - Calculus 1 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo nil
+Instructor Sandra Williams
+
+Room ECCR 108
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 24496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Thaler
+
+Room ECCR 200
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 110-LECBoulder 16-Wk Session/Full Sem
+Class Code 22212
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu-Jui Huang
+
+Room ECCR 200
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 120-LECBoulder 16-Wk Session/Full Sem
+Class Code 24128
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Murray Cox
+
+Room MUEN E0046
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 130-LECBoulder 16-Wk Session/Full Sem
+Class Code 22377
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anne Dougherty
+
+Room ECCR 265
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 140-LECBoulder 16-Wk Session/Full Sem
+Class Code 15573
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Thaler
+
+Room ECCR 245
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 160-LECBoulder 16-Wk Session/Full Sem
+Class Code 15584
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Silva Chang
+
+Room ECCR 200
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 170-LECBoulder 16-Wk Session/Full Sem
+Class Code 22018
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Tutmaher
+
+Room FLMG 156
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 180-LECBoulder 16-Wk Session/Full Sem
+Class Code 22452
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lucia Yang
+
+Room ECCR 108
+Meeting Time Tu 8:00AM - 8:50AM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 15574
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhishen Huang
+
+Room ECCR 110
+Meeting Time Tu 8:00AM - 8:50AM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 15580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Osman Asif Malik
+
+Room MUEN E126
+Meeting Time Tu 8:00AM - 8:50AM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 15587
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Fortino Garcia
+
+Room ECCR 1B51
+Meeting Time Tu 8:00AM - 8:50AM
+Section 214-RECBoulder 16-Wk Session/Full Sem
+Class Code 23295
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Lucia Yang
+
+Room ECCR 108
+Meeting Time Tu 9:00AM - 9:50AM
+Section 221-RECBoulder 16-Wk Session/Full Sem
+Class Code 34552
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Mingyu Hu
+
+Room CLRE 212
+Meeting Time Tu 9:00AM - 9:50AM
+Section 222-RECBoulder 16-Wk Session/Full Sem
+Class Code 15583
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Osman Asif Malik
+
+Room MUEN E431
+Meeting Time Tu 9:00AM - 9:50AM
+Section 223-RECBoulder 16-Wk Session/Full Sem
+Class Code 15588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Fortino Garcia
+
+Room ECCR 1B51
+Meeting Time Tu 9:00AM - 9:50AM
+Section 224-RECBoulder 16-Wk Session/Full Sem
+Class Code 22379
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lucia Yang
+
+Room ECCR 108
+Meeting Time Tu 10:00AM - 10:50AM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 22453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Mingyu Hu
+
+Room CLRE 212
+Meeting Time Tu 10:00AM - 10:50AM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 15576
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Osman Asif Malik
+
+Room MUEN E431
+Meeting Time Tu 10:00AM - 10:50AM
+Section 233-RECBoulder 16-Wk Session/Full Sem
+Class Code 15582
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhishen Huang
+
+Room ECCR 1B51
+Meeting Time Tu 10:00AM - 10:50AM
+Section 234-RECBoulder 16-Wk Session/Full Sem
+Class Code 15589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhishen Huang
+
+Room ECCR 108
+Meeting Time Tu 11:00AM - 11:50AM
+Section 241-RECBoulder 16-Wk Session/Full Sem
+Class Code 15577
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room TBA
+Meeting Time Tu 11:00AM - 11:50AM
+Section 243-RECBoulder 16-Wk Session/Full Sem
+Class Code 22019
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alec Dunton
+
+Room ECCR 1B51
+Meeting Time Tu 11:00AM - 11:50AM
+Section 244-RECBoulder 16-Wk Session/Full Sem
+Class Code 22454
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Gunderman
+
+Room ECCR 108
+Meeting Time Tu 12:00PM - 12:50PM
+Section 251-RECBoulder 16-Wk Session/Full Sem
+Class Code 15578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mingyu Hu
+
+Room HLMS 247
+Meeting Time Tu 12:00PM - 12:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 15585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alec Dunton
+
+Room ECCR 1B51
+Meeting Time Tu 12:00PM - 12:50PM
+Section 254-RECBoulder 16-Wk Session/Full Sem
+Class Code 22455
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Wenqi Zhang
+
+Room ECCR 118
+Meeting Time Tu 1:00PM - 1:50PM
+Section 261-RECBoulder 16-Wk Session/Full Sem
+Class Code 21290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Gunderman
+
+Room ECCR 108
+Meeting Time Tu 1:00PM - 1:50PM
+Section 262-RECBoulder 16-Wk Session/Full Sem
+Class Code 23444
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alec Dunton
+
+Room ECCR 1B51
+Meeting Time Tu 1:00PM - 1:50PM
+Section 263-RECBoulder 16-Wk Session/Full Sem
+Class Code 15579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Wenqi Zhang
+
+Room ECCR 118
+Meeting Time Tu 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 15586
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ramsey
+
+Room ECCR 108
+Meeting Time Tu 2:00PM - 2:50PM
+Section 273-RECBoulder 16-Wk Session/Full Sem
+Class Code 22378
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Babb
+
+Room ECCR 1B51
+Meeting Time Tu 2:00PM - 2:50PM
+Section 274-RECBoulder 16-Wk Session/Full Sem
+Class Code 22456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jingwei Li
+
+Room FLMG 154
+Meeting Time Tu 2:00PM - 2:50PM
+Section 275-RECBoulder 16-Wk Session/Full Sem
+Class Code 24129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ramsey
+
+Room ECCR 118
+Meeting Time Tu 3:00PM - 3:50PM
+Section 281-RECBoulder 16-Wk Session/Full Sem
+Class Code 22457
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Babb
+
+Room ECCR 116
+Meeting Time Tu 3:00PM - 3:50PM
+Section 282-RECBoulder 16-Wk Session/Full Sem
+Class Code 22983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ramsey
+
+Room ECCR 108
+Meeting Time Tu 4:00PM - 4:50PM
+Section 291-RECBoulder 16-Wk Session/Full Sem
+Class Code 15581
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Babb
+
+Room ECCR 116
+Meeting Time Tu 4:00PM - 4:50PM
+Section 292-RECBoulder 16-Wk Session/Full Sem
+Class Code 23443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo nil
+Instructor Daniel Lindsey
+
+Room WVN 166A
+Meeting Time MoWeFr 3:30PM - 4:20PM
+Section 340R-LECBoulder 16-Wk Session/Full Sem
+Class Code 24370
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Daniel Lindsey
+
+Room ANDS N103
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 520R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+APPM 1360 - Calculus 2 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Silva Chang
+
+Room ANDS N103
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 549R-LECBoulder 16-Wk Session/Full Sem
+Class Code 23487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Anthony Wong, 
+Igor Rumanov
+
+Room FLMG 154
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 120-LECBoulder 16-Wk Session/Full Sem
+Class Code 22458
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jan Norris
+
+Room ECCR 1B40
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 140-LECBoulder 16-Wk Session/Full Sem
+Class Code 15593
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Cole
+
+Room ECCR 200
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 160-LECBoulder 16-Wk Session/Full Sem
+Class Code 15598
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Aurand
+
+Room ECCR 116
+Meeting Time Th 8:00AM - 8:50AM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 21292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Lewis Baker
+
+Room ECCR 118
+Meeting Time Th 8:00AM - 8:50AM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 24395
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Reichanadter
+
+Room ECCR 116
+Meeting Time Th 9:00AM - 9:50AM
+Section 222-RECBoulder 16-Wk Session/Full Sem
+Class Code 15596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Lewis Baker
+
+Room ECCR 118
+Meeting Time Th 9:00AM - 9:50AM
+Section 223-RECBoulder 16-Wk Session/Full Sem
+Class Code 22461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Erez Shani
+
+Room ECCR 116
+Meeting Time Th 10:00AM - 10:50AM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 15592
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffery Allen
+
+Room ECCR 118
+Meeting Time Th 10:00AM - 10:50AM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 15597
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Krock
+
+Room ECCR 116
+Meeting Time Th 12:00PM - 12:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 23610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Krock
+
+Room ECCR 116
+Meeting Time Th 1:00PM - 1:50PM
+Section 261-RECBoulder 16-Wk Session/Full Sem
+Class Code 15595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Johnson
+
+Room ECCR 118
+Meeting Time Th 1:00PM - 1:50PM
+Section 262-RECBoulder 16-Wk Session/Full Sem
+Class Code 22974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Wills
+
+Room ECCR 116
+Meeting Time Th 2:00PM - 2:50PM
+Section 271-RECBoulder 16-Wk Session/Full Sem
+Class Code 15591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Johnson
+
+Room ECCR 118
+Meeting Time Th 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 23606
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Wills
+
+Room ECCR 1B51
+Meeting Time Th 3:00PM - 3:50PM
+Section 281-RECBoulder 16-Wk Session/Full Sem
+Class Code 15599
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+APPM 2350 - Calculus 3 for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Jan Norris
+
+Room ANDS N103
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 549R-LECBoulder 16-Wk Session/Full Sem
+Class Code 15590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeremy Thompson
+
+Room ECCR 245
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 110-LECBoulder 16-Wk Session/Full Sem
+Class Code 15601
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Lyles
+
+Room ECCR 1B40
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 120-LECBoulder 16-Wk Session/Full Sem
+Class Code 22381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Julien
+
+Room ECCR 265
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 130-LECBoulder 16-Wk Session/Full Sem
+Class Code 15603
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Kish
+
+Room ECCR 245
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 150-LECBoulder 16-Wk Session/Full Sem
+Class Code 15610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Miquel
+
+Room ECCR 265
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 160-LECBoulder 16-Wk Session/Full Sem
+Class Code 23315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Igor Rumanov
+
+Room ECCR 245
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 170-LECBoulder 16-Wk Session/Full Sem
+Class Code 15614
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Chao Deng
+
+Room ECCR 105
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 180-LECBoulder 16-Wk Session/Full Sem
+Class Code 34634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kwan Ho Lee
+
+Room ECCR 108
+Meeting Time Th 8:00AM - 8:50AM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 15602
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Miquel
+
+Room ECCR 151
+Meeting Time Th 8:00AM - 8:50AM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 15608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Trantow
+
+Room ECCR 1B51
+Meeting Time Th 8:00AM - 8:50AM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 32611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kwan Ho Lee
+
+Room ECCR 108
+Meeting Time Th 9:00AM - 9:50AM
+Section 222-RECBoulder 16-Wk Session/Full Sem
+Class Code 15609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joy Mueller
+
+Room ECCR 151
+Meeting Time Th 9:00AM - 9:50AM
+Section 223-RECBoulder 16-Wk Session/Full Sem
+Class Code 15616
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Trantow
+
+Room ECCR 1B51
+Meeting Time Th 9:00AM - 9:50AM
+Section 224-RECBoulder 16-Wk Session/Full Sem
+Class Code 23311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Inomzhon Mirzaev
+
+Room ECCR 1B55
+Meeting Time Th 9:00AM - 9:50AM
+Section 225-RECBoulder 16-Wk Session/Full Sem
+Class Code 23522
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joy Mueller
+
+Room ECCR 108
+Meeting Time Th 10:00AM - 10:50AM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 22021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sabina Altus
+
+Room FLMG 154
+Meeting Time Th 10:00AM - 10:50AM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 15611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xinshuo Yang
+
+Room ECCR 1B51
+Meeting Time Th 10:00AM - 10:50AM
+Section 233-RECBoulder 16-Wk Session/Full Sem
+Class Code 15617
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Inomzhon Mirzaev
+
+Room ECCR 1B55
+Meeting Time Th 10:00AM - 10:50AM
+Section 234-RECBoulder 16-Wk Session/Full Sem
+Class Code 23608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dylan Abrahamsen
+
+Room ECCR 118
+Meeting Time Th 11:00AM - 11:50AM
+Section 241-RECBoulder 16-Wk Session/Full Sem
+Class Code 15604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+100
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lukas Goetz-Weiss
+
+Room ECCR 108
+Meeting Time Th 11:00AM - 11:50AM
+Section 242-RECBoulder 16-Wk Session/Full Sem
+Class Code 15612
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+101
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Harry Dudley
+
+Room ECCR 151
+Meeting Time Th 11:00AM - 11:50AM
+Section 243-RECBoulder 16-Wk Session/Full Sem
+Class Code 15618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Xinshuo Yang
+
+Room ECCR 1B51
+Meeting Time Th 11:00AM - 11:50AM
+Section 244-RECBoulder 16-Wk Session/Full Sem
+Class Code 32694
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Dylan Abrahamsen
+
+Room ECCR 118
+Meeting Time Th 12:00PM - 12:50PM
+Section 251-RECBoulder 16-Wk Session/Full Sem
+Class Code 15605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Lukas Goetz-Weiss
+
+Room ECCR 108
+Meeting Time Th 12:00PM - 12:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 23502
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allan Gardner
+
+Room ECCR 108
+Meeting Time Th 1:00PM - 1:50PM
+Section 261-RECBoulder 16-Wk Session/Full Sem
+Class Code 15613
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+106
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gavin Medley
+
+Room ECCR 151
+Meeting Time Th 1:00PM - 1:50PM
+Section 262-RECBoulder 16-Wk Session/Full Sem
+Class Code 15776
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+107
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ignas Satkauskas
+
+Room ECCR 1B51
+Meeting Time Th 1:00PM - 1:50PM
+Section 263-RECBoulder 16-Wk Session/Full Sem
+Class Code 23312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+108
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Hao Xu
+
+Room ECCR 1B55
+Meeting Time Th 1:00PM - 1:50PM
+Section 264-RECBoulder 16-Wk Session/Full Sem
+Class Code 23408
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+109
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allan Gardner
+
+Room ECCR 108
+Meeting Time Th 2:00PM - 2:50PM
+Section 271-RECBoulder 16-Wk Session/Full Sem
+Class Code 15606
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ignas Satkauskas
+
+Room ECCR 1B51
+Meeting Time Th 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 15607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Hao Xu
+
+Room ECCR 1B55
+Meeting Time Th 2:00PM - 2:50PM
+Section 273-RECBoulder 16-Wk Session/Full Sem
+Class Code 15615
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Sprenger
+
+Room FLMG 154
+Meeting Time Th 2:00PM - 2:50PM
+Section 274-RECBoulder 16-Wk Session/Full Sem
+Class Code 22382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Nardini
+
+Room ECCR 116
+Meeting Time Th 3:00PM - 3:50PM
+Section 281-RECBoulder 16-Wk Session/Full Sem
+Class Code 15775
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+114
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Nardini
+
+Room ECCR 116
+Meeting Time Th 4:00PM - 4:50PM
+Section 291-RECBoulder 16-Wk Session/Full Sem
+Class Code 21293
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+115
+APPM 2360 - Introduction to Differential Equations with Linear Algebra
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Jonathan Kish
+
+Room KCEN N101
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 549R-LECBoulder 16-Wk Session/Full Sem
+Class Code 22213
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+APPM 2450 - Calculus 3 Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Reichanadter
+
+Room ECCR143
+Meeting Time Tu 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15620
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+APPM 2450 - Calculus 3 Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Aurand
+
+Room ECCR143
+Meeting Time Tu 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15621
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+APPM 2450 - Calculus 3 Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Aurand
+
+Room ECCR143
+Meeting Time Tu 2:00PM - 2:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 15622
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+119
+APPM 2460 - Differential Equations Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Harry Dudley
+
+Room ECCR143
+Meeting Time Tu 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15623
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+APPM 2460 - Differential Equations Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Harry Dudley
+
+Room ECCR143
+Meeting Time Tu 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+APPM 2460 - Differential Equations Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Sprenger
+
+Room ECCR143
+Meeting Time Tu 3:00PM - 3:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15625
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+APPM 2460 - Differential Equations Computer Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Sprenger
+
+Room ECCR143
+Meeting Time Tu 4:00PM - 4:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 15626
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+APPM 2720 - Open Topics in Lower Division Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Intro Data Analysis with R
+Instructor Douglas Nychka
+
+Room ECCR 139
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+APPM 3050 - Scientific Computing in Matlab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Thaler
+
+Room ECCR 135
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16566
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+APPM 3050 - Scientific Computing in Matlab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Thaler
+
+Room ECCR143
+Meeting Time Fr 9:00AM - 9:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 21291
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+APPM 3050 - Scientific Computing in Matlab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Thaler
+
+Room ECCR143
+Meeting Time Fr 10:00AM - 10:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 23609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+APPM 3170 - Discrete Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yermal Bhat
+
+Room MUEN E113
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+128
+APPM 3310 - Matrix Methods and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Gregory Beylkin
+
+Room ECCR 116
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16419
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+129
+APPM 3310 - Matrix Methods and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Lyles
+
+Room STAD 140
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+130
+APPM 3310 - Matrix Methods and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Grooms
+
+Room ECCR 135
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+APPM 3570 - Applied Probability
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Kilpatrick
+
+Room ECCR 150
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16420
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+APPM 3570 - Applied Probability
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Manuel Lladser
+
+Room ECCR 150
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+APPM 4120 - Introduction to Operations Research
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yu-Jui Huang
+
+Room ECCR 155
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21802
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+134
+APPM 4360 - Methods in Applied Mathematics: Complex Variables and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Bengt Fornberg
+
+Room FLMG 102
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16710
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+APPM 4360 - Methods in Applied Mathematics: Complex Variables and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Bengt Fornberg, 
+Xudan Luo
+
+Room FLMG 104
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+APPM 4450 - Undergraduate Applied Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor James Meiss
+
+Room ECCR 139
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16718
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+APPM 4520 - Introduction to Mathematical Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room FLMG 104
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16714
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+138
+APPM 4540 - Introduction to Time Series
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room ECCR 1B51
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+APPM 4570 - Statistical Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yolanda Slichter
+
+Room ECCR 135
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16719
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+140
+APPM 4580 - Statistical Applications: Software and Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor William Kleiber
+
+Room ECCR 108
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+141
+APPM 4590 - Statistical Modeling
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Brian Zaharatos
+
+Room RAMY N1B31
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+142
+APPM 4650 - Intermediate Numerical Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Divya Vernerey
+
+Room ECCR 105
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20637
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+143
+APPM 4660 - Intermediate Numerical Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jan Norris
+
+Room ECCR 131
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16722
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+144
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Mathematical Finance 1
+Notes: This is a combined section class
+Instructor Michael Stutzer
+
+Room KOBL S233
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23614
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+145
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Spatial Statistics
+Notes: This is a combined section class
+Instructor William Kleiber
+
+Room FLMG 103
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 32604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Computational Math Biology
+Notes: This is a combined section class
+Instructor Manuel Lladser
+
+Room SEE DEPT
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 32606
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Philosophy of Statistics
+Notes: This is a combined section class
+Instructor Brian Zaharatos
+
+Room ECCR 118
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 32805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Adv Tpcs Convex Optimization
+Notes: This is a combined section class
+Instructor Stephen Becker
+
+Room ECCR 151
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 32808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+149
+APPM 4720 - Open Topics in Applied Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Statistical Collaboration
+Notes: This is a combined section class
+Instructor Eric Vance
+
+Room FLMG 203
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 41032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+APPM 4720 - Open Topics in Applied Mathematics
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Adv. Stat Collab
+Notes: This is a combined section class
+Instructor Eric Vance
+
+Room SEE DEPT
+Meeting Time We 4:00PM - 5:30PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 41039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+151
+APPM 5120 - Introduction to Operations Research
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yu-Jui Huang
+
+Room ECCR 155
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21803
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+APPM 5360 - Methods in Applied Mathematics: Complex Variables and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Bengt Fornberg
+
+Room FLMG 102
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+153
+APPM 5360 - Methods in Applied Mathematics: Complex Variables and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Bengt Fornberg, 
+Xudan Luo
+
+Room FLMG 104
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16713
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+154
+APPM 5450 - Applied Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Per-Gunnar Martinsson
+
+Room ECST 1B21
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+155
+APPM 5480 - Methods of Applied Mathematics: Approximation Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Mark Hoefer
+
+Room SEE DEPT
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33690
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+156
+APPM 5520 - Introduction to Mathematical Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room FLMG 104
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+157
+APPM 5540 - Introduction to Time Series
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room ECCR 1B51
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20635
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+158
+APPM 5570 - Statistical Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yolanda Slichter
+
+Room ECCR 135
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+APPM 5580 - Statistical Applications: Software and Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor William Kleiber
+
+Room ECCR 108
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+160
+APPM 5590 - Statistical Modeling
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Brian Zaharatos
+
+Room RAMY N1B31
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+161
+APPM 5610 - Numerical Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Beylkin
+
+Room ECCR 135
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16725
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+162
+APPM 5720 - Open Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Spatial Statistics
+Notes: This is a combined section class
+Instructor William Kleiber
+
+Room FLMG 103
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 32605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+163
+APPM 5720 - Open Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Computational Math Biology
+Notes: This is a combined section class
+Instructor Manuel Lladser
+
+Room SEE DEPT
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 32607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+164
+APPM 5720 - Open Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Philosophy of Statistics
+Notes: This is a combined section class
+Instructor Brian Zaharatos
+
+Room ECCR 118
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 32806
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+165
+APPM 5720 - Open Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Adv Tpcs Convex Optimization
+Notes: This is a combined section class
+Instructor Stephen Becker
+
+Room ECCR 151
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 32809
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+166
+APPM 5720 - Open Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Statistical Collaboration
+Notes: This is a combined section class
+Instructor Eric Vance
+
+Room FLMG 203
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 41033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+167
+APPM 5720 - Open Topics in Applied Mathematics
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Adv. Stat Collab
+Notes: This is a combined section class
+Instructor Eric Vance
+
+Room SEE DEPT
+Meeting Time We 4:00PM - 5:30PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 41037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+168
+APPM 7400 - Topics in Applied Mathematics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Introduction to Research
+Instructor Mark Hoefer
+
+Room SEE DEPT
+Meeting Time We 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23521
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+169
+APPM 7400 - Topics in Applied Mathematics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Advanced Probability
+Instructor Jem Corcoran
+
+Room SEE DEPT
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+170
+APPM 8000 - Colloquium in Applied Mathematics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Grooms
+
+Room ECCR 265
+Meeting Time Fr 3:00PM - 4:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+171
+APPM 8100 - Seminar in Dynamical Systems
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Dynamical Systems
+Instructor James Meiss
+
+Room ECOT 226
+Meeting Time Th 2:00PM - 2:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+APPM 8400 - Mathematical Biology Seminar
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Kilpatrick
+
+Room ECCR 131
+Meeting Time Tu 2:00PM - 2:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 41070
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+173
+APPM 8500 - Statistics, Optimization and Machine Learning Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Rafael Frongillo, 
+Stephen Becker
+
+Room ECCR 257
+Meeting Time Tu 3:30PM - 4:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

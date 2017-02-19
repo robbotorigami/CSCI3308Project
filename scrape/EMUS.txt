@@ -1,0 +1,861 @@
+0
+EMUS 1217 - University Singers
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Gentry
+
+Room MCKY 102
+Meeting Time MoTuWeTh 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15088
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+EMUS 1227 - University Choir
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 38
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrea Ramsey
+
+Room MCKY 102
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+EMUS 1237 - Women's Chorus
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrea Ramsey
+
+Room MCKY 102
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+EMUS 1247 - Men's Chorus
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Craig Robertson, 
+Gregory Gentry
+
+Room MCKY 102
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+EMUS 1257 - Collegiate Chorale
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Gentry, 
+Nathan Payant
+
+Room MCKY 102
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15096
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+EMUS 1277 - Court Players
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total nil
+MiscInfo nil
+Instructor Matthew Dockendorf
+
+Room MUS E160
+Meeting Time Fr 4:00PM - 6:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+EMUS 1297 - Wind Symphony
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Donald McKinney
+
+Room MUS E160
+Meeting Time TuTh 11:30AM - 1:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+EMUS 1307 - Symphonic Band
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Roeder
+
+Room MUS E160
+Meeting Time MoWeFr 2:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15100
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+EMUS 1317 - Concert Band
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 64
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Dockendorf
+
+Room MUS E160
+Meeting Time MoWe 4:00PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+EMUS 1327 - Symphony Orchestra
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gary Lewis
+
+Room MUS E160
+Meeting Time MoWeFr 12:00PM - 1:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15105
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+EMUS 1417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Topic: Classic and Improv
+Notes: This is a combined section class
+Instructor Douglas Walter
+Douglas Walter
+
+Room MUS C185
+MUS C185
+Meeting Time Tu 4:30PM - 5:20PM
+Th 3:30PM - 5:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15111
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+11
+EMUS 1417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Topic: Hand Drums and Latin Jazz
+Notes: This is a combined section class
+Instructor Carl Dixon
+
+Room MUS C185
+Meeting Time Mo 4:00PM - 6:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+EMUS 1427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MUS E160
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15114
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+EMUS 1427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+EMUS 1427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Decker-Thomas Babcock
+
+Room MUS E160
+Meeting Time TuTh 6:15PM - 7:45PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+EMUS 1467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Japanese Ensemble
+Notes: This is a combined section class
+Instructor Mami Itasaka
+
+Room MCKY 1B03D
+Meeting Time Th 4:00PM - 6:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+EMUS 1467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Mariachi Ensemble
+Notes: This is a combined section class
+Instructor Francisco Rodriguez
+
+Room MCKY 1B03D
+Meeting Time Tu 5:00PM - 7:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+EMUS 1467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: African Ensemble
+Notes: This is a combined section class
+Instructor Maputo Mensah
+
+Room MCKY 1B03D
+Meeting Time Mo 5:00PM - 7:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+EMUS 1517 - Campus Orchestra
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 61
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Tran, 
+Rafael Rodriguez
+
+Room MUS E160
+Meeting Time We 7:00PM - 9:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15138
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+EMUS 3217 - University Singers
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Gentry
+
+Room MCKY 102
+Meeting Time MoTuWeTh 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+EMUS 3227 - University Choir
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 38
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrea Ramsey
+
+Room MCKY 102
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+EMUS 3237 - Women's Chorus
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrea Ramsey
+
+Room MCKY 102
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+EMUS 3247 - Men's Chorus
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Craig Robertson, 
+Gregory Gentry
+
+Room MCKY 102
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15099
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+EMUS 3257 - Collegiate Chorale
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Gentry, 
+Nathan Payant
+
+Room MCKY 102
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+EMUS 3297 - Wind Symphony
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Donald McKinney
+
+Room MUS E160
+Meeting Time TuTh 11:30AM - 1:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+EMUS 3307 - Symphonic Band
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Roeder
+
+Room MUS E160
+Meeting Time MoWeFr 2:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15102
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+EMUS 3317 - Concert Band
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 64
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Dockendorf
+
+Room MUS E160
+Meeting Time MoWe 4:00PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+EMUS 3327 - Symphony Orchestra
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gary Lewis
+
+Room MUS E160
+Meeting Time MoWeFr 12:00PM - 1:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15106
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+EMUS 3417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+Douglas Walter
+
+Room MUS C185
+MUS C185
+Meeting Time Tu 4:30PM - 5:20PM
+Th 3:30PM - 5:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15112
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+29
+EMUS 3417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carl Dixon
+
+Room MUS C185
+Meeting Time Mo 4:00PM - 6:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+EMUS 3427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MUS E160
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+EMUS 3427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+EMUS 3427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Decker-Thomas Babcock
+
+Room MUS E160
+Meeting Time TuTh 6:15PM - 7:45PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15119
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+EMUS 3457 - Electronic Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Fr 10:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+EMUS 3467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Japanese Ensemble
+Notes: This is a combined section class
+Instructor Mami Itasaka
+
+Room MCKY 1B03D
+Meeting Time Th 4:00PM - 6:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+EMUS 3467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Mariachi Ensemble
+Notes: This is a combined section class
+Instructor Francisco Rodriguez
+
+Room MCKY 1B03D
+Meeting Time Tu 5:00PM - 7:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+EMUS 3467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: African Ensemble
+Notes: This is a combined section class
+Instructor Maputo Mensah
+
+Room MCKY 1B03D
+Meeting Time Mo 5:00PM - 7:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+EMUS 3517 - Campus Orchestra
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 61
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Tran, 
+Rafael Rodriguez
+
+Room MUS E160
+Meeting Time We 7:00PM - 9:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+EMUS 5217 - University Singers
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Gentry
+
+Room MCKY 102
+Meeting Time MoTuWeTh 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+EMUS 5227 - University Choir
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 38
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrea Ramsey
+
+Room MCKY 102
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+EMUS 5297 - Wind Symphony
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Donald McKinney
+
+Room MUS E160
+Meeting Time TuTh 11:30AM - 1:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+EMUS 5307 - Symphonic Band
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Roeder
+
+Room MUS E160
+Meeting Time MoWeFr 2:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15104
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+EMUS 5327 - Symphony Orchestra
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Gary Lewis
+
+Room MUS E160
+Meeting Time MoWeFr 12:00PM - 1:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15107
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+EMUS 5417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+Douglas Walter
+
+Room MUS C185
+MUS C185
+Meeting Time Tu 4:30PM - 5:20PM
+Th 3:30PM - 5:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15113
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+44
+EMUS 5417 - Percussion Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carl Dixon
+
+Room MUS C185
+Meeting Time Mo 4:00PM - 6:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+EMUS 5427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MUS E160
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15120
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+EMUS 5427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time TuTh 4:30PM - 6:00PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+EMUS 5427 - Jazz Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Decker-Thomas Babcock
+
+Room MUS E160
+Meeting Time TuTh 6:15PM - 7:45PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15122
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+EMUS 5457 - Electronic Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Fr 10:00AM - 11:50AM
+Section 001-OTHBoulder 16-Wk Session/Full Sem
+Class Code 15156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+EMUS 5467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Japanese Ensemble
+Notes: This is a combined section class
+Instructor Mami Itasaka
+
+Room MCKY 1B03D
+Meeting Time Th 4:00PM - 6:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+EMUS 5467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Mariachi Ensemble
+Notes: This is a combined section class
+Instructor Francisco Rodriguez
+
+Room MCKY 1B03D
+Meeting Time Tu 5:00PM - 7:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 15136
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+EMUS 5467 - World Music Ensemble
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: African Ensemble
+Notes: This is a combined section class
+Instructor Maputo Mensah
+
+Room MCKY 1B03D
+Meeting Time Mo 5:00PM - 7:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 15137
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

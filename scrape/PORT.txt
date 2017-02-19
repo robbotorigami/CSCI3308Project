@@ -1,0 +1,96 @@
+0
+PORT 1020 - Beginning Portuguese 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcelo Schincariol
+
+Room EDUC 136
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16556
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+PORT 2120 - Second-Year Portuguese 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcelo Schincariol
+
+Room CLRE 212
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16557
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+PORT 2800 - Brazil: Past and Present
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Tania Martuscelli
+
+Room KTCH 1B60
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+PORT 3220 - Latin American Culture: Spanish America and Brazil
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Tania Martuscelli
+
+Room GUGG 205
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16558
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+PORT 4110 - Brazilian Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Marcelo Schincariol
+
+Room HLMS 191
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16559
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+PORT 5110 - Brazilian Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Marcelo Schincariol
+
+Room HLMS 191
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

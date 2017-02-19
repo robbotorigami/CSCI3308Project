@@ -1,0 +1,2392 @@
+0
+ECON 1078 - Mathematical Tools for Economists 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Diebel
+
+Room MUEN E131
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ECON 1078 - Mathematical Tools for Economists 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Akhil Rao
+
+Room ECON 119
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 29181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ECON 1088 - Mathematical Tools for Economists 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Sihong Xie
+
+Room MUEN E417
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ECON 1088 - Mathematical Tools for Economists 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Li Yao
+
+Room EDUC 155
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Szlendak
+
+Room DUAN G1B20
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 22348
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Brauchla
+
+Room CHEM 145
+Meeting Time Mo 2:00PM - 2:50PM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 20149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Brauchla
+
+Room HLMS 177
+Meeting Time Mo 4:00PM - 4:50PM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 20150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Lenger
+
+Room DUAN G2B60
+Meeting Time Mo 5:00PM - 5:50PM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 20151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Lenger
+
+Room EDUC 138
+Meeting Time We 4:00PM - 4:50PM
+Section 214-RECBoulder 16-Wk Session/Full Sem
+Class Code 20152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Brauchla
+
+Room ECON 119
+Meeting Time We 3:00PM - 3:50PM
+Section 215-RECBoulder 16-Wk Session/Full Sem
+Class Code 20153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Brauchla
+
+Room ECON 2
+Meeting Time We 5:00PM - 5:50PM
+Section 216-RECBoulder 16-Wk Session/Full Sem
+Class Code 20154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Lenger
+
+Room ECON 119
+Meeting Time Fr 10:00AM - 10:50AM
+Section 217-RECBoulder 16-Wk Session/Full Sem
+Class Code 20155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Lenger
+
+Room EDUC 143
+Meeting Time Mo 3:00PM - 3:50PM
+Section 218-RECBoulder 16-Wk Session/Full Sem
+Class Code 20156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeronimo Carballo
+
+Room HUMN 1B50
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 29264
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Pooja Khosla
+
+Room ECON 119
+Meeting Time Mo 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35534
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+15
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Evelyn Skoy
+
+Room HLMS 191
+Meeting Time Tu 8:00AM - 8:50AM
+Section 311-RECBoulder 16-Wk Session/Full Sem
+Class Code 22349
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Evelyn Skoy
+
+Room MUEN E130
+Meeting Time Tu 2:00PM - 2:50PM
+Section 312-RECBoulder 16-Wk Session/Full Sem
+Class Code 22350
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Almelhem
+
+Room ECON 119
+Meeting Time Tu 3:30PM - 4:20PM
+Section 313-RECBoulder 16-Wk Session/Full Sem
+Class Code 22351
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Almelhem
+
+Room CLRE 211
+Meeting Time Tu 5:00PM - 5:50PM
+Section 314-RECBoulder 16-Wk Session/Full Sem
+Class Code 22352
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Evelyn Skoy
+
+Room HLMS 191
+Meeting Time Th 8:00AM - 8:50AM
+Section 315-RECBoulder 16-Wk Session/Full Sem
+Class Code 22370
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Almelhem
+
+Room HLMS 237
+Meeting Time Th 5:00PM - 5:50PM
+Section 316-RECBoulder 16-Wk Session/Full Sem
+Class Code 22371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Almelhem
+
+Room HLMS 193
+Meeting Time Th 3:30PM - 4:20PM
+Section 317-RECBoulder 16-Wk Session/Full Sem
+Class Code 23006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Evelyn Skoy
+
+Room ECON 119
+Meeting Time Th 5:00PM - 5:50PM
+Section 318-RECBoulder 16-Wk Session/Full Sem
+Class Code 23007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Howard
+
+Room GOLD A2B70
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 33895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Mundt
+
+Room KTCH 1B60
+Meeting Time Mo 3:00PM - 3:50PM
+Section 411-RECBoulder 16-Wk Session/Full Sem
+Class Code 20157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Solveig Delabroye
+
+Room ECON 117
+Meeting Time Mo 4:00PM - 4:50PM
+Section 412-RECBoulder 16-Wk Session/Full Sem
+Class Code 21477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Mundt
+
+Room HLMS 259
+Meeting Time Mo 5:00PM - 5:50PM
+Section 413-RECBoulder 16-Wk Session/Full Sem
+Class Code 20158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Solveig Delabroye
+
+Room CLRE 104
+Meeting Time We 2:00PM - 2:50PM
+Section 414-RECBoulder 16-Wk Session/Full Sem
+Class Code 20159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Mundt
+
+Room HLMS 177
+Meeting Time We 4:00PM - 4:50PM
+Section 415-RECBoulder 16-Wk Session/Full Sem
+Class Code 20160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Solveig Delabroye
+
+Room ECON 119
+Meeting Time We 5:00PM - 5:50PM
+Section 416-RECBoulder 16-Wk Session/Full Sem
+Class Code 21478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Solveig Delabroye
+
+Room CLUB 13
+Meeting Time Fr 2:00PM - 2:50PM
+Section 417-RECBoulder 16-Wk Session/Full Sem
+Class Code 23550
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+ECON 2010 - Principles of Microeconomics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Mundt
+
+Room RAMY N1B31
+Meeting Time Fr 12:00PM - 12:50PM
+Section 418-RECBoulder 16-Wk Session/Full Sem
+Class Code 23551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Hill
+
+Room RAMY C250
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16872
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avilia Bueno
+
+Room GUGG 2
+Meeting Time Mo 12:00PM - 12:50PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 20168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avilia Bueno
+
+Room GUGG 2
+Meeting Time Mo 2:00PM - 2:50PM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 20169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Se Mi Park
+
+Room HLMS 259
+Meeting Time Mo 4:00PM - 4:50PM
+Section 113-RECBoulder 16-Wk Session/Full Sem
+Class Code 20170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Se Mi Park
+
+Room EDUC 143
+Meeting Time We 4:00PM - 4:50PM
+Section 114-RECBoulder 16-Wk Session/Full Sem
+Class Code 20171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Se Mi Park
+
+Room HLMS 191
+Meeting Time We 1:00PM - 1:50PM
+Section 115-RECBoulder 16-Wk Session/Full Sem
+Class Code 20172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avilia Bueno
+
+Room MUEN D144
+Meeting Time We 3:00PM - 3:50PM
+Section 116-RECBoulder 16-Wk Session/Full Sem
+Class Code 23552
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Se Mi Park
+
+Room EDUC 136
+Meeting Time We 5:00PM - 5:50PM
+Section 117-RECBoulder 16-Wk Session/Full Sem
+Class Code 20173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avilia Bueno
+
+Room CLRE 209
+Meeting Time Fr 9:00AM - 9:50AM
+Section 118-RECBoulder 16-Wk Session/Full Sem
+Class Code 20174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Kirsch
+
+Room GOLD A2B70
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 16873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Brachel Champion
+
+Room GUGG 2
+Meeting Time Mo 1:00PM - 1:50PM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 20177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brachel Champion
+
+Room HLMS 259
+Meeting Time Mo 3:00PM - 3:50PM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 20178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brachel Champion
+
+Room HLMS 185
+Meeting Time Mo 5:00PM - 5:50PM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 20179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brachel Champion
+
+Room HLMS 193
+Meeting Time We 8:00AM - 8:50AM
+Section 214-RECBoulder 16-Wk Session/Full Sem
+Class Code 20180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Schechter
+
+Room HLMS 191
+Meeting Time We 12:00PM - 12:50PM
+Section 215-RECBoulder 16-Wk Session/Full Sem
+Class Code 20181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Schechter
+
+Room CLRE 209
+Meeting Time We 2:00PM - 2:50PM
+Section 216-RECBoulder 16-Wk Session/Full Sem
+Class Code 20182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Schechter
+
+Room ECON 119
+Meeting Time We 4:00PM - 4:50PM
+Section 217-RECBoulder 16-Wk Session/Full Sem
+Class Code 20183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Schechter
+
+Room GUGG 3
+Meeting Time Mo 4:00PM - 4:50PM
+Section 218-RECBoulder 16-Wk Session/Full Sem
+Class Code 20184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Valkovci
+
+Room RAMY C250
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 20162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Klein
+
+Room ECON 2
+Meeting Time We 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35536
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+52
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Van Wyhe
+Matthew Van Wyhe
+
+Room FLMG 241
+FLMG 241
+Meeting Time MoWe 3:00PM - 4:15PM
+TuFr 3:00PM - 3:50PM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 33461
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+53
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Ericson
+
+Room STAD 135
+Meeting Time Mo 12:00PM - 12:50PM
+Section 311-RECBoulder 16-Wk Session/Full Sem
+Class Code 20163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nan Xu
+
+Room ECON 2
+Meeting Time Mo 2:00PM - 2:50PM
+Section 312-RECBoulder 16-Wk Session/Full Sem
+Class Code 20164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Ericson
+
+Room HLMS 185
+Meeting Time Mo 4:00PM - 4:50PM
+Section 313-RECBoulder 16-Wk Session/Full Sem
+Class Code 20165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Ericson
+
+Room HLMS 191
+Meeting Time We 8:00AM - 8:50AM
+Section 314-RECBoulder 16-Wk Session/Full Sem
+Class Code 20166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nan Xu
+
+Room MUEN E123
+Meeting Time We 3:00PM - 3:50PM
+Section 315-RECBoulder 16-Wk Session/Full Sem
+Class Code 20167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Nan Xu
+
+Room KTCH 1B60
+Meeting Time We 5:00PM - 5:50PM
+Section 316-RECBoulder 16-Wk Session/Full Sem
+Class Code 20185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Ericson
+
+Room HLMS 185
+Meeting Time We 4:00PM - 4:50PM
+Section 317-RECBoulder 16-Wk Session/Full Sem
+Class Code 20186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nan Xu
+
+Room ATLS 1B31
+Meeting Time Fr 12:00PM - 12:50PM
+Section 318-RECBoulder 16-Wk Session/Full Sem
+Class Code 20187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Fevzi Iyigun
+
+Room MATH 100
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 23511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Javier Andres Santiago
+
+Room ECON 119
+Meeting Time Tu 8:00AM - 8:50AM
+Section 411-RECBoulder 16-Wk Session/Full Sem
+Class Code 23512
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yuwei Jia
+
+Room ECON 2
+Meeting Time Mo 5:00PM - 5:50PM
+Section 412-RECBoulder 16-Wk Session/Full Sem
+Class Code 23513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Flaxman
+
+Room CLRE 302
+Meeting Time Mo 3:00PM - 3:50PM
+Section 413-RECBoulder 16-Wk Session/Full Sem
+Class Code 23514
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Javier Andres Santiago
+
+Room CLRE 209
+Meeting Time Tu 2:00PM - 2:50PM
+Section 414-RECBoulder 16-Wk Session/Full Sem
+Class Code 23515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yuwei Jia
+
+Room CLUB 13
+Meeting Time Tu 3:30PM - 4:20PM
+Section 415-RECBoulder 16-Wk Session/Full Sem
+Class Code 23559
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Javier Andres Santiago
+
+Room ECON 205
+Meeting Time Tu 3:30PM - 4:20PM
+Section 416-RECBoulder 16-Wk Session/Full Sem
+Class Code 23560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Javier Andres Santiago
+
+Room ECON 205
+Meeting Time Tu 5:00PM - 5:50PM
+Section 417-RECBoulder 16-Wk Session/Full Sem
+Class Code 23561
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Danny Kurban
+
+Room HLMS 185
+Meeting Time Tu 5:00PM - 5:50PM
+Section 418-RECBoulder 16-Wk Session/Full Sem
+Class Code 23562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yuwei Jia
+
+Room HLMS 185
+Meeting Time Th 8:00AM - 8:50AM
+Section 419-RECBoulder 16-Wk Session/Full Sem
+Class Code 20175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Danny Kurban
+
+Room GUGG 3
+Meeting Time Th 8:00AM - 8:50AM
+Section 420-RECBoulder 16-Wk Session/Full Sem
+Class Code 20176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Flaxman
+
+Room EDUC 138
+Meeting Time We 8:00AM - 8:50AM
+Section 421-RECBoulder 16-Wk Session/Full Sem
+Class Code 23553
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Flaxman
+
+Room KTCH 1B60
+Meeting Time We 4:00PM - 4:50PM
+Section 422-RECBoulder 16-Wk Session/Full Sem
+Class Code 23554
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Danny Kurban
+
+Room ECON 119
+Meeting Time Th 3:30PM - 4:20PM
+Section 423-RECBoulder 16-Wk Session/Full Sem
+Class Code 23555
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yuwei Jia
+
+Room ECON 2
+Meeting Time Th 3:30PM - 4:20PM
+Section 424-RECBoulder 16-Wk Session/Full Sem
+Class Code 23556
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Danny Kurban
+
+Room ECON 117
+Meeting Time Th 5:00PM - 5:50PM
+Section 425-RECBoulder 16-Wk Session/Full Sem
+Class Code 23557
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Flaxman
+
+Room ECON 2
+Meeting Time Th 5:00PM - 5:50PM
+Section 426-RECBoulder 16-Wk Session/Full Sem
+Class Code 23558
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jules Kaplan
+
+Room HUMN 1B50
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 23563
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Loren Kruschke
+
+Room EDUC 138
+Meeting Time Tu 8:00AM - 8:50AM
+Section 511-RECBoulder 16-Wk Session/Full Sem
+Class Code 23564
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hoyn Kim
+
+Room HLMS 185
+Meeting Time Tu 9:00AM - 9:50AM
+Section 512-RECBoulder 16-Wk Session/Full Sem
+Class Code 23565
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hoyn Kim
+
+Room HLMS 185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 513-RECBoulder 16-Wk Session/Full Sem
+Class Code 23566
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Loren Kruschke
+
+Room ECON 119
+Meeting Time Tu 5:00PM - 5:50PM
+Section 514-RECBoulder 16-Wk Session/Full Sem
+Class Code 23567
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hoyn Kim
+
+Room ECON 119
+Meeting Time Th 8:00AM - 8:50AM
+Section 515-RECBoulder 16-Wk Session/Full Sem
+Class Code 23574
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Loren Kruschke
+
+Room HUMN 190
+Meeting Time We 4:00PM - 4:50PM
+Section 516-RECBoulder 16-Wk Session/Full Sem
+Class Code 23575
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Loren Kruschke
+
+Room HLMS 245
+Meeting Time Th 5:00PM - 5:50PM
+Section 517-RECBoulder 16-Wk Session/Full Sem
+Class Code 23576
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+ECON 2020 - Principles of Macroeconomics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hoyn Kim
+
+Room EDUC 136
+Meeting Time Th 4:00PM - 4:50PM
+Section 518-RECBoulder 16-Wk Session/Full Sem
+Class Code 23577
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jiannan Zhou
+
+Room ECON 119
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 18967
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Schabla
+
+Room HALE 240
+Meeting Time Mo 3:00PM - 3:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 29182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Schabla
+
+Room ECON 119
+Meeting Time We 8:00AM - 8:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 29183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Turner
+
+Room ECON 117
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 21479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Schabla
+
+Room CLRE 302
+Meeting Time Mo 2:00PM - 2:50PM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 29188
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Schabla
+
+Room HLMS 245
+Meeting Time We 4:00PM - 4:50PM
+Section 022-RECBoulder 16-Wk Session/Full Sem
+Class Code 29189
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Zhang
+
+Room MUEN E131
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 18969
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Penner
+
+Room CHEM 145
+Meeting Time Mo 12:00PM - 12:50PM
+Section 031-RECBoulder 16-Wk Session/Full Sem
+Class Code 29186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+95
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Penner
+
+Room GUGG 2
+Meeting Time We 3:00PM - 3:50PM
+Section 032-RECBoulder 16-Wk Session/Full Sem
+Class Code 29187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Mansfield
+
+Room HLMS 211
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 18968
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Corey Woodruff
+
+Room CLRE 212
+Meeting Time Tu 3:30PM - 4:20PM
+Section 041-RECBoulder 16-Wk Session/Full Sem
+Class Code 29184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Corey Woodruff
+
+Room HLMS 251
+Meeting Time Th 5:00PM - 5:50PM
+Section 042-RECBoulder 16-Wk Session/Full Sem
+Class Code 29185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Mansfield
+
+Room MUEN E417
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 18970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+100
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Corey Woodruff
+
+Room DUAN G2B21
+Meeting Time Tu 12:30PM - 1:20PM
+Section 051-RECBoulder 16-Wk Session/Full Sem
+Class Code 29194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+ECON 3070 - Intermediate Microeconomic Theory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Corey Woodruff
+
+Room ECON 13
+Meeting Time Th 3:30PM - 4:20PM
+Section 052-RECBoulder 16-Wk Session/Full Sem
+Class Code 29195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+ECON 3080 - Intermediate Macroeconomic Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristina Sargent
+
+Room ECON 117
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18971
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+ECON 3080 - Intermediate Macroeconomic Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Miles Kimball
+
+Room HUMN 150
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 18972
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+ECON 3080 - Intermediate Macroeconomic Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kyoung-Gon Kim
+
+Room HLMS 241
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 22330
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+ECON 3403 - International Economics and Policy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 38
+Waitlist Total 0
+MiscInfo nil
+Instructor Amit Patel
+
+Room RAMY N1B23
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+ECON 3535 - Natural Resource Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Cameron Duff
+
+Room CLRE 207
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+ECON 3545 - Environmental Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Peterson
+
+Room HUMN 250
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+108
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Butner
+
+Room CLRE 207
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kassandra McLean
+
+Room DUAN G2B60
+Meeting Time Mo 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kassandra McLean
+
+Room EDUC 136
+Meeting Time Mo 4:00PM - 4:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 23986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kassandra McLean
+
+Room CLRE 302
+Meeting Time We 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 23987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+112
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kassandra McLean
+
+Room HUMN 335
+Meeting Time We 5:00PM - 5:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 29196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+113
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Waldman
+
+Room BESC 185
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 23984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiang Chi
+
+Room HUMN 145
+Meeting Time Tu 3:30PM - 4:20PM
+Section 031-RECBoulder 16-Wk Session/Full Sem
+Class Code 23991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+115
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiang Chi
+
+Room HLMS 259
+Meeting Time Tu 5:00PM - 5:50PM
+Section 032-RECBoulder 16-Wk Session/Full Sem
+Class Code 23992
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiang Chi
+
+Room HUMN 190
+Meeting Time Th 5:00PM - 5:50PM
+Section 033-RECBoulder 16-Wk Session/Full Sem
+Class Code 29197
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+117
+ECON 3818 - Introduction to Statistics with Computer  Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiang Chi
+
+Room HUMN 145
+Meeting Time Th 3:30PM - 4:20PM
+Section 034-RECBoulder 16-Wk Session/Full Sem
+Class Code 24001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+118
+ECON 4050 - Market Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Oleg Baranov
+
+Room ECON 119
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+119
+ECON 4111 - Money and Banking Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Jules Kaplan
+
+Room GOLD A2B70
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+ECON 4211 - Public Economics: the Economics of the Government Sector
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles De Bartolome
+
+Room HLMS 211
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+ECON 4231 - Applied Economic Analysis and Public Policy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Zax
+
+Room ECON 205
+Meeting Time Th 3:30PM - 6:00PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+ECON 4339 - Economics Honors Seminar 2
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Terra McKinnish-Harllee
+
+Room ECON 5
+Meeting Time Tu 3:30PM - 6:00PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19054
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+ECON 4413 - International Trade
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wolfgang Keller
+
+Room ECON 117
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+124
+ECON 4535 - Natural Resource Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor William Mertens
+
+Room ECON 117
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+ECON 4545 - Environmental Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Flores
+
+Room ECON 119
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29201
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+126
+ECON 4616 - Labor Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Mansfield
+
+Room KTCH 1B71
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+ECON 4626 - The Economics of Inequality and Discrimination
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Zax
+
+Room HLMS 267
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23074
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+128
+ECON 4646 - Topics in Health Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Shuang Zhang
+
+Room ECON 117
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23827
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+129
+ECON 4717 - Economics of Entrepreneurship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jin-Hyuk Kim
+
+Room MUEN E113
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23402
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+130
+ECON 4794 - Economic Growth
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Carol Shiue
+
+Room HLMS 241
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23075
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+ECON 4797 - Antitrust and Regulation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Diana Moss
+
+Room ECON 119
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+ECON 4808 - Introduction to Mathematical Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor William Mertens
+
+Room ECON 117
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29203
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+ECON 4818 - Introduction to Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Kremena Platikanova-Gross
+
+Room ECON 117
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19057
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+ECON 4818 - Introduction to Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiaodong Liu
+
+Room ECON 119
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 21925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+ECON 4818 - Introduction to Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor William Mertens
+
+Room ECON 117
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23076
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+ECON 4848 - Applied Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Klein
+
+Room HUMN 1B45
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+137
+ECON 4848 - Applied Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Klein
+
+Room HUMN 1B45
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 29270
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+138
+ECON 4848 - Applied Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Kaffine
+
+Room HUMN 1B45
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+139
+ECON 4848 - Applied Econometrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Kaffine
+
+Room HUMN 1B45
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23077
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+140
+ECON 4939 - Internship/Seminar
+Units 2 - 6
+Restriction Y
+Consent Required Y
+Seats Remaining 49
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor William Mertens
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 5:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 22960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+ECON 7030 - Microeconomic Theory 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Marein, 
+Oleg Baranov
+
+Room ECON 5
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19071
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+142
+ECON 7040 - Macroeconomic Theory 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Martin Boileau, 
+Minghui Li
+
+Room ECON 119
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19072
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+ECON 7828 - Econometrics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Marein, 
+Minghui Li, 
+Xiaodong Liu
+
+Room ECON 119
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19073
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+ECON 8020 - Business Cycle Theory and Monetary and Fiscal Policy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Miles Kimball
+
+Room ECON 5
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38430
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+145
+ECON 8219 - Economics Research Methods Workshop 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Hughes
+
+Room ECON 5
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19074
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+ECON 8433 - Seminar: Topics in Money and International Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Wolfgang Keller
+
+Room ECON 5
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29208
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+ECON 8747 - Industrial Organization Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Yongmin Chen
+
+Room ECON 5
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29207
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+ECON 8764 - History of Economic Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Carol Shiue
+
+Room ECON 5
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

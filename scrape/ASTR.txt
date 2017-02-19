@@ -1,0 +1,983 @@
+0
+ASTR 1000 - The Solar System
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 145
+Waitlist Total 0
+MiscInfo nil
+Instructor Seth Hornstein
+
+Room DUAN G1B20
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ASTR 1000 - The Solar System
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 64
+Waitlist Total 0
+MiscInfo nil
+Instructor Amanda White, 
+Seth Hornstein
+
+Room DUAN G1B30
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22470
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Wernke, 
+Nicholas Schneider
+
+Room DUAN G1B20
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Tu 9:00AM - 10:45AM
+Section 110-LABBoulder 16-Wk Session/Full Sem
+Class Code 18320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Tu 11:00AM - 12:45PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 18694
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time We 9:00AM - 10:45AM
+Section 112-LABBoulder 16-Wk Session/Full Sem
+Class Code 18695
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time We 11:00AM - 12:45PM
+Section 113-LABBoulder 16-Wk Session/Full Sem
+Class Code 18696
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time We 1:00PM - 2:45PM
+Section 114-LABBoulder 16-Wk Session/Full Sem
+Class Code 18697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Th 9:00AM - 10:45AM
+Section 115-LABBoulder 16-Wk Session/Full Sem
+Class Code 23899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Th 11:00AM - 12:45PM
+Section 116-LABBoulder 16-Wk Session/Full Sem
+Class Code 18698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ASTR 1010 - Introductory Astronomy 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Fr 9:00AM - 10:45AM
+Section 117-LABBoulder 16-Wk Session/Full Sem
+Class Code 23162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schenck, 
+Webster Cash
+
+Room DUAN G1B20
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Fr 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 18740
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S125
+Meeting Time Fr 11:00AM - 11:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 18741
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Fr 12:00PM - 12:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 18742
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S125
+Meeting Time Fr 12:00PM - 12:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 18743
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Tu 1:00PM - 1:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 18744
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S125
+Meeting Time Tu 1:00PM - 1:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 18747
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S175
+Meeting Time Tu 2:00PM - 2:50PM
+Section 017-RECBoulder 16-Wk Session/Full Sem
+Class Code 18748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ASTR 1020 - Introductory Astronomy 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S125
+Meeting Time Tu 2:00PM - 2:50PM
+Section 018-RECBoulder 16-Wk Session/Full Sem
+Class Code 18749
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ASTR 1030 - Accelerated Introductory Astronomy 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Moloney, 
+Zachory Berta-Thompson
+
+Room DUAN G130
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ASTR 1030 - Accelerated Introductory Astronomy 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Everding
+
+Room OBSV S175
+Meeting Time Mo 11:00AM - 12:45PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33444
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ASTR 1030 - Accelerated Introductory Astronomy 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Moloney
+
+Room OBSV S175
+Meeting Time Mo 1:00PM - 2:45PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 33445
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Connor Bice, 
+Juri Toomre, 
+Piyush Agrawal
+
+Room DUAN G130
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Connor Bice, 
+Juri Toomre, 
+Piyush Agrawal
+
+Room DUAN D318
+Meeting Time Tu 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 18767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Connor Bice, 
+Juri Toomre
+
+Room DUAN D318
+Meeting Time Tu 2:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 18768
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Connor Bice, 
+Juri Toomre
+
+Room DUAN D318
+Meeting Time We 11:00AM - 11:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 20591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Connor Bice, 
+Juri Toomre
+
+Room DUAN D318
+Meeting Time We 2:00PM - 2:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 23336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ASTR 1040 - Accelerated Introductory Astronomy 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Juri Toomre, 
+Piyush Agrawal
+
+Room DUAN D318
+Meeting Time We 3:00PM - 3:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 23901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ASTR 1200 - Stars and Galaxies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Stemo, 
+Adam Kowalski
+
+Room DUAN G130
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ASTR 1200 - Stars and Galaxies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 119
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Danforth, 
+Samantha Walker
+
+Room DUAN G1B20
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ASTR 1200 - Stars and Galaxies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 181
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Danforth
+
+Room DUAN G1B20
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 33023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ASTR 2000 - Ancient Astronomies of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Ellingson, 
+Robinson Wallace
+
+Room BESC 180
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23806
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ASTR 2010 - Modern Cosmology---Origin and Structure of the Universe
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor James Green
+
+Room DUAN G130
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17249
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+ASTR 2020 - Space Astronomy and Exploration
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 34
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin France
+
+Room DUAN G125
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22472
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ASTR 2030 - Black Holes
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Stemo, 
+Julia Comerford
+
+Room DUAN G130
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ASTR 2040 - The Search for Life in the Universe
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 45
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Axel Brandenburg, 
+Daniel Everding
+
+Room BESC 180
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+ASTR 2040 - The Search for Life in the Universe
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mike Zawaski, 
+Stephen Mojzsis
+
+Room HUMN 135
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38566
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ASTR 2500 - Gateway to Space
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Koehler
+
+Room ITLL 1B50
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+ASTR 2600 - Introduction to Scientific Programming
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeremiah Darling
+
+Room OBSV S125
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+ASTR 3520 - Observations and Instrumentation 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Baylee Bordwell, 
+Erica Ellingson
+
+Room DUAN E126
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17257
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ASTR 3520 - Observations and Instrumentation 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room OBSV S125
+Meeting Time Tu 6:30PM - 8:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 20596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ASTR 3720 - Planets and Their Atmospheres
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Brain, 
+Samantha Walker
+
+Room DUAN G130
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17404
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+ASTR 3740 - Cosmology and Relativity
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Hamilton
+
+Room DUAN G131
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23462
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ASTR 3760 - Solar and Space Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Cranmer
+
+Room DUAN G131
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23100
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+ASTR 3800 - Introduction to Scientific Data Analysis and Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schenck, 
+Douglas Duncan
+
+Room OBSV S125
+Meeting Time TuTh 3:30PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17258
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+ASTR 3830 - Astrophysics 2 - Galactic and Extragalactic
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Shull
+
+Room DUAN G131
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ASTR 4330 - Cosmochemistry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Mojzsis
+
+Room BESC 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+ASTR 4800 - Space Science: Practice and Policy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Alden, 
+Jack Burns
+
+Room DUAN G131
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+ASTR 5150 - Introductory Plasma Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Martin Goldman
+
+Room DUAN G1B25
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+ASTR 5300 - Introduction to Magnetospheres
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Ergun
+
+Room DUAN E126
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33114
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+ASTR 5330 - Cosmochemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Mojzsis
+
+Room BESC 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+ASTR 5400 - Introduction to Fluid Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Rast
+
+Room DUAN E126
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ASTR 5550 - Observations, Data Analysis and Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Brown
+
+Room DUAN E126
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ASTR 5710 - High-Energy Astrophysics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Begelman
+
+Room DUAN E126
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+ASTR 5760 - Astrophysical Instrumentation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Nils Halverson
+
+Room DUAN E126
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ASTR 5830 - Topics in Planetary Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Mars
+Instructor Bruce Jakosky
+
+Room DUAN E126
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+ASTR 5835 - Seminar in Planetary Science
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Gravity in Our Solar System
+Notes: This is a combined section class
+Instructor Kristy Tiampo
+
+Room DUAN E126
+Meeting Time Tu 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+ASTR 6000 - Seminar in Astrophysics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Space/GB Detector
+Instructor James Green
+
+Room DUAN E126
+Meeting Time Th 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ASTR 7500 - Special Topics in Astrophysical and Planetary Sciences
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Cranmer
+
+Room DUAN D318
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

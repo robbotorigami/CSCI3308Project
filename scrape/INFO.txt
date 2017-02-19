@@ -1,0 +1,361 @@
+0
+INFO 1121 - Interactions Seminar and Studio
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Jed Brubaker, 
+Rick Robinson
+
+Room HUMN 1B80
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+INFO 1121 - Interactions Seminar and Studio
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jed Brubaker, 
+Rick Robinson
+
+Room ENVD 234A
+Meeting Time TuTh 3:30PM - 5:10PM
+Section 011-STUBoulder 16-Wk Session/Full Sem
+Class Code 33722
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+INFO 1121 - Interactions Seminar and Studio
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Jed Brubaker, 
+Rick Robinson
+
+Room ENVD 234A
+Meeting Time TuTh 5:30PM - 7:10PM
+Section 021-STUBoulder 16-Wk Session/Full Sem
+Class Code 33723
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+INFO 1201 - Computational Reasoning 1: Expression and Media Transformation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ricarose Roque
+
+Room HUMN 1B80
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33726
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+INFO 1201 - Computational Reasoning 1: Expression and Media Transformation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Mohammad Rashidujjaman Rifat, 
+Wendy Norris
+
+Room ARMR 201
+Meeting Time We 1:00PM - 1:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 33727
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+INFO 1201 - Computational Reasoning 1: Expression and Media Transformation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Mohammad Rashidujjaman Rifat, 
+Wendy Norris
+
+Room ARMR 201
+Meeting Time We 2:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33728
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+INFO 1201 - Computational Reasoning 1: Expression and Media Transformation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wendy Norris, 
+Xiaolei Huang
+
+Room ARMR 201
+Meeting Time We 3:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 33729
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+INFO 1201 - Computational Reasoning 1: Expression and Media Transformation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wendy Norris, 
+Xiaolei Huang
+
+Room ARMR 201
+Meeting Time We 4:00PM - 4:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 38613
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+INFO 1301 - Quantitative Reasoning 1: Intuitions and Evidence
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 37
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Paul
+
+Room HUMN 1B80
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+INFO 2201 - Computational Reasoning 2: Representations of Data
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Keegan
+
+Room HUMN 1B80
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33730
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+INFO 2201 - Computational Reasoning 2: Representations of Data
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room ARMR 201
+Meeting Time Mo 1:00PM - 1:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 33732
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+INFO 2201 - Computational Reasoning 2: Representations of Data
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room ARMR 201
+Meeting Time Mo 2:00PM - 2:50PM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 33733
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+INFO 2301 - Quantitative Reasoning 2: Uncertainty and Inference
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Paul
+
+Room SEE DEPT
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40975
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+INFO 3101 - History of Information, Science and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor William Aspray
+
+Room SEE DEPT
+Meeting Time MoWe 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+INFO 4602 - Information Visualization
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Danielle Szafir
+
+Room KTCH 1B71
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+INFO 4603 - Survey Research Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lecia Barker
+
+Room KTCH 1B60
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33992
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+INFO 4871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Experience Design in Ubicomp
+Notes: This is a combined section class
+Instructor Stephen Voida
+
+Room SEE DEPT
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+INFO 5602 - Information Visualization
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Danielle Szafir
+
+Room KTCH 1B71
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+INFO 5603 - Survey Research Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lecia Barker
+
+Room KTCH 1B60
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+INFO 5871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Experience Design in Ubicomp
+Notes: This is a combined section class
+Instructor Stephen Voida
+
+Room SEE DEPT
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38749
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+INFO 6101 - Theories and Concepts in Information Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey Fiesler
+
+Room ENVD 214A
+Meeting Time Fr 8:30AM - 11:00AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33734
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+INFO 6401 - Information and Ideas in Design Disciplines
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Rick Robinson
+
+Room SEE DEPT
+Meeting Time We 8:30AM - 11:00AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33736
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

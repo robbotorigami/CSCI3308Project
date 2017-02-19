@@ -1,0 +1,352 @@
+0
+MBAX 6100 - Entrepreneurship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room KOBL S127
+Meeting Time We 6:30PM - 9:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25099
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MBAX 6140 - Social Entrepreneurship in Emerging Markets
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Claire Simon
+
+Room KOBL S110
+Meeting Time Tu 2:00PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24794
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MBAX 6180 - Startup Execution
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Healey
+
+Room KOBL S127
+Meeting Time Th 6:30PM - 9:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24778
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MBAX 6190 - Projects in Entrepreneurial Companies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Bruder
+
+Room KOBL S233
+Meeting Time We 5:00PM - 7:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MBAX 6210 - Applied Financial Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathalie Moyen
+
+Room KOBL S110
+Meeting Time MoWe 2:00PM - 3:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24707
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MBAX 6210 - Applied Financial Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathalie Moyen
+
+Room KOBL S110
+Meeting Time MoWe 3:30PM - 4:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MBAX 6230 - International Financial Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Delgado
+
+Room KOBL 300
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25100
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+MBAX 6270 - Applied Derivatives
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Roberto Caccia
+
+Room KOBL 320
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+MBAX 6330 - Market Intelligence
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lawrence Williams
+
+Room KOBL S125
+Meeting Time Mo 9:30AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+MBAX 6360 - New Product Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Waddell
+
+Room KOBL 375
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35140
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+MBAX 6410 - Process Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Marco Better
+
+Room KOBL 375
+Meeting Time Tu 6:30PM - 9:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24708
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MBAX 6440 - Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Rodgers
+
+Room KOBL S110
+Meeting Time Fr 9:30AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24972
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+MBAX 6460 - Supply Chain Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Rodgers
+
+Room KOBL S110
+Meeting Time Fr 1:00PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24709
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MBAX 6540 - Consulting Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Bennett
+
+Room KOBL 220
+Meeting Time Mo 6:30PM - 9:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24710
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+MBAX 6560 - Executive Leadership
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Bennett
+
+Room KOBL S127
+Meeting Time Tu 2:00PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+MBAX 6600 - Real Estate Principles
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Kaboth
+
+Room KOBL 255
+Meeting Time Mo 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+MBAX 6620 - Real Estate Project Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Kim Koehn
+
+Room KOBL S110
+Meeting Time Th 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+MBAX 6710 - Financial Statement Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room KOBL S125
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24937
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+MBAX 6801 - Global Perspectives Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Erick Mueller
+
+Room KOBL 375
+Meeting Time We 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24999
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+MBAX 6806 - Global Perspectives
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Lori Seward
+
+Room KOBL 220
+Meeting Time Th 6:30PM - 9:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39288
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+MBAX 6815 - Sustainable Real Estate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Van Meter
+
+Room KOBL 255
+Meeting Time Tu 5:00PM - 7:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+MBAX 6843 - Supply Chain and Operations Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Rui Zhang
+
+Room KOBL 255
+Meeting Time Mo 9:30AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24973
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

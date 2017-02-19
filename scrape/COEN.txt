@@ -1,0 +1,288 @@
+0
+COEN 1236 - Precalculus Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Mink
+
+Room ECCR 211
+Meeting Time Tu 6:30PM - 8:10PM
+Section 101-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28369
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+COEN 1350 - Calculus 1 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alan Medinger
+
+Room BRKT 102
+Meeting Time Th 11:00AM - 12:40PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28299
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+COEN 1350 - Calculus 1 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alan Medinger
+
+Room BRKT 102
+Meeting Time Th 3:30PM - 5:10PM
+Section 101-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+COEN 1360 - Calculus 2 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gavin Medley
+
+Room CKRL 102
+Meeting Time Th 9:00AM - 10:40AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+COEN 1360 - Calculus 2 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Fortino Garcia
+
+Room CKRL 102
+Meeting Time Th 11:00AM - 12:40PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+COEN 1360 - Calculus 2 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wenqi Zhang
+
+Room CKRL 102
+Meeting Time Th 1:00PM - 2:40PM
+Section 101-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+COEN 1360 - Calculus 2 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Gunderman
+
+Room CKRL 102
+Meeting Time Th 3:00PM - 4:40PM
+Section 102-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+COEN 1360 - Calculus 2 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Lindsey
+
+Room CKRL 102
+Meeting Time Th 5:00PM - 6:40PM
+Section 103-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+COEN 1400 - Project Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Arielle Blum
+
+Room FLMG 33
+Meeting Time Mo 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28356
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+COEN 1400 - Project Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Arielle Blum
+
+Room FLMG 33
+Meeting Time TuTh 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+COEN 1400 - Project Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Arielle Blum
+
+Room FLMG 33
+Meeting Time Mo 11:00AM - 11:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 28357
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+COEN 1400 - Project Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Arielle Blum
+
+Room FLMG 33
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 28358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+COEN 1520 - Self Management and Leadership Principles 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Tanya Ennis
+
+Room ITLL 1B50
+Meeting Time We 3:00PM - 4:15PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 28948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+COEN 2050 - Engineering Leadership Gateway
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Dino
+
+Room ECCR 211
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+COEN 2050 - Engineering Leadership Gateway
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Dino
+
+Room DUAN G2B41
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+COEN 2350 - Calculus 3 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffery Allen
+
+Room SEE DEPT
+Meeting Time Tu 3:00PM - 4:40PM
+Section 102-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+COEN 2350 - Calculus 3 Work Group
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffery Allen
+
+Room ITLL 1B50
+Meeting Time Tu 6:30PM - 8:10PM
+Section 103-MLSBoulder 16-Wk Session/Full Sem
+Class Code 39079
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+COEN 3051 - Leadership Seminar 1: Launching the Leadership Experience
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Dino
+
+Room ECCR 211
+Meeting Time Fr 5:00PM - 5:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

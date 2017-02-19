@@ -1,0 +1,2838 @@
+0
+EBIO 1010 - Introduction to Quantitative Thinking for Biologists
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Corwin
+
+Room HUMN 125
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+EBIO 1010 - Introduction to Quantitative Thinking for Biologists
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Martin
+
+Room HUMN 125
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23828
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+EBIO 1040 - Biology: A Human Approach 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 143
+Waitlist Total 0
+MiscInfo nil
+Instructor Milford Cundiff
+
+Room RAMY C250
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17468
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+EBIO 1040 - Biology: A Human Approach 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Milford Cundiff
+
+Room RAMY N1B23
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17469
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathew Sharples
+
+Room KTCH 1B17
+Meeting Time Mo 9:00AM - 10:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathew Sharples
+
+Room KTCH 1B17
+Meeting Time Mo 11:00AM - 12:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathew Sharples
+
+Room KTCH 1B17
+Meeting Time Mo 1:00PM - 2:50PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17597
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Chock
+
+Room KTCH 1B17
+Meeting Time Tu 11:30AM - 1:20PM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17598
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Chock
+
+Room KTCH 1B17
+Meeting Time Tu 2:00PM - 3:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17599
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+EBIO 1050 - Biology: A Human Approach Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Chock
+
+Room KTCH 1B17
+Meeting Time We 10:00AM - 11:50AM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+EBIO 1210 - General Biology 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Cheryl Pinzone
+
+Room MUEN E417
+Meeting Time We 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35532
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+11
+EBIO 1220 - General Biology 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Brett Melbourne, 
+Derek Sweeney, 
+Pieter Johnson
+
+Room HUMN 1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17470
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+EBIO 1220 - General Biology 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Brett Melbourne, 
+Derek Sweeney, 
+Pieter Johnson
+
+Room HUMN 1B50
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17471
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+EBIO 1220 - General Biology 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 85
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Sweeney, 
+Kendi Davies, 
+Rebecca Safran
+
+Room MATH 100
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17472
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+EBIO 1220 - General Biology 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 210
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Sweeney, 
+Kendi Davies, 
+Rebecca Safran
+
+Room MATH 100
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17473
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+EBIO 1220 - General Biology 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 39
+Waitlist Total 0
+MiscInfo nil
+Instructor Paige Littman
+
+Room RAMY N1B23
+Meeting Time We 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35533
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+16
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Mo 8:00AM - 9:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17600
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Mo 8:00AM - 9:50AM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17601
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Mo 8:00AM - 9:50AM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17602
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Mo 8:00AM - 9:50AM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17603
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Mo 10:00AM - 11:50AM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Mo 10:00AM - 11:50AM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Mo 10:00AM - 11:50AM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Mo 10:00AM - 11:50AM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17606
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Mo 12:00PM - 1:50PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Mo 12:00PM - 1:50PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Mo 12:00PM - 1:50PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Mo 12:00PM - 1:50PM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23010
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Mo 2:00PM - 3:50PM
+Section 013-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Mo 2:00PM - 3:50PM
+Section 014-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Mo 2:00PM - 3:50PM
+Section 015-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Mo 2:00PM - 3:50PM
+Section 016-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Tu 8:00AM - 9:50AM
+Section 017-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22725
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Tu 8:00AM - 9:50AM
+Section 018-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22726
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Tu 8:00AM - 9:50AM
+Section 019-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22727
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Tu 8:00AM - 9:50AM
+Section 020-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22728
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Tu 10:00AM - 11:50AM
+Section 021-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22729
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Tu 10:00AM - 11:50AM
+Section 022-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22730
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Tu 10:00AM - 11:50AM
+Section 023-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22731
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Tu 10:00AM - 11:50AM
+Section 024-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22732
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Tu 12:00PM - 1:50PM
+Section 025-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22733
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Tu 12:00PM - 1:50PM
+Section 026-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22734
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Tu 12:00PM - 1:50PM
+Section 027-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22735
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Tu 12:00PM - 1:50PM
+Section 028-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22736
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Tu 2:00PM - 3:50PM
+Section 029-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22737
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Tu 2:00PM - 3:50PM
+Section 030-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Tu 2:00PM - 3:50PM
+Section 031-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22739
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Tu 2:00PM - 3:50PM
+Section 032-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22740
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time We 8:00AM - 9:50AM
+Section 033-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22741
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time We 8:00AM - 9:50AM
+Section 034-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22742
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time We 8:00AM - 9:50AM
+Section 035-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22743
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time We 8:00AM - 9:50AM
+Section 036-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22744
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time We 10:00AM - 11:50AM
+Section 037-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22745
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time We 10:00AM - 11:50AM
+Section 038-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22746
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time We 10:00AM - 11:50AM
+Section 039-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22747
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time We 10:00AM - 11:50AM
+Section 040-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time We 12:00PM - 1:50PM
+Section 041-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22749
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time We 12:00PM - 1:50PM
+Section 042-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22750
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time We 12:00PM - 1:50PM
+Section 043-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22751
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time We 12:00PM - 1:50PM
+Section 044-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22752
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time We 2:00PM - 3:50PM
+Section 045-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22753
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time We 2:00PM - 3:50PM
+Section 046-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22754
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time We 2:00PM - 3:50PM
+Section 047-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22755
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time We 2:00PM - 3:50PM
+Section 048-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22756
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Th 8:00AM - 9:50AM
+Section 049-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22757
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Th 8:00AM - 9:50AM
+Section 050-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22758
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Th 8:00AM - 9:50AM
+Section 051-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22759
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Th 8:00AM - 9:50AM
+Section 052-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22760
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Th 10:00AM - 11:50AM
+Section 053-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22761
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Th 10:00AM - 11:50AM
+Section 054-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22762
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Th 10:00AM - 11:50AM
+Section 055-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22763
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Th 10:00AM - 11:50AM
+Section 056-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C147
+Meeting Time Th 12:00PM - 1:50PM
+Section 057-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22765
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C148
+Meeting Time Th 12:00PM - 1:50PM
+Section 058-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22766
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C151
+Meeting Time Th 12:00PM - 1:50PM
+Section 059-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+EBIO 1240 - General Biology Laboratory 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey
+
+Room RAMY C159
+Meeting Time Th 12:00PM - 1:50PM
+Section 060-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22768
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+EBIO 1950 - Writing, Communicating, and Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Collins
+
+Room KTCH 1B20
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+EBIO 1950 - Writing, Communicating, and Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor J Carpenter
+
+Room KTCH 1B20
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Cruz
+
+Room RAMY C250
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Grietje Van Der Heide, 
+Kimberly Vincent
+
+Room KTCH 1B14
+Meeting Time Tu 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 17475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Chiara Forrester, 
+Kimberly Vincent
+
+Room KTCH 1B14
+Meeting Time Tu 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 17476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Caldwell, 
+Nathan MacArthur
+
+Room KTCH 1B14
+Meeting Time We 9:00AM - 11:50AM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 17477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Caldwell, 
+Nathan MacArthur
+
+Room KTCH 1B14
+Meeting Time We 2:00PM - 4:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 17478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+EBIO 2040 - Principles of Ecology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Chiara Forrester, 
+Grietje Van Der Heide
+
+Room KTCH 1B14
+Meeting Time Mo 2:00PM - 4:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 21892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room HUMN 1B50
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N183
+Meeting Time Mo 9:00AM - 10:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 17480
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time Mo 1:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 17481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time Mo 3:00PM - 4:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 17482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time Tu 2:00PM - 3:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 17483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time Tu 4:00PM - 5:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 17484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N183
+Meeting Time We 9:00AM - 10:50AM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 17485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time We 12:00PM - 1:50PM
+Section 017-RECBoulder 16-Wk Session/Full Sem
+Class Code 17486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time We 2:00PM - 3:50PM
+Section 018-RECBoulder 16-Wk Session/Full Sem
+Class Code 17487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+EBIO 2070 - Genetics: Molecules to Populations
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffry Mitton
+
+Room RAMY N1B75
+Meeting Time We 4:00PM - 5:50PM
+Section 019-RECBoulder 16-Wk Session/Full Sem
+Class Code 17488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+EBIO 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Doak
+
+Room RAMY N1B23
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34640
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+95
+EBIO 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Tu 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 34641
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+EBIO 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Th 8:00AM - 8:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 34642
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+EBIO 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Fr 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 34643
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 34
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room GOLD A120
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 19500
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane, 
+Silas Tittes
+
+Room RAMY N1B36
+Meeting Time Mo 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 19501
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Mo 11:00AM - 12:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 19502
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+101
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room RAMY N1B36
+Meeting Time Mo 3:00PM - 4:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 21171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 8:00AM - 9:50AM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 22207
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 10:00AM - 11:50AM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 22208
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+104
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 12:00PM - 1:50PM
+Section 017-LABBoulder 16-Wk Session/Full Sem
+Class Code 24371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 2:00PM - 3:50PM
+Section 018-LABBoulder 16-Wk Session/Full Sem
+Class Code 24373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 4:00PM - 5:50PM
+Section 019-LABBoulder 16-Wk Session/Full Sem
+Class Code 24375
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room HUMN 250
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 23692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+108
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane, 
+Silas Tittes
+
+Room RAMY N1B36
+Meeting Time Mo 9:00AM - 10:50AM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 24304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+109
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Mo 11:00AM - 12:50PM
+Section 022-LABBoulder 16-Wk Session/Full Sem
+Class Code 24305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Mo 1:00PM - 2:50PM
+Section 023-LABBoulder 16-Wk Session/Full Sem
+Class Code 24306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+111
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room RAMY N1B36
+Meeting Time Mo 3:00PM - 4:50PM
+Section 024-LABBoulder 16-Wk Session/Full Sem
+Class Code 24307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 10:00AM - 11:50AM
+Section 026-LABBoulder 16-Wk Session/Full Sem
+Class Code 24308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 12:00PM - 1:50PM
+Section 027-LABBoulder 16-Wk Session/Full Sem
+Class Code 24372
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 2:00PM - 3:50PM
+Section 028-LABBoulder 16-Wk Session/Full Sem
+Class Code 24374
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+EBIO 3080 - Evolutionary Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Emery, 
+Nolan Kane
+
+Room RAMY N1B36
+Meeting Time Tu 4:00PM - 5:50PM
+Section 029-LABBoulder 16-Wk Session/Full Sem
+Class Code 24376
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+EBIO 3270 - Ecosystem Ecology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Seastedt
+
+Room RAMY N1B23
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Steve Schmidt
+
+Room RAMY C250
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17490
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time MoWe 8:00AM - 9:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 17491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 17492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+120
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 17493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+121
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time MoWe 2:00PM - 3:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 17494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+122
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time MoWe 4:00PM - 5:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 17495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+123
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time TuTh 7:30AM - 9:20AM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 17496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+124
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 017-LABBoulder 16-Wk Session/Full Sem
+Class Code 17497
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+125
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 018-LABBoulder 16-Wk Session/Full Sem
+Class Code 17498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+126
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time TuTh 3:00PM - 4:50PM
+Section 019-LABBoulder 16-Wk Session/Full Sem
+Class Code 23069
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+127
+EBIO 3400 - Microbiology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Basey, 
+Steve Schmidt
+
+Room RAMY N1B24
+Meeting Time TuTh 5:00PM - 6:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 23070
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+EBIO 3630 - Parasitology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Valerie McKenzie
+
+Room EKLC E1B75
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 19503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+129
+EBIO 3630 - Parasitology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Valerie McKenzie
+
+Room RAMY N1B76
+Meeting Time Th 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 19504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+EBIO 3630 - Parasitology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Valerie McKenzie
+
+Room RAMY N1B76
+Meeting Time Th 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 19505
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+131
+EBIO 3850 - Animal Diversity: Invertebrates
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Jingchun Li
+
+Room RAMY N1B75
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+EBIO 3850 - Animal Diversity: Invertebrates
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo nil
+Instructor Julie Byle
+
+Room RAMY N1B36
+Meeting Time We 11:00AM - 1:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 32978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+EBIO 3850 - Animal Diversity: Invertebrates
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Julie Byle
+
+Room RAMY N1B36
+Meeting Time We 2:00PM - 4:30PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 34690
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+EBIO 3940 - Written Communication in the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Collins
+
+Room KTCH 1B20
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22636
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+135
+EBIO 3940 - Written Communication in the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor J Carpenter
+
+Room KTCH 1B20
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 19506
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+136
+EBIO 3940 - Written Communication in the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor J Carpenter
+
+Room KTCH 1B20
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 19507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+137
+EBIO 3940 - Written Communication in the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Stephanie Collins
+
+Room KTCH 1B20
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34686
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+138
+EBIO 3940 - Written Communication in the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Elizabeth Stillwaggon Swan
+
+Room KTCH 1B20
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 35089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+139
+EBIO 3980 - Seminar: Introduction to EBIO Honors
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Pieter Johnson
+
+Room RAMY N183
+Meeting Time We 4:00PM - 6:50PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17619
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+140
+EBIO 4030 - Limnology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor William Lewis
+
+Room RAMY N1B23
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+EBIO 4270 - Population Genetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Scott Taylor
+
+Room RAMY N183
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38365
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+142
+EBIO 4410 - Biometry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nathan Lemoine
+
+Room RAMY N183
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+EBIO 4410 - Biometry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nathan Lemoine
+
+Room RAMY N1B75
+Meeting Time Th 5:00PM - 6:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 34971
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+EBIO 4420 - Computational Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Samuel Flaxman
+
+Room CLRE 301
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 38360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+145
+EBIO 4420 - Computational Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Samuel Flaxman
+
+Room RAMY N183
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 38361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+EBIO 4440 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B75
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22770
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+147
+EBIO 4440 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B76
+Meeting Time Tu 9:30AM - 12:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+148
+EBIO 4440 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B76
+Meeting Time Tu 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 23628
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+149
+EBIO 4460 - Special Topics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fish Biology
+Notes: This is a combined section class
+Instructor David Stock
+
+Room RAMY N1B31
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23632
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+150
+EBIO 4460 - Special Topics
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fish Biology
+Notes: This is a combined section class
+Instructor David Stock
+
+Room RAMY N1B76
+Meeting Time We 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23633
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+151
+EBIO 4500 - Plant Biodiversity and Evolution
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Mayer
+
+Room RAMY N183
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22772
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+EBIO 4500 - Plant Biodiversity and Evolution
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Mayer
+
+Room RAMY C231
+Meeting Time Tu 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22773
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+153
+EBIO 4500 - Plant Biodiversity and Evolution
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Mayer
+
+Room RAMY C231
+Meeting Time We 9:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 22774
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+154
+EBIO 4800 - Critical Thinking in Biology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Avian Biology: Ecol/Evol/Behav
+Notes: This is a combined section class
+Instructor Alexander Cruz
+
+Room RAMY N183
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23688
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+155
+EBIO 4980 - Seminar: EBIO Honors Thesis
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Pieter Johnson
+
+Room RAMY N183
+Meeting Time We 4:00PM - 6:50PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17620
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+156
+EBIO 5000 - EBIO Colloquia
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Deane Bowers
+
+Room RAMY N1B23
+Meeting Time WeFr 3:30PM - 5:30PM
+Section 801-OTHBoulder 16-Wk Session/Full Sem
+Class Code 17618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+EBIO 5030 - Limnology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor William Lewis
+
+Room RAMY N1B23
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+158
+EBIO 5270 - Population Genetics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Scott Taylor
+
+Room RAMY N183
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38366
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+EBIO 5410 - Biometry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nathan Lemoine
+
+Room RAMY N183
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+160
+EBIO 5410 - Biometry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nathan Lemoine
+
+Room RAMY N1B75
+Meeting Time Th 5:00PM - 6:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 34988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+161
+EBIO 5420 - Computational Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Samuel Flaxman
+
+Room CLRE 301
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 38362
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+162
+EBIO 5420 - Computational Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Samuel Flaxman
+
+Room RAMY N183
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 38363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+163
+EBIO 5440 - Animal Developmental Diversity
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B75
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24568
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+164
+EBIO 5440 - Animal Developmental Diversity
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B76
+Meeting Time Tu 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 24569
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+165
+EBIO 5460 - Special Topics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Pedagogy
+Notes: This is a combined section class
+Instructor Carol Wessman
+
+Room HLMS 263
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23291
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+166
+EBIO 5460 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Plant-Microbe Interactions
+Instructor Noah Fierer
+
+Room RAMY N183
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39774
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+167
+EBIO 5460 - Special Topics
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Multivariate Stats Biology
+Instructor Katharine Suding
+
+Room RAMY N183
+Meeting Time We 2:00PM - 4:00PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 41020
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+168
+EBIO 5460 - Special Topics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fish Biology
+Notes: This is a combined section class
+Instructor David Stock
+
+Room RAMY N1B31
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+169
+EBIO 5460 - Special Topics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fish Biology
+Notes: This is a combined section class
+Instructor David Stock
+
+Room RAMY N1B76
+Meeting Time We 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23635
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+170
+EBIO 5800 - Critical Thinking in Biology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Avian Biology: Ecol/Evol/Behav
+Notes: This is a combined section class
+Instructor Alexander Cruz
+
+Room RAMY N183
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23689
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+171
+EBIO 6200 - Seminar in Population Biology
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Presentations in EBIO
+Instructor Andrew Martin
+
+Room SEE DEPT
+Meeting Time We 12:00PM - 12:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+EBIO 6300 - Seminar in Organismic Biology
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Evolutionary Genomics
+Instructor Nolan Kane, 
+Rebecca Safran, 
+Samuel Flaxman, 
+Scott Taylor
+
+Room SEE DEPT
+Meeting Time Th 9:00AM - 10:00AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+173
+EBIO 6300 - Seminar in Organismic Biology
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Diversity Ecol & Evol Biology
+Instructor Julian Resasco, 
+Kendi Davies, 
+Mallory Choudoir, 
+Scott Taylor
+
+Room RAMY N183
+Meeting Time Mo 12:00PM - 12:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

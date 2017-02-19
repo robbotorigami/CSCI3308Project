@@ -1,0 +1,5063 @@
+0
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nabilah Rontu Carlon
+
+Room CHEM 140
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 15893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey Christopher
+
+Room EKLC M1B50
+Meeting Time Mo 1:00PM - 3:50PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 23941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Davis
+
+Room EKLC M1B60
+Meeting Time Mo 1:00PM - 3:50PM
+Section 112-LABBoulder 16-Wk Session/Full Sem
+Class Code 23942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey Christopher
+
+Room EKLC M1B50
+Meeting Time Mo 4:00PM - 6:50PM
+Section 114-LABBoulder 16-Wk Session/Full Sem
+Class Code 15894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Cline
+
+Room EKLC M1B60
+Meeting Time Mo 4:00PM - 6:50PM
+Section 115-LABBoulder 16-Wk Session/Full Sem
+Class Code 22623
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nabilah Rontu Carlon
+
+Room EKLC M1B50
+Meeting Time Tu 8:00AM - 10:50AM
+Section 121-LABBoulder 16-Wk Session/Full Sem
+Class Code 15895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Hergert
+
+Room EKLC M1B50
+Meeting Time Tu 11:00AM - 1:50PM
+Section 131-LABBoulder 16-Wk Session/Full Sem
+Class Code 15896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Weintraub
+
+Room EKLC M1B60
+Meeting Time Tu 11:00AM - 1:50PM
+Section 132-LABBoulder 16-Wk Session/Full Sem
+Class Code 23172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Hergert
+
+Room EKLC M1B50
+Meeting Time Tu 2:00PM - 4:50PM
+Section 134-LABBoulder 16-Wk Session/Full Sem
+Class Code 21927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jocelyn Campos-Enriquez
+
+Room EKLC M1B60
+Meeting Time Tu 2:00PM - 4:50PM
+Section 135-LABBoulder 16-Wk Session/Full Sem
+Class Code 15897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jocelyn Campos-Enriquez
+
+Room EKLC M1B60
+Meeting Time We 1:00PM - 3:50PM
+Section 151-LABBoulder 16-Wk Session/Full Sem
+Class Code 23943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Weintraub
+
+Room EKLC M1B50
+Meeting Time We 1:00PM - 3:50PM
+Section 152-LABBoulder 16-Wk Session/Full Sem
+Class Code 33367
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey Christopher
+
+Room EKLC M1B50
+Meeting Time We 4:00PM - 6:50PM
+Section 154-LABBoulder 16-Wk Session/Full Sem
+Class Code 22625
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jocelyn Campos-Enriquez
+
+Room EKLC M1B50
+Meeting Time Th 8:00AM - 10:50AM
+Section 161-LABBoulder 16-Wk Session/Full Sem
+Class Code 15898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+CHEM 1021 - Introductory Chemistry
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Hergert
+
+Room EKLC M1B50
+Meeting Time Th 11:00AM - 1:50PM
+Section 171-LABBoulder 16-Wk Session/Full Sem
+Class Code 15899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+CHEM 1031 - Environmental Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Plath
+
+Room EKLC E1B50
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+CHEM 1031 - Environmental Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Davis
+
+Room EKLC M1B60
+Meeting Time Th 1:00PM - 3:50PM
+Section 074-LABBoulder 16-Wk Session/Full Sem
+Class Code 23209
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CHEM 1031 - Environmental Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Davis
+
+Room EKLC M1B60
+Meeting Time Fr 12:00PM - 2:50PM
+Section 091-LABBoulder 16-Wk Session/Full Sem
+Class Code 15930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hendrickson
+
+Room CHEM 142
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16257
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shafer Soars
+
+Room EKLC M2B26
+Meeting Time Mo 3:00PM - 3:50PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 16266
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Gilligan
+
+Room EKLC M2B26
+Meeting Time Mo 4:00PM - 4:50PM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 22630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Gilligan
+
+Room EKLC M2B26
+Meeting Time Tu 8:00AM - 8:50AM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 16278
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Young
+
+Room EKLC M2B26
+Meeting Time Tu 2:00PM - 2:50PM
+Section 131-RECBoulder 16-Wk Session/Full Sem
+Class Code 16296
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keaten Kappes
+
+Room EKLC M2B26
+Meeting Time We 1:00PM - 1:50PM
+Section 151-RECBoulder 16-Wk Session/Full Sem
+Class Code 16336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shafer Soars
+
+Room EKLC M2B26
+Meeting Time We 3:00PM - 3:50PM
+Section 152-RECBoulder 16-Wk Session/Full Sem
+Class Code 16407
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Devin Tauber
+
+Room EKLC M2B26
+Meeting Time Th 12:00PM - 12:50PM
+Section 171-RECBoulder 16-Wk Session/Full Sem
+Class Code 16409
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Devin Tauber
+
+Room EKLC M2B26
+Meeting Time Th 5:00PM - 5:50PM
+Section 172-RECBoulder 16-Wk Session/Full Sem
+Class Code 23213
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Mitchell
+
+Room EKLC M2B26
+Meeting Time Fr 3:00PM - 3:50PM
+Section 191-RECBoulder 16-Wk Session/Full Sem
+Class Code 16412
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hendrickson
+
+Room CHEM 140
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 22006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Foster
+
+Room EKLC M2B30
+Meeting Time Mo 2:00PM - 2:50PM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 22105
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirong Bai
+
+Room EKLC M2B30
+Meeting Time Mo 3:00PM - 3:50PM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 16268
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirong Bai
+
+Room EKLC M2B30
+Meeting Time Mo 4:00PM - 4:50PM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 16272
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Hyungu Kang
+
+Room EKLC M2B30
+Meeting Time Mo 5:00PM - 5:50PM
+Section 214-RECBoulder 16-Wk Session/Full Sem
+Class Code 16279
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jona Koka
+
+Room EKLC M2B26
+Meeting Time Mo 2:00PM - 2:50PM
+Section 215-RECBoulder 16-Wk Session/Full Sem
+Class Code 22632
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Marton
+
+Room EKLC M2B26
+Meeting Time Mo 5:00PM - 5:50PM
+Section 216-RECBoulder 16-Wk Session/Full Sem
+Class Code 23003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Marium Fernanders
+
+Room EKLC M2B40
+Meeting Time Mo 5:00PM - 5:50PM
+Section 217-RECBoulder 16-Wk Session/Full Sem
+Class Code 40901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Young
+
+Room EKLC M2B30
+Meeting Time Tu 8:00AM - 8:50AM
+Section 221-RECBoulder 16-Wk Session/Full Sem
+Class Code 16285
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Decker
+
+Room EKLC M2B30
+Meeting Time Tu 12:00PM - 12:50PM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 21950
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Decker
+
+Room EKLC M2B30
+Meeting Time Tu 1:00PM - 1:50PM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 16302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hinds
+
+Room EKLC M2B30
+Meeting Time Tu 2:00PM - 2:50PM
+Section 233-RECBoulder 16-Wk Session/Full Sem
+Class Code 16335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hinds
+
+Room EKLC M2B30
+Meeting Time Tu 3:00PM - 3:50PM
+Section 234-RECBoulder 16-Wk Session/Full Sem
+Class Code 22633
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marium Fernanders
+
+Room EKLC M2B30
+Meeting Time We 1:00PM - 1:50PM
+Section 251-RECBoulder 16-Wk Session/Full Sem
+Class Code 22153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marium Fernanders
+
+Room EKLC M2B30
+Meeting Time We 2:00PM - 2:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 16405
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Foster
+
+Room EKLC M2B30
+Meeting Time We 3:00PM - 3:50PM
+Section 253-RECBoulder 16-Wk Session/Full Sem
+Class Code 16406
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Otto Kletzien
+
+Room EKLC M2B26
+Meeting Time We 2:00PM - 2:50PM
+Section 255-RECBoulder 16-Wk Session/Full Sem
+Class Code 22634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marium Fernanders
+
+Room EKLC M2B30
+Meeting Time Th 8:00AM - 8:50AM
+Section 261-RECBoulder 16-Wk Session/Full Sem
+Class Code 22155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Otto Kletzien
+
+Room EKLC M2B30
+Meeting Time Th 1:00PM - 1:50PM
+Section 271-RECBoulder 16-Wk Session/Full Sem
+Class Code 22156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Moshe Gordon
+
+Room EKLC M2B30
+Meeting Time Th 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 16410
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jona Koka
+
+Room EKLC M2B30
+Meeting Time Fr 1:00PM - 1:50PM
+Section 291-RECBoulder 16-Wk Session/Full Sem
+Class Code 16413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keaten Kappes
+
+Room EKLC M2B30
+Meeting Time Fr 2:00PM - 2:50PM
+Section 292-RECBoulder 16-Wk Session/Full Sem
+Class Code 22361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Ebmeier
+
+Room EKLC E1B20
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 24603
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Hyungu Kang
+
+Room EKLC M2B30
+Meeting Time We 5:00PM - 5:50PM
+Section 354-RECBoulder 16-Wk Session/Full Sem
+Class Code 24604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Cline
+
+Room EKLC M2B26
+Meeting Time Th 1:00PM - 1:50PM
+Section 371-RECBoulder 16-Wk Session/Full Sem
+Class Code 40958
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Moshe Gordon
+
+Room EKLC M2B30
+Meeting Time Th 3:00PM - 3:50PM
+Section 373-RECBoulder 16-Wk Session/Full Sem
+Class Code 24605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Mitchell
+
+Room EKLC M2B30
+Meeting Time Th 5:00PM - 5:50PM
+Section 374-RECBoulder 16-Wk Session/Full Sem
+Class Code 24606
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Bakker-Arkema
+
+Room EKLC M2B30
+Meeting Time Fr 3:00PM - 3:50PM
+Section 393-RECBoulder 16-Wk Session/Full Sem
+Class Code 24607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+CHEM 1113 - General Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B30
+Meeting Time Fr 5:00PM - 5:50PM
+Section 394-RECBoulder 16-Wk Session/Full Sem
+Class Code 24608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Young
+
+Room EKLC M173
+Meeting Time Mo 12:00PM - 2:30PM
+Section 111-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16414
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keaten Kappes
+
+Room EKLC M172
+Meeting Time Mo 12:00PM - 2:30PM
+Section 112-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16439
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Young
+
+Room EKLC M173
+Meeting Time Mo 3:00PM - 5:30PM
+Section 114-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22637
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hinds
+
+Room EKLC M173
+Meeting Time Tu 8:00AM - 10:30AM
+Section 121-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16417
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hyungu Kang
+
+Room EKLC M173
+Meeting Time Tu 2:00PM - 4:30PM
+Section 134-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16424
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shafer Soars
+
+Room EKLC M173
+Meeting Time We 12:00PM - 2:30PM
+Section 151-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16431
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jona Koka
+
+Room EKLC M175
+Meeting Time We 12:00PM - 2:30PM
+Section 152-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16442
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Devin Tauber
+
+Room EKLC M173
+Meeting Time We 3:00PM - 5:30PM
+Section 154-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16437
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Marton
+
+Room EKLC M173
+Meeting Time Th 8:00AM - 10:30AM
+Section 161-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M127
+Meeting Time Mo 12:00PM - 2:30PM
+Section 211-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16415
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Shafer Soars
+
+Room EKLC M175
+Meeting Time Mo 12:00PM - 2:30PM
+Section 212-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23219
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Bakker-Arkema
+
+Room EKLC M127
+Meeting Time Mo 3:00PM - 5:30PM
+Section 214-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16416
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Callum Douglass
+
+Room EKLC M175
+Meeting Time Mo 3:00PM - 5:30PM
+Section 215-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23220
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Decker
+
+Room EKLC M127
+Meeting Time Tu 8:00AM - 10:30AM
+Section 221-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16418
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+71
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M175
+Meeting Time Tu 8:00AM - 10:30AM
+Section 222-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jona Koka
+
+Room EKLC M127
+Meeting Time Tu 11:00AM - 1:30PM
+Section 231-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16421
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hinds
+
+Room EKLC M173
+Meeting Time Tu 11:00AM - 1:30PM
+Section 232-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Foster
+
+Room EKLC M175
+Meeting Time Tu 11:00AM - 1:30PM
+Section 233-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23225
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Gilligan
+
+Room EKLC M127
+Meeting Time Tu 2:00PM - 4:30PM
+Section 234-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16427
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Foster
+
+Room EKLC M175
+Meeting Time Tu 2:00PM - 4:30PM
+Section 235-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23226
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirong Bai
+
+Room EKLC M127
+Meeting Time We 12:00PM - 2:30PM
+Section 251-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16429
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirong Bai
+
+Room EKLC M127
+Meeting Time We 3:00PM - 5:30PM
+Section 254-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Otto Kletzien
+
+Room EKLC M175
+Meeting Time We 3:00PM - 5:30PM
+Section 255-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23228
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Mitchell
+
+Room EKLC M127
+Meeting Time Th 8:00AM - 10:30AM
+Section 261-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Mitchell
+
+Room EKLC M127
+Meeting Time Th 11:00AM - 1:30PM
+Section 271-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Otto Kletzien
+
+Room EKLC M127
+Meeting Time Th 2:00PM - 4:30PM
+Section 274-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Devin Tauber
+
+Room EKLC M173
+Meeting Time Th 2:00PM - 4:30PM
+Section 275-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22782
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hyungu Kang
+
+Room EKLC M175
+Meeting Time Fr 1:00PM - 3:30PM
+Section 291-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M173
+Meeting Time Fr 1:00PM - 3:30PM
+Section 292-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keaten Kappes
+
+Room EKLC M172
+Meeting Time Mo 3:00PM - 5:30PM
+Section 314-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M172
+Meeting Time Tu 8:00AM - 10:30AM
+Section 321-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23224
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Decker
+
+Room EKLC M172
+Meeting Time Tu 2:00PM - 4:30PM
+Section 334-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Moshe Gordon
+
+Room EKLC M173
+Meeting Time Th 11:00AM - 1:30PM
+Section 371-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+CHEM 1114 - Laboratory in General Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Gilligan
+
+Room EKLC M175
+Meeting Time Th 2:00PM - 4:30PM
+Section 374-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22780
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room CHEM 140
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Myers
+
+Room EKLC M2B26
+Meeting Time Mo 12:00PM - 12:50PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 17920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Curtis
+
+Room EKLC M2B26
+Meeting Time Mo 1:00PM - 1:50PM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 19040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Dean
+
+Room EKLC M2B26
+Meeting Time Tu 12:00PM - 12:50PM
+Section 131-RECBoulder 16-Wk Session/Full Sem
+Class Code 19041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marissa Martinez
+
+Room EKLC M2B26
+Meeting Time We 12:00PM - 12:50PM
+Section 151-RECBoulder 16-Wk Session/Full Sem
+Class Code 19042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Srijit Mukherjee
+
+Room EKLC M2B30
+Meeting Time We 12:00PM - 12:50PM
+Section 152-RECBoulder 16-Wk Session/Full Sem
+Class Code 19043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B26
+Meeting Time We 4:00PM - 4:50PM
+Section 153-RECBoulder 16-Wk Session/Full Sem
+Class Code 19044
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B30
+Meeting Time We 4:00PM - 4:50PM
+Section 154-RECBoulder 16-Wk Session/Full Sem
+Class Code 22647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Gong
+
+Room EKLC M2B26
+Meeting Time Th 9:00AM - 9:50AM
+Section 161-RECBoulder 16-Wk Session/Full Sem
+Class Code 19045
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhou
+
+Room EKLC M2B30
+Meeting Time Th 12:00PM - 12:50PM
+Section 171-RECBoulder 16-Wk Session/Full Sem
+Class Code 19046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B26
+Meeting Time Th 1:00PM - 1:50PM
+Section 172-RECBoulder 16-Wk Session/Full Sem
+Class Code 19047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B26
+Meeting Time Th 4:00PM - 4:50PM
+Section 173-RECBoulder 16-Wk Session/Full Sem
+Class Code 22648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B40
+Meeting Time Th 5:00PM - 5:50PM
+Section 174-RECBoulder 16-Wk Session/Full Sem
+Class Code 21795
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+104
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B26
+Meeting Time Fr 1:00PM - 1:50PM
+Section 191-RECBoulder 16-Wk Session/Full Sem
+Class Code 19400
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B40
+Meeting Time Fr 3:00PM - 3:50PM
+Section 192-RECBoulder 16-Wk Session/Full Sem
+Class Code 22358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+106
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room CHEM 140
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 17922
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+107
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wyatt Zagorec-Marks
+
+Room EKLC M2B30
+Meeting Time Mo 12:00PM - 12:50PM
+Section 211-RECBoulder 16-Wk Session/Full Sem
+Class Code 19301
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Myers
+
+Room EKLC M2B30
+Meeting Time Mo 1:00PM - 1:50PM
+Section 212-RECBoulder 16-Wk Session/Full Sem
+Class Code 19302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Dean
+
+Room EKLC M2B40
+Meeting Time Mo 4:00PM - 4:50PM
+Section 213-RECBoulder 16-Wk Session/Full Sem
+Class Code 22359
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Srijit Mukherjee
+
+Room EKLC M2B40
+Meeting Time Mo 2:00PM - 2:50PM
+Section 214-RECBoulder 16-Wk Session/Full Sem
+Class Code 19308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eunsol Park
+
+Room EKLC M2B40
+Meeting Time Mo 3:00PM - 3:50PM
+Section 215-RECBoulder 16-Wk Session/Full Sem
+Class Code 23526
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Haleigh Monaco
+
+Room EKLC M2B26
+Meeting Time Tu 9:00AM - 9:50AM
+Section 221-RECBoulder 16-Wk Session/Full Sem
+Class Code 19303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+113
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashutosh Gupta
+
+Room EKLC M2B26
+Meeting Time Tu 3:00PM - 3:50PM
+Section 231-RECBoulder 16-Wk Session/Full Sem
+Class Code 19304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Liang-Chun Lin
+
+Room EKLC M2B26
+Meeting Time Tu 5:00PM - 5:50PM
+Section 232-RECBoulder 16-Wk Session/Full Sem
+Class Code 22360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chengpu Zhu
+
+Room EKLC M2B40
+Meeting Time We 1:00PM - 1:50PM
+Section 251-RECBoulder 16-Wk Session/Full Sem
+Class Code 19305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yisrael Lattke
+
+Room EKLC M2B40
+Meeting Time We 4:00PM - 4:50PM
+Section 252-RECBoulder 16-Wk Session/Full Sem
+Class Code 19306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Yisrael Lattke
+
+Room EKLC M2B40
+Meeting Time We 5:00PM - 5:50PM
+Section 253-RECBoulder 16-Wk Session/Full Sem
+Class Code 19307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhou
+
+Room EKLC M2B40
+Meeting Time Th 1:00PM - 1:50PM
+Section 271-RECBoulder 16-Wk Session/Full Sem
+Class Code 19309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shuichi Ushijima
+
+Room EKLC M2B40
+Meeting Time Th 2:00PM - 2:50PM
+Section 272-RECBoulder 16-Wk Session/Full Sem
+Class Code 19310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+120
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Liang-Chun Lin
+
+Room EKLC M2B30
+Meeting Time Th 4:00PM - 4:50PM
+Section 273-RECBoulder 16-Wk Session/Full Sem
+Class Code 19311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+121
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Scappaticci
+
+Room EKLC M2B40
+Meeting Time Fr 1:00PM - 1:50PM
+Section 291-RECBoulder 16-Wk Session/Full Sem
+Class Code 19313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+122
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Scappaticci
+
+Room EKLC M2B40
+Meeting Time Fr 2:00PM - 2:50PM
+Section 292-RECBoulder 16-Wk Session/Full Sem
+Class Code 19314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room CHEM 142
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 22459
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+124
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashutosh Gupta
+
+Room EKLC M2B40
+Meeting Time Mo 12:00PM - 12:50PM
+Section 311-RECBoulder 16-Wk Session/Full Sem
+Class Code 22460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+125
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wyatt Zagorec-Marks
+
+Room EKLC M2B40
+Meeting Time Mo 1:00PM - 1:50PM
+Section 312-RECBoulder 16-Wk Session/Full Sem
+Class Code 22660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+126
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Haleigh Monaco
+
+Room EKLC M2B30
+Meeting Time Tu 4:00PM - 4:50PM
+Section 331-RECBoulder 16-Wk Session/Full Sem
+Class Code 22661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+127
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Marissa Martinez
+
+Room EKLC M2B30
+Meeting Time Tu 5:00PM - 5:50PM
+Section 332-RECBoulder 16-Wk Session/Full Sem
+Class Code 22662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chengpu Zhu
+
+Room EKLC M2B40
+Meeting Time We 12:00PM - 12:50PM
+Section 351-RECBoulder 16-Wk Session/Full Sem
+Class Code 22663
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+129
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Beimborn
+
+Room EKLC M2B26
+Meeting Time We 5:00PM - 5:50PM
+Section 352-RECBoulder 16-Wk Session/Full Sem
+Class Code 22664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+130
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Curtis
+
+Room EKLC M2B30
+Meeting Time Th 9:00AM - 9:50AM
+Section 361-RECBoulder 16-Wk Session/Full Sem
+Class Code 22665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+131
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shuichi Ushijima
+
+Room EKLC M2B40
+Meeting Time Th 3:00PM - 3:50PM
+Section 371-RECBoulder 16-Wk Session/Full Sem
+Class Code 22666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+132
+CHEM 1133 - General Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eunsol Park
+
+Room EKLC M2B26
+Meeting Time Fr 2:00PM - 2:50PM
+Section 391-RECBoulder 16-Wk Session/Full Sem
+Class Code 22667
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Haleigh Monaco
+
+Room EKLC M126
+Meeting Time Mo 12:00PM - 2:30PM
+Section 111-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19376
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+134
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Curtis
+
+Room EKLC M126
+Meeting Time Mo 3:00PM - 5:30PM
+Section 114-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19377
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Scappaticci
+
+Room EKLC M126
+Meeting Time Tu 8:00AM - 10:30AM
+Section 121-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19378
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+136
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Myers
+
+Room EKLC M174
+Meeting Time Tu 8:00AM - 10:30AM
+Section 122-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23234
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+137
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Haleigh Monaco
+
+Room EKLC M126
+Meeting Time Tu 11:00AM - 1:30PM
+Section 131-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19379
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+138
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Liang-Chun Lin
+
+Room EKLC M174
+Meeting Time Tu 11:00AM - 1:30PM
+Section 132-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23235
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Srijit Mukherjee
+
+Room EKLC M126
+Meeting Time Tu 2:00PM - 4:30PM
+Section 134-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+140
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shuichi Ushijima
+
+Room EKLC M126
+Meeting Time We 12:00PM - 2:30PM
+Section 151-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shuichi Ushijima
+
+Room EKLC M126
+Meeting Time We 3:00PM - 5:30PM
+Section 154-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+142
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Dean
+
+Room EKLC M174
+Meeting Time We 3:00PM - 5:30PM
+Section 155-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23238
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+143
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Beimborn
+
+Room EKLC M126
+Meeting Time Th 8:00AM - 10:30AM
+Section 161-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+144
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Myers
+
+Room EKLC M172
+Meeting Time Th 8:00AM - 10:30AM
+Section 162-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23240
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+145
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yisrael Lattke
+
+Room EKLC M126
+Meeting Time Th 11:00AM - 1:30PM
+Section 171-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19383
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+146
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chengpu Zhu
+
+Room EKLC M126
+Meeting Time Th 2:00PM - 4:30PM
+Section 174-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+147
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Marissa Martinez
+
+Room EKLC M124
+Meeting Time Mo 12:00PM - 2:30PM
+Section 211-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22957
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashutosh Gupta
+
+Room EKLC M124
+Meeting Time Mo 3:00PM - 5:30PM
+Section 214-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19387
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+149
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Srijit Mukherjee
+
+Room EKLC M174
+Meeting Time Mo 3:00PM - 5:30PM
+Section 215-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22696
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marissa Martinez
+
+Room EKLC M124
+Meeting Time Tu 8:00AM - 10:30AM
+Section 221-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19388
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+151
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eunsol Park
+
+Room EKLC M124
+Meeting Time Tu 11:00AM - 1:30PM
+Section 231-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19389
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+152
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Liang-Chun Lin
+
+Room EKLC M124
+Meeting Time Tu 2:00PM - 4:30PM
+Section 234-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22367
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+153
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhou
+
+Room EKLC M124
+Meeting Time We 12:00PM - 2:30PM
+Section 251-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19390
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+154
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wyatt Zagorec-Marks
+
+Room EKLC M174
+Meeting Time We 12:00PM - 2:30PM
+Section 252-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23243
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+155
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M172
+Meeting Time We 12:00PM - 2:30PM
+Section 253-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23244
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+156
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhou
+
+Room EKLC M124
+Meeting Time We 3:00PM - 5:30PM
+Section 254-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19391
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+157
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M124
+Meeting Time Th 8:00AM - 10:30AM
+Section 261-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19394
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+158
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M174
+Meeting Time Th 8:00AM - 10:30AM
+Section 262-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19395
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+159
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Gong
+
+Room EKLC M124
+Meeting Time Th 11:00AM - 1:30PM
+Section 271-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19396
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+160
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Chengpu Zhu
+
+Room EKLC M174
+Meeting Time Th 11:00AM - 1:30PM
+Section 272-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19397
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+161
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yisrael Lattke
+
+Room EKLC M124
+Meeting Time Th 2:00PM - 4:30PM
+Section 274-MLSBoulder 16-Wk Session/Full Sem
+Class Code 19398
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+162
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Scappaticci
+
+Room EKLC M125
+Meeting Time Mo 12:00PM - 2:30PM
+Section 311-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+163
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M174
+Meeting Time Mo 12:00PM - 2:30PM
+Section 312-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+164
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Wyatt Zagorec-Marks
+
+Room EKLC M125
+Meeting Time Mo 3:00PM - 5:30PM
+Section 314-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+165
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Dean
+
+Room EKLC M125
+Meeting Time Tu 2:00PM - 4:30PM
+Section 334-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22700
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+166
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eunsol Park
+
+Room EKLC M174
+Meeting Time Tu 2:00PM - 4:30PM
+Section 335-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+167
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M125
+Meeting Time We 12:00PM - 2:30PM
+Section 351-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+168
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashutosh Gupta
+
+Room EKLC M125
+Meeting Time We 3:00PM - 5:30PM
+Section 354-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22702
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+169
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M172
+Meeting Time We 3:00PM - 5:30PM
+Section 355-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+170
+CHEM 1134 - Laboratory in General Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Curtis
+
+Room EKLC M125
+Meeting Time Th 2:00PM - 4:30PM
+Section 374-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22703
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+171
+CHEM 1221 - Engineering General Chemistry Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tri Le
+
+Room EKLC M275
+Meeting Time Tu 8:00AM - 10:30AM
+Section 121-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16465
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+CHEM 1221 - Engineering General Chemistry Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tri Le
+
+Room EKLC M275
+Meeting Time Tu 11:00AM - 1:30PM
+Section 131-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+173
+CHEM 1221 - Engineering General Chemistry Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jasper Cook
+
+Room EKLC M275
+Meeting Time Tu 2:00PM - 4:30PM
+Section 134-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23251
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+174
+CHEM 1221 - Engineering General Chemistry Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jasper Cook
+
+Room EKLC M275
+Meeting Time Th 9:00AM - 11:30AM
+Section 161-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+175
+CHEM 1221 - Engineering General Chemistry Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M275
+Meeting Time Th 12:00PM - 2:30PM
+Section 171-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16462
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+176
+CHEM 3151 - Air Chemistry and Pollution
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Tolbert
+
+Room EKLC M203
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+177
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacqueline Richardson
+
+Room EKLC E1B20
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16472
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+178
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Kamps
+
+Room EKLC M2B26
+Meeting Time We 8:00AM - 8:50AM
+Section 130-RECBoulder 16-Wk Session/Full Sem
+Class Code 22639
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+179
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B26
+Meeting Time Th 10:00AM - 10:50AM
+Section 142-RECBoulder 16-Wk Session/Full Sem
+Class Code 16733
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+180
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B26
+Meeting Time Th 11:00AM - 11:50AM
+Section 143-RECBoulder 16-Wk Session/Full Sem
+Class Code 16737
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+181
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B26
+Meeting Time Fr 12:00PM - 12:50PM
+Section 154-RECBoulder 16-Wk Session/Full Sem
+Class Code 16736
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+182
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Kamps
+
+Room HLMS 185
+Meeting Time We 2:00PM - 2:50PM
+Section 160-RECBoulder 16-Wk Session/Full Sem
+Class Code 22148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+183
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Harrington
+
+Room CHEM 142
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 16735
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+184
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Martin
+
+Room EKLC M2B36
+Meeting Time We 1:00PM - 1:50PM
+Section 235-RECBoulder 16-Wk Session/Full Sem
+Class Code 22149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+185
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Farmer
+
+Room EKLC M2B36
+Meeting Time We 3:00PM - 3:50PM
+Section 237-RECBoulder 16-Wk Session/Full Sem
+Class Code 22640
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+186
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Miller
+
+Room EKLC M2B36
+Meeting Time We 5:00PM - 5:50PM
+Section 239-RECBoulder 16-Wk Session/Full Sem
+Class Code 22339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+187
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Martin
+
+Room EKLC M2B36
+Meeting Time Th 8:00AM - 8:50AM
+Section 240-RECBoulder 16-Wk Session/Full Sem
+Class Code 16738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+188
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Scarbrough
+
+Room EKLC M2B36
+Meeting Time Th 1:00PM - 1:50PM
+Section 245-RECBoulder 16-Wk Session/Full Sem
+Class Code 16734
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+189
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Farmer
+
+Room EKLC M2B36
+Meeting Time Th 4:00PM - 4:50PM
+Section 248-RECBoulder 16-Wk Session/Full Sem
+Class Code 22641
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+190
+CHEM 3311 - Organic Chemistry 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Miller
+
+Room EKLC M2B36
+Meeting Time Fr 1:00PM - 1:50PM
+Section 255-RECBoulder 16-Wk Session/Full Sem
+Class Code 22642
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+191
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Martin
+
+Room EKLC M1B25
+Meeting Time Mo 1:00PM - 3:50PM
+Section 101-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16741
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+192
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Kamps
+
+Room EKLC M1B25
+Meeting Time Mo 5:00PM - 7:50PM
+Section 111-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16742
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+193
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Yaohao Li
+
+Room EKLC M1B35
+Meeting Time Mo 5:00PM - 7:50PM
+Section 112-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16743
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+194
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Martin
+
+Room EKLC M1B35
+Meeting Time Tu 1:00PM - 3:50PM
+Section 132-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21976
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+195
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Kamps
+
+Room EKLC M1B35
+Meeting Time We 5:00PM - 7:50PM
+Section 152-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23274
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+196
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Miller
+
+Room EKLC M1B35
+Meeting Time Th 1:00PM - 3:50PM
+Section 172-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16745
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+197
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Miller
+
+Room EKLC M1B35
+Meeting Time Th 5:00PM - 7:50PM
+Section 182-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16746
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+198
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Duk Kyu Yi
+
+Room EKLC M1B65
+Meeting Time Th 5:00PM - 7:50PM
+Section 183-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16744
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+199
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ortiz
+
+Room EKLC M1B35
+Meeting Time Fr 1:00PM - 3:50PM
+Section 192-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22643
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+200
+CHEM 3321 - Laboratory in Organic Chemistry 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Duk Kyu Yi
+
+Room EKLC M1B65
+Meeting Time Fr 1:00PM - 3:50PM
+Section 193-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22644
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+201
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Wei Zhang
+
+Room CHEM 142
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16473
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+202
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Nordeen
+
+Room EKLC M2B40
+Meeting Time We 8:00AM - 8:50AM
+Section 130-RECBoulder 16-Wk Session/Full Sem
+Class Code 16563
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+203
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B40
+Meeting Time We 2:00PM - 2:50PM
+Section 136-RECBoulder 16-Wk Session/Full Sem
+Class Code 16475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+204
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Dayan Wei
+
+Room EKLC M2B40
+Meeting Time We 3:00PM - 3:50PM
+Section 137-RECBoulder 16-Wk Session/Full Sem
+Class Code 22150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+205
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B40
+Meeting Time Th 8:00AM - 8:50AM
+Section 140-RECBoulder 16-Wk Session/Full Sem
+Class Code 16474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+206
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo nil
+Instructor Adam Csakai
+
+Room EKLC M2B40
+Meeting Time Th 9:00AM - 9:50AM
+Section 141-RECBoulder 16-Wk Session/Full Sem
+Class Code 23278
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+207
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Yiming Hu
+
+Room EKLC M2B40
+Meeting Time Th 10:00AM - 10:50AM
+Section 142-RECBoulder 16-Wk Session/Full Sem
+Class Code 16476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+208
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Nordeen
+
+Room EKLC M2B40
+Meeting Time Fr 8:00AM - 8:50AM
+Section 150-RECBoulder 16-Wk Session/Full Sem
+Class Code 16478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+209
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Wei Zhang
+
+Room RAMY C250
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 16492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+210
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryo Tamura
+
+Room EKLC M2B36
+Meeting Time We 8:00AM - 8:50AM
+Section 230-RECBoulder 16-Wk Session/Full Sem
+Class Code 22151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+211
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Nordeen
+
+Room EKLC M2B36
+Meeting Time We 12:00PM - 12:50PM
+Section 234-RECBoulder 16-Wk Session/Full Sem
+Class Code 16579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+212
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Nordeen
+
+Room EKLC M2B36
+Meeting Time We 2:00PM - 2:50PM
+Section 236-RECBoulder 16-Wk Session/Full Sem
+Class Code 16562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+213
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Nordeen
+
+Room EKLC M2B36
+Meeting Time We 4:00PM - 4:50PM
+Section 238-RECBoulder 16-Wk Session/Full Sem
+Class Code 16564
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+214
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B36
+Meeting Time Th 9:00AM - 9:50AM
+Section 241-RECBoulder 16-Wk Session/Full Sem
+Class Code 22655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+215
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Csakai
+
+Room EKLC M2B36
+Meeting Time Th 10:00AM - 10:50AM
+Section 242-RECBoulder 16-Wk Session/Full Sem
+Class Code 16580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+216
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Csakai
+
+Room EKLC M2B36
+Meeting Time Th 11:00AM - 11:50AM
+Section 243-RECBoulder 16-Wk Session/Full Sem
+Class Code 21670
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+217
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ortiz
+
+Room EKLC M2B36
+Meeting Time Th 3:00PM - 3:50PM
+Section 247-RECBoulder 16-Wk Session/Full Sem
+Class Code 21669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+218
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B36
+Meeting Time Th 5:00PM - 5:50PM
+Section 249-RECBoulder 16-Wk Session/Full Sem
+Class Code 16578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+219
+CHEM 3331 - Organic Chemistry 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Griffiths
+
+Room EKLC M2B36
+Meeting Time Fr 2:00PM - 2:50PM
+Section 256-RECBoulder 16-Wk Session/Full Sem
+Class Code 16581
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+220
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Duk Kyu Yi
+
+Room EKLC M1B20
+Meeting Time Mo 1:00PM - 3:50PM
+Section 201-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+221
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tianyi Yang
+
+Room EKLC M1B20
+Meeting Time Mo 5:00PM - 7:50PM
+Section 211-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+222
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryo Tamura
+
+Room EKLC M1B20
+Meeting Time Tu 9:00AM - 11:50AM
+Section 221-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16587
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+223
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhenyi Hu
+
+Room EKLC M1B25
+Meeting Time Tu 9:00AM - 11:50AM
+Section 222-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16592
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+224
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Burl
+
+Room EKLC M1B20
+Meeting Time Tu 1:00PM - 3:50PM
+Section 231-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+225
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Magrini
+
+Room EKLC M1B25
+Meeting Time Tu 1:00PM - 3:50PM
+Section 232-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16586
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+226
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yaohao Li
+
+Room EKLC M1B20
+Meeting Time We 1:00PM - 3:50PM
+Section 241-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16593
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+227
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Yiming Hu
+
+Room EKLC M1B25
+Meeting Time We 1:00PM - 3:50PM
+Section 242-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+228
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Yaohao Li
+
+Room EKLC M1B20
+Meeting Time We 5:00PM - 7:50PM
+Section 251-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+229
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Dayan Wei
+
+Room EKLC M1B25
+Meeting Time We 5:00PM - 7:50PM
+Section 252-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+230
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Scarbrough
+
+Room EKLC M1B20
+Meeting Time Th 9:00AM - 11:50AM
+Section 261-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+231
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Crossman
+
+Room EKLC M1B25
+Meeting Time Th 9:00AM - 11:50AM
+Section 262-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16643
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+232
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Magrini
+
+Room EKLC M1B20
+Meeting Time Th 1:00PM - 3:50PM
+Section 271-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+233
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Crossman
+
+Room EKLC M1B25
+Meeting Time Th 1:00PM - 3:50PM
+Section 272-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+234
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Magrini
+
+Room EKLC M1B20
+Meeting Time Th 5:00PM - 7:50PM
+Section 281-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22670
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+235
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Yiming Hu
+
+Room EKLC M1B25
+Meeting Time Th 5:00PM - 7:50PM
+Section 282-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+236
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Crossman
+
+Room EKLC M1B20
+Meeting Time Fr 1:00PM - 3:50PM
+Section 291-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+237
+CHEM 3341 - Laboratory in Organic Chemistry 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M1B25
+Meeting Time Fr 1:00PM - 3:50PM
+Section 292-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23282
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+238
+CHEM 3361 - Laboratory in Organic Chemistry 1 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ethan Miller
+
+Room EKLC M1B65
+Meeting Time MoWe 1:00PM - 3:50PM
+Section 301-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+239
+CHEM 3361 - Laboratory in Organic Chemistry 1 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Farmer
+
+Room EKLC M1B65
+Meeting Time MoWe 5:00PM - 7:50PM
+Section 311-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+240
+CHEM 3361 - Laboratory in Organic Chemistry 1 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Carey
+
+Room EKLC M1B65
+Meeting Time TuTh 8:00AM - 10:50AM
+Section 321-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+241
+CHEM 3361 - Laboratory in Organic Chemistry 1 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Cairo
+
+Room EKLC M1B65
+Meeting Time TuTh 11:00AM - 1:50PM
+Section 331-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+242
+CHEM 3371 - Organic Chemistry 2 for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor David Walba
+
+Room HLMS 241
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 22116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+243
+CHEM 3371 - Organic Chemistry 2 for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Guzman
+
+Room EKLC M2B36
+Meeting Time Th 12:00PM - 12:50PM
+Section 144-RECBoulder 16-Wk Session/Full Sem
+Class Code 22117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+244
+CHEM 3371 - Organic Chemistry 2 for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Guzman
+
+Room EKLC M2B36
+Meeting Time Th 2:00PM - 2:50PM
+Section 146-RECBoulder 16-Wk Session/Full Sem
+Class Code 22668
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+245
+CHEM 3371 - Organic Chemistry 2 for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Guzman
+
+Room EKLC M2B36
+Meeting Time Fr 12:00PM - 12:50PM
+Section 154-RECBoulder 16-Wk Session/Full Sem
+Class Code 22118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+246
+CHEM 3381 - Laboratory in Organic Chemistry 2 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Burl
+
+Room EKLC M1B35
+Meeting Time MoWe 1:00PM - 3:50PM
+Section 401-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+247
+CHEM 3381 - Laboratory in Organic Chemistry 2 for Chemistry Majors
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Tianyi Yang
+
+Room EKLC M1B35
+Meeting Time TuTh 9:00AM - 11:50AM
+Section 421-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16649
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+248
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Tarek Sammakia
+
+Room EKLC E1B20
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 32961
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+249
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M2B30
+Meeting Time We 8:00AM - 8:50AM
+Section 130-RECBoulder 16-Wk Session/Full Sem
+Class Code 32962
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+250
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ethan Miller
+
+Room EKLC M2B30
+Meeting Time Th 10:00AM - 10:50AM
+Section 142-RECBoulder 16-Wk Session/Full Sem
+Class Code 34876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+251
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ethan Miller
+
+Room EKLC M2B30
+Meeting Time Th 11:00AM - 11:50AM
+Section 143-RECBoulder 16-Wk Session/Full Sem
+Class Code 34875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+252
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Cairo
+
+Room EKLC M2B30
+Meeting Time Fr 8:00AM - 8:50AM
+Section 150-RECBoulder 16-Wk Session/Full Sem
+Class Code 34874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+253
+CHEM 3451 - Organic Chemistry for Chemistry and Biochemistry Majors
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Cairo
+
+Room EKLC M2B30
+Meeting Time Fr 12:00PM - 12:50PM
+Section 154-RECBoulder 16-Wk Session/Full Sem
+Class Code 34873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+254
+CHEM 4021 - Inorganic Laboratory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M272
+Meeting Time TuTh 8:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 16663
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+255
+CHEM 4141 - Environmental Water and Soil Chemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul Ziemann
+
+Room EKLC M203
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 22628
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+256
+CHEM 4181 - Instrumental Analysis - Lecture and Laboratory 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC E1B50
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+257
+CHEM 4181 - Instrumental Analysis - Lecture and Laboratory 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M225
+Meeting Time Tu 12:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 16665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+258
+CHEM 4181 - Instrumental Analysis - Lecture and Laboratory 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M225
+Meeting Time Th 12:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 16666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+259
+CHEM 4181 - Instrumental Analysis - Lecture and Laboratory 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room EKLC M225
+Meeting Time We 12:00PM - 2:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 22684
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+260
+CHEM 4181 - Instrumental Analysis - Lecture and Laboratory 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rainer Volkamer
+
+Room EKLC M225
+Meeting Time Th 9:00AM - 11:50AM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 40474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+261
+CHEM 4511 - Physical Chemistry 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Veronica Vaida
+
+Room EKLC E1B50
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16668
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+262
+CHEM 4531 - Physical Chemistry 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Niels Damrauer
+
+Room HLMS 141
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16696
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+263
+CHEM 4555 - Theoretical and Computational Chemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Eaves
+
+Room EKLC E1B75
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32965
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+264
+CHEM 4555 - Theoretical and Computational Chemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room EKLC M2B36
+Meeting Time Tu 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 32968
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+265
+CHEM 4581 - Physical Chemistry Lab 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M224
+Meeting Time Tu 9:00AM - 11:50AM
+Section 020-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+266
+CHEM 4581 - Physical Chemistry Lab 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M224
+Meeting Time Tu 1:00PM - 3:50PM
+Section 030-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+267
+CHEM 4581 - Physical Chemistry Lab 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M224
+Meeting Time We 2:00PM - 4:50PM
+Section 050-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+268
+CHEM 4581 - Physical Chemistry Lab 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M224
+Meeting Time Th 1:00PM - 3:50PM
+Section 070-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16700
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+269
+CHEM 4591 - Physical Chemistry Lab 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M225
+Meeting Time Tu 9:00AM - 11:50AM
+Section 020-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+270
+CHEM 4591 - Physical Chemistry Lab 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M225
+Meeting Time Tu 1:00PM - 3:50PM
+Section 030-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16702
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+271
+CHEM 4591 - Physical Chemistry Lab 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M225
+Meeting Time We 2:00PM - 4:50PM
+Section 050-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+272
+CHEM 4591 - Physical Chemistry Lab 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gordana Dukovic, 
+Molly Larsen
+
+Room EKLC M225
+Meeting Time Th 1:00PM - 3:50PM
+Section 070-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16706
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+273
+CHEM 4611 - Survey of Biochemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Ricardo Stephen, 
+Suzannah Miller
+
+Room CHEM 140
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16707
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+274
+CHEM 4700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ricardo Stephen
+
+Room BIOT A104
+Meeting Time TuTh 10:00AM - 11:15AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+275
+CHEM 4700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lindsey Broadwell, 
+Ricardo Stephen
+
+Room BIOT B115
+Meeting Time Tu 11:30AM - 12:20PM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 22607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+276
+CHEM 4700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lindsey Broadwell, 
+Ricardo Stephen
+
+Room BIOT B115
+Meeting Time Th 9:00AM - 9:50AM
+Section 161-RECBoulder 16-Wk Session/Full Sem
+Class Code 22608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+277
+CHEM 4720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Natalie Ahn
+
+Room BIOT A108
+Meeting Time MoWeFr 10:30AM - 11:20AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 24077
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+278
+CHEM 4720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesus Bocanegra
+
+Room BIOT B115
+Meeting Time Mo 11:30AM - 12:20PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 24078
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+279
+CHEM 4720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesus Bocanegra
+
+Room BIOT B115
+Meeting Time We 11:30AM - 12:20PM
+Section 131-RECBoulder 16-Wk Session/Full Sem
+Class Code 24079
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+280
+CHEM 4720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Natalie Ahn
+
+Room BIOT B115
+Meeting Time Fr 11:30AM - 12:20PM
+Section 191-RECBoulder 16-Wk Session/Full Sem
+Class Code 24080
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+281
+CHEM 4740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Akhileshwar Khanal
+
+Room BIOT A104
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 24085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+282
+CHEM 4740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Tu 10:00AM - 10:50AM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 24086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+283
+CHEM 4740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Tu 1:00PM - 1:50PM
+Section 122-RECBoulder 16-Wk Session/Full Sem
+Class Code 24088
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+284
+CHEM 4740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Th 10:00AM - 10:50AM
+Section 161-RECBoulder 16-Wk Session/Full Sem
+Class Code 24087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+285
+CHEM 4761 - Biochemistry Laboratory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jenna Rimel, 
+Leah Damon, 
+Roy Parker
+
+Room BIOT B160
+Meeting Time MoWe 1:00PM - 5:50PM
+Section 015-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16708
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+286
+CHEM 4761 - Biochemistry Laboratory
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jenna Rimel, 
+Leah Damon, 
+Marcelo Sousa
+
+Room BIOT B160
+Meeting Time TuTh 1:00PM - 5:50PM
+Section 037-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16709
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+287
+CHEM 5141 - Environmental Water and Soil Chemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul Ziemann
+
+Room EKLC M203
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 22629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+288
+CHEM 5152 - Advanced Atmospheric Chemistry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Jose Jimenez
+
+Room CHEM 145
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 24075
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+289
+CHEM 5281 - Semiconductor Processing and Device Fabrication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven George
+
+Room RAMY N1B75
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+290
+CHEM 5531 - Statistical Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor James Hynes
+
+Room EKLC W165
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16755
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+291
+CHEM 5555 - Theoretical and Computational Chemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Eaves
+
+Room EKLC E1B75
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32966
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+292
+CHEM 5555 - Theoretical and Computational Chemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room EKLC M2B36
+Meeting Time Tu 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 32967
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+293
+CHEM 5591 - Advanced Molecular Spectroscopy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Parson
+
+Room EKLC M203
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16825
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+294
+CHEM 5700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ricardo Stephen
+
+Room BIOT A104
+Meeting Time TuTh 10:00AM - 11:15AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17914
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+295
+CHEM 5700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lindsey Broadwell, 
+Ricardo Stephen
+
+Room BIOT B115
+Meeting Time Tu 11:30AM - 12:20PM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 22609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+296
+CHEM 5700 - Foundations of Biochemistry
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lindsey Broadwell, 
+Ricardo Stephen
+
+Room BIOT B115
+Meeting Time Th 9:00AM - 9:50AM
+Section 161-RECBoulder 16-Wk Session/Full Sem
+Class Code 22610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+297
+CHEM 5720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Natalie Ahn
+
+Room BIOT A108
+Meeting Time MoWeFr 10:30AM - 11:20AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 24081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+298
+CHEM 5720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesus Bocanegra
+
+Room BIOT B115
+Meeting Time Mo 11:30AM - 12:20PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 24082
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+299
+CHEM 5720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesus Bocanegra
+
+Room BIOT B115
+Meeting Time We 11:30AM - 12:20PM
+Section 131-RECBoulder 16-Wk Session/Full Sem
+Class Code 24083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+300
+CHEM 5720 - Metabolic Pathways and Human Disease
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Natalie Ahn
+
+Room BIOT B115
+Meeting Time Fr 11:30AM - 12:20PM
+Section 191-RECBoulder 16-Wk Session/Full Sem
+Class Code 24084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+301
+CHEM 5740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Akhileshwar Khanal
+
+Room BIOT A104
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 24089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+302
+CHEM 5740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Tu 10:00AM - 10:50AM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 24090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+303
+CHEM 5740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Tu 1:00PM - 1:50PM
+Section 122-RECBoulder 16-Wk Session/Full Sem
+Class Code 24092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+304
+CHEM 5740 - Biochemistry of Gene Transmission, Expression and Regulation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Markert
+
+Room BIOT B115
+Meeting Time Th 10:00AM - 10:50AM
+Section 161-RECBoulder 16-Wk Session/Full Sem
+Class Code 24091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+305
+CHEM 5780 - Fundamentals of Biochemistry II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Dylan Taatjes, 
+Jeffrey Cameron
+
+Room BIOT B331
+Meeting Time MoWeFr 9:30AM - 11:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21656
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+306
+CHEM 5781 - Advanced General Biochemistry 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Dylan Taatjes, 
+Jeffrey Cameron
+
+Room BIOT B331
+Meeting Time MoWeFr 9:30AM - 11:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16828
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+307
+CHEM 5821 - Special Topics in Signaling and Cell Regulation
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Xuedong Liu
+
+Room SEE DEPT
+Meeting Time Fr 9:30AM - 10:20AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39387
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+308
+CHEM 6101 - Seminar: Analytical Chemistry
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Sievers
+
+Room SEE DEPT
+Meeting Time Mo 12:00PM - 12:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+309
+CHEM 6301 - Seminar in Organic Chemistry
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tarek Sammakia
+
+Room SEE DEPT
+Meeting Time Mo 4:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+310
+CHEM 6311 - Special Topics in Synthetic Organic Chemistry
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Maciej Walczak
+
+Room EKLC W165
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39566
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+311
+CHEM 6321 - Special Topics in Physical Organic Chemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Josef Michl
+
+Room EKLC W165
+Meeting Time MoFr 8:30AM - 9:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+312
+CHEM 6401 - Seminar: Physical Chemistry
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Jorg Weber
+Staff
+
+Room SEE DEPT
+EKLC M203
+Meeting Time Fr 3:00PM - 3:50PM
+Fr 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21018
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+313
+CHEM 6601 - Biochemistry Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Joe Falke
+
+Room SEE DEPT
+Meeting Time We 2:30PM - 3:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+314
+CHEM 6801 - Departmental Research Seminar
+Units 0
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room CHEM 142
+Meeting Time MoTuWeThFr 4:00PM - 5:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17919
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

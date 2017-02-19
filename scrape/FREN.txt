@@ -1,0 +1,545 @@
+0
+FREN 1010 - Beginning French 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Nesse
+
+Room HUMN 180
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+FREN 1010 - Beginning French 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Danica Trifunovic
+
+Room HUMN 180
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+FREN 1010 - Beginning French 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Rose
+
+Room MCOL E158
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+FREN 1010 - Beginning French 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eliza Smith
+
+Room HUMN 145
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 15985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+FREN 1010 - Beginning French 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Danica Petrovska
+
+Room HUMN 335
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 24516
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+FREN 1020 - Beginning French 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leah Powers
+
+Room DUAN G1B27
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+FREN 1020 - Beginning French 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Audrey Calandra
+
+Room HUMN 1B70
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+FREN 1020 - Beginning French 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eliza Smith
+
+Room HUMN 145
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+FREN 1020 - Beginning French 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Olga Vasile
+
+Room MKNA 204
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+FREN 1050 - Beginning French Review
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Nesse
+
+Room DUAN G1B25
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+FREN 1880 - The Zombie in History and Popular Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 47
+Waitlist Total 0
+MiscInfo nil
+Instructor Juan Jimenez Diaz, 
+Kieran Murphy
+
+Room HALE 270
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23392
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+FREN 1900 - Modern Paris in Literature, Photographs, Paintings and Movies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Masano Yamashita
+
+Room HUMN 1B90
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24109
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+FREN 2110 - Second-Year French Grammar Review and Reading 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Appleby
+
+Room HUMN 370
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+FREN 2110 - Second-Year French Grammar Review and Reading 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Alina Van Nelson
+
+Room HUMN 270
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+FREN 2110 - Second-Year French Grammar Review and Reading 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Alina Van Nelson
+
+Room RAMY N1B75
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+FREN 2110 - Second-Year French Grammar Review and Reading 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura D'Anna
+
+Room HUMN 335
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24519
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+FREN 2120 - Second-Year French Grammar Review and Reading 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Leah Holz
+
+Room HALE 260
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+FREN 2120 - Second-Year French Grammar Review and Reading 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alina Van Nelson
+
+Room HALE 260
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16004
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+FREN 2120 - Second-Year French Grammar Review and Reading 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jocelyn Franklin
+
+Room KTCH 1B84
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+FREN 3010 - French Phonetics and Pronunciation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Sandrine Vandermarliere
+
+Room HUMN 270
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16005
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+FREN 3010 - French Phonetics and Pronunciation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Sebastian Petrikat
+
+Room CLRE 208
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+FREN 3050 - French Composition 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Velina Dinkova
+
+Room HALE 236
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+FREN 3050 - French Composition 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Velina Dinkova
+
+Room MKNA 204
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+FREN 3050 - French Composition 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jocelyn Franklin
+
+Room MUEN D144
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+FREN 3060 - French Composition 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Sandrine Vandermarliere
+
+Room HUMN 335
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+FREN 3100 - Introduction to Critical Reading and Writing in French Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aimee Kilbane
+
+Room HLMS 196
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16010
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+FREN 3120 - Main Currents of French Literature 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Warren Motte
+
+Room HUMN 245
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22293
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+FREN 3500 - French Current Events: Conversation and Composition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Leah Holz
+
+Room HLMS 245
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+FREN 3600 - Business French 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Danica Trifunovic
+
+Room VAC 1B90
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+FREN 4110 - French Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Braider
+
+Room HALE 236
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23627
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+FREN 4120 - French Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Masano Yamashita
+
+Room HUMN 245
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+FREN 5110 - French Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Haiti and Atlantic Studies
+Instructor Kieran Murphy
+
+Room HUMN 335
+Meeting Time Tu 2:00PM - 4:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+FREN 5120 - French Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Theatre and Modernity 17th C
+Instructor Christopher Braider
+
+Room HUMN 335
+Meeting Time Th 2:00PM - 4:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23534
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+FREN 5120 - French Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Authenticity in Francophone
+Instructor Brian Quinn
+
+Room HUMN 335
+Meeting Time We 2:00PM - 4:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 29282
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

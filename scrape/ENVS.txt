@@ -1,0 +1,1132 @@
+0
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sharon Collinge
+
+Room MATH 100
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Stout
+
+Room DUAN G2B60
+Meeting Time Mo 4:00PM - 4:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 16153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Stout
+
+Room DUAN G2B21
+Meeting Time Mo 9:00AM - 9:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 16160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Bowman
+
+Room DUAN G2B60
+Meeting Time Fr 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 16161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Molnar
+
+Room GUGG 3
+Meeting Time Tu 8:00AM - 8:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 16162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Jaffe
+
+Room DUAN G2B60
+Meeting Time Mo 1:00PM - 1:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 16163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victoria Stout
+
+Room MUEN E064
+Meeting Time Mo 2:00PM - 2:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 16164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Lee-Ammons
+
+Room STAD 136C
+Meeting Time Mo 9:00AM - 9:50AM
+Section 017-RECBoulder 16-Wk Session/Full Sem
+Class Code 16185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Lee-Ammons
+
+Room DUAN G2B21
+Meeting Time We 9:00AM - 9:50AM
+Section 018-RECBoulder 16-Wk Session/Full Sem
+Class Code 16186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Molnar
+
+Room DUAN G2B60
+Meeting Time We 3:00PM - 3:50PM
+Section 019-RECBoulder 16-Wk Session/Full Sem
+Class Code 16187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Jaffe
+
+Room GUGG 3
+Meeting Time Mo 3:00PM - 3:50PM
+Section 020-RECBoulder 16-Wk Session/Full Sem
+Class Code 16188
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Lee-Ammons
+
+Room DUAN G131
+Meeting Time Th 8:00AM - 8:50AM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 22169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Jaffe
+
+Room MCOL E155
+Meeting Time Tu 4:00PM - 4:50PM
+Section 022-RECBoulder 16-Wk Session/Full Sem
+Class Code 34356
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Bowman
+
+Room EDUC 138
+Meeting Time Mo 4:00PM - 4:50PM
+Section 023-RECBoulder 16-Wk Session/Full Sem
+Class Code 34357
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ENVS 1000 - Introduction to Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Bowman
+
+Room HLMS 263
+Meeting Time We 4:00PM - 4:50PM
+Section 024-RECBoulder 16-Wk Session/Full Sem
+Class Code 34358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ENVS 1001 - Introduction to Developing Environmental Solutions
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Eve Hinckley
+
+Room SEEC N128
+Meeting Time TuTh 12:00PM - 1:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ENVS 1001 - Introduction to Developing Environmental Solutions
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Hermes, 
+Eve Hinckley
+
+Room SEEC N129
+Meeting Time Th 3:00PM - 3:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 33231
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ENVS 1001 - Introduction to Developing Environmental Solutions
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Hermes, 
+Eve Hinckley
+
+Room SEEC N128
+Meeting Time We 11:45AM - 12:35PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 33232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ENVS 1150 - First-Year Writing in Energy, Environment and Sustainability
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Carrie Vodehnal
+
+Room MKNA 204
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ENVS 1150 - First-Year Writing in Energy, Environment and Sustainability
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Carrie Vodehnal
+
+Room MUEN E114
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 33234
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ENVS 1150 - First-Year Writing in Energy, Environment and Sustainability
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Carrie Vodehnal
+
+Room SEEC N129
+Meeting Time MoWe 3:15PM - 4:30PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 33235
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ENVS 2000 - Applied Ecology for Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Raffica La Rosa
+
+Room DUAN G125
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22299
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ENVS 2000 - Applied Ecology for Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Wentz
+
+Room CLRE 302
+Meeting Time We 9:00AM - 9:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 22419
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ENVS 2000 - Applied Ecology for Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Wentz
+
+Room ECCR 118
+Meeting Time Th 4:00PM - 4:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 22300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ENVS 2000 - Applied Ecology for Environmental Studies
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Wentz
+
+Room EDUC 143
+Meeting Time Mo 4:00PM - 4:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 22420
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ENVS 2100 - Topics in Applied Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Environ Justice & Community
+Instructor David Ciplet
+
+Room WVN 166B
+Meeting Time TuTh 1:30PM - 2:45PM
+Section 375R-LECBoulder 16-Wk Session/Full Sem
+Class Code 37116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ENVS 3020 - Advanced Writing in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Miller
+
+Room SEEC N126
+Meeting Time TuTh 1:30PM - 2:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+ENVS 3020 - Advanced Writing in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Dunn
+
+Room SEEC N126
+Meeting Time MoWe 11:15AM - 12:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ENVS 3020 - Advanced Writing in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Carrie Vodehnal
+
+Room SEEC N129
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22326
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+ENVS 3020 - Advanced Writing in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Dunn
+
+Room SEEC N126
+Meeting Time TuTh 12:00PM - 1:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22938
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ENVS 3032 - Environment, Media and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lydia Lawhon
+
+Room SEEC N124
+Meeting Time TuTh 3:15PM - 4:05PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22421
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ENVS 3032 - Environment, Media and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Cara Lauria
+
+Room SEEC S125
+Meeting Time Mo 1:15PM - 2:05PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 33236
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ENVS 3032 - Environment, Media and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Cara Lauria
+
+Room SEEC S125
+Meeting Time We 1:15PM - 2:05PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 33237
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ENVS 3032 - Environment, Media and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cara Lauria
+
+Room SEEC S125
+Meeting Time Fr 11:15AM - 12:05PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 33238
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ENVS 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Doak
+
+Room RAMY N1B23
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34645
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ENVS 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Tu 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 34646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+ENVS 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Th 8:00AM - 8:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 34647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+ENVS 3040 - Conservation Biology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B20
+Meeting Time Fr 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 34648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ENVS 3070 - Energy and the Environment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Nagle
+
+Room DUAN G130
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21218
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ENVS 3140 - Environmental Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Youkey, 
+Jasmine Carter
+
+Room MCOL W100
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16633
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+ENVS 3140 - Environmental Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Youkey, 
+Heather Stewart
+
+Room RAMY N1B31
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17815
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+ENVS 3140 - Environmental Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Hale
+
+Room EKLC E1B20
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ENVS 3173 - Creative Climate Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Garrett Rue, 
+Mary Osnes, 
+Maxwell Boykoff
+
+Room ATLS 1B31
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23391
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+ENVS 3520 - Energy and Climate Change: An Interdisciplinary Approach
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James White
+
+Room BESC 185
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ENVS 3525 - Intermediate Environmental Problem Analysis: Topical Cornerstones
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Climate Impact - Arid Regions
+Instructor Atreyee Bhattacharya, 
+Clare Stumpf
+
+Room SEEC N124
+Meeting Time TuTh 12:00PM - 1:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+ENVS 3600 - Principles of Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Blanken
+
+Room DUAN G2B47
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+ENVS 3621 - Energy Policy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Reed
+
+Room SEEC N124
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16632
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+ENVS 3640 - Data Analysis for Global Environmental Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Atreyee Bhattacharya
+
+Room SEEC N128
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+ENVS 3930 - Internship
+Units 1 - 3
+Restriction N
+Consent Required N
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor Dale Miller
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 12:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 23366
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+ENVS 3930 - Internship
+Units 1 - 3
+Restriction N
+Consent Required N
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor Dale Miller
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 1:00PM - 5:00PM
+Section 551R-INTBoulder 16-Wk Session/Full Sem
+Class Code 23367
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ENVS 3930 - Internship
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Miller
+
+Room SEEC N129
+Meeting Time Th 5:00PM - 5:50PM
+Section 800-INTBoulder 16-Wk Session/Full Sem
+Class Code 20190
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+ENVS 3930 - Internship
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Miller
+
+Room SEEC N129
+Meeting Time Th 5:00PM - 5:50PM
+Section 801-INTBoulder 16-Wk Session/Full Sem
+Class Code 21960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+ENVS 4027 - Inequality, Democracy, and the Environment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Liam Downey, 
+Micah Pyles
+
+Room RAMY N1B23
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ENVS 4100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Agroforestry-Global Perspect
+Notes: This is a combined section class
+Instructor Amy Quandt
+
+Room BESC 185
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ENVS 4100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Coral Reefs
+Instructor Atreyee Bhattacharya
+
+Room SEEC N129
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+ENVS 4100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Sustainable Communities
+Instructor Brian Muller, 
+Susan Leach
+
+Room ENVD 213
+Meeting Time Tu 2:00PM - 4:30PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 39201
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ENVS 4800 - Capstone:  Critical Thinking in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Hum-Env Inter Sub-Sahara Afri
+Instructor Joel Hartter
+
+Room SEEC N129
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22295
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+ENVS 4800 - Capstone:  Critical Thinking in Environmental Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Deforestation and Food
+Instructor Peter Newton
+
+Room SEEC N128
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ENVS 4840 - Independent Study
+Units 1 - 6
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Rogers
+
+Room SEE DEPT
+Meeting Time Fr 8:30AM - 11:30AM
+Section 001-INDBoulder 16-Wk Session/Full Sem
+Class Code 24622
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ENVS 4990 - Senior Thesis
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Miller
+
+Room SEEC N129
+Meeting Time Tu 3:40PM - 4:30PM
+Section 801-OTHBoulder 16-Wk Session/Full Sem
+Class Code 19610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ENVS 5003 - Theory and Methods in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Hale
+
+Room SEEC S125
+Meeting Time Tu 12:00PM - 2:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+ENVS 5100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Environ & Energy Economics
+Instructor Jonathan Hughes
+
+Room SEEC S125
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+ENVS 5100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Power, Justice & Climate Chg
+Instructor David Ciplet
+
+Room SEEC N128
+Meeting Time Mo 8:30AM - 11:00AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+ENVS 5100 - Special Topics in Environmental Studies
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Pedagogy
+Notes: This is a combined section class
+Instructor Carol Wessman
+
+Room HLMS 263
+Meeting Time Mo 3:00PM - 3:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23138
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+ENVS 5100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Environmental Collaboration
+Instructor Bruce Goldstein
+
+Room SEE DEPT
+Meeting Time Tu 2:00PM - 4:30PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+ENVS 5100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Making Usable Sci for Pol
+Instructor Elizabeth Mc Nie
+
+Room SEE DEPT
+Meeting Time Mo 1:30PM - 4:00PM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+ENVS 5100 - Special Topics in Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Science and Technology Policy
+Instructor Jack Stilgoe, 
+Patricia Romero Lankao
+
+Room SEE DEPT
+Meeting Time We 1:30PM - 4:00PM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+ENVS 5702 - Policy, Politics and Management: Theory and Practice
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Webster
+
+Room SEEC N128
+Meeting Time We 2:45PM - 5:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24549
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+ENVS 5830 - Critical Issues in Climate and the Environment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Weiqing Han
+
+Room SEEC N128
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22386
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+ENVS 6201 - Qualitative Research Methods for Environmental Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Lydia Lawhon
+
+Room SEEC N128
+Meeting Time We 9:00AM - 11:30AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33239
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

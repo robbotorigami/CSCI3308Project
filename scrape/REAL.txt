@@ -1,0 +1,145 @@
+0
+REAL 2010 - Introduction to Real Estate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Kaboth
+
+Room KOBL S125
+Meeting Time Mo 12:30PM - 3:15PM
+Section 300E-LECCE Evening Full Session
+Class Code 35555
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+1
+REAL 3000 - Principles of Real Estate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Curtis Sears
+
+Room KOBL 302
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+REAL 3000 - Principles of Real Estate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Curtis Sears
+
+Room KOBL 302
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+REAL 3000 - Principles of Real Estate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Curtis Sears
+
+Room KOBL S110
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25075
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+REAL 4000 - Real Estate Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Curtis Sears
+
+Room KOBL S127
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24649
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+REAL 4100 - Real Estate Finance and Investment Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Godley
+
+Room KOBL S127
+Meeting Time Mo 6:30PM - 9:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24728
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+REAL 4810 - Real Estate Internship
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Curtis Sears, 
+Lisa Chambers
+
+Room KOBL 330
+Meeting Time Mo 6:30PM - 9:15PM
+Section 001-INTBoulder 16-Wk Session/Full Sem
+Class Code 24780
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+REAL 4900 - Independent Study
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 100
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room KOBL 350
+Meeting Time We 6:00PM - 9:00PM
+Section 901-INDBoulder 16-Wk Session/Full Sem
+Class Code 24799
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+REAL 4900 - Independent Study
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 93
+Waitlist Total nil
+MiscInfo nil
+Instructor Curtis Sears
+
+Room KOBL 350
+Meeting Time We 6:00PM - 9:00PM
+Section 902-INDBoulder 16-Wk Session/Full Sem
+Class Code 24800
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,376 @@
+0
+BASE 2101 - BCOR Applied Semester Experience 1: Early Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Michael Willis
+
+Room KOBL S135
+Meeting Time Mo 8:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25044
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+BASE 2101 - BCOR Applied Semester Experience 1: Early Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Lori Seward
+Lori Seward
+
+Room FLMG 155
+KOBL S135
+Meeting Time MoWe 10:00AM - 10:50AM
+Fr 10:00AM - 10:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 25045
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+2
+BASE 2101 - BCOR Applied Semester Experience 1: Early Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Donald Oest
+
+Room KOBL S135
+Meeting Time Mo 11:00AM - 1:50PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 25046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+BASE 2101 - BCOR Applied Semester Experience 1: Early Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Mary Lewis
+Mary Lewis
+
+Room FLMG 155
+KOBL S135
+Meeting Time Mo 3:00PM - 4:50PM
+Tu 2:00PM - 2:50PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 32949
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+4
+BASE 2101 - BCOR Applied Semester Experience 1: Early Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Craig Stephenson
+
+Room FLMG 155
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 32950
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+BASE 2102 - BCOR Applied Semester Experience 2: Growth Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Craig Stephenson
+
+Room KOBL S135
+Meeting Time We 8:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+BASE 2102 - BCOR Applied Semester Experience 2: Growth Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Michael Willis
+Michael Willis
+
+Room FLMG 155
+KOBL S135
+Meeting Time MoWe 11:00AM - 11:50AM
+Fr 9:00AM - 9:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 25048
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+7
+BASE 2102 - BCOR Applied Semester Experience 2: Growth Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Lori Seward
+
+Room KOBL S135
+Meeting Time We 11:00AM - 1:50PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 25049
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+BASE 2102 - BCOR Applied Semester Experience 2: Growth Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Donald Oest
+Donald Oest
+
+Room KOBL S135
+FLMG 155
+Meeting Time Tu 3:00PM - 4:50PM
+We 3:00PM - 3:50PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 32951
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+9
+BASE 2102 - BCOR Applied Semester Experience 2: Growth Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Mary Lewis
+Mary Lewis
+
+Room FLMG 155
+KOBL S135
+Meeting Time Tu 9:30AM - 10:45AM
+Tu 11:00AM - 12:50PM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 25050
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+10
+BASE 2103 - BCOR Applied Semester Experience 3: Mature Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Mary Lewis
+Mary Lewis
+
+Room FLMG 155
+KOBL S135
+Meeting Time MoWe 1:00PM - 1:50PM
+Fr 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25051
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+11
+BASE 2103 - BCOR Applied Semester Experience 3: Mature Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Craig Stephenson
+Craig Stephenson
+
+Room KOBL S135
+KOBL S135
+Meeting Time TuTh 8:00AM - 8:50AM
+Tu 9:00AM - 9:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 25052
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+12
+BASE 2103 - BCOR Applied Semester Experience 3: Mature Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Michael Willis
+
+Room FLMG 155
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 25053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+BASE 2103 - BCOR Applied Semester Experience 3: Mature Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Lori Seward
+Lori Seward
+
+Room FLMG 155
+KOBL S135
+Meeting Time We 4:00PM - 4:50PM
+Th 2:00PM - 3:50PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 32952
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+14
+BASE 2103 - BCOR Applied Semester Experience 3: Mature Stage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Donald Oest
+Donald Oest
+
+Room KOBL S135
+KOBL S135
+Meeting Time Tu 1:00PM - 1:50PM
+Th 11:00AM - 12:50PM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 25054
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+15
+BASE 2104 - BCOR Applied Semester Experience 4: Case Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Donald Oest
+Donald Oest
+
+Room FLMG 155
+KOBL S135
+Meeting Time MoWe 2:00PM - 2:50PM
+Fr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25055
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+16
+BASE 2104 - BCOR Applied Semester Experience 4: Case Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Mary Lewis
+Mary Lewis
+
+Room KOBL S135
+KOBL S135
+Meeting Time TuTh 10:00AM - 10:50AM
+Th 9:00AM - 9:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 25056
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+17
+BASE 2104 - BCOR Applied Semester Experience 4: Case Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Craig Stephenson
+Craig Stephenson
+
+Room FLMG 155
+KOBL S135
+Meeting Time Th 9:30AM - 10:45AM
+Fr 9:00AM - 10:50AM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 25057
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+18
+BASE 2104 - BCOR Applied Semester Experience 4: Case Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Michael Willis
+Michael Willis
+
+Room KOBL S135
+KOBL S135
+Meeting Time Th 4:00PM - 4:50PM
+Fr 9:00AM - 10:50AM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 32953
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+19
+BASE 2104 - BCOR Applied Semester Experience 4: Case Competition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Lori Seward
+Lori Seward
+
+Room KOBL S135
+KOBL S135
+Meeting Time Th 1:00PM - 1:50PM
+Fr 9:00AM - 10:50AM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 32954
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed

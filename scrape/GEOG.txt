@@ -1,0 +1,1922 @@
+0
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Molotch
+
+Room CHEM 142
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16574
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Elwood
+
+Room GUGG 3
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 18304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Mahood
+
+Room GUGG 3
+Meeting Time We 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 18305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Elwood
+
+Room GUGG 3
+Meeting Time Fr 1:00PM - 2:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 18306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Meghan Helmberger
+
+Room GUGG 3
+Meeting Time We 9:00AM - 10:50AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 18307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Mahood
+
+Room GUGG 3
+Meeting Time Fr 11:00AM - 12:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 18308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Meghan Helmberger
+
+Room GUGG 3
+Meeting Time Th 1:00PM - 2:50PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 18309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+GEOG 1001 - Environmental Systems 1-Climate and Vegetation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Welter
+
+Room GUGG 2
+Meeting Time Tu 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35546
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+8
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Suzanne Anderson
+
+Room MCOL W100
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16576
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Brittany Selander
+
+Room GUGG 3
+Meeting Time Th 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 18310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Simon Pendleton
+
+Room GUGG 3
+Meeting Time Th 9:00AM - 10:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 18311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brittany Selander
+
+Room GUGG 3
+Meeting Time Th 3:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 18312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Simon Pendleton
+
+Room GUGG 3
+Meeting Time Tu 9:00AM - 10:50AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 18313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Chai
+
+Room GUGG 3
+Meeting Time We 11:00AM - 12:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 18314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Chai
+
+Room GUGG 3
+Meeting Time Tu 11:00AM - 12:50PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 18315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+GEOG 1011 - Environmental Systems 2---Landscapes and  Water
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Welter
+
+Room GUGG 2
+Meeting Time Th 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35547
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+16
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Fluri, 
+John O'Loughlin, 
+William Travis
+
+Room BESC 180
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 33014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Malone
+
+Room GUGG 206
+Meeting Time Tu 11:00AM - 11:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 33137
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Galen Murton
+
+Room HLMS 247
+Meeting Time Th 4:00PM - 4:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 33138
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Galen Murton
+
+Room EDUC 138
+Meeting Time We 10:00AM - 10:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 33139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Malone
+
+Room MCOL E158
+Meeting Time Fr 11:00AM - 11:50AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 33140
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Malone
+
+Room ATLS 1B25
+Meeting Time Tu 12:30PM - 1:20PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 33141
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Galen Murton
+
+Room ECON 13
+Meeting Time We 11:00AM - 11:50AM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 33142
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+GEOG 1962 - Geographies of Global Change
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Meredith DeBoom
+
+Room HLMS 181
+Meeting Time Mo 2:00PM - 2:50PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 39306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+GEOG 1972 - Environment-Society Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abby Hickcox
+
+Room LIBR N424A
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 23677
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonah Holmes
+
+Room VAC 1B20
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 22591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Smith
+
+Room GUGG 2
+Meeting Time Fr 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 22713
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Hite
+
+Room STAD 136C
+Meeting Time We 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 22714
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Siddharth Menon
+
+Room CLUB 4
+Meeting Time Th 12:00PM - 12:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 33125
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Smith
+
+Room GUGG 3
+Meeting Time Mo 9:00AM - 9:50AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 22715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Smith
+
+Room GUGG 206
+Meeting Time Tu 9:30AM - 10:20AM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 22716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Siddharth Menon
+
+Room GUGG 3
+Meeting Time We 3:00PM - 3:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 33126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Siddharth Menon
+
+Room HLMS 259
+Meeting Time Fr 2:00PM - 2:50PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 22717
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Hite
+
+Room ECON 117
+Meeting Time We 4:00PM - 4:50PM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 24026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Hite
+
+Room MUEN E417
+Meeting Time Mo 9:00AM - 9:50AM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 33127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonah Holmes
+
+Room VAC 1B20
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 33015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Faran Mehdizadeh Naderi
+
+Room EDUC 138
+Meeting Time Th 4:00PM - 4:50PM
+Section 201-RECBoulder 16-Wk Session/Full Sem
+Class Code 33128
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdulsalam Hindawi
+
+Room GUGG 2
+Meeting Time Fr 12:00PM - 12:50PM
+Section 202-RECBoulder 16-Wk Session/Full Sem
+Class Code 33129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Faran Mehdizadeh Naderi
+
+Room STAD 140
+Meeting Time We 10:00AM - 10:50AM
+Section 203-RECBoulder 16-Wk Session/Full Sem
+Class Code 33130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Correia
+
+Room GUGG 3
+Meeting Time Tu 3:30PM - 4:20PM
+Section 204-RECBoulder 16-Wk Session/Full Sem
+Class Code 33131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdulsalam Hindawi
+
+Room GUGG 2
+Meeting Time Fr 1:00PM - 1:50PM
+Section 205-RECBoulder 16-Wk Session/Full Sem
+Class Code 33132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdulsalam Hindawi
+
+Room GUGG 3
+Meeting Time Tu 1:00PM - 1:50PM
+Section 206-RECBoulder 16-Wk Session/Full Sem
+Class Code 33133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Faran Mehdizadeh Naderi
+
+Room EDUC 136
+Meeting Time We 4:00PM - 4:50PM
+Section 207-RECBoulder 16-Wk Session/Full Sem
+Class Code 33134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Correia
+
+Room CLRE 104
+Meeting Time Fr 12:00PM - 12:50PM
+Section 208-RECBoulder 16-Wk Session/Full Sem
+Class Code 33135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Correia
+
+Room GUGG 3
+Meeting Time Tu 2:00PM - 2:50PM
+Section 209-RECBoulder 16-Wk Session/Full Sem
+Class Code 33136
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+GEOG 1982 - World Regional Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Feinhandler
+
+Room GUGG 206
+Meeting Time We 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35548
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+46
+GEOG 2271 - Introduction to the Arctic Environment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Serreze
+
+Room GUGG 205
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+GEOG 3023 - Statistics for Geography
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Lora Koenig
+
+Room GUGG 205
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24054
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+GEOG 3023 - Statistics for Geography
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Morrissey
+
+Room GUGG 6
+Meeting Time Mo 1:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24055
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+GEOG 3023 - Statistics for Geography
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Morrissey
+
+Room GUGG 6
+Meeting Time Th 11:00AM - 12:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 24056
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+GEOG 3053 - Cartography: Visualization and Information Design
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Lovell
+
+Room GUGG 205
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 18481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+GEOG 3053 - Cartography: Visualization and Information Design
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Mehran Ghandehari
+
+Room GUGG 6
+Meeting Time Fr 11:00AM - 1:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 18482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+GEOG 3053 - Cartography: Visualization and Information Design
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Mehran Ghandehari
+
+Room GUGG 6
+Meeting Time Th 4:00PM - 6:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 21108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+GEOG 3402 - Natural Hazards
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Travis
+
+Room HLMS 252
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+GEOG 3412 - Conservation Practice and Resource Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Lander
+
+Room HLMS 141
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24045
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+GEOG 3422 - Political Ecology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Mara Goldman
+
+Room GUGG 205
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+GEOG 3601 - Principles of Climate
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Blanken
+
+Room DUAN G2B47
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17061
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Colleen Reid
+
+Room HLMS 252
+Meeting Time TuTh 12:30PM - 1:20PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23865
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caitlin Ryan
+
+Room ECON 119
+Meeting Time Mo 12:00PM - 12:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 34000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caitlin Ryan
+
+Room HLMS 185
+Meeting Time Mo 2:00PM - 2:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 34001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica DiCarlo
+
+Room HLMS 247
+Meeting Time Tu 8:00AM - 8:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 34002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica DiCarlo
+
+Room HLMS 247
+Meeting Time Th 8:00AM - 8:50AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 34003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica DiCarlo
+
+Room GUGG 2
+Meeting Time Fr 2:00PM - 2:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 34004
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+GEOG 3692 - Introduction to Global Public Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Caitlin Ryan
+
+Room HUMN 186
+Meeting Time Th 3:30PM - 4:20PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 34005
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+GEOG 3742 - Place, Power, and Contemporary Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Najeeb Jan
+
+Room HUMN 135
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+GEOG 3742 - Place, Power, and Contemporary Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Abby Hickcox
+
+Room LIBR M300D
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 23429
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+GEOG 3812 - Mexico, Central America, and the Caribbean
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Fernando Riosmena
+
+Room HLMS 241
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24059
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+GEOG 3930 - Internship
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Blanken
+
+Room SEE DEPT
+Meeting Time Th 5:00PM - 6:50PM
+Section 801-INTBoulder 16-Wk Session/Full Sem
+Class Code 19813
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+GEOG 4023 - Introduction to Quantitative Methods in Human Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Carson Farmer
+
+Room GUGG 201E
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16754
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+GEOG 4023 - Introduction to Quantitative Methods in Human Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Petra Norlund
+
+Room GUGG 6
+Meeting Time Mo 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 21481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+GEOG 4093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Adler
+
+Room RAMY N1B31
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16575
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+71
+GEOG 4093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 20220
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+GEOG 4093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time We 9:00AM - 10:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33761
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+GEOG 4100 - Special Topics in Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Agroforestry-Global Perspect
+Notes: This is a combined section class
+Instructor Amy Quandt
+
+Room BESC 185
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+GEOG 4103 - Introduction to Geographic Information Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefan Leyk
+
+Room GUGG 205
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 18483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+GEOG 4103 - Introduction to Geographic Information Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Georgios Charisoulis
+
+Room GUGG 6
+Meeting Time Tu 3:30PM - 6:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 18484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+GEOG 4103 - Introduction to Geographic Information Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Georgios Charisoulis
+
+Room GUGG 6
+Meeting Time We 11:00AM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 21111
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+GEOG 4110 - Special Topics in Geography
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Advanced Remote Sensing
+Notes: This is a combined section class
+Instructor Waleed Abdalati
+
+Room EKLC W240
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24066
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+GEOG 4110 - Special Topics in Geography
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Advanced Remote Sensing
+Notes: This is a combined section class
+Instructor Jessica Bobeck
+
+Room EKLC W240
+Meeting Time Tu 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24067
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+GEOG 4241 - Principles of Geomorphology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Anderson
+
+Room BESC 355
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+GEOG 4241 - Principles of Geomorphology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Anderson, 
+William Armstrong
+
+Room BESC 1B81
+Meeting Time Th 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+GEOG 4303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefan Leyk
+
+Room GUGG 2
+Meeting Time Mo 4:00PM - 6:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24038
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+GEOG 4303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alexander Stum
+
+Room GUGG 6
+Meeting Time Tu 12:30PM - 3:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+GEOG 4303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alexander Stum
+
+Room GUGG 6
+Meeting Time We 4:00PM - 6:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 24040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+GEOG 4311 - Watershed Biogeochemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Williams
+
+Room GUGG 201E
+Meeting Time We 4:00PM - 6:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39394
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+GEOG 4321 - Snow Hydrology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Noah Molotch
+
+Room GUGG 201E
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+GEOG 4321 - Snow Hydrology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Stults
+
+Room GUGG 6
+Meeting Time We 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 21131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+GEOG 4501 - Water Resources and Water Management of Western United States
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul Lander
+
+Room GUGG 205
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21109
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+GEOG 4563 - Earth Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leah Wasser
+
+Room SEEC S125
+Meeting Time We 3:00PM - 5:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+GEOG 4722 - Field Methods in Human Geography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Fluri
+
+Room GUGG 201E
+Meeting Time Tu 3:30PM - 6:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+GEOG 4742 - Topics in Enviromment and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Food
+Instructor Kaitlin Fertaly
+
+Room HLMS 267
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33392
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+GEOG 4762 - Geographies of Political Islam: Empire, Terror and Revolution
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Najeeb Jan
+
+Room HLMS 141
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24521
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+GEOG 4990 - Senior Thesis
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo nil
+Instructor Holly Barnard
+
+Room TBA
+Meeting Time TBA
+Section 802-OTHBoulder 16-Wk Session/Full Sem
+Class Code 33759
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+GEOG 5023 - Introduction to Quantitative Methods in Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Carson Farmer
+
+Room GUGG 201E
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 20161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+GEOG 5023 - Introduction to Quantitative Methods in Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Petra Norlund
+
+Room GUGG 6
+Meeting Time Mo 9:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 21482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+95
+GEOG 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Adler
+
+Room RAMY N1B31
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+GEOG 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+GEOG 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time We 9:00AM - 10:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33762
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+GEOG 5100 - Special Topics: Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Watershed Biogeochemistry
+Notes: This is a combined section class
+Instructor Mark Williams
+
+Room GUGG 201E
+Meeting Time We 4:00PM - 6:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39395
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+GEOG 5100 - Special Topics: Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Writing&Presenting in Phys Sci
+Instructor Holly Barnard
+
+Room GUGG 3
+Meeting Time We 4:00PM - 6:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22775
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+GEOG 5100 - Special Topics: Geography
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Pedagogy
+Notes: This is a combined section class
+Instructor Carol Wessman
+
+Room HLMS 263
+Meeting Time Mo 3:00PM - 3:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 23488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+GEOG 5100 - Special Topics: Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Advanced Remote Sensing
+Notes: This is a combined section class
+Instructor Waleed Abdalati
+
+Room EKLC W240
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24068
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+102
+GEOG 5100 - Special Topics: Geography
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Advanced Remote Sensing
+Notes: This is a combined section class
+Instructor Jessica Bobeck
+
+Room EKLC W240
+Meeting Time Tu 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24069
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+GEOG 5103 - Geographic Information Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefan Leyk
+
+Room GUGG 205
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24031
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+104
+GEOG 5103 - Geographic Information Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Georgios Charisoulis
+
+Room GUGG 6
+Meeting Time Tu 3:30PM - 6:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+GEOG 5103 - Geographic Information Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Georgios Charisoulis
+
+Room GUGG 6
+Meeting Time We 11:00AM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 24033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+GEOG 5161 - Research Design in Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+Thomas Veblen
+
+Room GUGG 205
+GUGG 201E
+Meeting Time Fr 3:00PM - 4:50PM
+Mo 1:00PM - 3:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22964
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+107
+GEOG 5161 - Research Design in Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+Seth Spielman
+
+Room GUGG 205
+GUGG 201E
+Meeting Time Fr 3:00PM - 4:50PM
+We 12:00PM - 2:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23002
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+108
+GEOG 5303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefan Leyk
+
+Room GUGG 2
+Meeting Time Mo 4:00PM - 6:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+GEOG 5303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alexander Stum
+
+Room GUGG 6
+Meeting Time Tu 12:30PM - 3:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 24042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+GEOG 5303 - GIS Programming for Spatial Analysis
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alexander Stum
+
+Room GUGG 6
+Meeting Time We 4:00PM - 6:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 24043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+GEOG 5321 - Snow Hydrology
+Units 4 - 40
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Noah Molotch
+
+Room GUGG 201E
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+112
+GEOG 5321 - Snow Hydrology
+Units 4 - 40
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Stults
+
+Room GUGG 6
+Meeting Time We 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 21133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+113
+GEOG 5501 - Water Resources and Water Management of Western United States
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Paul Lander
+
+Room GUGG 205
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21110
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+GEOG 5563 - Earth Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leah Wasser
+
+Room SEEC S125
+Meeting Time We 3:00PM - 5:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+GEOG 5632 - Development Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Yeh
+
+Room GUGG 201E
+Meeting Time Fr 11:00AM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23411
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+GEOG 5722 - Field Methods in Human Geography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Fluri
+
+Room GUGG 201E
+Meeting Time Tu 3:30PM - 6:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33996
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+GEOG 5930 - Advanced Internship
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo nil
+Instructor John Pitlick
+
+Room SEE DEPT
+Meeting Time Th 5:00PM - 6:50PM
+Section 801-INTBoulder 16-Wk Session/Full Sem
+Class Code 19815
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+GEOG 6732 - Formal Population Geography: Analysis and Forecasting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Fernando Riosmena
+
+Room GUGG 201E
+Meeting Time Mo 10:00AM - 12:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

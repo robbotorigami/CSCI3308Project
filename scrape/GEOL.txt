@@ -1,0 +1,1254 @@
+0
+GEOL 1010 - Introduction to Geology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Small Tilton
+
+Room BESC 180
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15750
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+GEOL 1010 - Introduction to Geology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Stempien
+
+Room BESC 180
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15772
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+GEOL 1010 - Introduction to Geology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 67
+Waitlist Total 0
+MiscInfo nil
+Instructor Omero Orlandini
+
+Room BESC 180
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+GEOL 1010 - Introduction to Geology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 93
+Waitlist Total nil
+MiscInfo nil
+Instructor Michael Willis
+
+Room BESC 180
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 32814
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+GEOL 1020 - Introduction to Earth History
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 38
+Waitlist Total 0
+MiscInfo nil
+Instructor Jaelyn Eberle
+
+Room ECCR 245
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15773
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+GEOL 1020 - Introduction to Earth History
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 73
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Snell
+
+Room BESC 180
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15774
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Mylene Jacquemart
+
+Room BESC 155
+Meeting Time Mo 8:00AM - 10:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Lina Perez Angel, 
+Lon Abbott
+
+Room BESC 155
+Meeting Time Mo 11:00AM - 1:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Lina Perez Angel, 
+Lon Abbott
+
+Room BESC 155
+Meeting Time Mo 2:00PM - 4:50PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hurst, 
+Lon Abbott
+
+Room BESC 155
+Meeting Time We 11:00AM - 1:50PM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Lucas Haas
+
+Room BESC 155
+Meeting Time Tu 2:00PM - 4:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Kimbrough, 
+Lon Abbott
+
+Room BESC 155
+Meeting Time Th 11:00AM - 1:50PM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15872
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Kimbrough, 
+Lon Abbott
+
+Room BESC 155
+Meeting Time Tu 11:00AM - 1:50PM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15919
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Stamp, 
+Lon Abbott
+
+Room BESC 145
+Meeting Time Tu 2:00PM - 4:50PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Nadine Reitman
+
+Room BESC 145
+Meeting Time Mo 2:00PM - 4:50PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Nadine Reitman
+
+Room BESC 145
+Meeting Time We 11:00AM - 1:50PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24287
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Stamp, 
+Lon Abbott
+
+Room BESC 145
+Meeting Time Tu 11:00AM - 1:50PM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24288
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Mike Zawaski
+
+Room BESC 145
+Meeting Time We 8:00AM - 10:50AM
+Section 014-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Lucas Haas
+
+Room BESC 145
+Meeting Time Th 2:00PM - 4:50PM
+Section 015-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15924
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Hurst, 
+Lon Abbott
+
+Room BESC 1B81
+Meeting Time Fr 11:00AM - 1:50PM
+Section 016-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+GEOL 1030 - Introduction to Geology Laboratory 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Mylene Jacquemart
+
+Room BESC 1B81
+Meeting Time Mo 2:00PM - 4:50PM
+Section 017-MLSBoulder 16-Wk Session/Full Sem
+Class Code 40316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+GEOL 1040 - Geology of Colorado
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 37
+Waitlist Total 0
+MiscInfo nil
+Instructor Pamela Stephens
+
+Room BESC 180
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32602
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+GEOL 2001 - Planet Earth
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Anderson
+
+Room BESC 1B75
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23789
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+GEOL 2001 - Planet Earth
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Carbone, 
+Robert Anderson
+
+Room BESC 1B75
+Meeting Time We 1:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23790
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+GEOL 2001 - Planet Earth
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Anderson, 
+Thomas Enzminger
+
+Room BESC 1B75
+Meeting Time Fr 2:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 23791
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+GEOL 2005 - Introduction to Earth Materials
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott
+
+Room BESC 1B75
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22913
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+GEOL 2005 - Introduction to Earth Materials
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Mize, 
+Lon Abbott
+
+Room BESC 455
+Meeting Time Mo 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22914
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+GEOL 2005 - Introduction to Earth Materials
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Mize, 
+Lon Abbott
+
+Room BESC 455
+Meeting Time Th 2:00PM - 4:45PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 22915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+GEOL 2040 - The Search for Life in the Universe
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 37
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Axel Brandenburg, 
+Daniel Everding
+
+Room BESC 180
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22291
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+GEOL 2040 - The Search for Life in the Universe
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mike Zawaski, 
+Stephen Mojzsis
+
+Room HUMN 135
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38565
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+GEOL 2700 - Introduction to Field Geology
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Pfeiffer, 
+Lon Abbott
+Lon Abbott
+
+Room BESC 1B75
+BESC 1B75
+Meeting Time TuTh 12:00PM - 1:50PM
+TuTh 2:00PM - 5:50PM
+Section 001-FLDBoulder 16-Wk Session/Full Sem
+Class Code 21138
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+31
+GEOL 3020 - Petrology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Stern
+
+Room BESC 1B75
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 15926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+GEOL 3020 - Petrology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Stern, 
+Rhiana Henry
+
+Room BESC 455
+Meeting Time Tu 2:00PM - 4:45PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 15927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+GEOL 3020 - Petrology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Stern, 
+Derek Weller
+
+Room BESC 455
+Meeting Time We 2:00PM - 4:45PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 15928
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+GEOL 3020 - Petrology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Stern, 
+Derek Weller
+
+Room BESC 455
+Meeting Time We 5:00PM - 7:45PM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 15929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+GEOL 3040 - Global Change: The Recent Geological Record
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo nil
+Instructor Gifford Miller
+
+Room BESC 185
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+GEOL 3070 - Introduction to Oceanography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Marchitto
+
+Room BESC 180
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+GEOL 3090 - Developing Scientific Writing Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Lon Abbott, 
+Peter Molnar
+
+Room BESC 265
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23034
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+GEOL 3320 - Introduction to Geochemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alexis Templeton, 
+Anne Fetrow
+Alexis Templeton
+
+Room BESC 185
+BESC 355
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Mo 4:00PM - 4:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15933
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+39
+GEOL 3430 - Sedimentology and Stratigraphy
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor David Budd
+
+Room BESC 185
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+GEOL 3430 - Sedimentology and Stratigraphy
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Budd, 
+Rebekah Simon
+
+Room BESC 265
+Meeting Time Tu 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+GEOL 3430 - Sedimentology and Stratigraphy
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Budd, 
+Rebekah Simon
+
+Room BESC 265
+Meeting Time We 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 15938
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+GEOL 3520 - Energy & Climate Change: An Interdisciplinary Approach
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James White
+
+Room BESC 185
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+GEOL 3720 - Evolution of Life: The Geological Record
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Stempien
+
+Room BESC 185
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32603
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+GEOL 3950 - Natural Catastrophes and Geologic Hazards
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 48
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Hynek
+
+Room CHEM 142
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+GEOL 4093 - Remote Sensing of the Environment
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Adler
+
+Room RAMY N1B31
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 20265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+GEOL 4093 - Remote Sensing of the Environment
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 20266
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+GEOL 4093 - Remote Sensing of the Environment
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time We 9:00AM - 10:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+GEOL 4130 - Principles of Geophysics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Anne Sheehan, 
+Jefferson Yarce
+
+Room BESC 1B75
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15957
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+GEOL 4241 - Principles of Geomorphology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Anderson
+
+Room BESC 355
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+GEOL 4241 - Principles of Geomorphology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Anderson, 
+William Armstrong
+
+Room BESC 1B81
+Meeting Time Th 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+GEOL 4330 - Cosmochemistry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Mojzsis
+
+Room BESC 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35064
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+GEOL 4670 - Isotope Geology
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lang Farmer
+
+Room BESC 1B75
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 38580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+GEOL 4700 - Special Geological Topics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Geologic Evolution in Amer SW
+Notes: This is a combined section class
+Instructor Jennifer Stempien, 
+Lon Abbott
+
+Room BESC 355
+Meeting Time Tu 6:00PM - 6:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24546
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+GEOL 4700 - Special Geological Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Geol Unconventional Resources
+Notes: This is a combined section class
+Instructor Paul Weimer
+
+Room BESC 355
+Meeting Time We 1:00PM - 4:00PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 38582
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+GEOL 4700 - Special Geological Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Organic Geochemistry
+Instructor Julio Sepulveda Arellano
+
+Room BESC 355
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 40315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+GEOL 4721 - Field Methods in Active Tectonics
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karl Mueller, 
+Katherine Kravitz
+
+Room BESC 185
+Meeting Time Th 5:00PM - 5:50PM
+Section 001-FLDBoulder 16-Wk Session/Full Sem
+Class Code 21103
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+GEOL 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor John Adler
+
+Room RAMY N1B31
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22525
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+GEOL 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 22526
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+GEOL 5093 - Remote Sensing of the Environment
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kyle Rodman
+
+Room GUGG 6
+Meeting Time We 9:00AM - 10:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33763
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+GEOL 5330 - Cosmochemistry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Mojzsis
+
+Room BESC 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38584
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+GEOL 5670 - Isotope Geology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lang Farmer
+
+Room BESC 1B75
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+GEOL 5700 - Geological Topics Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo Topic: Paleoenvironmental Evidence
+Notes: This is a combined section class
+Instructor Staff
+
+Room BESC 1B81
+Meeting Time Th 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23399
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+GEOL 5700 - Geological Topics Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Grad Geochemical Principles
+Notes: This is a combined section class
+Instructor Alexis Templeton, 
+Anne Fetrow
+Alexis Templeton
+
+Room BESC 185
+BESC 355
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Mo 4:00PM - 4:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22323
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+64
+GEOL 5700 - Geological Topics Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Geol Unconventional Resources
+Notes: This is a combined section class
+Instructor Paul Weimer
+
+Room BESC 355
+Meeting Time We 1:00PM - 4:00PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+GEOL 5700 - Geological Topics Seminar
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Climate in Paleoaltimetry
+Instructor Kathryn Snell
+
+Room SEE DEPT
+Meeting Time Tu 2:00PM - 3:40PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+GEOL 5700 - Geological Topics Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Geologic Evolution in Amer SW
+Notes: This is a combined section class
+Instructor Jennifer Stempien, 
+Lon Abbott
+
+Room BESC 355
+Meeting Time Tu 6:00PM - 6:50PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24547
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+GEOL 5700 - Geological Topics Seminar
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Tectonics & Climate
+Instructor Peter Molnar
+
+Room BESC 265
+Meeting Time Tu 12:00PM - 2:00PM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35056
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+GEOL 5700 - Geological Topics Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Organic Geochemistry
+Instructor Julio Sepulveda Arellano
+
+Room BESC 355
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+GEOL 5700 - Geological Topics Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Intro Geol Science Faculty
+Instructor Shemin Ge
+
+Room BESC 265
+Meeting Time Th 8:00AM - 8:50AM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40472
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+GEOL 5700 - Geological Topics Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 48
+Waitlist Total 0
+MiscInfo Topic: Geomorphology Reading Seminar
+Instructor Robert Anderson
+
+Room SEE DEPT
+Meeting Time We 1:00PM - 1:50PM
+Section 010-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+GEOL 5830 - Topics in Planetary Science
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Mars
+Instructor Bruce Jakosky
+
+Room DUAN E126
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+GEOL 5835 - Seminar in Planetary Science
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Gravity in Our Solar System
+Notes: This is a combined section class
+Instructor Kristy Tiampo
+
+Room DUAN E126
+Meeting Time Tu 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+GEOL 6060 - Petroleum Geology of Turbidite Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Weimer
+
+Room BESC 355
+Meeting Time Mo 1:00PM - 4:00PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23570
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+GEOL 6060 - Petroleum Geology of Turbidite Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Weimer
+
+Room BESC 355
+Meeting Time Fr 1:00PM - 4:00PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23571
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

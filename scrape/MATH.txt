@@ -1,0 +1,3346 @@
+0
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Eitan Angel
+
+Room HUMN 150
+Meeting Time MoFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 18039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan DuBeau
+
+Room FLMG 154
+Meeting Time Tu 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 18040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan DuBeau
+
+Room FLMG 154
+Meeting Time Tu 9:00AM - 9:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 18041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan DuBeau
+
+Room FLMG 154
+Meeting Time Tu 10:00AM - 10:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 18042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan DuBeau
+
+Room FLMG 154
+Meeting Time Tu 12:00PM - 12:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 22301
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Eitan Angel
+
+Room HUMN 150
+Meeting Time MoFr 10:00AM - 10:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 18043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhenhua Wang
+
+Room ECCR 151
+Meeting Time Tu 8:00AM - 8:50AM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 18044
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhenhua Wang
+
+Room ECCR 151
+Meeting Time Tu 9:00AM - 9:50AM
+Section 022-RECBoulder 16-Wk Session/Full Sem
+Class Code 18045
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhenhua Wang
+
+Room MATH 170
+Meeting Time Tu 1:00PM - 1:50PM
+Section 023-RECBoulder 16-Wk Session/Full Sem
+Class Code 18046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zhenhua Wang
+
+Room ECCR 151
+Meeting Time Tu 12:00PM - 12:50PM
+Section 024-RECBoulder 16-Wk Session/Full Sem
+Class Code 22302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Pass
+
+Room ECCR 265
+Meeting Time MoFr 12:00PM - 12:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 22048
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Long
+
+Room ECCR 151
+Meeting Time Tu 10:00AM - 10:50AM
+Section 031-RECBoulder 16-Wk Session/Full Sem
+Class Code 22049
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Long
+
+Room ECCR 151
+Meeting Time Tu 11:00AM - 11:50AM
+Section 032-RECBoulder 16-Wk Session/Full Sem
+Class Code 22050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Long
+
+Room ECCR 151
+Meeting Time Tu 1:00PM - 1:50PM
+Section 033-RECBoulder 16-Wk Session/Full Sem
+Class Code 22051
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Long
+
+Room ECCR 151
+Meeting Time Tu 2:00PM - 2:50PM
+Section 034-RECBoulder 16-Wk Session/Full Sem
+Class Code 22052
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Eitan Angel
+
+Room HALE 270
+Meeting Time MoFr 1:00PM - 1:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 23372
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Lotfi
+
+Room FLMG 154
+Meeting Time Tu 1:00PM - 1:50PM
+Section 041-RECBoulder 16-Wk Session/Full Sem
+Class Code 23373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Lotfi
+
+Room MATH 170
+Meeting Time Tu 3:00PM - 3:50PM
+Section 042-RECBoulder 16-Wk Session/Full Sem
+Class Code 23374
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Lotfi
+
+Room MATH 170
+Meeting Time Tu 4:00PM - 4:50PM
+Section 043-RECBoulder 16-Wk Session/Full Sem
+Class Code 23375
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Ali Lotfi
+
+Room MATH 170
+Meeting Time Tu 5:00PM - 5:50PM
+Section 044-RECBoulder 16-Wk Session/Full Sem
+Class Code 23376
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+MATH 1011 - College Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Trevor Jack
+
+Room ECCR 139
+Meeting Time Mo 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35566
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+21
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room FLMG 241
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 20736
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+MATH 1011 - College Algebra
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Diana Maggiore
+Diana Maggiore
+
+Room FLMG 150
+FLMG 170
+Meeting Time MoWeFr 12:00PM - 12:50PM
+TuTh 12:00PM - 12:50PM
+Section 311R-LECBoulder 16-Wk Session/Full Sem
+Class Code 33204
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+23
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Pass
+
+Room FLMG 156
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Moody
+
+Room FLMG 104
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Moody
+
+Room ECCR 105
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 21085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Zowada
+
+Room FLMG 102
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 21086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Moody
+
+Room FLMG 154
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 21087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Zowada
+
+Room STAD 135
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 23149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Moody
+
+Room ECCR 105
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 21088
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdel Baouchi
+
+Room FLMG 102
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 21093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdel Baouchi
+
+Room FLMG 104
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 23150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Zowada
+
+Room MATH 170
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdel Baouchi
+
+Room FLMG 104
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 22925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Zowada
+
+Room FLMG 154
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 34831
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Abdel Baouchi
+
+Room FLMG 103
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 34832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+MATH 1012 - Quantitative Reasoning and Mathematical Skills
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Matthew Pass
+
+Room FLMG 170
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 20748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+MATH 1081 - Calculus for Social Science and Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Manley
+
+Room ECCR 1B51
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 18048
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+MATH 1081 - Calculus for Social Science and Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Nita
+
+Room ECCR 151
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 18049
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Harper
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24257
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Nita
+
+Room CLRE 104
+Meeting Time MoTuWeFr 8:00AM - 8:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24258
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Harper
+
+Room BESC 1B81
+Meeting Time MoTuWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24259
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Nita
+
+Room MUEN D144
+Meeting Time MoTuWeFr 9:00AM - 9:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Grulke
+
+Room MATH 170
+Meeting Time MoTuWeFr 10:00AM - 10:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 24261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Harper
+
+Room BESC 1B81
+Meeting Time MoTuWeFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 24262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Nita
+
+Room HLMS 255
+Meeting Time MoTuWeFr 11:00AM - 11:50AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 24263
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bahareh Momken
+
+Room MATH 170
+Meeting Time MoTuWeFr 11:00AM - 11:50AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 24264
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bahareh Momken
+
+Room STAD 112
+Meeting Time MoTuWeFr 12:00PM - 12:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 24265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Roy
+
+Room MUEN E123
+Meeting Time MoTuWeFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Roy
+
+Room STAD 112
+Meeting Time MoTuWeFr 1:00PM - 1:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 23147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Grulke
+
+Room MATH 170
+Meeting Time MoTuWeFr 12:00PM - 12:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 23148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Lindsey
+
+Room FLMG 157
+Meeting Time MoTuWeFr 2:00PM - 2:50PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 24531
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Roy
+
+Room MCOL E155
+Meeting Time MoTuWeFr 3:00PM - 3:50PM
+Section 014-LECBoulder 16-Wk Session/Full Sem
+Class Code 24599
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Moritz
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 3:00PM - 3:50PM
+Section 015-LECBoulder 16-Wk Session/Full Sem
+Class Code 24621
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Moritz
+
+Room STAD 112
+Meeting Time MoTuWeFr 4:00PM - 4:50PM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 34836
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Bahareh Momken
+
+Room FLMG 157
+Meeting Time MoTuWeFr 4:00PM - 4:50PM
+Section 017-LECBoulder 16-Wk Session/Full Sem
+Class Code 34837
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Newberry
+
+Room ECCR 139
+Meeting Time MoTuWeFr 2:00PM - 2:50PM
+Section 018-LECBoulder 16-Wk Session/Full Sem
+Class Code 40523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+MATH 1112 - Mathematical Analysis in Business
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bahareh Momken
+
+Room MATH 170
+Meeting Time MoTuWeFr 2:00PM - 2:50PM
+Section 019-LECBoulder 16-Wk Session/Full Sem
+Class Code 40862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+MATH 1120 - Mathematics for Elementary Educators 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Grulke
+
+Room MATH 170
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Harrison Stalvey, 
+Noah Williams
+
+Room DUAN G131
+Meeting Time MoTuWeFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Harrison Stalvey, 
+Noah Williams
+
+Room MCOL E186
+Meeting Time MoTuWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 18050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ira Becker, 
+Noah Williams
+
+Room MCOL E155
+Meeting Time MoTuWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 18051
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Ilia Mishev, 
+Noah Williams
+
+Room STAD 112
+Meeting Time MoTuWeFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Divya Vernerey, 
+Vanessa Little
+
+Room CLUB 4
+Meeting Time MoTuWeFr 12:00PM - 12:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 23867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Divya Vernerey, 
+Vanessa Little
+
+Room MCOL E155
+Meeting Time MoTuWeFr 1:00PM - 1:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 23868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Harrison Stalvey, 
+Vanessa Little
+
+Room STAD 112
+Meeting Time MoTuWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 22892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Shriner
+
+Room MUEN E118
+Meeting Time TuTh 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35567
+Meeting Dates 01/24/2017 - 05/04/2017
+Open Status Open
+67
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Maung Moon
+Maung Moon
+
+Room FLMG 244
+FLMG 241
+Meeting Time MoWeFr 12:00PM - 12:50PM
+TuTh 12:00PM - 12:50PM
+Section 311R-LECBoulder 16-Wk Session/Full Sem
+Class Code 33472
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+68
+MATH 1150 - Precalculus Mathematics
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo nil
+Instructor William Piper
+
+Room FLMG 244
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 312R-LECBoulder 16-Wk Session/Full Sem
+Class Code 40317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor David Grant
+
+Room MATH 170
+Meeting Time Th 9:00AM - 10:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34916
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Harrison Stalvey
+
+Room MATH 170
+Meeting Time Th 11:00AM - 12:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor David Grant
+
+Room MATH 170
+Meeting Time Th 1:00PM - 2:50PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34918
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 9:00AM - 10:50AM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34919
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 11:00AM - 12:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+MATH 1151 - Precalculus Supplemental Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 1:00PM - 2:50PM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+MATH 1212 - Data and Models
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Pass
+
+Room FLMG 170
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 32718
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendt Gerics, 
+Sarah Arpin
+
+Room MUEN E431
+Meeting Time MoTuWeThFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leo Herr, 
+Sarah Arpin
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 20483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Farquhar, 
+Tyler Schrock
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 20484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Farquhar, 
+Lee Roberson
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 20485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Braden Balentine, 
+Joel Ornstein
+
+Room MUEN E123
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 20486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Arpin, 
+Xingzhou Yang
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 20487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lauren Farquhar, 
+Lee Roberson
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 20488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Ornstein, 
+Shen Lu
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 20489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Ornstein, 
+Suzanne Craig
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 20490
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Stocker, 
+Carlos Pinilla Suarez
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 20491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Wheeler, 
+Nathan Davidoff
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 20492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Stocker, 
+Sion Ledbetter
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 20493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Wheeler, 
+Ruofan Li
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 20494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Martin, 
+Keli Parker
+
+Room MUEN E118
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 014-LECBoulder 16-Wk Session/Full Sem
+Class Code 20495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Isabel Corona, 
+Michael Wheeler
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 3:00PM - 3:50PM
+Section 015-LECBoulder 16-Wk Session/Full Sem
+Class Code 20496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ira Becker, 
+Keli Parker
+
+Room ECCR 131
+Meeting Time MoTuWeThFr 3:00PM - 3:50PM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 24266
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Stocker, 
+Ira Becker
+
+Room ECCR 1B55
+Meeting Time MoTuWeThFr 4:00PM - 4:50PM
+Section 017-LECBoulder 16-Wk Session/Full Sem
+Class Code 24620
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Roy
+
+Room MUEN D144
+Meeting Time TuTh 6:00PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35568
+Meeting Dates 01/24/2017 - 05/04/2017
+Open Status Open
+94
+MATH 1300 - Calculus 1
+Units 5
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Clifford Bridges
+Clifford Bridges
+
+Room FLMG 241
+FLMG 150
+Meeting Time MoWeFr 12:00PM - 12:50PM
+TuTh 12:00PM - 12:50PM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 20749
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+95
+MATH 1310 - Calculus, Systems, and Modeling
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caroline Matson, 
+Krisztina Dearborn
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+MATH 1310 - Calculus, Systems, and Modeling
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caroline Matson, 
+Natalie Coston
+
+Room MUEN D144
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+MATH 1310 - Calculus, Systems, and Modeling
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Albany Thompson, 
+Caroline Matson
+
+Room CLRE 301
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+MATH 2001 - Introduction to Discrete Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Bronstein
+
+Room CLRE 104
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22298
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+MATH 2001 - Introduction to Discrete Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Faan Liu
+
+Room ECCR 131
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+100
+MATH 2001 - Introduction to Discrete Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Su-Ion Ih
+
+Room MUEN E064
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+101
+MATH 2001 - Introduction to Discrete Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Harrison Stalvey
+
+Room ECCR 108
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+MATH 2001 - Introduction to Discrete Mathematics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Manley
+
+Room ECCR 131
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 22882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Riddle, 
+Sarah Salmon
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Riddle, 
+Shawn Burkett
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 20527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Katharine Adamyk, 
+Robert Riddle
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 20528
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+106
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Bronstein, 
+Yu Wang
+
+Room MUEN E123
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 20529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Athena Sparks, 
+Cherry Ng
+
+Room MUEN D144
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 20530
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jun Hong, 
+Saeed Khalili
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 20531
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Bronstein, 
+Matthew Pierson
+
+Room MUEN E123
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 20532
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jun Hong, 
+Mason Pelfrey
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 20533
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+111
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Moorhead, 
+Trubee Davison
+
+Room MUEN E432
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 21793
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+112
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Ilia Mishev, 
+Laken Top
+
+Room FLMG 157
+Meeting Time MoTuWeThFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jun Hong, 
+Mark Pullins
+
+Room MUEN E126
+Meeting Time MoTuWeThFr 4:00PM - 4:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 22223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+114
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Athena Sparks, 
+John Willis
+
+Room MUEN D144
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 22884
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ilia Mishev, 
+Yu Wang
+
+Room CLRE 301
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 23510
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hanson Smith, 
+Matthew Pierson
+
+Room HLMS 263
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 014-LECBoulder 16-Wk Session/Full Sem
+Class Code 24309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+117
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Manley, 
+Matthew Pierson
+
+Room MCOL E158
+Meeting Time MoTuWeThFr 3:00PM - 3:50PM
+Section 015-LECBoulder 16-Wk Session/Full Sem
+Class Code 24310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+118
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Manley, 
+Yu Wang
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 23216
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Athena Sparks, 
+Sebastian Bozlee
+
+Room MUEN D144
+Meeting Time MoTuWeThFr 8:00AM - 8:50AM
+Section 018-LECBoulder 16-Wk Session/Full Sem
+Class Code 34956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Moorhead, 
+Joseph Timmer
+
+Room ECCR 1B51
+Meeting Time MoTuWeThFr 4:00PM - 4:50PM
+Section 019-LECBoulder 16-Wk Session/Full Sem
+Class Code 34957
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+MATH 2300 - Calculus 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Trubee Davison
+
+Room HUMN 1B70
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 34958
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Clifford Blakestad, 
+Pearce Washabaugh
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20535
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+123
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Rosenbaum, 
+Taylor Klotz
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 20542
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+124
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Belcher, 
+Ryan Rosenbaum
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 20543
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+125
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Frinak, 
+Pearce Washabaugh
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 20544
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+126
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Healy, 
+Magda Czubak
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 20545
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Lessard, 
+Ryan Rosenbaum
+
+Room ECCR 1B55
+Meeting Time MoTuWeFr 2:00PM - 2:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 22885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Healy, 
+Kevin Berg
+
+Room MUEN E118
+Meeting Time MoTuWeFr 3:00PM - 3:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 24311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+129
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Pearce Washabaugh, 
+Steven Weinell
+
+Room MUEN E118
+Meeting Time MoTuWeFr 8:00AM - 8:50AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 35007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+MATH 2400 - Calculus 3
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Healy, 
+Megan Ly
+
+Room MUEN E118
+Meeting Time MoTuWeFr 4:00PM - 4:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 35008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wafa Yacoub
+
+Room ECCR 155
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20546
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+132
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wafa Yacoub
+
+Room ECCR 1B51
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+133
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Rooney
+
+Room FLMG 104
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Rooney
+
+Room FLMG 157
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wafa Yacoub
+
+Room ECCR 135
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 22989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+136
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Rooney
+
+Room FLMG 156
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 22990
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xingzhou Yang
+
+Room FLMG 103
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 23379
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+138
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Xingzhou Yang
+
+Room FLMG 156
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 23380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Timmer
+
+Room ECCR 155
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 23381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+140
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Xingzhou Yang
+
+Room ECCR 1B51
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23437
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Timmer
+
+Room ECCR 155
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 23509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+142
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Daniel
+
+Room FLMG 102
+Meeting Time MoWeFr 4:00PM - 4:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 35015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Martha Rooney
+
+Room FLMG 103
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 40499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Daniel
+
+Room MUEN E064
+Meeting Time Tu 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35569
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+145
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Benefiel
+
+Room WVN 181A
+Meeting Time MoWeFr 8:30AM - 9:20AM
+Section 641R-LECBoulder 16-Wk Session/Full Sem
+Class Code 35155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Daniel
+
+Room WVN 181A
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 642R-LECBoulder 16-Wk Session/Full Sem
+Class Code 35156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Daniel
+
+Room WVN 181A
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 643R-LECBoulder 16-Wk Session/Full Sem
+Class Code 35157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+MATH 2510 - Introduction to Statistics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Wafa Yacoub
+
+Room WVN 181A
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 644R-LECBoulder 16-Wk Session/Full Sem
+Class Code 35158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+149
+MATH 3001 - Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Markus Pflaum
+
+Room ECCR 116
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20547
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+MATH 3001 - Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Agnes Beaudry
+
+Room ECCR 110
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+151
+MATH 3001 - Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Agnes Beaudry
+
+Room ECCR 110
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 35017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+MATH 3110 - Introduction to Theory of Numbers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tien Trinh
+
+Room DUAN G2B41
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+153
+MATH 3130 - Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jakub Bulin
+
+Room FLMG 103
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20548
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+154
+MATH 3130 - Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pedro Berrizbeitia
+
+Room ECCR 135
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 20549
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+155
+MATH 3130 - Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Martin Walter
+
+Room ECCR 1B51
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22257
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+156
+MATH 3130 - Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Elliott
+
+Room FLMG 157
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22340
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+MATH 3130 - Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pedro Berrizbeitia
+
+Room FLMG 156
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 22887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+158
+MATH 3135 - Honors Introduction to Linear Algebra
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Wise
+
+Room ECST 1B21
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+MATH 3140 - Abstract Algebra 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Elliott
+
+Room ECCR 151
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20550
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+160
+MATH 3210 - Euclidean and Non-Euclidean Geometry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Kearnes
+
+Room FLMG 102
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22947
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+161
+MATH 3430 - Ordinary Differential Equations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Judith Jesudason
+
+Room HALE 260
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20592
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+162
+MATH 3430 - Ordinary Differential Equations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Fox
+
+Room FLMG 102
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 20593
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+163
+MATH 3450 - Introduction to Complex Variables
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Su-Ion Ih
+
+Room ECCR 110
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+164
+MATH 3510 - Introduction to Probability and Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Kopel
+
+Room ECCR 155
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+165
+MATH 3850 - Seminar in Guided Mathematics Instruction
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Bronstein
+
+Room MATH 350
+Meeting Time Th 5:00PM - 5:50PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24532
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+166
+MATH 3850 - Seminar in Guided Mathematics Instruction
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Grulke
+
+Room SEE DEPT
+Meeting Time Tu 1:00PM - 1:50PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+167
+MATH 3850 - Seminar in Guided Mathematics Instruction
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Lee Roberson
+
+Room MATH 220
+Meeting Time Th 5:00PM - 5:50PM
+Section 804-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+168
+MATH 3850 - Seminar in Guided Mathematics Instruction
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Divya Vernerey
+
+Room MATH 220
+Meeting Time Th 11:00AM - 11:50AM
+Section 805-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+169
+MATH 3850 - Seminar in Guided Mathematics Instruction
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Timmer
+
+Room SEE DEPT
+Meeting Time Th 2:00PM - 2:50PM
+Section 806-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40954
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+170
+MATH 4120 - Introduction to Operations Research
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yu-Jui Huang
+
+Room ECCR 155
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21800
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+171
+MATH 4140 - Abstract Algebra 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sebastian Casalaina-Martin
+
+Room ECCR 118
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+MATH 4330 - Fourier Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Martin Walter
+
+Room ECCR 116
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22258
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+173
+MATH 4470 - Partial Differential Equations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leonard Huang
+
+Room ECCR 116
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+174
+MATH 4510 - Introduction to Probability Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Janos Englander
+
+Room ECCR 151
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+175
+MATH 4510 - Introduction to Probability Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Trubee Davison
+
+Room HLMS 211
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39490
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+176
+MATH 4520 - Introduction to Mathematical Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room FLMG 104
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+177
+MATH 4540 - Introduction to Time Series
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room ECCR 1B51
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20632
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+178
+MATH 4650 - Intermediate Numerical Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Divya Vernerey
+
+Room ECCR 105
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20636
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+179
+MATH 4660 - Intermediate Numerical Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jan Norris
+
+Room ECCR 131
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16723
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+180
+MATH 4805 - Mathematical Teacher Training: Inclusive Pedagogy
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Machen
+
+Room SEE DEPT
+Meeting Time Mo 9:00AM - 9:50AM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+181
+MATH 4820 - History of Mathematical Ideas
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Fox
+
+Room ECCR 118
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21810
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+182
+MATH 5120 - Introduction to Operations Research
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yu-Jui Huang
+
+Room ECCR 155
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21801
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+183
+MATH 5140 - Abstract Algebra 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sebastian Casalaina-Martin
+
+Room ECCR 118
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+184
+MATH 5330 - Fourier Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Martin Walter
+
+Room ECCR 116
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22259
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+185
+MATH 5470 - Partial Differential Equations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leonard Huang
+
+Room ECCR 116
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+186
+MATH 5510 - Introduction to Probability Theory
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Janos Englander
+
+Room ECCR 151
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+187
+MATH 5510 - Introduction to Probability Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Trubee Davison
+
+Room HLMS 211
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+188
+MATH 5520 - Introduction to Mathematical Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room FLMG 104
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16717
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+189
+MATH 5540 - Introduction to Time Series
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sergei Kuznetsov
+
+Room ECCR 1B51
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20633
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+190
+MATH 5610 - Numerical Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Beylkin
+
+Room ECCR 135
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16726
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+191
+MATH 5820 - History of Mathematical Ideas
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Fox
+
+Room ECCR 118
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+192
+MATH 5905 - Mathematics Teacher Training
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor John Martin
+
+Room MATH 350
+Meeting Time We 10:00AM - 10:50AM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 22292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+193
+MATH 6140 - Algebra 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mayr
+
+Room ECCR 110
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20601
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+194
+MATH 6170 - Algebraic Geometry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Wise
+
+Room ECCR 1B08
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+195
+MATH 6180 - Algebraic Number Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Stange
+
+Room ECCR 139
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35096
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+196
+MATH 6220 - Introduction to Topology 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Carla Farsi
+
+Room FLMG 102
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+197
+MATH 6230 - Introduction to Differential Geometry 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Watts
+
+Room ECCR 116
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20602
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+198
+MATH 6250 - Theory of Rings
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Franz Thiem
+
+Room ECCR 118
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35101
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+199
+MATH 6320 - Introduction to Real Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Janos Englander
+
+Room ECCR 131
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+200
+MATH 6360 - Functions of a Complex Variable 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Sebastian Casalaina-Martin
+
+Room ECCR 116
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35104
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+201
+MATH 6730 - Set Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Agnes Szendrei
+
+Room ECCR 1B08
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35107
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+202
+MATH 8304 - Topics in Analysis 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Kumjian
+
+Room ECCR 151
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35111
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+203
+MATH 8340 - Functional Analysis 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Judith Jesudason
+
+Room ECCR 110
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+204
+MATH 8815 - Ulam Seminar
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Kumjian
+
+Room MATH 350
+Meeting Time Th 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

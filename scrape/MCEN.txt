@@ -1,0 +1,2076 @@
+0
+MCEN 1024 - Chemistry for Energy and Materials Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Conrad Stoldt
+
+Room ECCR 245
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+MCEN 1024 - Chemistry for Energy and Materials Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Conrad Stoldt
+
+Room KOBL 308
+Meeting Time Fr 12:00PM - 12:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 28312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+MCEN 1024 - Chemistry for Energy and Materials Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Conrad Stoldt
+
+Room KOBL 308
+Meeting Time Fr 1:00PM - 1:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 28313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+MCEN 1024 - Chemistry for Energy and Materials Science
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Conrad Stoldt
+
+Room KOBL 302
+Meeting Time Fr 2:00PM - 2:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 28908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room BESC 180
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28080
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 11:00AM - 12:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28111
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28112
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28113
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 3:00PM - 4:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28114
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCE 141
+Meeting Time MoWe 3:00PM - 4:50PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 28115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MCEN 1025 - Computer-Aided Design and Fabrication
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room ECCR 235
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 017-LABBoulder 16-Wk Session/Full Sem
+Class Code 39804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+MCEN 2023 - Statics and Structures
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Corey Neu
+
+Room ECCR 1B40
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28287
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MCEN 2024 - Materials Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiaobo Yin
+
+Room ECCR 1B40
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26675
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+MCEN 2043 - Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rong Long
+
+Room ECCR 265
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+MCEN 2063 - Mechanics of Solids
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Todd Murray
+
+Room ECCR 1B40
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27082
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+MCEN 3012 - Thermodynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Knutsen
+
+Room ECCR 245
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+MCEN 3021 - Fluid Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Knutsen
+
+Room ATLS 100
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28029
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+MCEN 3022 - Heat Transfer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Regner
+
+Room ECCR 1B40
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+MCEN 3022 - Heat Transfer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mitrano
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 28013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+MCEN 3025 - Component Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Tsai
+
+Room HUMN 150
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+MCEN 3025 - Component Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Tsai
+
+Room FLMG 156
+Meeting Time Mo 5:00PM - 6:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28011
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+MCEN 3025 - Component Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Tsai
+
+Room FLMG 156
+Meeting Time We 5:00PM - 6:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+MCEN 3025 - Component Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Castro
+
+Room Offered at Colorado Mesa Univ
+Meeting Time MoWe 8:00AM - 9:50AM
+Section 401-LECBoulder 16-Wk Session/Full Sem
+Class Code 33804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+MCEN 3030 - Computational Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Luke Engvall
+
+Room ECCR 1B40
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+MCEN 3032 - Thermodynamics 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Walker
+
+Room ECCR 265
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28264
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+MCEN 3032 - Thermodynamics 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan McNeill
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 28274
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Regner
+
+Room ECCR 1B40
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32612
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Regner
+
+Room ITLL 1B10
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 32613
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Regner
+
+Room ITLL 1B10
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 32614
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Regner
+
+Room ITLL 1B10
+Meeting Time TuTh 2:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 32615
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mitrano
+
+Room Offered at Colorado Mesa Univ
+Meeting Time MoWe 3:30PM - 4:20PM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 28273
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mitrano
+
+Room Offered at Colorado Mesa Univ
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 401-LABBoulder 16-Wk Session/Full Sem
+Class Code 33820
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mitrano
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 3:30PM - 4:20PM
+Section 410-LECBoulder 16-Wk Session/Full Sem
+Class Code 33496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+MCEN 3047 - Data Analysis and Experimental Methods
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mitrano
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 411-LABBoulder 16-Wk Session/Full Sem
+Class Code 33821
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+MCEN 4026 - Manufacturing Processes and Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 44
+Waitlist Total 0
+MiscInfo nil
+Instructor Madalyn Kern
+
+Room ECCR 1B40
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+MCEN 4026 - Manufacturing Processes and Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Madalyn Kern
+
+Room SEE DEPT
+Meeting Time We 8:00AM - 9:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+MCEN 4026 - Manufacturing Processes and Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Madalyn Kern
+
+Room SEE DEPT
+Meeting Time We 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+MCEN 4026 - Manufacturing Processes and Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Madalyn Kern
+
+Room SEE DEPT
+Meeting Time We 1:00PM - 2:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+MCEN 4043 - System Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room ECCR 200
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+MCEN 4043 - System Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room ITLL 1B10
+Meeting Time Fr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+MCEN 4043 - System Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room ITLL 1B10
+Meeting Time Fr 2:00PM - 3:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+MCEN 4047 - Measurements 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Tim Brower
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 400-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28422
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Castro
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 10:00AM - 10:50AM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 28014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Castro
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 401-LABBoulder 16-Wk Session/Full Sem
+Class Code 28015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Daria Kotys, 
+Julie Steinbrenner
+
+Room SEE DEPT
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 27163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marina Vance
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 801-LABBoulder 16-Wk Session/Full Sem
+Class Code 27164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Mumm
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 802-LABBoulder 16-Wk Session/Full Sem
+Class Code 27165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 803-LABBoulder 16-Wk Session/Full Sem
+Class Code 27166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter O'Brien
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 804-LABBoulder 16-Wk Session/Full Sem
+Class Code 27167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Clarke
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 805-LABBoulder 16-Wk Session/Full Sem
+Class Code 27168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jerome Coffey
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 806-LABBoulder 16-Wk Session/Full Sem
+Class Code 27169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stefan Berkower
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 807-LABBoulder 16-Wk Session/Full Sem
+Class Code 27170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jack Zable
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 808-LABBoulder 16-Wk Session/Full Sem
+Class Code 27171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Vincent Powell
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 809-LABBoulder 16-Wk Session/Full Sem
+Class Code 27462
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcelo Bergquist
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 810-LABBoulder 16-Wk Session/Full Sem
+Class Code 27463
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Underkofler
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 811-LABBoulder 16-Wk Session/Full Sem
+Class Code 27877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Maguire
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 812-LABBoulder 16-Wk Session/Full Sem
+Class Code 27878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stefan Elsener
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 813-LABBoulder 16-Wk Session/Full Sem
+Class Code 27879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Himpsel
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 814-LABBoulder 16-Wk Session/Full Sem
+Class Code 27880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 815-LABBoulder 16-Wk Session/Full Sem
+Class Code 27881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Wilson
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 816-LABBoulder 16-Wk Session/Full Sem
+Class Code 27882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 817-LABBoulder 16-Wk Session/Full Sem
+Class Code 27883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalom Ruben
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 818-LABBoulder 16-Wk Session/Full Sem
+Class Code 28183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Ibanez
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 819-LABBoulder 16-Wk Session/Full Sem
+Class Code 28184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor William Vanderheyden
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 820-LABBoulder 16-Wk Session/Full Sem
+Class Code 28185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kenneth Taylor
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 821-LABBoulder 16-Wk Session/Full Sem
+Class Code 28400
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 822-LABBoulder 16-Wk Session/Full Sem
+Class Code 28401
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 823-LABBoulder 16-Wk Session/Full Sem
+Class Code 28402
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jack Zable
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 824-LABBoulder 16-Wk Session/Full Sem
+Class Code 28403
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marina Vance
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 825-LABBoulder 16-Wk Session/Full Sem
+Class Code 28404
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+71
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Linden
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 826-LABBoulder 16-Wk Session/Full Sem
+Class Code 28405
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jack Zable
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 827-LABBoulder 16-Wk Session/Full Sem
+Class Code 28406
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Marina Vance
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 828-LABBoulder 16-Wk Session/Full Sem
+Class Code 28407
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirley Chessman
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 829-LABBoulder 16-Wk Session/Full Sem
+Class Code 28408
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gerard Carroll
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 830-LABBoulder 16-Wk Session/Full Sem
+Class Code 28409
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+MCEN 4085 - Mechanical Engineering Design Project 2
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 831-LABBoulder 16-Wk Session/Full Sem
+Class Code 28410
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+MCEN 4086 - Writing for Design Projects
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Lanci
+
+Room Offered at Colorado Mesa Univ
+Meeting Time Th 9:00AM - 9:50AM
+Section 400-LECBoulder 16-Wk Session/Full Sem
+Class Code 28594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+MCEN 4115 - Mechatronics and Robotics I
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Derek Reamon
+
+Room ITLL 1B50
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28423
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+MCEN 4115 - Mechatronics and Robotics I
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Derek Reamon
+
+Room ITLL 1B10
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28424
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+MCEN 4117 - Anatomy and Physiology for Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Wei Tan
+
+Room ITLL 1B50
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37912
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+MCEN 4131 - Air Pollution Control Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Shelly Miller
+
+Room ITLL 1B50
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28412
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+MCEN 4173 - Finite Element Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Castro
+
+Room Offered at Colorado Mesa Univ
+Meeting Time MoWe 1:30PM - 3:20PM
+Section 401-LECBoulder 16-Wk Session/Full Sem
+Class Code 39539
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+MCEN 4194 - Electrochemical Energy Conversion and Storage
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Se-Hee Lee
+
+Room FLMG 102
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28359
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Industrial Ctrl Design
+Notes: This is a combined section class
+Instructor Shalom Ruben
+
+Room ITLL 1B50
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28051
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Mech of Composite Materials
+Notes: This is a combined section class
+Instructor Rong Long
+
+Room ECCR 1B51
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28052
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Aesthetics in Design
+Notes: This is a combined section class
+Instructor Jean Hertzberg
+
+Room ITLL 1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28505
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Ultrasound Imaging
+Notes: This is a combined section class
+Instructor Todd Murray
+
+Room FLMG 157
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Biomimetic Materials
+Notes: This is a combined section class
+Instructor Virginia Ferguson
+
+Room ITLL 1B50
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 28169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Thin Film Materials
+Notes: This is a combined section class
+Instructor Jianliang Xiao
+
+Room ECCR 116
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 28275
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Cookstove Assessment
+Notes: This is a combined section class
+Instructor Michael Hannigan
+
+Room ECCS 1B14
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28601
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Microsystems Integration
+Notes: This is a combined section class
+Instructor Yung-Cheng Lee
+
+Room ECCR 108
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 28608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Mechanics of Soft Matter
+Notes: This is a combined section class
+Instructor Franck Vernerey
+
+Room FLMG 103
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 28602
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Control Systems Analysis
+Instructor Francois Laubscher
+
+Room Offered at Colorado Mesa Univ
+Meeting Time MoWe 8:00AM - 9:15AM
+Section 401-LECBoulder 16-Wk Session/Full Sem
+Class Code 28595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 73
+Waitlist Total 0
+MiscInfo Topic: Industrial Controls
+Instructor Nathan McNeill
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuTh 3:00PM - 4:50PM
+Section 402-LECBoulder 16-Wk Session/Full Sem
+Class Code 37926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Topic: HVAC Systems
+Instructor Nathan McNeill
+
+Room Offered at Colorado Mesa Univ
+Meeting Time TuThFr 12:00PM - 12:50PM
+Section 403-LECBoulder 16-Wk Session/Full Sem
+Class Code 39540
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: PBL in Rural Schools
+Instructor Daniel Knight, 
+Michael Hannigan
+
+Room FLMG 271B
+Meeting Time We 3:00PM - 3:50PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 32618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Thermofluids Lab
+Instructor Gregory Rieker, 
+Julie Steinbrenner
+
+Room ECCR 139
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 810-LECBoulder 16-Wk Session/Full Sem
+Class Code 32619
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Thermofluids Lab
+Instructor Gregory Rieker, 
+Julie Steinbrenner
+
+Room SEE DEPT
+Meeting Time We 6:00PM - 7:50PM
+Section 811-LABBoulder 16-Wk Session/Full Sem
+Class Code 32660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Thermofluids Lab
+Instructor Gregory Rieker, 
+Julie Steinbrenner
+
+Room SEE DEPT
+Meeting Time We 4:00PM - 5:50PM
+Section 813-LABBoulder 16-Wk Session/Full Sem
+Class Code 32662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+MCEN 4228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Thermofluids Lab
+Instructor Gregory Rieker, 
+Julie Steinbrenner
+
+Room SEE DEPT
+Meeting Time Th 4:00PM - 5:50PM
+Section 816-LABBoulder 16-Wk Session/Full Sem
+Class Code 40451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+MCEN 5027 - Graduate Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Franck Vernerey
+
+Room FLMG 156
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28323
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+102
+MCEN 5042 - Heat Transfer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 54
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronggui Yang
+
+Room ECCR 105
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+MCEN 5044 - Mechanical Behavior of Materials
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Rishi Raj
+
+Room ECCR 110
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+MCEN 5045 - Design for Manufacturability
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Riffell
+
+Room FLMG 156
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28444
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+MCEN 5057 - Environmental Modeling
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jana Milford
+
+Room ECCR 118
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37914
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+MCEN 5075 - Graduate Design II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Daria Kotys
+Daria Kotys
+
+Room FLMG 33
+SEE DEPT
+Meeting Time We 1:00PM - 2:50PM
+We 9:00PM - 9:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28278
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+107
+MCEN 5115 - Mechatronics and Robotics I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Derek Reamon
+
+Room ITLL 1B50
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28425
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+MCEN 5115 - Mechatronics and Robotics I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Derek Reamon
+
+Room ITLL 1B10
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28426
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+MCEN 5117 - Anatomy and Physiology for Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Wei Tan
+
+Room ITLL 1B50
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37913
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+110
+MCEN 5131 - Air Pollution Control Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Shelly Miller
+
+Room ITLL 1B50
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+MCEN 5194 - Electrochemical Energy Conversion and Storage
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Se-Hee Lee
+
+Room FLMG 102
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28348
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Industrial Ctrl Design
+Notes: This is a combined section class
+Instructor Shalom Ruben
+
+Room ITLL 1B50
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Mech of Composite Materials
+Notes: This is a combined section class
+Instructor Rong Long
+
+Room ECCR 1B51
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+114
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Aesthetics in Design
+Notes: This is a combined section class
+Instructor Jean Hertzberg
+
+Room ITLL 1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Ultrasound Imaging
+Notes: This is a combined section class
+Instructor Todd Murray
+
+Room FLMG 157
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Biomimetic Materials
+Notes: This is a combined section class
+Instructor Virginia Ferguson
+
+Room ITLL 1B50
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 28164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Thin Film Materials
+Notes: This is a combined section class
+Instructor Jianliang Xiao
+
+Room ECCR 116
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 28165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Cookstove Assessment
+Notes: This is a combined section class
+Instructor Michael Hannigan
+
+Room ECCS 1B14
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28603
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+119
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Microsystems Integration
+Notes: This is a combined section class
+Instructor Yung-Cheng Lee
+
+Room ECCR 108
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 28609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Mechanics of Soft Matter
+Notes: This is a combined section class
+Instructor Franck Vernerey
+
+Room FLMG 103
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 28604
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Topic: Phononics Therm Metamaterials
+Instructor Baowen Li
+
+Room ECCR 131
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 32623
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Soft Machines
+Instructor Christoph Keplinger
+
+Room FLMG 102
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 017-LECBoulder 16-Wk Session/Full Sem
+Class Code 32624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+MCEN 5228 - Special Topics in Mechanical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Nanotech for the Environment
+Instructor Marina Vance
+
+Room FLMG 271B
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 019-LECBoulder 16-Wk Session/Full Sem
+Class Code 39043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+MCEN 6228 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Structure/Dynamics of Polymers
+Instructor Yifu Ding
+
+Room ECCR 131
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27347
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+125
+MCEN 6228 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo Topic: Kinetics of Chem Systems
+Instructor Nicole Labbe
+
+Room DUAN G2B21
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 37915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+MCEN 6228 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Robust Multivariable Control
+Instructor James Humbert
+
+Room FLMG 271B
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 37965
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+MCEN 7221 - Turbulence
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Hamlington
+
+Room ECCR 155
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32626
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

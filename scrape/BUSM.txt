@@ -1,0 +1,285 @@
+0
+BUSM 2001 - Principles of Marketing and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Lynch, 
+Tracy Jennings
+
+Room RAMY C250
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24938
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+BUSM 2001 - Principles of Marketing and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor John Lynch, 
+Tracy Jennings
+
+Room RAMY C250
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+BUSM 2002 - Financial Accounting and Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 49
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell, 
+Joshua Neil
+
+Room HUMN 150
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32936
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+BUSM 2002 - Financial Accounting and Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell, 
+Joshua Neil
+
+Room HUMN 150
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+BUSM 3001 - Managing Innovation in Organizations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Adams, 
+Laura Smarandescu
+
+Room KOBL 330
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24957
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+BUSM 3001 - Managing Innovation in Organizations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Adams, 
+Laura Smarandescu
+
+Room KOBL 330
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24958
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+BUSM 3002 - Business and Financial Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Zikmund, 
+Thomas Nelson
+
+Room KOBL 230
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24959
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+BUSM 3002 - Business and Financial Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Zikmund, 
+Thomas Nelson
+
+Room KOBL 230
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25061
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+BUSM 3003 - New Venture Creation: Intro to Entrepreneurship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Sid Saleh
+
+Room KOBL 375
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+BUSM 3003 - New Venture Creation: Intro to Entrepreneurship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Gwozdz
+
+Room KOBL 375
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24961
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cynthia Banks, 
+Daniel Zacek
+
+Room KOBL 330
+Meeting Time We 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Culbreth, 
+Keith Stockton
+
+Room KOBL 330
+Meeting Time Tu 5:00PM - 7:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Cynthia Banks
+
+Room KOBL 330
+Meeting Time Th 5:00PM - 7:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Stockton, 
+Mark Kuta
+
+Room KOBL S135
+Meeting Time Mo 5:00PM - 7:45PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 24987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Keith Stockton, 
+William Calderwood
+
+Room KOBL S135
+Meeting Time We 5:00PM - 7:45PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 25001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Cass, 
+Stephanie Drumm
+
+Room KOBL 235
+Meeting Time Th 3:30PM - 6:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 34852
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+BUSM 4001 - Professional Business Plan Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Schupp
+
+Room KOBL 330
+Meeting Time Fr 9:30AM - 12:15PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 34853
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

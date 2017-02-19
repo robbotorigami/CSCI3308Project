@@ -1,0 +1,577 @@
+0
+MUEL 1081 - Basic Music Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Winters
+
+Room MUS C191
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14759
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+MUEL 1115 - Piano Class 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Ramos
+
+Room MUS N180C
+Meeting Time Tu 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14765
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+MUEL 1115 - Piano Class 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Ramos
+
+Room MUS N180C
+Meeting Time Tu 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 14766
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MUEL 1115 - Piano Class 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Morris
+
+Room MUS N180C
+Meeting Time Th 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MUEL 1115 - Piano Class 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Morris
+
+Room MUS N180C
+Meeting Time Th 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 15170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+MUEL 1115 - Piano Class 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Morris
+
+Room MUS N180C
+Meeting Time Fr 10:00AM - 11:15AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 15270
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MUEL 1125 - Piano Class II
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Wietrzynska
+
+Room MUS N180C
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+MUEL 1145 - Guitar Class
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Paulo Oliveira
+
+Room CEDU 1B40
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 801-LECCont Ed-Applied Music
+Class Code 38003
+Meeting Dates 02/06/2017 - 04/19/2017
+Open Status Open
+8
+MUEL 1145 - Guitar Class
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor James Downham
+
+Room CEDU 1B40
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 802-LECCont Ed-Applied Music
+Class Code 38004
+Meeting Dates 02/06/2017 - 04/19/2017
+Open Status Open
+9
+MUEL 1145 - Guitar Class
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Paulo Oliveira
+
+Room CEDU 1B40
+Meeting Time TuTh 12:00PM - 12:50PM
+Section 803-LECCont Ed-Applied Music
+Class Code 38005
+Meeting Dates 02/07/2017 - 04/20/2017
+Open Status Open
+10
+MUEL 1145 - Guitar Class
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Keith Barnhart
+
+Room CEDU 1B40
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 804-LECCont Ed-Applied Music
+Class Code 38006
+Meeting Dates 02/07/2017 - 04/20/2017
+Open Status Open
+11
+MUEL 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Neila Wisniewski Getz
+
+Room MUS N1B59
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14768
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+MUEL 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bryce Bartu
+
+Room MUS N180D
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 14769
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+MUEL 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tessa Romano
+
+Room MUS N1B59
+Meeting Time TuTh 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 14770
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+MUEL 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Halverson
+
+Room MUS N180D
+Meeting Time TuTh 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 14771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+MUEL 1416 - Introduction to Hand Percussion
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Lovell
+
+Room CEDU 1B40
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 801-LECCont Ed-Applied Music
+Class Code 38027
+Meeting Dates 02/06/2017 - 04/21/2017
+Open Status Open
+16
+MUEL 1832 - Appreciation of Music
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 101
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Fuller
+
+Room MUS N1B95D
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14760
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+MUEL 1832 - Appreciation of Music
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Keister
+
+Room MUS N1B95D
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 14761
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+MUEL 1832 - Appreciation of Music
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Ruth Opara
+
+Room HUMN 190
+Meeting Time We 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35571
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+19
+MUEL 2752 - Music in American Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Obluda
+
+Room MUS C199
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14762
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+MUEL 2752 - Music in American Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Mullins
+
+Room MUS N1B85
+Meeting Time Mo 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35572
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+21
+MUEL 2782 - World Music: Africa, Europe, and the Americas
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 72
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Austin Okigbo
+
+Room MUS C199
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15283
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+MUEL 2782 - World Music: Africa, Europe, and the Americas
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 70
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Benjamin Teitelbaum
+
+Room MUS C199
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15284
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+MUEL 2782 - World Music: Africa, Europe, and the Americas
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Teresita Lozano
+
+Room HLMS 191
+Meeting Time Th 6:00PM - 8:00PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 35573
+Meeting Dates 02/09/2017 - 04/20/2017
+Open Status Open
+24
+MUEL 2852 - Music of the Rock Era
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Barnett
+
+Room MUS N1B95D
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14763
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+MUEL 2852 - Music of the Rock Era
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Harris
+
+Room MUS N1B85
+Meeting Time Tu 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35574
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+26
+MUEL 3051 - Basic Composition
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Egemen Kesikli
+
+Room MUS N1B59
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+MUEL 3642 - History of Jazz
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Casey
+
+Room MUS C112
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+MUEL 3642 - History of Jazz
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 136
+Waitlist Total 0
+MiscInfo nil
+Instructor Otto Lee
+
+Room MUS N1B95D
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15143
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+MUEL 3642 - History of Jazz
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Jones
+
+Room LIBR N424A
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 15171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+MUEL 3822 - Words and Music
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marjorie Eddy
+
+Room MUS C191
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33792
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+MUEL 3832 - Music in Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Marjorie Eddy
+
+Room MCKY 102
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+MUEL 3882 - Music and Violence
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Teitelbaum
+
+Room MUS C191
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+MUEL 4081 - Introduction to Music Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Allen
+
+Room MUS N1B46
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+MUEL 4081 - Introduction to Music Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Olson
+
+Room MUS N1B46
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+MUEL 4121 - Topics in Music Technology
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Supercollider
+Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS N1B46
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 15152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

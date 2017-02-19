@@ -1,0 +1,549 @@
+0
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mohr
+
+Room KOBL 340
+Meeting Time MoWe 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33209
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mohr
+
+Room KOBL 235
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Mohr
+
+Room KOBL 330
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Clark
+
+Room KOBL 340
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Clark
+
+Room KOBL 340
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 34899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+FNCE 2010 - Fundamentals of Financial Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell
+
+Room KOBL 220
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 34900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+FNCE 2820 - Introduction to Personal Financial Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 210
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+FNCE 2820 - Introduction to Personal Financial Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 210
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+FNCE 2820 - Introduction to Personal Financial Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 210
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 301E-LECCE Evening Full Session
+Class Code 35543
+Meeting Dates 01/17/2017 - 05/04/2017
+Open Status Open
+9
+FNCE 2820 - Introduction to Personal Financial Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 210
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 302E-LECCE Evening Full Session
+Class Code 35544
+Meeting Dates 01/17/2017 - 05/04/2017
+Open Status Open
+10
+FNCE 3010 - Corporate Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Donchez
+
+Room KOBL 308
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24680
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+FNCE 3010 - Corporate Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Donchez
+
+Room KOBL 308
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24681
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+FNCE 3030 - Investment and Portfolio Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor David Gross
+
+Room KOBL 330
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24684
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+FNCE 3030 - Investment and Portfolio Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor David Gross
+
+Room KOBL S127
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24685
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+FNCE 3040 - Insurance, Risk Management and Retirement Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Hovde
+
+Room KOBL 235
+Meeting Time Mo 5:00PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+FNCE 4000 - Financial Institutions Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 340
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24682
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+FNCE 4000 - Financial Institutions Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Roy Baas
+
+Room KOBL 340
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24683
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+FNCE 4040 - Derivative Securities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Seoyeon Moon, 
+Shaun Davies
+
+Room KOBL 320
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24687
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+FNCE 4040 - Derivative Securities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Seoyeon Moon, 
+Shaun Davies
+
+Room KOBL 320
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24688
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+FNCE 4040 - Derivative Securities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Seoyeon Moon, 
+Shaun Davies
+
+Room KOBL 320
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24689
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+FNCE 4040 - Derivative Securities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Seoyeon Moon, 
+Shaun Davies
+
+Room KOBL 320
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24690
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+FNCE 4070 - Financial Markets and Institutions
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Brown
+
+Room KOBL 220
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24691
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+FNCE 4070 - Financial Markets and Institutions
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Brown
+
+Room KOBL 220
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+FNCE 4070 - Financial Markets and Institutions
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Brown
+
+Room KOBL 220
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24693
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+FNCE 4820 - Topics in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Mathematical Finance
+Notes: This is a combined section class
+Instructor Michael Stutzer
+
+Room KOBL S233
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24782
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+FNCE 4826 - Experimental Seminar: Corporate Governance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Sanjai Bhagat
+
+Room KOBL S125
+Meeting Time Mo 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24945
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+FNCE 4831 - Seminar in Investment Management
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Delgado
+
+Room KOBL 308
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 25102
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Kline
+
+Room KOBL 308
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24694
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Nelson
+
+Room KOBL 340
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24695
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Nelson
+
+Room KOBL 340
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24696
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Kline
+
+Room KOBL 308
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Kline
+
+Room KOBL 308
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+FNCE 4850 - Business Senior Seminar in Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Nelson
+
+Room KOBL 300
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34910
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+FNCE 7100 - Doctoral Seminar: Finance Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Van Wesep
+
+Room KOBL 203
+Meeting Time We 2:00PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

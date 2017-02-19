@@ -1,0 +1,49 @@
+0
+MUSM 5031 - Museums and the Public: Exhibit Development
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Judy Newland
+
+Room HEND 212
+Meeting Time We 1:00PM - 3:50PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 23058
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MUSM 5041 - Museum Administration
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Kociolek
+
+Room HEND 212
+Meeting Time Tu 10:00AM - 12:50PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 32995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MUSM 5918 - Museum Practicum in Advanced Collections Management
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Cain, 
+Talia Karim
+
+Room MCOL E280
+Meeting Time We 6:00PM - 8:50PM
+Section 800-PRABoulder 16-Wk Session/Full Sem
+Class Code 29275
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

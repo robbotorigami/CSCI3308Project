@@ -1,0 +1,978 @@
+0
+ASEN 1022 - Materials Science for Aerospace Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Kurt Maute, 
+Mahmoud Hussein
+
+Room MATH 100
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ASEN 1400 - Gateway to Space
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Koehler
+
+Room ITLL 1B50
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ASEN 1969 - Pathway to Space
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 87
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Koehler
+
+Room MUEN E050
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32760
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ASEN 2003 - Aerospace 3: Introduction to Dynamics and Systems
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Penina Axelrad, 
+Robert Nerem
+
+Room CHEM 140
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ASEN 2003 - Aerospace 3: Introduction to Dynamics and Systems
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Penina Axelrad, 
+Robert Nerem
+
+Room ITLL 2B10
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26837
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ASEN 2003 - Aerospace 3: Introduction to Dynamics and Systems
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Penina Axelrad, 
+Robert Nerem
+
+Room ITLL 2B10
+Meeting Time MoWe 3:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26838
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ASEN 2003 - Aerospace 3: Introduction to Dynamics and Systems
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Penina Axelrad, 
+Robert Nerem
+
+Room ITLL 2B10
+Meeting Time TuTh 4:00PM - 5:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 33185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ASEN 2004 - Aerospace 4: Aerospace Vehicle Design and Performance
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Donna Gerren, 
+Torin Clark
+
+Room DUAN G1B30
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ASEN 2004 - Aerospace 4: Aerospace Vehicle Design and Performance
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Donna Gerren, 
+Torin Clark
+
+Room ITLL 2B10
+Meeting Time MoWe 8:00AM - 9:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26839
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ASEN 2004 - Aerospace 4: Aerospace Vehicle Design and Performance
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Donna Gerren, 
+Torin Clark
+
+Room ITLL 2B10
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26840
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+ASEN 2004 - Aerospace 4: Aerospace Vehicle Design and Performance
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Donna Gerren, 
+Torin Clark
+
+Room ITLL 2B10
+Meeting Time TuTh 2:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ASEN 3036 - Introduction to Human Spaceflight
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Voss
+
+Room ECCR 265
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28263
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ASEN 3046 - Introduction to Humans in Aviation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Frank Scott
+
+Room RAMY C250
+Meeting Time Mo 5:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28950
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ASEN 3128 - Aircraft Dynamics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Lawrence, 
+Nisar Ahmed
+
+Room FLMG 155
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26841
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+ASEN 3128 - Aircraft Dynamics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Lawrence, 
+Nisar Ahmed
+
+Room ITLL 1B10
+Meeting Time Mo 1:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ASEN 3128 - Aircraft Dynamics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dale Lawrence, 
+Nisar Ahmed
+
+Room ITLL 1B10
+Meeting Time We 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26842
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+ASEN 3200 - Orbital Mechanics/Attitude Dynamics and Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Scheeres, 
+Natasha Bosanac
+
+Room ECCR 1B40
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26843
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ASEN 3200 - Orbital Mechanics/Attitude Dynamics and Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Scheeres, 
+Natasha Bosanac
+
+Room ITLL 2B10
+Meeting Time Fr 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26844
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ASEN 3200 - Orbital Mechanics/Attitude Dynamics and Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Scheeres, 
+Natasha Bosanac
+
+Room ITLL 2B10
+Meeting Time Fr 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ASEN 3300 - Aerospace Electronics and Communications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dennis Akos, 
+Robert Marshall
+
+Room BESC 180
+Meeting Time WeFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26846
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ASEN 3300 - Aerospace Electronics and Communications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dennis Akos, 
+Robert Marshall
+
+Room ITLL 2B10
+Meeting Time TuTh 8:00AM - 9:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ASEN 3300 - Aerospace Electronics and Communications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dennis Akos, 
+Robert Marshall
+
+Room ITLL 2B10
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 37144
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ASEN 4028 - Senior Projects 2: Design Practicum
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor James Nabity
+
+Room ECCR 200
+Meeting Time MoWe 4:00PM - 4:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+ASEN 4028 - Senior Projects 2: Design Practicum
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor James Nabity
+
+Room SEE DEPT
+Meeting Time TuTh 12:16PM - 1:56PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+ASEN 4057 - Aerospace Software
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Evans
+
+Room ECCE 141
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 35013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+ASEN 4057 - Aerospace Software
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor John Evans
+
+Room ECCE 141
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 35014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ASEN 5010 - Spacecraft Attitude Dynamics and Control
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Hanspeter Schaub
+
+Room ECCS 1B12
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ASEN 5016 - Space Life Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Anderson
+
+Room ECCS 1B12
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40561
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Scott Palo
+
+Room FLMG 157
+Meeting Time We 5:00PM - 5:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Voss
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Mason
+
+Room SEE DEPT
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 27586
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lakshmi Kantha
+
+Room SEE DEPT
+Meeting Time MoWe 3:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 27587
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Nabity
+
+Room SEE DEPT
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28005
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+ASEN 5018 - Graduate Projects I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kubitschek
+
+Room SEE DEPT
+Meeting Time TuTh 4:00PM - 5:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ASEN 5022 - Dynamics of Aerospace Structures
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Alireza Doostan
+
+Room ECCR 105
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ASEN 5037 - Turbulent Flows
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Hamlington
+
+Room ECCR 155
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28297
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ASEN 5053 - Rocket Propulsion
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Lakshmi Kantha
+
+Room ECCS 1B14
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+ASEN 5148 - Spacecraft Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 56
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Mc Grath
+
+Room ECCS 1B12
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27501
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ASEN 5235 - Introduction to Atmospheric Radiative Transfer and Remote Sensing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sebastian Schmidt
+
+Room SEEC S125
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ASEN 5245 - Radar and Remote Sensing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Williams
+
+Room ECCR 150
+Meeting Time Th 5:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ASEN 5307 - Engineering Data Analysis Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor William Emery
+
+Room ECCS 1B14
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28101
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ASEN 5335 - Aerospace Environment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Delores Knipp
+
+Room ECCS 1B12
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27817
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ASEN 5519 - Selected Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo Topic: Deploy & Lightweight Sruct
+Instructor Francisco Lopez Jimenez
+
+Room ECCR 110
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28556
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+ASEN 6008 - Interplanetary Mission Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Davis
+
+Room ECCR 1B51
+Meeting Time MoWe 6:30PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Scott Palo
+
+Room FLMG 157
+Meeting Time We 5:00PM - 5:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Voss
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Mason
+
+Room SEE DEPT
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 27589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lakshmi Kantha
+
+Room SEE DEPT
+Meeting Time MoWe 3:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 27590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Nabity
+
+Room SEE DEPT
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+ASEN 6028 - Graduate Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kubitschek
+
+Room SEE DEPT
+Meeting Time TuTh 4:00PM - 5:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ASEN 6061 - Molecular Gas Dynamics and DSMC
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Argrow
+
+Room ECCS 1B14
+Meeting Time MoWe 10:00AM - 11:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33011
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+ASEN 6080 - Statistical Orbit Determination
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Mc Mahon
+
+Room ECCS 1B28
+Meeting Time MoWe 8:30AM - 9:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+ASEN 6116 - Spacecraft Life Support Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor James Nabity
+
+Room ECCR 150
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ASEN 6265 - Fundamentals of Spectroscopy for Optical Remote Sensing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Xinzhao Chu
+
+Room ECCS 1B14
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39627
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ASEN 6367 - Advanced Finite Element Methods for Plates, Shells, and Solids
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Carlos Felippa
+
+Room ECCR 108
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+ASEN 6519 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Algorithms for Aero Autonomy
+Instructor Nisar Ahmed
+
+Room ECCR 135
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ASEN 6519 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Data Assimilation Methods
+Instructor Tomoko Matsuo
+
+Room ECCR 135
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+ASEN 6519 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Molecular Sim of Materials
+Instructor Sanghamitra Neogi
+
+Room ECCR 131
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 32982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+ASEN 6519 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: System Identification
+Instructor Dale Lawrence
+
+Room FLMG 103
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 39359
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ASEN 6519 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Small UAS GNC
+Instructor Eric Frew
+
+Room FLMG 102
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 32983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

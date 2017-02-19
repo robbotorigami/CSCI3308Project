@@ -1,0 +1,96 @@
+0
+MSBX 5205 - Financial Strategy and Decision Modeling
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Stutzer
+
+Room KOBL 375
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25065
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MSBX 5225 - Advanced Portfolio Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Diane Hirschhorn
+
+Room KOBL 375
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25066
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MSBX 5310 - Customer Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Yanwen Wang
+
+Room KOBL 255
+Meeting Time Tu 9:30AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24976
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MSBX 5310 - Customer Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Yanwen Wang
+
+Room KOBL 255
+Meeting Time Th 9:30AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MSBX 5435 - Planning and Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Gregg Macaluso
+
+Room KOBL S233
+Meeting Time Tu 9:30AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MSBX 5605 - Real Estate Investment and Risk Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Thibodeau
+
+Room KOBL 350
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25067
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

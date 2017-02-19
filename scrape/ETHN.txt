@@ -1,0 +1,570 @@
+0
+ETHN 1022 - Introduction to Africana Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Martin Atuire
+
+Room HALE 230
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ETHN 2001 - Foundations: Race and Ethnicity in the United States
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Villanueva
+
+Room CLUB 4
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17592
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ETHN 2013 - Critical Issues in Native North America
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Clinton Carroll, 
+Deanne Grant
+
+Room EKLC E1B20
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ETHN 2432 - African American History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Amani Husain, 
+Kwame Holmes
+
+Room HUMN 250
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ETHN 2536 - Survey of Chicana/o History and Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Amani Husain, 
+Emma Perez
+
+Room KTCH 1B87
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ETHN 2703 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 150
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24298
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ETHN 2703 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Baron
+
+Room ECON 2
+Meeting Time We 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 24299
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ETHN 2703 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cynthia Howard
+
+Room RAMY N1B31
+Meeting Time Fr 10:00AM - 10:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 24300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ETHN 2703 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Baron
+
+Room ENVD 120
+Meeting Time Fr 11:00AM - 11:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 24303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ETHN 2703 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cynthia Howard
+
+Room ENVD 120
+Meeting Time Fr 12:00PM - 12:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 32796
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ETHN 3024 - Introduction to Critical Sports Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Villanueva
+
+Room EDUC 220
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ETHN 3024 - Introduction to Critical Sports Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jared Browsh
+
+Room ECON 2
+Meeting Time Fr 3:00PM - 3:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 23439
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ETHN 3024 - Introduction to Critical Sports Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jared Browsh
+
+Room GUGG 2
+Meeting Time We 2:00PM - 2:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 23440
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ETHN 3024 - Introduction to Critical Sports Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jared Browsh
+
+Room EDUC 143
+Meeting Time Fr 2:00PM - 2:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 23441
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+ETHN 3044 - Race, Class, Gender, and Crime
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Hillary Potter
+
+Room DUAN G131
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24341
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ETHN 3044 - Race, Class, Gender, and Crime
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joanne Belknap, 
+Kim-Phuong Truong-Vu
+
+Room EKLC E1B20
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+ETHN 3101 - Selected Topics in Ethnic Studies
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Social Justice
+Instructor Joanne Belknap
+
+Room GUGG 2
+Meeting Time We 4:00PM - 6:30PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 32934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ETHN 3102 - Selected Topics in African American Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Race, Crime & Punishment
+Instructor Kwame Holmes
+
+Room GUGG 2
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32937
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+ETHN 3103 - Selected Topics in American Indian Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Native Environmental Issues
+Instructor Clinton Carroll
+
+Room HUMN 125
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ETHN 3104 - Selected Topics in American Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 67
+Waitlist Total 0
+MiscInfo Topic: The Governance of Sport
+Instructor Laura Malaver, 
+Roger Pielke
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ETHN 3105 - Selected Topics in Asian American Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Bruce Lee & the Trans-Pacific
+Instructor Daryl Maeda
+
+Room HUMN 190
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17593
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ETHN 3136 - Chicana Feminisms and Knowledges
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Emma Perez
+
+Room KTCH 1B84
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ETHN 3212 - Introduction to Hip Hop Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wayne Freeman
+
+Room EDUC 220
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ETHN 3213 - American Indian Women
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Danika Medak-Saltzman
+
+Room KTCH 1B71
+Meeting Time We 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+ETHN 3314 - Violence Against Women and Girls
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cassandra Gonzalez, 
+Hillary Potter
+
+Room VAC 1B20
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+ETHN 3501 - Theory/Methods/Writing in Ethnic Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Bianca Williams
+
+Room HUMN 190
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21289
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ETHN 4102 - Special Topics in Africana Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Ethnography of Amer Blackness
+Notes: This is a combined section class
+Instructor Bianca Williams
+
+Room KTCH 1B44
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ETHN 4102 - Special Topics in Africana Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Sex, Race, and the City
+Notes: This is a combined section class
+Instructor Kwame Holmes
+
+Room CLUB 13
+Meeting Time Th 3:30PM - 6:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ETHN 4353 - Indigenous Traditions and Law: A Global Perspective
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 270
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ETHN 4714 - Sport and Social Justice
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Villanueva
+
+Room EKLC E1B50
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ETHN 4951 - Senior/Graduate Seminar in Ethnic Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Angelica Lawson
+
+Room ATLS 1B29
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ETHN 5102 - Special Topics in Africana Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Ethnography of Amer Blackness
+Notes: This is a combined section class
+Instructor Bianca Williams
+
+Room KTCH 1B44
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+ETHN 5102 - Special Topics in Africana Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Sex, Race, and the City
+Notes: This is a combined section class
+Instructor Kwame Holmes
+
+Room CLUB 13
+Meeting Time Th 3:30PM - 6:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ETHN 5353 - Indigenous Traditions and Law: A Global Perspective
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 270
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+ETHN 6110 - Adv. Tpcs. In Chicana/Chicano Studies: US/Mexico Borderlands
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Arturo Aldama
+
+Room KTCH 277
+Meeting Time We 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

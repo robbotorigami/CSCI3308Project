@@ -1,0 +1,256 @@
+0
+AIRR 1020 - Foundations of the United States Air Force 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room STAD 112
+Meeting Time Th 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25820
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+AIRR 1020 - Foundations of the United States Air Force 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25821
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+AIRR 1020 - Foundations of the United States Air Force 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor John Cacic
+
+Room ECCR 245
+Meeting Time Th 2:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25822
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+AIRR 1020 - Foundations of the United States Air Force 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25823
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+AIRR 2020 - The Evolution of USAF Air and Space Power 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Bobby Hale
+
+Room STAD 112
+Meeting Time Th 12:30PM - 1:20PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25831
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+AIRR 2020 - The Evolution of USAF Air and Space Power 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+AIRR 2020 - The Evolution of USAF Air and Space Power 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Bobby Hale
+
+Room STAD 112
+Meeting Time Th 2:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25833
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+AIRR 2020 - The Evolution of USAF Air and Space Power 2
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25834
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+AIRR 3020 - Air Force Leadership Studies II
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room STAD 140
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25824
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+AIRR 3020 - Air Force Leadership Studies II
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25825
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+AIRR 3020 - Air Force Leadership Studies II
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room STAD 140
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25826
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+AIRR 3020 - Air Force Leadership Studies II
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25827
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+AIRR 4020 - National Security Forces in Contemporary  American Society 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 39
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room STAD 135
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25828
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+AIRR 4020 - National Security Forces in Contemporary  American Society 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 89
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25829
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+AIRR 4020 - National Security Forces in Contemporary  American Society 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room STAD 135
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25830
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+AIRR 4020 - National Security Forces in Contemporary  American Society 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 83
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B30
+Meeting Time Th 3:30PM - 6:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25835
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

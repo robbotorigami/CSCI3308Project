@@ -1,0 +1,496 @@
+0
+EMEN 4030 - Project Management Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor George Angel
+
+Room ECCS 1B12
+Meeting Time Tu 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28674
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+EMEN 4030 - Project Management Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Patricia McDonald
+
+Room ECCR 105
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 26620
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+EMEN 4030 - Project Management Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Patricia McDonald
+
+Room ECCR 150
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28676
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+EMEN 4050 - Leadership and Professional Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Seth Murray
+
+Room ECCR 105
+Meeting Time Tu 5:15PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28276
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+EMEN 4050 - Leadership and Professional Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Duren
+
+Room FLMG 156
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28677
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+EMEN 4100 - Engineering Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Readey
+
+Room ECCS 1B28
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+EMEN 4100 - Engineering Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Anne Wrobetz
+
+Room FLMG 154
+Meeting Time We 5:30PM - 8:00PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28678
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+EMEN 4100 - Engineering Economics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Gurumurthi Ravishankar
+
+Room ECCR 155
+Meeting Time Tu 5:30PM - 8:00PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28679
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+EMEN 4200 - Engineering and Entrepreneurship for the Developing World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Seth Murray
+
+Room ECCR 135
+Meeting Time Mo 5:15PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38228
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+EMEN 4825 - Entrepreneurial Business Plan Preparation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Walter Werner
+
+Room KOBL 300
+Meeting Time Tu 6:00PM - 9:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27999
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+EMEN 4825 - Entrepreneurial Business Plan Preparation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Walter Werner
+
+Room FLMG 103
+Meeting Time We 3:30PM - 6:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 28284
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+EMEN 4825 - Entrepreneurial Business Plan Preparation
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Walter Werner
+
+Room FLMG 103
+Meeting Time We 3:30PM - 6:15PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 28285
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+EMEN 4830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fund of Systems Engineering
+Instructor William Van Atten
+
+Room ECCS 1B28
+Meeting Time Mo 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+EMEN 4830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Fundamentals of Engrg Mgt
+Instructor Christy Bozic
+
+Room ECCR 105
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+EMEN 4830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Process and Quality Systems
+Instructor Wendy Bailey
+
+Room ECCS 1B14
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+EMEN 5005 - Introduction to Applied Statistical Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Ray Littlejohn
+
+Room ECCS 1B14
+Meeting Time Tu 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28076
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+EMEN 5010 - Introduction to Engineering Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Wayne Kirschling
+
+Room ECCS 1B28
+Meeting Time We 11:00AM - 1:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26658
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+EMEN 5020 - Finance and Accounting for Engineering Managers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Wayne Kirschling
+
+Room ECCS 1B28
+Meeting Time Mo 11:00AM - 1:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+EMEN 5030 - Fundamentals of Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Moorer
+
+Room ECCR 150
+Meeting Time Mo 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28077
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+EMEN 5031 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Margaret MacMillan
+
+Room ECCR 1B55
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+EMEN 5031 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Vasanthan Dasan
+
+Room ECCE 1B41
+Meeting Time Mo 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+EMEN 5032 - Advanced Topics in Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor John Svoboda
+
+Room ECCS 1B14
+Meeting Time We 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+EMEN 5040 - Quality, Strategy, and Value Creation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Ouellette
+
+Room ECCR 150
+Meeting Time Tu 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26659
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+EMEN 5043 - Advanced Topics in Quality Systems/ Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Wendy Bailey
+
+Room ECCR 1B55
+Meeting Time We 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28462
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+EMEN 5050 - Leading Oneself
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ronald Duren
+
+Room ECCS 1B28
+Meeting Time Tu 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27813
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+EMEN 5080 - Ethical Decision-Making in Engineering Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Moorer
+
+Room ECCR 105
+Meeting Time We 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+EMEN 5090 - Marketing and Technology Ventures
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eben Johnson
+
+Room ECCR 105
+Meeting Time Mo 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+EMEN 5400 - Product Development and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Readey
+
+Room ECCS 1B28
+Meeting Time We 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+EMEN 5620 - Data Mining and Screening Experiments for Engineering Research
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Ray Littlejohn
+
+Room ECCR 150
+Meeting Time We 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28044
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+EMEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Topic: Entrprnrshp & New Venture Mgt
+Instructor Michael Readey
+
+Room ECCR 105
+Meeting Time Th 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+EMEN 5900 - Research Methods and Experimental Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Ray Littlejohn
+
+Room ECCS 1B28
+Meeting Time Th 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27191
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

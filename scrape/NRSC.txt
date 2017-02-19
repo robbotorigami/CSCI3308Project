@@ -1,0 +1,562 @@
+0
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Watkins
+
+Room ECCS 1B12
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 21995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 9:00AM - 9:50AM
+Section 101B-RECBoulder 16-Wk Session/Full Sem
+Class Code 34953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 5:00PM - 5:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 21996
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 5:00PM - 5:50PM
+Section 102B-RECBoulder 16-Wk Session/Full Sem
+Class Code 34954
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room MUEN E123
+Meeting Time Mo 3:00PM - 3:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 23344
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room MUEN E123
+Meeting Time Mo 3:00PM - 3:50PM
+Section 103B-RECBoulder 16-Wk Session/Full Sem
+Class Code 34959
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room GUGG 3
+Meeting Time Mo 1:00PM - 1:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 23858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room GUGG 3
+Meeting Time Mo 1:00PM - 1:50PM
+Section 104B-RECBoulder 16-Wk Session/Full Sem
+Class Code 34960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room GUGG 3
+Meeting Time Mo 1:00PM - 1:50PM
+Section 215R-RECBoulder 16-Wk Session/Full Sem
+Class Code 35024
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Stansfield
+
+Room MUEN E123
+Meeting Time Mo 3:00PM - 3:50PM
+Section 216R-RECBoulder 16-Wk Session/Full Sem
+Class Code 35022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 5:00PM - 5:50PM
+Section 217R-RECBoulder 16-Wk Session/Full Sem
+Class Code 35021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Bercum
+
+Room MUEN E123
+Meeting Time Mo 9:00AM - 9:50AM
+Section 218R-RECBoulder 16-Wk Session/Full Sem
+Class Code 35003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Watkins
+
+Room MUEN E123
+Meeting Time Mo 9:00AM - 9:50AM
+Section 741-RECCont Ed-Be Boulder Anywhere
+Class Code 37952
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Watkins
+
+Room MUEN E123
+Meeting Time Mo 5:00PM - 5:50PM
+Section 742-RECCont Ed-Be Boulder Anywhere
+Class Code 37953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Watkins
+
+Room MUEN E123
+Meeting Time Mo 3:00PM - 3:50PM
+Section 743-RECCont Ed-Be Boulder Anywhere
+Class Code 37958
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+NRSC 2100 - Introduction to Neuroscience
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Watkins
+
+Room GUGG 3
+Meeting Time Mo 1:00PM - 1:50PM
+Section 744-RECCont Ed-Be Boulder Anywhere
+Class Code 37959
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+NRSC 2200 - Laboratory Techniques in Neuroscience
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Day
+
+Room MUEN E048
+Meeting Time TuTh 9:00AM - 10:50AM
+Section 100-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+NRSC 2200 - Laboratory Techniques in Neuroscience
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Day, 
+Kayla Siletti
+
+Room MUEN E048
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 200-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+NRSC 2200 - Laboratory Techniques in Neuroscience
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eduardo Villegas, 
+Heidi Day
+
+Room MUEN E048
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 300-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23347
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+NRSC 2200 - Laboratory Techniques in Neuroscience
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Day
+
+Room MUEN E048
+Meeting Time WeFr 9:00AM - 10:50AM
+Section 400-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23348
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+NRSC 4032 - Neurobiology of Learning and Memory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jerry Rudy
+
+Room MUEN E417
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21333
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+NRSC 4062 - The Neurobiology of Stress
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Day
+
+Room HLMS 141
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23397
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+NRSC 4082 - Neural Circuits of Learning and Decision Making
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Saddoris
+
+Room MUEN E064
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24353
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+NRSC 4092 - Behavioral Neuroendocrinology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Spencer
+
+Room BESC 185
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34654
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+NRSC 4132 - Neuropharmacology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Ryan Bachtell
+
+Room EKLC E1B20
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+NRSC 4542 - The Neurobiology of Mental Illness
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Maier
+
+Room MUEN D439
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+NRSC 5032 - Neurobiology of Learning and Memory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jerry Rudy
+
+Room MUEN E417
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+NRSC 5082 - Neural Circuits of Learning and Decision Making
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Saddoris
+
+Room MUEN E064
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24433
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+NRSC 5092 - Behavioral Neuroendocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Spencer
+
+Room BESC 185
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 34657
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+NRSC 5092 - Behavioral Neuroendocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Spencer
+
+Room MUEN E214
+Meeting Time Th 9:30AM - 10:30AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 34662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+NRSC 5110 - Introduction to Neuroscience II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Maier
+
+Room MUEN D334
+Meeting Time We 3:30PM - 6:00PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 16652
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+NRSC 5132 - Neuropharmacology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ryan Bachtell
+
+Room EKLC E1B20
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+NRSC 6100 - Advances in Neuroscience Seminar
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Bachtell
+
+Room MUEN E214
+Meeting Time Tu 3:30PM - 5:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+NRSC 6602 - Behavioral Neuroscience Professional Skills Development
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo nil
+Instructor Linda Watkins
+
+Room MUEN E214
+Meeting Time We 2:15PM - 3:15PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23354
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,48 @@
+0
+GREK 1023 - Beginning Classical Greek 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor John Gibert
+
+Room EDUC 134
+Meeting Time MoTuThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23111
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+GREK 3123 - Intermediate Classical Greek 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Homer
+Instructor John Gibert
+
+Room HUMN 370
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+GREK 7013 - Graduate Seminar in Greek Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Thucydides
+Instructor Peter Hunt
+
+Room HUMN 370
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,336 @@
+0
+CMDP 1400 - Introduction to Contemporary Media Cultures
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 214A
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25234
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+CMDP 1400 - Introduction to Contemporary Media Cultures
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 215
+Meeting Time We 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 25235
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+CMDP 1400 - Introduction to Contemporary Media Cultures
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 214A
+Meeting Time MoWe 12:00PM - 1:15PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25790
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+CMDP 1400 - Introduction to Contemporary Media Cultures
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 214A
+Meeting Time Fr 12:00PM - 12:50PM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 25791
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+CMDP 2100 - Approaches to HIstorical Media Practices
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 234A
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25236
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+CMDP 2100 - Approaches to HIstorical Media Practices
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ENVD 214A
+Meeting Time We 3:00PM - 5:30PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 40293
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+CMDP 2400 - Media Aesthetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Espelie
+
+Room ENVD 234A
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25237
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+CMDP 2500 - Introduction to Media Practices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Coombs Esmail
+
+Room ENVD 214B
+Meeting Time MoWe 9:00AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25238
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+CMDP 2500 - Introduction to Media Practices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Coombs Esmail
+
+Room ENVD 214B
+Meeting Time TuTh 9:00AM - 10:45AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25239
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+CMDP 2600 - Creative Media Making
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Betsey Biggs
+
+Room ENVD 214B
+Meeting Time TuTh 1:00PM - 2:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+CMDP 2870 - Recording Design
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Hunter Ewen
+
+Room MUS N1B49
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25244
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+CMDP 3450 - Critical Perspectives in Media Practices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Reece Auguiste
+
+Room ENVD 214A
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+CMDP 3500 - Digital Photographic Practices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Coombs Esmail
+
+Room ENVD 214B
+Meeting Time MoWe 3:00PM - 4:45PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+CMDP 3500 - Digital Photographic Practices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Betsey Biggs
+
+Room ENVD 214B
+Meeting Time TuTh 11:00AM - 12:45PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+CMDP 3840 - Sound  Practices
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hunter Ewen
+
+Room ENVD 214B
+Meeting Time MoWe 1:00PM - 2:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25241
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+CMDP 3860 - Introduction to Music Technology
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hunter Ewen
+
+Room MUS N1B49
+Meeting Time MoWe 10:00AM - 11:15AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25245
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+CMDP 5450 - Contemporary Documentary Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Reece Auguiste
+
+Room ENVD 214A
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CMDP 5600 - Documentary Lab Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Christian Hammons
+
+Room ENVD 214B
+Meeting Time Fr 1:00PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25242
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+CMDP 5650 - Documentary Field Work
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Spray
+
+Room ENVD 214B
+Meeting Time MoWe 11:00AM - 12:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25243
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+CMDP 5910 - Individual Project Study
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Spray
+
+Room ENVD 214B
+Meeting Time TuTh 3:30PM - 5:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+CMDP 6500 - Producing Practicum
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Tara Knight
+
+Room ENVD 214A
+Meeting Time MoWe 10:30AM - 11:45AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33332
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

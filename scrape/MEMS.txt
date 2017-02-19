@@ -1,0 +1,528 @@
+0
+MGMT 3010 - Negotiation and Conflict Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Bennett
+
+Room KOBL S125
+Meeting Time Th 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+MGMT 3030 - Critical Leadership Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ksenia Keplinger
+
+Room KOBL 300
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MGMT 3030 - Critical Leadership Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dorien Lathouwers
+
+Room KOBL S127
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+MGMT 3030 - Critical Leadership Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonio Papuzza
+
+Room KOBL 302
+Meeting Time Tu 5:30PM - 7:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35570
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+4
+MGMT 3030 - Critical Leadership Skills
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Bennett
+
+Room KOBL S135
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 34933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MGMT 3100 - Operations Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor D. Denton
+
+Room KOBL 102
+Meeting Time MoWe 9:30AM - 11:00AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+MGMT 3100 - Operations Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor D. Denton
+
+Room KOBL 102
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25078
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+MGMT 3200 - Business Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kai Larsen
+
+Room KOBL 320
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+MGMT 3200 - Business Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kai Larsen
+
+Room KOBL 320
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24950
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+MGMT 3210 - Business Application Programming
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jintae Lee
+
+Room KOBL 320
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+MGMT 3210 - Business Application Programming
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jintae Lee
+
+Room KOBL 320
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35005
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MGMT 4020 - Hiring and Retaining Critical Human Resources
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Jennings
+
+Room KOBL 235
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24717
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+MGMT 4030 - Managing Employee Reward Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor David Balkin
+
+Room KOBL 230
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MGMT 4030 - Managing Employee Reward Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor David Balkin
+
+Room KOBL 230
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25068
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+MGMT 4040 - Individual, Team, and Organizational Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Jennings
+
+Room KOBL 255
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24718
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+MGMT 4110 - Supply Chain Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Driscoll
+
+Room MUEN E131
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+MGMT 4110 - Supply Chain Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Driscoll
+
+Room KOBL 210
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+MGMT 4120 - Managing Business Processes
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Rodgers
+
+Room KOBL 230
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+MGMT 4120 - Managing Business Processes
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Rodgers
+
+Room KOBL 230
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+MGMT 4130 - Sustainable Operations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Keith Stockton
+
+Room KOBL 302
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+MGMT 4140 - Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Zikmund
+
+Room KOBL 255
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24781
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+MGMT 4140 - Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Marshall
+
+Room KOBL S127
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 39248
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+MGMT 4150 - International Operations Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pasquale D'Esposito
+
+Room KOBL 330
+Meeting Time Mo 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24719
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+MGMT 4200 - Competitive Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashton Hawk
+
+Room KOBL 235
+Meeting Time Tu 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+MGMT 4200 - Competitive Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashton Hawk
+
+Room KOBL 235
+Meeting Time We 5:00PM - 7:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35018
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+MGMT 4205 - Business Data Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jae Bong Son
+
+Room KOBL 320
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25070
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+MGMT 4220 - Business Technologies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Marshall
+
+Room KOBL 320
+Meeting Time Mo 6:00PM - 8:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+MGMT 4230 - Design of Usable Business Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Karina Hauser
+
+Room KOBL 308
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+MGMT 4828 - Experimental Seminar: Corporate Boards in Action
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Stapp
+
+Room KOBL 375
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25063
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+MGMT 4850 - Senior Seminar in Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Stratgy:Create & Sust Comp Adv
+Instructor Visda Moaddeli
+
+Room KOBL S110
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+MGMT 4850 - Senior Seminar in Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Stratgy:Create & Sust Comp Adv
+Instructor Kun Zhang
+
+Room KOBL S127
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24928
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+MGMT 4850 - Senior Seminar in Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Sid Saleh
+
+Room KOBL 330
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+MGMT 4850 - Senior Seminar in Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Laszlo
+
+Room KOBL 102
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

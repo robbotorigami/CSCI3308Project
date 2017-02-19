@@ -1,0 +1,1617 @@
+0
+PSYC 1001 - General Psychology
+Units 3 - 4
+Restriction N
+Consent Required N
+Seats Remaining 52
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Stratford
+
+Room MUEN E050
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+PSYC 1001 - General Psychology
+Units 3 - 4
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor D King
+
+Room MUEN E050
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+PSYC 1001 - General Psychology
+Units 3 - 4
+Restriction N
+Consent Required N
+Seats Remaining 183
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Stratford
+
+Room MUEN E050
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+PSYC 1001 - General Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Freedman
+
+Room MUEN E064
+Meeting Time We 6:30PM - 9:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35557
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+4
+PSYC 2012 - Biological Psychology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor David Allen
+
+Room HLMS 252
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16357
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+PSYC 2012 - Biological Psychology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Berta
+
+Room MUEN E0046
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+PSYC 2012 - Biological Psychology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Berta
+
+Room MUEN E050
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23863
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+PSYC 2012 - Biological Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Helen Yankovich
+
+Room MUEN E118
+Meeting Time Mo 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35558
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+8
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Diane Martichuski
+
+Room MUEN E0046
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16340
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bogdan Petre
+
+Room MUEN E0014
+Meeting Time Mo 2:00PM - 3:50PM
+Section 110-LABBoulder 16-Wk Session/Full Sem
+Class Code 16341
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bogdan Petre
+
+Room MUEN E0014
+Meeting Time Mo 4:00PM - 5:50PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 16342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Zellers
+
+Room MUEN E0014
+Meeting Time Tu 8:00AM - 9:50AM
+Section 112-LABBoulder 16-Wk Session/Full Sem
+Class Code 16343
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Zellers
+
+Room MUEN E0014
+Meeting Time Tu 10:00AM - 11:50AM
+Section 113-LABBoulder 16-Wk Session/Full Sem
+Class Code 16344
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Max Cantor
+
+Room MUEN E0014
+Meeting Time Tu 12:00PM - 1:50PM
+Section 114-LABBoulder 16-Wk Session/Full Sem
+Class Code 24130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 35
+Waitlist Total 0
+MiscInfo nil
+Instructor Diane Martichuski
+
+Room MUEN E0046
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 16345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Max Cantor
+
+Room MUEN E0014
+Meeting Time We 8:00AM - 9:50AM
+Section 210-LABBoulder 16-Wk Session/Full Sem
+Class Code 16346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room MUEN E0014
+Meeting Time We 10:00AM - 11:50AM
+Section 211-LABBoulder 16-Wk Session/Full Sem
+Class Code 16347
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room MUEN E0014
+Meeting Time We 2:00PM - 3:50PM
+Section 212-LABBoulder 16-Wk Session/Full Sem
+Class Code 16348
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room MUEN E0014
+Meeting Time Th 8:00AM - 9:50AM
+Section 213-LABBoulder 16-Wk Session/Full Sem
+Class Code 16349
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Paskewitz
+
+Room MUEN E0014
+Meeting Time We 4:00PM - 5:50PM
+Section 214-LABBoulder 16-Wk Session/Full Sem
+Class Code 24131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Stratford
+
+Room MUEN E0046
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 16350
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Spencer Huggett
+
+Room MUEN E0014
+Meeting Time Th 2:00PM - 3:50PM
+Section 310-LABBoulder 16-Wk Session/Full Sem
+Class Code 16351
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Spencer Huggett
+
+Room MUEN E0014
+Meeting Time Th 4:00PM - 5:50PM
+Section 311-LABBoulder 16-Wk Session/Full Sem
+Class Code 16352
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Dean
+
+Room MUEN E0014
+Meeting Time Th 11:00AM - 12:50PM
+Section 312-LABBoulder 16-Wk Session/Full Sem
+Class Code 16353
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+PSYC 2111 - Psychological Science I:  Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Dean
+
+Room MUEN D346
+Meeting Time Th 8:00AM - 9:50AM
+Section 314-LABBoulder 16-Wk Session/Full Sem
+Class Code 24132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+PSYC 2145 - Introductory Cognitive Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 67
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Carston
+
+Room VAC 1B20
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16359
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+PSYC 2145 - Introductory Cognitive Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Berta
+
+Room RAMY C250
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+PSYC 2145 - Introductory Cognitive Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Helen Yankovich
+
+Room MUEN E064
+Meeting Time Th 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35559
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+28
+PSYC 2606 - Social Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Loersch
+
+Room EDUC 220
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16355
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+PSYC 2606 - Social Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Loersch
+
+Room EDUC 220
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16356
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+PSYC 2606 - Social Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor D King
+
+Room VAC 1B20
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+PSYC 2700 - Psychology of Gender and Sexuality
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Glenda Russell
+
+Room MUEN E131
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+PSYC 3102 - Behavioral Genetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Vrieze
+
+Room MUEN E064
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+PSYC 3102 - Behavioral Genetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gregory Carey
+
+Room MUEN E064
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+PSYC 3102 - Behavioral Genetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Brooke Huibregtse
+
+Room HLMS 241
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 35060
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiffany Ito
+
+Room MUEN E0046
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Hee Jung Jung
+
+Room MUEN E311
+Meeting Time Tu 1:00PM - 2:50PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 24134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Steffanie Guillermo
+
+Room MUEN E311
+Meeting Time Tu 3:00PM - 4:50PM
+Section 112-LABBoulder 16-Wk Session/Full Sem
+Class Code 24135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Louisa Smith
+
+Room MUEN E311
+Meeting Time We 1:00PM - 2:50PM
+Section 113-LABBoulder 16-Wk Session/Full Sem
+Class Code 24136
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Louisa Smith
+
+Room MUEN E311
+Meeting Time We 4:00PM - 5:50PM
+Section 115-LABBoulder 16-Wk Session/Full Sem
+Class Code 24588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Kent Hutchison
+
+Room MUEN E0046
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 23121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shana Stites
+
+Room MUEN E311
+Meeting Time Th 3:30PM - 5:20PM
+Section 210-LABBoulder 16-Wk Session/Full Sem
+Class Code 23122
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jairo Ramos
+
+Room MUEN E311
+Meeting Time Fr 9:00AM - 10:50AM
+Section 211-LABBoulder 16-Wk Session/Full Sem
+Class Code 23123
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jairo Ramos
+
+Room MUEN E311
+Meeting Time Fr 11:00AM - 12:50PM
+Section 212-LABBoulder 16-Wk Session/Full Sem
+Class Code 23124
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Cole
+
+Room MUEN E311
+Meeting Time Fr 1:00PM - 2:50PM
+Section 213-LABBoulder 16-Wk Session/Full Sem
+Class Code 23125
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Cole
+
+Room MUEN E311
+Meeting Time Mo 9:00AM - 10:50AM
+Section 214-LABBoulder 16-Wk Session/Full Sem
+Class Code 24242
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Kent Hutchison
+
+Room MUEN E0046
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 23126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Shana Stites
+
+Room MUEN D346
+Meeting Time Mo 11:00AM - 12:50PM
+Section 310-LABBoulder 16-Wk Session/Full Sem
+Class Code 34591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Hee Jung Jung
+
+Room MUEN D346
+Meeting Time Mo 4:00PM - 5:50PM
+Section 311-LABBoulder 16-Wk Session/Full Sem
+Class Code 34592
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Tobias
+
+Room MUEN D346
+Meeting Time Tu 8:00AM - 9:50AM
+Section 312-LABBoulder 16-Wk Session/Full Sem
+Class Code 34593
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+PSYC 3111 - Psychological Science 2: Research Methods in Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Tobias
+
+Room MUEN D346
+Meeting Time Tu 10:00AM - 11:50AM
+Section 313-LABBoulder 16-Wk Session/Full Sem
+Class Code 34594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+PSYC 3303 - Abnormal Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanna Arch
+
+Room HLMS 252
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+PSYC 3303 - Abnormal Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Willcutt
+
+Room ECCR 265
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+PSYC 3303 - Abnormal Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Vyga Kaufmann
+
+Room MUEN E431
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+PSYC 3303 - Abnormal Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Vyga Kaufmann
+
+Room MUEN E431
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+PSYC 3456 - Psychology of Personality
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Geoffrey Urland
+
+Room MUEN E064
+Meeting Time Mo 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35562
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+56
+PSYC 3511 - History of Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor D King
+
+Room MUEN E0046
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16354
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+PSYC 3684 - Developmental Psychology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chelsea Pierotti
+
+Room EDUC 220
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+PSYC 3684 - Developmental Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chelsea Pierotti
+
+Room EDUC 220
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+PSYC 4001 - Honors Seminar 2
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Olson
+
+Room MUEN E114
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21364
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+PSYC 4021 - Psychology and Neuroscience of Exercise
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Allen
+
+Room MUEN E417
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+PSYC 4021 - Psychology and Neuroscience of Exercise
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor David Allen
+
+Room MUEN E113
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24244
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+PSYC 4114 - Educational Psychology and Adolescent Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lilyana Ortega
+
+Room EDUC 155
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+PSYC 4114 - Educational Psychology and Adolescent Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Erica Van Steenis
+
+Room EDUC 155
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32812
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+PSYC 4145 - Advanced Cognitive Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eliana Colunga
+
+Room MUEN E064
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 22217
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+PSYC 4145 - Advanced Cognitive Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leif Oines
+
+Room MUEN E311
+Meeting Time Mo 1:00PM - 2:50PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 22218
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+PSYC 4145 - Advanced Cognitive Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leif Oines
+
+Room MUEN E311
+Meeting Time Th 9:00AM - 10:50AM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 22219
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+PSYC 4165 - Psychology of Perception
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lewis Harvey
+
+Room MUEN E113
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16642
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+PSYC 4165 - Psychology of Perception
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Parker
+
+Room MUEN D346
+Meeting Time Tu 12:30PM - 3:20PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 16645
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+PSYC 4165 - Psychology of Perception
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Parker
+
+Room MUEN D346
+Meeting Time Th 12:30PM - 3:20PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 16646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Natalie Smutzler
+
+Room MUEN E417
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alex Kirk
+
+Room MUEN D346
+Meeting Time Fr 9:00AM - 10:50AM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 21320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alex Kirk
+
+Room MUEN D346
+Meeting Time Fr 11:00AM - 12:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 21321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Natalie Smutzler
+
+Room MUEN E417
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 37146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Sophie YorkWilliams
+
+Room MUEN D346
+Meeting Time Fr 3:00PM - 4:50PM
+Section 301-LABBoulder 16-Wk Session/Full Sem
+Class Code 37147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+PSYC 4443 - Research Methods in Clinical Psychology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sophie YorkWilliams
+
+Room MUEN D346
+Meeting Time Fr 1:00PM - 2:50PM
+Section 302-LABBoulder 16-Wk Session/Full Sem
+Class Code 37149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+PSYC 4541 - Special Topics in Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Child Maltreatment
+Instructor Michael Freedman
+
+Room CLUB 4
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+PSYC 4541 - Special Topics in Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Clinical Intervention
+Instructor Justina Pittman-Wagers
+
+Room MUEN E431
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22297
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+PSYC 4541 - Special Topics in Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Clinical Intervention
+Instructor Justina Pittman-Wagers
+
+Room MUEN E431
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+PSYC 4541 - Special Topics in Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Animal Cognition
+Instructor Karli Carston
+
+Room MCOL E186
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+PSYC 4553 - Women's Mental Health:  A Biopsychosocial Approach
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Justina Pittman-Wagers
+
+Room MUEN E431
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32990
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+PSYC 4560 - Language Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Karin Boerger
+
+Room SLHS 230
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+PSYC 4606 - Advanced Topics in Social Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Social Psyc and Public Policy
+Instructor Leaf Van Boven
+
+Room ENVD 122
+Meeting Time Tu 3:30PM - 6:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35120
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+PSYC 4931 - Field Placement Internship
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Samantha Strife
+
+Room MUEN D430
+Meeting Time We 9:00AM - 10:20AM
+Section 801-INTBoulder 16-Wk Session/Full Sem
+Class Code 16979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+PSYC 4931 - Field Placement Internship
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Samantha Strife
+
+Room MUEN D430
+Meeting Time We 10:30AM - 11:20AM
+Section 802-INTBoulder 16-Wk Session/Full Sem
+Class Code 23363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+PSYC 5695 - Memory Proseminar
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Curran
+
+Room MUEN E317
+Meeting Time We 10:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35124
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+PSYC 5751 - General Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Judd, 
+Joshua Correll
+
+Room MUEN E113
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+PSYC 5751 - General Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Arielle Gillman
+
+Room MUEN E311
+Meeting Time Th 11:00AM - 12:50PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 21173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+PSYC 5751 - General Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Natasha Hansen
+
+Room MUEN E311
+Meeting Time Th 1:00PM - 2:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 21174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+PSYC 5761 - Structural Equation Modeling
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Naomi Friedman
+
+Room DUAN G116
+Meeting Time Tu 12:00PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+PSYC 5825 - Executive Function Proseminar
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Marie Banich
+
+Room MUEN E317
+Meeting Time Mo 10:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35123
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+PSYC 6200 - Issues and Methods in Cognitive Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Albert Kim
+
+Room MUEN D430
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24570
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+PSYC 6603 - Professional Issues in Clinical Psychology
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Willcutt
+
+Room MUEN E214
+Meeting Time Mo 1:00PM - 1:50PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22341
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+PSYC 6605 - Cognitive Psychology Research Update
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Lewis Harvey
+
+Room MUEN E214
+Meeting Time Mo 12:00PM - 1:00PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+PSYC 6606 - Professional Issues in Social Psychology
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiffany Ito
+
+Room MUEN E214
+Meeting Time We 12:00PM - 12:50PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17057
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+PSYC 6831 - Interdisciplinary Social Science Professional Socialization
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefanie Bailey Mollborn
+
+Room TBA
+Meeting Time Fr 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33407
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+PSYC 7536 - Personality and Social Psychology
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Personality Social Psychology
+Instructor Irene Blair
+
+Room MUEN E214
+Meeting Time We 9:00AM - 10:40AM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+PSYC 7536 - Personality and Social Psychology
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Bernadette Park
+
+Room MUEN E317
+Meeting Time Mo 1:00PM - 3:30PM
+Section 802-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23520
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+PSYC 7673 - Adult Psychotherapy
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Sona Dimidjian
+
+Room MUEN E317
+Meeting Time We 12:00PM - 2:30PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23370
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+PSYC 7683 - Intellectual Assessment, with Practicum, in Clinical Psychology
+Units 1 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Richardson
+
+Room SEE DEPT
+Meeting Time Mo 9:00AM - 11:30AM
+Section 800-PRABoulder 16-Wk Session/Full Sem
+Class Code 23479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+PSYC 7793 - Child Assessment Practicum
+Units 1 - 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nomita Chhabildas
+
+Room SEE DEPT
+Meeting Time Th 12:00PM - 2:30PM
+Section 801-PRABoulder 16-Wk Session/Full Sem
+Class Code 23371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

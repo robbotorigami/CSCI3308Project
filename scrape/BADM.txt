@@ -1,0 +1,277 @@
+0
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Cuba
+Instructor Mary Lewis
+
+Room KOBL 355
+Meeting Time Tu 10:00AM - 11:15AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 34758
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Brazil
+Instructor Sean Kenney
+
+Room CHEY 140
+Meeting Time Th 10:30AM - 11:45AM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 24935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Germany
+Instructor Donald Oest
+
+Room CHEY 140
+Meeting Time Th 12:30PM - 1:45PM
+Section 805-LECBoulder 16-Wk Session/Full Sem
+Class Code 24939
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Japan
+Instructor Kevin McMahon
+
+Room KOBL 235
+Meeting Time Th 12:30PM - 1:45PM
+Section 806-LECBoulder 16-Wk Session/Full Sem
+Class Code 24940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Ecuador
+Instructor Eric Alston
+
+Room KOBL 235
+Meeting Time Tu 12:30PM - 1:45PM
+Section 807-LECBoulder 16-Wk Session/Full Sem
+Class Code 24953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Argentina
+Instructor Andres Snaider
+
+Room KOBL 375
+Meeting Time Mo 2:00PM - 3:15PM
+Section 810-LECBoulder 16-Wk Session/Full Sem
+Class Code 25089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: UK/Ireland
+Instructor Richard Stewart
+
+Room KOBL 255
+Meeting Time Th 5:30PM - 6:45PM
+Section 811-LECBoulder 16-Wk Session/Full Sem
+Class Code 24947
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: France
+Instructor Andrea Straccia
+
+Room CHEY 140
+Meeting Time Tu 10:30AM - 11:45AM
+Section 812-LECBoulder 16-Wk Session/Full Sem
+Class Code 25025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: United Arab Emirates (UAE)
+Instructor Stephanie Garriga-Snaider
+
+Room KOBL 375
+Meeting Time We 2:00PM - 3:15PM
+Section 814-LECBoulder 16-Wk Session/Full Sem
+Class Code 25090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Chile
+Instructor Erick Mueller
+
+Room KOBL S233
+Meeting Time Tu 2:00PM - 3:15PM
+Section 815-LECBoulder 16-Wk Session/Full Sem
+Class Code 25098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Vietnam
+Instructor Kenneth Schuetz
+
+Room KOBL 255
+Meeting Time Fr 11:00AM - 12:15PM
+Section 816-LECBoulder 16-Wk Session/Full Sem
+Class Code 25101
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+BADM 1260 - First-Year Global Experience
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Italy
+Instructor Antonio Papuzza
+
+Room KOBL S233
+Meeting Time Tu 4:00PM - 5:15PM
+Section 817-LECBoulder 16-Wk Session/Full Sem
+Class Code 34761
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+BADM 2010 - Excel Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Zikmund
+
+Room KOBL 320
+Meeting Time Mo 2:00PM - 2:50PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24922
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+BADM 2010 - Excel Lab
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Zikmund
+
+Room KOBL 320
+Meeting Time We 2:00PM - 2:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+BADM 4910 - VITA-Volunteer Tax Assistance
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Morley
+Susan Morley
+
+Room KOBL 375
+KOBL 375
+Meeting Time We 5:00PM - 9:00PM
+Sa 9:00AM - 5:00PM
+Section 001-INDBoulder 16-Wk Session/Full Sem
+Class Code 24927
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+15
+BADM 6930 - Commercializing Sustainable Energy Technologies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Lawrence
+
+Room SEEC N124
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25103
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+BADM 6940 - Land Use Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Ragonetti, 
+Thomas Thibodeau
+
+Room OFF SITE
+Meeting Time We 4:00PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24951
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

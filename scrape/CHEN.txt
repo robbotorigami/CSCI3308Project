@@ -1,0 +1,782 @@
+0
+CHEN 1211 - General Chemistry for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Gin
+
+Room CHEM 142
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26968
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+CHEN 1211 - General Chemistry for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Gin
+
+Room KOBL 220
+Meeting Time Fr 12:00PM - 12:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 28197
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+CHEN 1211 - General Chemistry for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Gin
+
+Room KOBL 308
+Meeting Time Fr 2:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 28198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+CHEN 1211 - General Chemistry for Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Douglas Gin
+
+Room ECCR 151
+Meeting Time Th 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 28470
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+CHEN 1300 - Introduction to Chemical Engineering
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 105
+Waitlist Total 0
+MiscInfo nil
+Instructor Wendy Young
+
+Room BIOT A115
+Meeting Time Th 5:30PM - 6:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 50
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room MATH 100
+Meeting Time TuTh 8:00AM - 8:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Mo 9:00AM - 10:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Mo 11:00AM - 12:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 28509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Mo 1:00PM - 2:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 28510
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Mo 3:00PM - 4:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Tu 9:00AM - 10:50AM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28512
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time Tu 1:00PM - 2:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 28513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time We 9:00AM - 10:50AM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 28514
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time We 11:00AM - 12:50PM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 28515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+CHEN 1310 - Introduction to Engineering Computing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room ECES 107
+Meeting Time We 1:00PM - 2:50PM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 28516
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+CHEN 2120 - Chemical Engineering Material and Energy Balances
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 50
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Goodwin
+
+Room BIOT A115
+Meeting Time MoWeFr 12:30PM - 1:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+CHEN 2810 - Biology for Engineers
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Mahoney
+
+Room BIOT A108
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CHEN 3200 - Chemical Engineering Fluid Mechanics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Degrazia
+
+Room BIOT A115
+Meeting Time TuTh 10:00AM - 11:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+CHEN 3200 - Chemical Engineering Fluid Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Degrazia
+
+Room BIOT A115
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28286
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+CHEN 3220 - Chemical Engineering Separations and Mass Transfer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo nil
+Instructor Thomas Belval
+
+Room BIOT A108
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26969
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+CHEN 3220 - Chemical Engineering Separations and Mass Transfer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Thomas Belval
+
+Room BIOT A115
+Meeting Time MoWeFr 10:30AM - 11:20AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+CHEN 3660 - Energy Fundamentals
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Musgrave
+
+Room BIOT A108
+Meeting Time TuTh 11:30AM - 12:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28833
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+CHEN 4090 - Undergraduate Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Wendy Young
+
+Room BIOT A115
+Meeting Time Mo 3:30PM - 4:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+CHEN 4330 - Chemical Engineering Reaction Kinetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Bowman
+
+Room BIOT A108
+Meeting Time MoWeFr 12:30PM - 1:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+CHEN 4440 - Chemical Engineering Materials
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Hendrik Heinz
+
+Room BIOT A108
+Meeting Time MoWeFr 1:30PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+CHEN 4521 - Physical Chemistry for Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Holewinski, 
+Andrew Goodwin
+
+Room BIOT A115
+Meeting Time TuTh 11:30AM - 12:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28288
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+CHEN 4521 - Physical Chemistry for Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Holewinski, 
+Andrew Goodwin
+
+Room BIOT A115
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28327
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+CHEN 4530 - Chemical Engineering Design Project
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Thomas Belval
+
+Room BIOT A108
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26971
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+CHEN 4530 - Chemical Engineering Design Project
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room BIOT A108
+Meeting Time TuTh 10:00AM - 11:15AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 27346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT A115
+Meeting Time MoWeFr 8:30AM - 9:20AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 26972
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time Mo 2:30PM - 4:50PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 28881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time We 2:30PM - 4:50PM
+Section 121-LABBoulder 16-Wk Session/Full Sem
+Class Code 28882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time Th 2:30PM - 4:50PM
+Section 131-LABBoulder 16-Wk Session/Full Sem
+Class Code 39402
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT A115
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 28599
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time Tu 2:30PM - 4:50PM
+Section 211-LABBoulder 16-Wk Session/Full Sem
+Class Code 28883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time Fr 2:30PM - 4:50PM
+Section 221-LABBoulder 16-Wk Session/Full Sem
+Class Code 28884
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+CHEN 4570 - Instrumentation and Process Control
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Hrenya, 
+David Clough
+
+Room BIOT B171
+Meeting Time Th 2:30PM - 4:50PM
+Section 231-LABBoulder 16-Wk Session/Full Sem
+Class Code 40311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+CHEN 4630 - Intellectual Property Law and Engineering
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Heath Briggs
+
+Room ECCR 151
+Meeting Time Tu 7:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+CHEN 4650 - Particle Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christine Hrenya
+
+Room BIOT A104
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38605
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+CHEN 4805 - Biomaterials
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Bryant
+
+Room BIOT A108
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+CHEN 4810 - Biological Engineering Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Mahoney
+
+Room BIOT B180
+Meeting Time We 1:00PM - 6:00PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 34367
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+CHEN 4830 - Chemical Engineering Biokinetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Kaar
+
+Room BIOT A108
+Meeting Time MoWeFr 11:30AM - 12:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26973
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+CHEN 5090 - Seminar in Chemical Engineering
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 107
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Goodwin
+
+Room BIOT A108
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 26974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+CHEN 5128 - Applied Statistics In Research and Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor David Clough
+
+Room BIOT B115
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34545
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+CHEN 5210 - Transport Phenomena
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Anushree Chatterjee
+Anushree Chatterjee
+
+Room BIOT B115
+BIOT B115
+Meeting Time MoWeFr 8:30AM - 9:20AM
+MoWe 9:30AM - 10:20AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 41102
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+45
+CHEN 5630 - Intellectual Property Law and Engineering
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Heath Briggs
+
+Room ECCR 151
+Meeting Time Tu 7:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+CHEN 5650 - Particle Technology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christine Hrenya
+
+Room BIOT A104
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39044
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+CHEN 5900 - Pharmaceutical Biotechnology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Randolph
+
+Room BIOT A104
+Meeting Time TuTh 11:30AM - 12:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

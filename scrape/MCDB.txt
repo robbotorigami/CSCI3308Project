@@ -1,0 +1,1190 @@
+0
+MCDB 1041 - Fundamentals of Human Genetics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Avena
+
+Room GOLD A120
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24548
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MCDB 1150 - Introduction to Cellular and Molecular Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin, 
+Nancy Guild
+
+Room GOLD A120
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21910
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+MCDB 1152 - Problem Solving Co-Seminar for Introduction to Molecular and Cellular Biology
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin
+
+Room GOLD A2B07
+Meeting Time Mo 11:00AM - 11:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 41021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MCDB 1152 - Problem Solving Co-Seminar for Introduction to Molecular and Cellular Biology
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin
+
+Room GOLD A120
+Meeting Time Mo 4:30PM - 5:20PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 41022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MCDB 1152 - Problem Solving Co-Seminar for Introduction to Molecular and Cellular Biology
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin
+
+Room GOLD A2B07
+Meeting Time We 11:00AM - 11:50AM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 41023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MCDB 1152 - Problem Solving Co-Seminar for Introduction to Molecular and Cellular Biology
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin
+
+Room GOLD A120
+Meeting Time Tu 8:30AM - 9:30AM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 41069
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MCDB 1161 - From Dirt to DNA: Phage Genomics Laboratory I
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Nancy Guild
+
+Room GOLD A120
+Meeting Time Mo 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34455
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+MCDB 1161 - From Dirt to DNA: Phage Genomics Laboratory I
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman
+
+Room MUEN E0040
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 33927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+MCDB 1161 - From Dirt to DNA: Phage Genomics Laboratory I
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman
+
+Room MUEN E0040
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 34456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+MCDB 1161 - From Dirt to DNA: Phage Genomics Laboratory I
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman
+
+Room MUEN E0040
+Meeting Time TuTh 2:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 34457
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+MCDB 2150 - Principles of Genetics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Charles Odorizzi, 
+Jennifer Knight
+
+Room MUEN E050
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MCDB 2150 - Principles of Genetics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Odorizzi, 
+Jennifer Knight
+
+Room MUEN E050
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+MCDB 2150 - Principles of Genetics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Charles Odorizzi, 
+Jennifer Knight
+
+Room MUEN E050
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 22131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Tu 10:00AM - 11:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17834
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Tu 12:00PM - 1:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17835
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Greening, 
+Nancy Guild
+
+Room PORT B0026
+Meeting Time Tu 2:00PM - 3:50PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17836
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Greening, 
+Nancy Guild
+
+Room PORT B0026
+Meeting Time We 10:00AM - 11:50AM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time We 12:00PM - 1:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17837
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time We 2:00PM - 3:50PM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17838
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time We 4:00PM - 5:50PM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17839
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Th 10:00AM - 11:50AM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24062
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Th 12:00PM - 1:50PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17840
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Th 2:00PM - 3:50PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 17841
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Tu 4:00PM - 5:50PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 40491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+MCDB 2151 - Principles of Genetics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Guild
+
+Room PORT B0026
+Meeting Time Th 4:00PM - 5:50PM
+Section 022-MLSBoulder 16-Wk Session/Full Sem
+Class Code 40900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Mo 2:00PM - 2:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24538
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Mo 3:00PM - 3:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24539
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Mo 4:00PM - 4:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24540
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Fr 11:00AM - 11:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24541
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Fr 1:00PM - 1:50PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24543
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+MCDB 2152 - Problem Solving Co-Seminars for Genetics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Christy Fillman, 
+Jennifer Knight
+
+Room GOLD A2B07
+Meeting Time Fr 2:00PM - 2:50PM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39911
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+MCDB 2161 - From DNA to Genes, Phage Genomics Laboratory II
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo nil
+Instructor Christy Fillman, 
+Nancy Guild
+
+Room GOLD A1B20
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 800-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+MCDB 2171 - Drug Discovery Through Hands-On Screens 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pamela Harvey
+
+Room PORT B0046
+Meeting Time MoWe 12:00PM - 2:00PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 23442
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+MCDB 2171 - Drug Discovery Through Hands-On Screens 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pamela Harvey
+
+Room PORT B0046
+Meeting Time TuTh 10:00AM - 12:00PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 33855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+MCDB 2171 - Drug Discovery Through Hands-On Screens 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pamela Harvey
+
+Room PORT B0046
+Meeting Time TuTh 1:00PM - 3:00PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 33856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+MCDB 3135 - Molecular Cell Biology I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 84
+Waitlist Total 0
+MiscInfo nil
+Instructor Ravinder Singh
+
+Room GOLD A2B70
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23142
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+MCDB 3140 - Cell Biology Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joy Power
+
+Room GOLD A1B16
+Meeting Time Tu 12:00PM - 4:00PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 18156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+MCDB 3140 - Cell Biology Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joy Power
+
+Room GOLD A1B16
+Meeting Time We 1:00PM - 5:00PM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22288
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+MCDB 3140 - Cell Biology Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joy Power
+
+Room GOLD A1B16
+Meeting Time Th 12:00PM - 4:00PM
+Section 013-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+MCDB 3145 - Molecular Cell Biology II
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 87
+Waitlist Total 0
+MiscInfo nil
+Instructor Andreas Hoenger, 
+Gia Voeltz
+
+Room GOLD A2B70
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+MCDB 3350 - Fertility, Sterility, and Early Mammalian Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Vanblerkom
+
+Room PORT B121
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+MCDB 4100 - Special Topics
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Mutating Xenopus
+Instructor Bilge Birsoy, 
+Michael Klymkowsky
+
+Room GOLD A250
+Meeting Time Mo 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+MCDB 4100 - Special Topics
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Mutating Xenopus
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 38245
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+MCDB 4111 - Experimental Design and Research in Cell and Molecular Biology
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+Staff
+
+Room GOLD A150
+MUEN E0040
+Meeting Time MoWe 1:00PM - 1:50PM
+MoWe 2:00PM - 3:50PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 37106
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+44
+MCDB 4202 - The Python Project
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pamela Harvey
+
+Room GOLD A1B18
+Meeting Time TuTh 1:00PM - 4:00PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24065
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+MCDB 4314 - Algorithms for Molecular Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Knox
+
+Room FLMG 104
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24352
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+MCDB 4361 - Evolution and Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Brian DeDecker
+
+Room GOLD A1B20
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+MCDB 4425 - Topics in Membrane Biology: Cell Biology, Physiology and Disease
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jingshi Shen
+
+Room GOLD A1B60
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+MCDB 4426 - Cell Signaling and Developmental Regulation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ding Xue
+
+Room PORT B121
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+MCDB 4427 - Biology of the Visual System
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kevin Jones
+
+Room GOLD A1B60
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+MCDB 4441 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B75
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23395
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+MCDB 4441 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B76
+Meeting Time Tu 9:30AM - 12:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23396
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+MCDB 4441 - Animal Developmental Diversity
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Medeiros
+
+Room RAMY N1B76
+Meeting Time Tu 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 23629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+MCDB 4444 - Cellular Basis of Disease
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Martin
+
+Room GOLD A1B60
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21365
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+MCDB 4471 - Mechanisms of Gene Regulation in Eukaryotes
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ravinder Singh
+
+Room GOLD A1B60
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+MCDB 4520 - Bioinformatics and Genomics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B115
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24119
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+MCDB 4521 - Bioinformatics and Genomics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B331
+Meeting Time We 3:30PM - 5:30PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24418
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+MCDB 4560 - Introduction to Biophysics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loren Hough
+
+Room DUAN G2B41
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38608
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+MCDB 4750 - Animal Virology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Garcea
+
+Room BIOT B231
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+MCDB 4777 - Molecular Neurobiology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Harald Junge
+
+Room GOLD A120
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22952
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+MCDB 4811 - Teaching and Learning Biology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Erin Furtak, 
+Michael Klymkowsky
+
+Room EDUC 346
+Meeting Time Th 5:00PM - 7:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33119
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+MCDB 5220 - Molecular Genetics (Methods and Logic)
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Gia Voeltz, 
+Min Han
+
+Room GOLD A350
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+MCDB 5314 - Algorithms for Molecular Biology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Knox
+
+Room FLMG 104
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24351
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+MCDB 5361 - Evolution and Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Brian DeDecker
+
+Room GOLD A1B20
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+MCDB 5426 - Cell Signaling and Developmental Regulation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ding Xue
+
+Room PORT B121
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18462
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+MCDB 5427 - Biology of the Visual System
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kevin Jones
+
+Room GOLD A1B60
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+MCDB 5471 - Mechanisms of Gene Regulation in Eukaryotes
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ravinder Singh
+
+Room GOLD A1B60
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24193
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+MCDB 5520 - Bioinformatics and Genomics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B115
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24120
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+MCDB 5521 - Bioinformatics and Genomics Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B331
+Meeting Time We 3:30PM - 5:30PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 24419
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+MCDB 5560 - Introduction to Biophysics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loren Hough
+
+Room DUAN G2B41
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38609
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+MCDB 5777 - Molecular Neurobiology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Harald Junge
+
+Room GOLD A120
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+MCDB 7910 - Seminar Practicum
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Gia Voeltz
+
+Room GOLD A2B70
+Meeting Time Fr 3:30PM - 4:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17784
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+MCDB 8990 - Doctoral Dissertation
+Units 1 - 10
+Restriction Y
+Consent Required N
+Seats Remaining 99
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Fierer
+
+Room GOLD A2B70
+Meeting Time Mo 3:00PM - 3:50PM
+Section 900-DISBoulder 16-Wk Session/Full Sem
+Class Code 17812
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

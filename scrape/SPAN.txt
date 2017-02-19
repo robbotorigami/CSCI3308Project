@@ -1,0 +1,1456 @@
+0
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Nolder
+
+Room EDUC 136
+Meeting Time MoTuWeThFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16480
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Natalia Alvarez Morillo
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andres Porras Chaves
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Miriam Aloisio
+
+Room EDUC 136
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Maddox
+
+Room CLRE 211
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Norberto Cardenales Cardona
+
+Room HLMS 255
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 16485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Liduan Cotto
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 16486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Vazquez
+
+Room HLMS 255
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 16487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Flores Flores
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebeca Orellana Capriles
+
+Room EDUC 138
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 16490
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+SPAN 1010 - Beginning Spanish 1
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Adriana Cabeza
+
+Room HUMN 180
+Meeting Time MoWe 5:30PM - 7:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35530
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+11
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Raquel Laredo Valero
+
+Room HLMS 191
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ana Martinez Molina
+
+Room MCOL E155
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Vivian Elmore
+
+Room GUGG 2
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Delaney
+
+Room MCOL E155
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Niki Tito Ramos
+
+Room HLMS 191
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16497
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caitlin Brady
+
+Room EDUC 138
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 16504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Helen Satchwell
+
+Room CLRE 211
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 16498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Miluska Benavides
+
+Room MCOL E155
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 16499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Craig Welker
+
+Room CLRE 211
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 16500
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Moreno
+
+Room EDUC 138
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16501
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelly Drumright
+
+Room MUEN E123
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 16502
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Moreno
+
+Room MCOL E155
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 16503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Olivia Hirschey
+
+Room HLMS 247
+Meeting Time MoTuWeThFr 3:00PM - 3:50PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 16505
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Bocanegra
+
+Room HUMN 145
+Meeting Time MoWe 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35522
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+25
+SPAN 1020 - Beginning Spanish 2
+Units 5
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo nil
+Instructor Susanna Perez-Pamies
+
+Room SEE DEPT
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 570-LECCont Ed Extraordinary
+Class Code 39850
+Meeting Dates 01/17/2017 - 05/11/2017
+Open Status Open
+26
+SPAN 1150 - Intensive First Year Spanish
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelly Cramer
+
+Room HALE 260
+Meeting Time MoWe 5:30PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35519
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+27
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Fisher
+
+Room HUMN 180
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Vivian Elmore
+
+Room HLMS 181
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Tabler
+
+Room HLMS 251
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Moreno
+
+Room MUEN E431
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16510
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonia Green
+
+Room HLMS 193
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susanna Perez-Pamies
+
+Room CLRE 208
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 16512
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonia Green
+
+Room HLMS 193
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 16513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Tabler
+
+Room EDUC 134
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 16514
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonia Green
+
+Room HLMS 185
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 16515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Vivian Elmore
+
+Room HLMS 185
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16516
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+SPAN 2110 - Second-Year Spanish 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Bocanegra
+
+Room HUMN 145
+Meeting Time Tu 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35515
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+38
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonia Green
+
+Room HLMS 185
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Piras
+
+Room MKNA 204
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16519
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Piras
+
+Room MKNA 204
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16520
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Javier Munoz
+
+Room DUAN G2B41
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16521
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Malcolm
+
+Room GUGG 206
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16522
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Tabler
+
+Room HLMS 251
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 16523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+SPAN 2120 - Second-Year Spanish 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Malcolm
+
+Room EDUC 134
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 16524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+SPAN 2150 - Intensive Second-Year Spanish
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Alejandro Mendez-Betancor
+
+Room HUMN 335
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 21159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+SPAN 2450 - Catalan for Spanish Speakers
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Susanna Perez-Pamies
+
+Room CHEM 146
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+SPAN 3000 - Advanced Spanish Language Skills
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Fernanda Iwasaki Cordero
+
+Room CLRE 211
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+SPAN 3000 - Advanced Spanish Language Skills
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Juan Garcia Oyervides
+
+Room CLRE 212
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16528
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+SPAN 3000 - Advanced Spanish Language Skills
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Taiko Haessler
+
+Room CLRE 212
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+SPAN 3000 - Advanced Spanish Language Skills
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Wright
+
+Room CLRE 212
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16530
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+SPAN 3000 - Advanced Spanish Language Skills
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ximena Keogh
+
+Room CLRE 212
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 16531
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+SPAN 3001 - Spanish Conversation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Piras
+
+Room MKNA 204
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16533
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+SPAN 3001 - Spanish Conversation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Malcolm
+
+Room HLMS 193
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16534
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+SPAN 3002 - Advanced Spanish Conversation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Cardenas
+
+Room HLMS 196
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16535
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+SPAN 3002 - Advanced Spanish Conversation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Piras
+
+Room MKNA 204
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+SPAN 3010 - Advanced Rhetoric and Composition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Anne Becher
+
+Room CLRE 301
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+SPAN 3010 - Advanced Rhetoric and Composition
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anne Becher
+
+Room MKNA 204
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+SPAN 3040 - Professional Spanish for Business 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Mary Long
+
+Room KTCH 1B84
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+SPAN 3050 - Spanish Phonology and Phonetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Esther Brown
+
+Room CLRE 212
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16536
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+SPAN 3050 - Spanish Phonology and Phonetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Rivas Rodriguez
+
+Room HLMS 185
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24284
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+SPAN 3100 - Literary Analysis
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julio Baena
+
+Room HALE 236
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16538
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+SPAN 3100 - Literary Analysis
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andres Prieto
+
+Room HLMS 185
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16539
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+SPAN 3100 - Literary Analysis
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nina Molinaro
+
+Room MKNA 103
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16540
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+SPAN 3120 - Advanced Spanish Grammar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hallstead
+
+Room HUMN 1B70
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16542
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+SPAN 3120 - Advanced Spanish Grammar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hallstead
+
+Room KTCH 1B84
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16543
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+SPAN 3120 - Advanced Spanish Grammar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Julio Baena
+
+Room CLRE 212
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24417
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+SPAN 3200 - Spanish Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Juan Herrero-Senes
+
+Room STAD 135
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23412
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+SPAN 3220 - Latin American Culture: Spanish America and Brazil
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Tania Martuscelli
+
+Room GUGG 205
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16545
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+SPAN 3800 - Selected Readings: Latin American Literature in Translation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo nil
+Instructor Leila Gomez
+
+Room HALE 230
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+SPAN 3800 - Selected Readings: Latin American Literature in Translation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo nil
+Instructor Allison Glover
+
+Room VAC 1B88
+Meeting Time Mo 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23359
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+SPAN 3800 - Selected Readings: Latin American Literature in Translation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo nil
+Instructor Dulce Aldama
+
+Room EDUC 143
+Meeting Time Mo 2:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 23361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+SPAN 3800 - Selected Readings: Latin American Literature in Translation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo nil
+Instructor Gabriela Buitron Vera
+
+Room CLRE 211
+Meeting Time Tu 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 23362
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+SPAN 4070 - Problems of Business Translation in Spanish 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Mary Long
+
+Room KTCH 1B44
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22906
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+SPAN 4160 - Major Works/Trends: Spanish Literature to Present
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nina Molinaro
+
+Room HLMS 193
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16549
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+SPAN 4180 - Major Works/Trends: Spanish-American Literature Modern/Contemporary
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan Hallstead
+
+Room KTCH 1B44
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16550
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+SPAN 4215 - Spanish in the United States
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Chase Raymond
+
+Room EDUC 143
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+SPAN 4220 - Special Topics in Spanish and/or Spanish American Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo nil
+Instructor Andres Prieto
+
+Room EKLC E1B75
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+SPAN 4220 - Special Topics in Spanish and/or Spanish American Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo nil
+Instructor Nuria Silleras-Fernandez
+
+Room MKNA 103
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+SPAN 4430 - Special Topics in Hispanic Linguistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Rivas Rodriguez
+
+Room HLMS 191
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+SPAN 4650 - Methods of Teaching Spanish
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo nil
+Instructor Anne Becher
+
+Room HALE 236
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16552
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+SPAN 5140 - Seminar: Spanish Literature, Medieval Period
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nuria Silleras-Fernandez
+
+Room MKNA 103
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+SPAN 5220 - Seminar: Spanish Literature, 20th Century
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Juan Herrero-Senes
+
+Room MKNA 103
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+SPAN 5300 - Seminar: Spanish American Literature, Colonial Period and/or 19th Century
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leila Gomez
+
+Room MKNA 103
+Meeting Time We 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24289
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+SPAN 5320 - Seminar: 20th Century Spanish American Literature
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Elmore
+
+Room MKNA 103
+Meeting Time Mo 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+SPAN 5430 - Seminar: Hispanic Linguistics
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Esther Brown
+
+Room MKNA 103
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+SPAN 7140 - Seminar: Spanish Literature, Medieval Period
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nuria Silleras-Fernandez
+
+Room MKNA 103
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16561
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+SPAN 7220 - Seminar: Spanish Literature, 20th Century
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Juan Herrero-Senes
+
+Room MKNA 103
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+SPAN 7300 - Seminar: Spanish American Literature, Colonial Period and/or 19th Century
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leila Gomez
+
+Room MKNA 103
+Meeting Time We 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+SPAN 7320 - Seminar: 20th Century Spanish American Literature
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Elmore
+
+Room MKNA 103
+Meeting Time Mo 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20449
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+SPAN 7430 - Seminar: Hispanic Linguistics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Esther Brown
+
+Room MKNA 103
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,821 @@
+0
+DNCE 1000 - Beginning Contemporary Dance Technique
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Topic: Contemporary Modern
+Instructor Leah Woods
+
+Room THTR W150
+Meeting Time MoWe 8:15AM - 9:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19051
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+DNCE 1000 - Beginning Contemporary Dance Technique
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Contemporary Modern
+Instructor Keith Haynes
+
+Room CARL E012
+Meeting Time MoWe 2:00PM - 3:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 19052
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+DNCE 1000 - Beginning Contemporary Dance Technique
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Contemporary Modern
+Instructor Donna Mejia
+
+Room CARL E012
+Meeting Time TuTh 2:00PM - 3:30PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+DNCE 1013 - Dance Improvisation
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Gesel Mason
+
+Room THTR W350
+Meeting Time TuTh 12:00PM - 12:30PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 19002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+DNCE 1013 - Dance Improvisation
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Gesel Mason
+
+Room THTR W350
+Meeting Time TuTh 12:30PM - 1:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 19888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+DNCE 1017 - Dance and Popular Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Bonnie Cox
+
+Room HUMN 250
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22467
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+DNCE 1100 - Beginning Ballet
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Dodson
+
+Room THTR W350
+Meeting Time MoWe 2:00PM - 3:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 19053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+DNCE 1100 - Beginning Ballet
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Morgan Mulholand
+
+Room THTR W325
+Meeting Time MoWe 2:00PM - 3:00PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 40453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+DNCE 1120 - Beginning Ballet with Experience
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Helen Malpass
+
+Room THTR W350
+Meeting Time MoWe 3:15PM - 4:15PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+DNCE 1200 - Beginning Jazz Dance
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Allen
+
+Room THTR W350
+Meeting Time MoWe 4:30PM - 5:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 32560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+DNCE 1220 - Beginning Jazz with Experience
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Morgan Mulholand
+
+Room CARL E012
+Meeting Time MoWe 4:00PM - 5:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 32561
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+DNCE 1301 - Hip-Hop Dance Technique 1
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lawrence Southall
+
+Room CARL E012
+Meeting Time TuTh 12:00PM - 12:30PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+DNCE 1301 - Hip-Hop Dance Technique 1
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lawrence Southall
+
+Room CARL E012
+Meeting Time TuTh 12:30PM - 1:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+DNCE 1901 - Technique Practicum
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Contemp Transnational Fusion
+Instructor Leah Woods
+
+Room THTR W350
+Meeting Time Th 4:00PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 32580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+DNCE 1901 - Technique Practicum
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Aerial Dance
+Instructor Nancy Smith
+
+Room THTR W150
+Meeting Time TuTh 12:00PM - 2:00PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 32581
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+DNCE 2005 - Movement Awareness and Injury Prevention for the Dancer
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Nada Diachenko
+
+Room THTR W325
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21884
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+DNCE 2501 - African Dance
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: African Dance-Ghanaian
+Instructor Nii Sowah
+
+Room THTR W150
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+DNCE 2501 - African Dance
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: African Dance-Ghanaian
+Instructor Nii Sowah
+
+Room THTR W150
+Meeting Time MoWe 2:00PM - 3:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 18883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+DNCE 2701 - Contact Improvisation 1
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Gwen Ritchie
+
+Room THTR W150
+Meeting Time Tu 3:30PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23658
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+DNCE 3001 - Intermediate/Advanced Contemporary Dance Technique
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Garrison
+
+Room CARL E012
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+DNCE 3024 - Musical Resources for Dance
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesse Manno
+
+Room THTR W325
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22469
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+DNCE 3033 - Choreographic Resources
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Helanius Wilkins
+
+Room THTR W350
+Meeting Time TuTh 2:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+DNCE 3035 - Production Practicum
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Projects
+Instructor Iain Court
+
+Room THTR W150
+Meeting Time Fr 12:00PM - 3:00PM
+Section 802-PRABoulder 16-Wk Session/Full Sem
+Class Code 23097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+DNCE 3035 - Production Practicum
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Topic: Projects
+Instructor Iain Court
+
+Room THTR W150
+Meeting Time Fr 3:00PM - 6:00PM
+Section 803-PRABoulder 16-Wk Session/Full Sem
+Class Code 23098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+DNCE 3041 - Major Technique
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Contemp Transnational Fusion
+Instructor Donna Mejia
+
+Room THTR W150
+Meeting Time MoTuWeThFr 10:00AM - 11:30AM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 22046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+DNCE 3161 - Intermediate Ballet
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Erika Randall
+
+Room THTR W350
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 32578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+DNCE 3241 - Intermediate Jazz
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Arneshia Williams
+
+Room CARL E012
+Meeting Time MoWe 8:30AM - 9:45AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 23095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+DNCE 3901 - Technique Practicum
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Somatic Conditioning
+Notes: This is a combined section class
+Instructor Christina Nelson
+
+Room THTR W350
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 32583
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+DNCE 4037 - Looking at Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo nil
+Instructor Helanius Wilkins
+
+Room HLMS 199
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17667
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+DNCE 4037 - Looking at Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Samantha Wesler
+
+Room THTR W350
+Meeting Time Fr 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 17668
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+DNCE 4037 - Looking at Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Vivian Kim
+
+Room THTR W350
+Meeting Time Fr 9:00AM - 9:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 17669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+DNCE 4037 - Looking at Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Samantha Wesler
+
+Room THTR W350
+Meeting Time Fr 2:00PM - 2:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 17670
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+DNCE 4037 - Looking at Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Vivian Kim
+
+Room THTR W350
+Meeting Time Fr 3:00PM - 3:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 17671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+DNCE 4038 - Dance Repertory
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Hip Hop
+Notes: This is a combined section class
+Instructor Lawrence Southall
+
+Room CARL E012
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 24190
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+DNCE 4047 - Hip-Hop Dance History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lawrence Southall
+
+Room THTR C342
+Meeting Time TuTh 10:00AM - 11:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+DNCE 4061 - Major Technique
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Modern
+Instructor Gesel Mason
+
+Room THTR W350
+Meeting Time MoTuWeThFr 10:00AM - 11:30AM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 19885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+DNCE 5001 - Graduate Technique
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Contemp Transnational Fusion
+Instructor Donna Mejia
+
+Room THTR W150
+Meeting Time MoTuWeThFr 10:00AM - 11:30AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 19886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+DNCE 5001 - Graduate Technique
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Modern
+Instructor Gesel Mason
+
+Room THTR W350
+Meeting Time MoTuWeThFr 10:00AM - 11:30AM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 21514
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+DNCE 5024 - Graduate Musical Resources
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jesse Manno
+
+Room THTR W325
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23099
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+DNCE 5038 - Dance Repertory
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Dance Repertory-Hip Hop
+Notes: This is a combined section class
+Instructor Lawrence Southall
+
+Room CARL E012
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 24191
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+DNCE 5047 - Hip-Hop Dance History
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lawrence Southall
+
+Room THTR C342
+Meeting Time TuTh 10:00AM - 11:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23383
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+DNCE 5048 - Dance and Community Engagement
+Units 1 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nii Sowah
+
+Room THTR W325
+Meeting Time Fr 12:00PM - 3:00PM
+Section 001-FLDBoulder 16-Wk Session/Full Sem
+Class Code 19887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+DNCE 5101 - Intermediate Graduate Ballet
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Erika Randall
+
+Room THTR W350
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 22907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+DNCE 5901 - Graduate Technique Practicum
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Technique Practicum-Ghanaian
+Instructor Nii Sowah
+
+Room THTR W150
+Meeting Time MoWe 12:00PM - 1:30PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 20221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+DNCE 5901 - Graduate Technique Practicum
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Technique Practicum-Ghanaian
+Instructor Nii Sowah
+
+Room THTR W150
+Meeting Time MoWe 2:00PM - 3:30PM
+Section 002-PRABoulder 16-Wk Session/Full Sem
+Class Code 20222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+DNCE 5901 - Graduate Technique Practicum
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Contact Improv
+Instructor Erika Randall, 
+Gwen Ritchie
+
+Room THTR W150
+Meeting Time Tu 3:30PM - 5:30PM
+Section 003-PRABoulder 16-Wk Session/Full Sem
+Class Code 21896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+DNCE 5901 - Graduate Technique Practicum
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Somatic Conditioning
+Notes: This is a combined section class
+Instructor Christina Nelson
+
+Room THTR W350
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 004-PRABoulder 16-Wk Session/Full Sem
+Class Code 32582
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+DNCE 5901 - Graduate Technique Practicum
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Aerial Dance
+Instructor Nancy Smith
+
+Room THTR W150
+Meeting Time TuTh 12:00PM - 2:00PM
+Section 804-PRABoulder 16-Wk Session/Full Sem
+Class Code 32579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+DNCE 6047 - Seminar: Dance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Michelle Ellsworth
+
+Room THTR C342
+Meeting Time Tu 4:00PM - 7:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32559
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+DNCE 6073 - Choreography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nada Diachenko
+
+Room THTR W150
+Meeting Time TuTh 2:00PM - 2:30PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+DNCE 6073 - Choreography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nada Diachenko
+
+Room THTR W150
+Meeting Time TuTh 2:30PM - 3:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 21888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

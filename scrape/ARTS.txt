@@ -1,0 +1,1430 @@
+0
+ARTS 1003 - Printmaking for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Klema
+
+Room VAC 390
+Meeting Time TuTh 9:30AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16619
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ARTS 1003 - Printmaking for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Matt Christie
+
+Room VAC 390
+Meeting Time TuTh 4:30PM - 6:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ARTS 1010 - Introduction to Studio Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Charlene Stevens
+Charlene Stevens
+
+Room VAC 172
+VAC 1B20
+Meeting Time TuTh 11:00AM - 1:20PM
+Tu 5:00PM - 5:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21958
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+3
+ARTS 1010 - Introduction to Studio Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jodi Holmes
+Charlene Stevens
+
+Room VAC 172
+VAC 1B20
+Meeting Time TuTh 2:00PM - 4:20PM
+Tu 5:00PM - 5:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 21959
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ARTS 1010 - Introduction to Studio Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanna Bugajska
+Charlene Stevens
+
+Room VAC 172
+VAC 1B20
+Meeting Time TuTh 5:00PM - 7:50PM
+Tu 5:00PM - 5:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 23758
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+5
+ARTS 1010 - Introduction to Studio Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Roberta Restaino
+Roberta Restaino
+Roberta Restaino
+
+Room VAC 1B20
+VAC 184
+VAC 184
+Meeting Time Tu 5:00PM - 5:50PM
+Tu 6:00PM - 8:00PM
+Th 5:00PM - 8:00PM
+Section 300E-STUCE Evening Full Session
+Class Code 35516
+Meeting Dates 01/17/2017 - 05/04/2017
+01/17/2017 - 05/04/2017
+01/17/2017 - 05/04/2017
+Open Status Open
+6
+ARTS 1012 - Drawing for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Meghan Chase
+
+Room VAC 474
+Meeting Time Fr 10:00AM - 2:40PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16450
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ARTS 1012 - Drawing for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Francoise Duresse-Stimilli
+
+Room VAC 474
+Meeting Time TuTh 9:30AM - 11:50AM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 23288
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ARTS 1012 - Drawing for Non-Majors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Day
+
+Room VAC 471
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 300E-STUCE Evening Full Session
+Class Code 35518
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+9
+ARTS 1020 - Introduction to Studio Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Lilly Zuckerman
+Michael Beitz
+
+Room VAC 172
+VAC 1B20
+Meeting Time MoWe 8:00AM - 10:20AM
+Th 5:00PM - 5:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16448
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+10
+ARTS 1020 - Introduction to Studio Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Foster
+Michael Beitz
+
+Room VAC 172
+VAC 1B20
+Meeting Time MoWe 11:00AM - 1:20PM
+Th 5:00PM - 5:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 16445
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+11
+ARTS 1020 - Introduction to Studio Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Beitz
+Michael Beitz
+
+Room VAC 172
+VAC 1B20
+Meeting Time MoWe 2:00PM - 4:20PM
+Th 5:00PM - 5:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 16446
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ARTS 1020 - Introduction to Studio Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Beitz
+Michael Beitz
+
+Room VAC 172
+VAC 1B20
+Meeting Time MoWe 5:00PM - 7:20PM
+Th 5:00PM - 5:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 16444
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+13
+ARTS 1020 - Introduction to Studio Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Treher
+Michael Beitz
+
+Room VAC 172
+VAC 1B20
+Meeting Time TuTh 8:00AM - 10:20AM
+Th 5:00PM - 5:50PM
+Section 005-STUBoulder 16-Wk Session/Full Sem
+Class Code 16447
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+14
+ARTS 1171 - Photography for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Britland Tracy
+
+Room VAC 1B03
+Meeting Time MoWe 3:00PM - 5:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16617
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ARTS 1212 - Painting for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Gafford
+
+Room VAC 475
+Meeting Time Fr 10:00AM - 2:40PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+ARTS 1212 - Painting for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Cullum
+
+Room VAC 471
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 23167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ARTS 1212 - Painting for Non-Majors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor John DeFeo
+
+Room VAC 471
+Meeting Time MoWe 4:00PM - 6:20PM
+Section 300E-STUCE Evening Full Session
+Class Code 35520
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+18
+ARTS 1514 - Sculpture for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Wright
+
+Room VAC 184
+Meeting Time TuTh 12:30PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ARTS 1514 - Sculpture for Non-Majors
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Misuhng Suh
+
+Room VAC 184
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ARTS 1875 - Ceramics for Non-Majors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Smith
+
+Room VAC 175
+Meeting Time MoWe 6:00PM - 8:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ARTS 1875 - Ceramics for Non-Majors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Shenk
+
+Room VAC 171
+Meeting Time MoWe 6:00PM - 9:00PM
+Section 300E-STUCE Evening Full Session
+Class Code 35521
+Meeting Dates 01/23/2017 - 05/03/2017
+Open Status Open
+22
+ARTS 2022 - Beginning Drawing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Day
+
+Room VAC 474
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+ARTS 2085 - Ceramics 2: Handbuilding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Chamberlin
+
+Room VAC 175
+Meeting Time TuTh 9:30AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+ARTS 2095 - Ceramics 2: Wheelthrowing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kimberly Dickey
+
+Room VAC 171
+Meeting Time TuTh 9:30AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ARTS 2126 - Digital Art 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin McQuillan
+
+Room VAC 1B23
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 22286
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ARTS 2171 - Photography 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Britland Tracy
+
+Room VAC 1B03
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16752
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ARTS 2171 - Photography 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Yasmin Mazloom
+
+Room VAC 1B03
+Meeting Time MoWe 12:00PM - 2:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ARTS 2191 - Photography 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Chong
+
+Room VAC 1B97
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16753
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ARTS 2202 - Figure Painting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Francoise Duresse-Stimilli
+
+Room VAC 475
+Meeting Time TuTh 12:30PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+ARTS 2222 - Beginning Painting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo nil
+Instructor John DeFeo
+
+Room VAC 471
+Meeting Time Fr 10:00AM - 2:40PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ARTS 2303 - Beginning Relief
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 390
+Meeting Time TuTh 1:30PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24407
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ARTS 2413 - Beginning Lithography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 395
+Meeting Time TuTh 10:30AM - 12:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24403
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ARTS 2423 - Beginning Screenprinting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24411
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+ARTS 2433 - Beginning Alternative Printmaking
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ARTS 2504 - Basic Sculpture:  Materials and Techniques
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Carissa Samaniego
+
+Room VAC 184
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21219
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ARTS 3017 - Special Topics in Studio Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Furnishings
+Notes: This is a combined section class
+Instructor William Rumley
+
+Room VAC 271
+Meeting Time TuTh 9:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 24482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+ARTS 3017 - Special Topics in Studio Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Color Theory
+Instructor Mike Womack
+
+Room VAC 475
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 39030
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ARTS 3022 - Intermediate Drawing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Mike Womack
+
+Room VAC 474
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ARTS 3085 - Ceramics 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeanne Quinn
+
+Room VAC 175
+Meeting Time MoWe 10:00AM - 12:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ARTS 3191 - Photography 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Chong
+
+Room VAC 1B97
+Meeting Time MoWe 2:00PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16644
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ARTS 3222 - Intermediate Painting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alvin Gregorio
+
+Room VAC 475
+Meeting Time TuTh 9:30AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+ARTS 3303 - Relief 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 390
+Meeting Time TuTh 1:30PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24408
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+ARTS 3384 - Fleeting and Found:  Ephemeral Sculpture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo nil
+Instructor Yumi Roth
+
+Room VAC 277
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ARTS 3413 - Lithography 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 395
+Meeting Time TuTh 10:30AM - 12:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24404
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+ARTS 3423 - Screen Printing 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24412
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+ARTS 3433 - Alternative Printmaking 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+ARTS 3937 - Internship
+Units 1 - 6
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Alex Sweetman
+
+Room VAC 455
+Meeting Time Tu 5:00PM - 6:50PM
+Section 800-INTBoulder 16-Wk Session/Full Sem
+Class Code 16611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+ARTS 4002 - Advanced Drawing/Portfolio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Alvin Gregorio
+
+Room VAC 471
+Meeting Time TuTh 12:30PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+ARTS 4017 - Special Topics in Studio Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Transmedia: Photo & Video
+Notes: This is a combined section class
+Instructor Luis Valdovino
+
+Room VAC 1B17
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 16614
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ARTS 4085 - Ceramics 4
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Kimberly Dickey
+
+Room VAC 155
+Meeting Time TuTh 1:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21112
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+ARTS 4097 - Special Topics---Non-Studio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Photography History/theory
+Notes: This is a combined section class
+Instructor Alex Sweetman
+
+Room VAC 455
+Meeting Time Th 9:30AM - 11:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+ARTS 4104 - Performance/Installation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Steven Frost
+
+Room VAC 485
+Meeting Time MoWe 5:00PM - 7:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24400
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ARTS 4117 - BFA Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Martonis
+
+Room VAC 455
+Meeting Time We 5:00PM - 7:20PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ARTS 4118 - Visiting Artist Program
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kimberly Dickey
+Kimberly Dickey
+
+Room VAC 1B20
+VAC 303
+Meeting Time Tu 6:00PM - 9:00PM
+We 2:00PM - 4:20PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23133
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+55
+ARTS 4126 - Digital Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Clemmons
+
+Room VAC 1B23
+Meeting Time MoWe 2:00PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ARTS 4154 - Metalsmithing 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yumi Roth
+
+Room VAC 290A
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+ARTS 4171 - New Directions in Photography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Walker
+
+Room VAC 1B03
+Meeting Time TuTh 2:00PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16750
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ARTS 4176 - New Directions in Digital Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Loyd
+
+Room VAC 1B23
+Meeting Time MoWe 5:00PM - 7:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ARTS 4196 - Advanced Photo-Imaging
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Walker
+
+Room VAC 1B97
+Meeting Time TuTh 11:00AM - 1:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 22087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ARTS 4202 - Advanced Painting/Portfolio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Marina Kassianidou
+
+Room VAC 475
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+ARTS 4246 - Beginning Video Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Luis Valdovino
+
+Room VAC 1B17
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16653
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+ARTS 4303 - Relief 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 390
+Meeting Time TuTh 1:30PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24409
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+ARTS 4413 - Lithography 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 395
+Meeting Time TuTh 10:30AM - 12:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24405
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+ARTS 4423 - Screen Printing 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+ARTS 4433 - Alternative Printmaking 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+ARTS 4504 - Advanced Sculpture Studio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Saxton
+
+Room VAC 276
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+ARTS 4607 - Art & Social Change
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor George Rivera
+
+Room VAC 1B23
+Meeting Time Th 3:30PM - 5:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+ARTS 5017 - Special Topics in Studio Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Transmedia: Photo & Video
+Notes: This is a combined section class
+Instructor Luis Valdovino
+
+Room VAC 1B17
+Meeting Time MoWe 9:00AM - 11:20AM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 16616
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+ARTS 5017 - Special Topics in Studio Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Furnishings
+Notes: This is a combined section class
+Instructor William Rumley
+
+Room VAC 271
+Meeting Time TuTh 9:00AM - 11:50AM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 23843
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+ARTS 5075 - Graduate Ceramics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Chamberlin
+
+Room VAC 455
+Meeting Time Tu 1:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 21113
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ARTS 5097 - Special Topics---Non-Studio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Photography History/theory
+Notes: This is a combined section class
+Instructor Alex Sweetman
+
+Room VAC 455
+Meeting Time Th 9:30AM - 11:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+ARTS 5104 - Graduate Performance/Installation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Steven Frost
+
+Room VAC 485
+Meeting Time MoWe 5:00PM - 7:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24399
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+ARTS 5118 - Graduate Visiting Artist Program
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kimberly Dickey
+Kimberly Dickey
+
+Room VAC 1B20
+VAC 303
+Meeting Time Tu 6:00PM - 9:00PM
+We 2:00PM - 4:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23134
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+74
+ARTS 5126 - Graduate Digital Art 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Clemmons
+
+Room VAC 1B23
+Meeting Time MoWe 2:00PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16651
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+ARTS 5154 - Metalsmithing 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Yumi Roth
+
+Room VAC 290A
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+ARTS 5171 - New Directions in Photography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Walker
+
+Room VAC 1B03
+Meeting Time TuTh 2:00PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16751
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+ARTS 5176 - Graduate New Directions in Digital Art
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Loyd
+
+Room TBA
+Meeting Time MoWe 5:00PM - 6:00PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+ARTS 5196 - Graduate Advanced Photo-Imaging
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Walker
+
+Room VAC 1B97
+Meeting Time TuTh 11:00AM - 1:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 22089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+ARTS 5202 - Graduate Painting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Marina Kassianidou
+
+Room VAC 455
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16457
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+ARTS 5246 - Graduate Beginning Video Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Luis Valdovino
+
+Room VAC 1B17
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 16654
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+ARTS 5303 - Graduate Relief
+Units 3 - 18
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 390
+Meeting Time TuTh 1:30PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24410
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+ARTS 5413 - Graduate Lithography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Matt Christie
+
+Room VAC 395
+Meeting Time TuTh 10:30AM - 12:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24406
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+ARTS 5423 - Graduate Screen Printing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 10:00AM - 12:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 24414
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+ARTS 5433 - Graduate Alternative Printmaking (Non-Toxic)
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Melanie Yazzie
+
+Room VAC 390
+Meeting Time MoWe 1:00PM - 3:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+ARTS 5607 - Art & Social Change
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor George Rivera
+
+Room VAC 1B23
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

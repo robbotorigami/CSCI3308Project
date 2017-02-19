@@ -1,0 +1,33 @@
+0
+ENVM 5002 - Analyzing Socio-Environmental Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Goldstein
+
+Room SEE DEPT
+Meeting Time Th 2:45PM - 5:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33228
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ENVM 6002 - Capstone Innovation Lab 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Lydia Lawhon, 
+Shannon Simpson
+
+Room SEEC N124
+Meeting Time Th 9:00AM - 11:00AM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 33229
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

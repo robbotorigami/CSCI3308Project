@@ -1,0 +1,2600 @@
+0
+WRTG 1100 - Extended First-Year Writing and Rhetoric
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Richards
+
+Room CLUB 10
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23464
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+WRTG 1100 - Extended First-Year Writing and Rhetoric
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Sclafani
+
+Room CLUB 10
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+WRTG 1100 - Extended First-Year Writing and Rhetoric
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Hawley
+
+Room HALE 235
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+WRTG 1100 - Extended First-Year Writing and Rhetoric
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Sclafani
+
+Room HALE 235
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 014-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Macdonald
+
+Room ECCR 1B08
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23102
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Richards
+
+Room EKLC E1B75
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tobin Von Der Nuell
+
+Room MUEN D439
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33411
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Macdonald
+
+Room ECCR 1B08
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Terrell Dionne
+
+Room DUAN G1B25
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Kincaid
+
+Room ECST 1B21
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joe Hatfield
+
+Room DUAN G1B27
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 014-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Kincaid
+
+Room ECCR 118
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 015-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sara Tabatabaie
+
+Room HLMS 193
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 016-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melanie Shaffer
+
+Room CHEM 133
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 017-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Luciana Marques
+
+Room MUEN E114
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 019-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Terrell Dionne
+
+Room DUAN G1B25
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 020-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Daigle
+
+Room HLMS 191
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 022-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34668
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joe Hatfield
+
+Room DUAN G1B25
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 024-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tim Lyons
+
+Room CLRE 209
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 025-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21905
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sara Tabatabaie
+
+Room GUGG 206
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 026-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tobin Von Der Nuell
+
+Room CLRE 208
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 028-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leslie Blood
+
+Room ECCR 110
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 029-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24598
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Young Min
+
+Room KTCH 1B64
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 032-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Seth Myers
+
+Room DUAN G1B39
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 033-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Gloria Adamson
+
+Room ECON 13
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 034-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret Luebs-Goedecke
+
+Room ECST 1B21
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 035-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Tim Lyons
+
+Room KTCH 1B71
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 036-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melanie Shaffer
+
+Room HLMS 247
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 037-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24446
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Patricia Sullivan
+
+Room ECCR 1B08
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 039-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21945
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Seth Myers
+
+Room DUAN G1B25
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 040-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Young Min
+
+Room CHEM 145
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 042-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18225
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eliza Klinger
+
+Room HUMN 160
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 043-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18226
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Young Min
+
+Room MUEN E417
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 046-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37947
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eliza Klinger
+
+Room KTCH 1B84
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 047-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Tim Lyons
+
+Room EKLC E1B75
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 048-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew McFadyen-Ketchum
+
+Room STAD 136C
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 055-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18231
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gretchen Lang
+
+Room DUAN G1B35
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 056-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kurtis Hessel
+
+Room HUMN 145
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 057-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Alber
+
+Room HUMN 160
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 058-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18233
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Dawn Colley
+
+Room DUAN G1B25
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 060-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18235
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Ostro
+
+Room ECON 2
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 061-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Kurtis Hessel
+
+Room HUMN 145
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 065-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18236
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Gretchen Lang
+
+Room DUAN G1B35
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 066-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jarad Krywicki
+
+Room CHEM 131
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 069-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24613
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jarad Krywicki
+
+Room HUMN 270
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 071-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18239
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Schmitt
+
+Room ECST 1B21
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 072-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18240
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Kunce
+
+Room KTCH 1B84
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 077-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Schmitt
+
+Room ECST 1B21
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 078-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Juhi Huda
+
+Room DUAN G1B39
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 079-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Burger
+
+Room HUMN 145
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 082-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Juhi Huda
+
+Room DUAN G1B39
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 083-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34702
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Burger
+
+Room ECON 2
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 086-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Caroline Sinkinson, 
+Michelle Albert
+
+Room CLRE 302
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 088-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sigman Byrd
+
+Room ECCR 1B08
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 093-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21490
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Burger
+
+Room HALE 236
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 094-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22520
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michelle Albert
+
+Room CLRE 301
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 097-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38679
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Ostro
+
+Room HUMN 1B70
+Meeting Time We 6:00PM - 8:00PM
+Section 300E-SEMCE Evening Full Session
+Class Code 35512
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+57
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marlene Miyamoto
+
+Room CLUB 10
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Young Min
+
+Room CLUB 10
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18241
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamal Khlifat
+
+Room CLUB 10
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 802-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamal Khlifat
+
+Room CLUB 10
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 805-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21491
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Campbell
+
+Room HALE 235
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 806-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+WRTG 1150 - First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Campbell
+
+Room HALE 235
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 807-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+WRTG 1250 - Advanced First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Latici
+
+Room KTCH 1B44
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23465
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+WRTG 1250 - Advanced First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Anthony Abiragi
+
+Room MUEN E114
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+WRTG 1250 - Advanced First-Year Writing and Rhetoric
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sigman Byrd
+
+Room KTCH 1B60
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 017-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23468
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+WRTG 2020 - Introduction to Creative Nonfiction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Knowlton
+
+Room DUAN G1B39
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+WRTG 2090 - Electives in Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Writing Center Theory & Praxis
+Instructor Eric Klinger
+
+Room CHEM 133
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24213
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+WRTG 3007 - Writing in the Visual Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sharon Beck
+
+Room HLMS 104
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 33190
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+WRTG 3007 - Writing in the Visual Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Kerry Reilly
+
+Room ECST 1B21
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 21492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+WRTG 3007 - Writing in the Visual Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kerry Reilly
+
+Room ECST 1B21
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 18326
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Changing Digital Communities
+Instructor Seth Myers
+
+Room HUMN 160
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: The Documentary
+Instructor Sarah Barkin
+
+Room HUMN 370
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Biomedical Ethics
+Instructor Naomi Rachel
+
+Room HUMN 245
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Changing Digital Communities
+Instructor Seth Myers
+
+Room HUMN 160
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23356
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Travel Writing
+Instructor Daniel Levine
+
+Room GUGG 206
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Writing and Money
+Instructor Eileen Lagman
+
+Room CLUB 13
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 011-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Race, Class, Gender
+Instructor Patricia Sullivan
+
+Room DUAN G1B39
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 014-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18480
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Travel Writing
+Instructor Daniel Levine
+
+Room HALE 260
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 015-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34769
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Food & Culture
+Instructor Dawn Colley
+
+Room MUEN E130
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 019-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Essay to Blog: Expl Nonfiction
+Instructor Sarah Massey-Warren
+
+Room DUAN G131
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 020-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18587
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Stories in American Culture
+Instructor Tobin Von Der Nuell
+
+Room CLRE 209
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 021-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: After the Holocaust
+Instructor Naomi Rachel
+
+Room EKLC E1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 022-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Cross-Cultural Writing & Film
+Instructor Catherine Alber
+
+Room ENVD 122
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 023-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Ink Slingers & Wordsmiths
+Instructor Olivia Miller
+
+Room ECON 16
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 025-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Essay to Blog: Expl Nonfiction
+Instructor Sarah Massey-Warren
+
+Room STAD 135
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 026-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18594
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Stories in American Culture
+Instructor Tobin Von Der Nuell
+
+Room CLRE 208
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 027-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33412
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Heroism:  Troy - Baghdad
+Instructor Christopher Ostro
+
+Room HUMN 370
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 030-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Comedy Writing
+Instructor Daniel Long
+
+Room KTCH 1B44
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 031-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18596
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Cross-Cultural Writing
+Instructor Jennifer Campbell
+
+Room GUGG 206
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 033-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23120
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Comics and the Graphic Novel
+Instructor Sharon Beck
+
+Room MUEN E114
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 035-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18598
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Food & Culture
+Instructor Veronica House
+
+Room KTCH 1B64
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 036-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18599
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Global Justice
+Instructor Levente Szentkira'lyi
+
+Room CHEM 145
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 037-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18595
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Biomedical Ethics
+Instructor Donald Wilkerson
+
+Room KTCH 1B84
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 038-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Food & Culture
+Instructor Veronica House
+
+Room KTCH 1B64
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 040-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18686
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Writing on Music
+Instructor Alexander Fobes
+
+Room ECCR 1B08
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 041-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22528
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Writing in Political Science
+Instructor Levente Szentkira'lyi
+
+Room CHEM 145
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 042-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Europe in Crisis
+Instructor Damian Doyle
+
+Room DUAN G1B39
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 050-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: On the Border/ US & Mexico
+Instructor Raul Melgoza
+
+Room ECCR 1B08
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 051-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18693
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Best American Essays
+Instructor Eric Burger
+
+Room DUAN G1B35
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 052-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18688
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: On the Border/ US & Mexico
+Instructor Raul Melgoza
+
+Room ECCR 1B08
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 059-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23850
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Don't Fence Me In
+Instructor Jay Ellis
+
+Room HUMN 160
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 065-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23851
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Animals/Amer Ind Narratives
+Instructor Catherine Kunce
+
+Room STAD 135
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 066-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23852
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Ways of Telling the Story
+Instructor Kerry Reilly
+
+Room ECCR 1B08
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 067-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+104
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Europe in Crisis
+Instructor Damian Doyle
+
+Room ECST 1B21
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 068-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Narrative and the Self
+Instructor Sigman Byrd
+
+Room ECCR 1B08
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 073-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Food & Culture
+Instructor Merrit Dukehart
+
+Room HUMN 160
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 076-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+107
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Travel Writing
+Instructor Rachel Hawley
+
+Room MUEN D439
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 084-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18690
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Writing on Music
+Instructor Alexander Fobes
+
+Room DUAN G2B21
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 085-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34795
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+109
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Visual Culture/Visual Literacy
+Notes: This is a combined section class
+Instructor Kerry Reilly
+
+Room ECST 1B21
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 086-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22909
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Gender, Sexuality & New Media
+Instructor Maria Sclafani
+
+Room HUMN 370
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 091-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Narrative and the Self
+Instructor Sigman Byrd
+
+Room DUAN G1B27
+Meeting Time Tu 5:00PM - 6:15PM
+Section 093-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: American Road Trips
+Instructor Lisa Donovan
+
+Room ECON 16
+Meeting Time Mo 6:00PM - 7:30PM
+Section 300E-SEMCE Evening Full Session
+Class Code 35506
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+113
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Language/ Power/Perception
+Instructor Dawn Colley
+
+Room VAC 1B90
+Meeting Time We 6:00PM - 7:30PM
+Section 400E-SEMCE Evening 10 Weeks
+Class Code 35507
+Meeting Dates 02/08/2017 - 04/19/2017
+Open Status Open
+114
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Randall DeCleene
+
+Room CU in DC Carnegie
+Meeting Time Mo 6:00PM - 8:30PM
+Section 550R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17913
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Cross-Cultural Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+WRTG 3020 - Topics in Writing
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Cross-Cultural Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20273
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+117
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Lonni Pearce
+
+Room ECON 16
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18327
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Daniel Long
+
+Room DUAN G1B35
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Christina Eisert
+
+Room ECCR 1B08
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22353
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+120
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Daniel Long
+
+Room DUAN G1B35
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24447
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Christina Eisert
+
+Room ECCR 1B08
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Douglas Dupler
+
+Room ECCR 1B08
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18329
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+123
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Daniel Long
+
+Room DUAN G2B47
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18330
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Rebecca Dickson
+
+Room CHEM 131
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Naomi Rachel
+
+Room HUMN 270
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 013-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18332
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+126
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Douglas Dupler
+
+Room HUMN 160
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 015-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Rebecca Dickson
+
+Room CHEM 131
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 016-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18333
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Steven Lamos
+
+Room ECST 1B21
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 018-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+129
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Michael Zizzi
+
+Room ENVD 122
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 019-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Donald Wilkerson
+
+Room ECST 1B21
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 020-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Orin Hargraves
+
+Room MUEN E130
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 022-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Petger Schaberg
+
+Room HUMN 270
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 024-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+133
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Petger Schaberg
+
+Room MUEN E114
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 027-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Rolf Norgaard
+
+Room ECON 16
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 030-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Orin Hargraves
+
+Room CHEM 131
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 031-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Matthew Henningsen
+
+Room MUEN E114
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 035-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22333
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20200
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+138
+WRTG 3030 - Writing on Science and Society
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20275
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+139
+WRTG 3035 - Technical Communication and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leslie Blood
+
+Room DUAN G2B21
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+140
+WRTG 3035 - Technical Communication and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rolf Norgaard
+
+Room HUMN 160
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21519
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+WRTG 3035 - Technical Communication and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paula Wenger
+
+Room HUMN 160
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22531
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+142
+WRTG 3035 - Technical Communication and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Petger Schaberg
+
+Room DUAN G1B35
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 018-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22530
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Maryanne Fantalis
+
+Room HUMN 270
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Eliza Klinger
+
+Room CLRE 104
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+145
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Nathan Pieplow
+
+Room HUMN 160
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23357
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Nathan Pieplow
+
+Room HUMN 160
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 010-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23358
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Maryanne Fantalis
+
+Room CHEM 133
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18340
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+148
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Sarah Massey-Warren
+
+Room DUAN G1B27
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 019-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+149
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Sarah Massey-Warren
+
+Room DUAN G1B27
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 020-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18341
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Rosalyn Zigmond
+
+Room HLMS 104
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 024-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24597
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+151
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Paula Wenger
+
+Room MUEN E114
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 025-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Rosalyn Zigmond
+
+Room HUMN 370
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 027-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+153
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Peter Kratzke
+
+Room DUAN G1B35
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 031-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18344
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+154
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Peter Kratzke
+
+Room KTCH 1B64
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 034-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21521
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+155
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Paula Wenger
+
+Room EKLC M203
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 035-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+156
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Eric Klinger
+
+Room EDUC 143
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 037-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Kelly Bradbury
+
+Room HUMN 160
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 038-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22534
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+158
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Instructor Kelly Bradbury
+
+Room HUMN 160
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 040-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22910
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20201
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+160
+WRTG 3040 - Writing on Business and Society
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topics in Writing
+Notes: This is a combined section class
+Instructor Sally Green
+
+Room CLUB 10
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 20276
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+161
+WRTG 3090 - Open Topics in Writing: Advanced
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Storytelling through New Media
+Instructor Nathan Pieplow
+
+Room SEE DEPT
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22577
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

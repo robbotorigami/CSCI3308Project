@@ -1,0 +1,2603 @@
+0
+CSCI 1200 - The Art of Computational Thinking and Computer Programming
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Ioana Fleming
+
+Room ECCR 105
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39376
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Knox
+
+Room MATH 100
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28268
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Zietz
+
+Room ECCR 211
+Meeting Time Mo 2:00PM - 2:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28012
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Karthik Kannan
+
+Room ECCR 211
+Meeting Time Tu 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 28099
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Iuzzolino
+
+Room ECCR 211
+Meeting Time Tu 10:00AM - 10:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 28108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Zietz
+
+Room ECCR 211
+Meeting Time Tu 1:00PM - 1:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Monika Tak
+
+Room ECCR 211
+Meeting Time Tu 2:00PM - 2:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Vipra Gupta
+
+Room ECCR 211
+Meeting Time Tu 3:00PM - 3:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 28416
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Vipra Gupta
+
+Room ECCR 211
+Meeting Time Tu 4:00PM - 4:50PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 28417
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Holbrook
+
+Room ECCR 211
+Meeting Time We 9:00AM - 9:50AM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 28418
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Holbrook
+
+Room ECCR 211
+Meeting Time We 10:00AM - 10:50AM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 28419
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Monika Tak
+
+Room ECCR 211
+Meeting Time We 2:00PM - 2:50PM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 28420
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Farrow
+
+Room ECCR 211
+Meeting Time Th 9:00AM - 9:50AM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 28421
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Farrow
+
+Room ECCR 211
+Meeting Time Th 10:00AM - 10:50AM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 28432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+CSCI 1300 - Computer Science 1: Starting Computing
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Karthik Kannan
+
+Room ECCR 211
+Meeting Time Th 11:00AM - 11:50AM
+Section 113-RECBoulder 16-Wk Session/Full Sem
+Class Code 28521
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+CSCI 1310 - Computer Science 1: Starting Computing - Experienced
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirly Montero Quesada
+
+Room KOBL 330
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28445
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+CSCI 1310 - Computer Science 1: Starting Computing - Experienced
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ranganathan Chidambaranathan
+
+Room ECCR 211
+Meeting Time Tu 11:00AM - 11:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28446
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CSCI 1310 - Computer Science 1: Starting Computing - Experienced
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ranganathan Chidambaranathan
+
+Room ECCR 211
+Meeting Time We 11:00AM - 11:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 28447
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Ioana Fleming
+
+Room MATH 100
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Pool
+
+Room ECCR 235
+Meeting Time Tu 11:00AM - 11:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28452
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sebastian Laudenschlager
+
+Room ECCR 235
+Meeting Time Tu 12:00PM - 12:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 28453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sachin Muralidhara
+
+Room ECCR 235
+Meeting Time Tu 3:00PM - 3:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 28454
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sachin Muralidhara
+
+Room ECCR 235
+Meeting Time Tu 4:00PM - 4:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28455
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ankita Singh
+
+Room ECES 107
+Meeting Time We 3:00PM - 3:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28523
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Julian Lambert
+
+Room ECES 107
+Meeting Time We 4:00PM - 4:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 28524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Varsha Srikanth Koushik
+
+Room ECES 107
+Meeting Time Th 9:00AM - 9:50AM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 28525
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Varsha Srikanth Koushik
+
+Room ECES 107
+Meeting Time Th 10:00AM - 10:50AM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 28526
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Molitor
+
+Room ECES 107
+Meeting Time Th 11:00AM - 11:50AM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 28527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sebastian Laudenschlager
+
+Room ECES 107
+Meeting Time Th 12:00PM - 12:50PM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 28528
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+CSCI 1320 - Computer Science 1: Starting Computing-Engineering Applications
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ankita Singh
+
+Room ECCR 235
+Meeting Time Th 1:00PM - 1:50PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 28529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Rhonda Hoenigman
+
+Room MATH 100
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 26334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Camilla Lambrocco
+
+Room ECCS 112C
+Meeting Time Tu 8:00AM - 9:15AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 26335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Radhen Patel
+
+Room ECCS 112C
+Meeting Time Tu 9:30AM - 10:45AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 26336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Radhen Patel
+
+Room ECCS 112C
+Meeting Time Tu 11:00AM - 12:15PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 26337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Camilla Lambrocco
+
+Room ECCS 112C
+Meeting Time Tu 12:30PM - 1:45PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 26338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Sunil Baliganahalli Narayana Murthy
+
+Room ECCS 112C
+Meeting Time Tu 2:00PM - 3:15PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 26339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sunil Baliganahalli Narayana Murthy
+
+Room ECCS 112C
+Meeting Time Tu 3:30PM - 4:45PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 27814
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Avinash Ratnavel Maharaj Ratnavel
+
+Room ECCS 112C
+Meeting Time Tu 5:00PM - 6:15PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 28010
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Aayush Grover
+
+Room ECCS 112C
+Meeting Time Th 8:00AM - 9:15AM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 28149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Aayush Grover
+
+Room ECCS 112C
+Meeting Time Th 9:30AM - 10:45AM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 28150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ishita Srivastava
+
+Room ECCS 112C
+Meeting Time Th 11:00AM - 12:15PM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 28151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yang Li
+
+Room ECCS 112C
+Meeting Time Th 12:30PM - 1:45PM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 28152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yang Li
+
+Room ECCS 112C
+Meeting Time Th 2:00PM - 3:15PM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 28153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Chaitra Ramachandra
+
+Room ECCS 112C
+Meeting Time Th 3:30PM - 4:45PM
+Section 113-RECBoulder 16-Wk Session/Full Sem
+Class Code 28154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Chaitra Ramachandra
+
+Room ECCS 112C
+Meeting Time Th 5:00PM - 6:15PM
+Section 114-RECBoulder 16-Wk Session/Full Sem
+Class Code 28204
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Radhen Patel
+
+Room ECES 107
+Meeting Time Fr 11:00AM - 12:15PM
+Section 115-RECBoulder 16-Wk Session/Full Sem
+Class Code 28205
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Avinash Ratnavel Maharaj Ratnavel
+
+Room ECES 107
+Meeting Time Fr 12:30PM - 1:45PM
+Section 116-RECBoulder 16-Wk Session/Full Sem
+Class Code 28530
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ishita Srivastava
+
+Room ECCR 235
+Meeting Time Fr 11:00AM - 12:15PM
+Section 117-RECBoulder 16-Wk Session/Full Sem
+Class Code 39795
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ishita Srivastava
+
+Room ECCR 235
+Meeting Time Fr 12:30PM - 1:45PM
+Section 118-RECBoulder 16-Wk Session/Full Sem
+Class Code 39796
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 92
+Waitlist Total 0
+MiscInfo nil
+Instructor Linda Jacobson
+
+Room DUAN G1B20
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 40699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Amber Womack
+
+Room MUEN E064
+Meeting Time Tu 8:00AM - 9:15AM
+Section 201-RECBoulder 16-Wk Session/Full Sem
+Class Code 40763
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Mridula Natrajan
+
+Room MUEN E064
+Meeting Time Th 8:00AM - 9:15AM
+Section 202-RECBoulder 16-Wk Session/Full Sem
+Class Code 40764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Amber Womack
+
+Room ECCE 141
+Meeting Time Tu 2:00PM - 3:15PM
+Section 203-RECBoulder 16-Wk Session/Full Sem
+Class Code 40860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+CSCI 2270 - Computer Science 2: Data Structures
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Mridula Natrajan
+
+Room ECCE 141
+Meeting Time Th 2:00PM - 3:15PM
+Section 204-RECBoulder 16-Wk Session/Full Sem
+Class Code 40861
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Han
+
+Room GOLD A2B70
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rohit Gupta
+
+Room ECCR 151
+Meeting Time We 8:00AM - 8:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28024
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rohit Gupta
+
+Room ECCS 112C
+Meeting Time We 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 28025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yogesh Virkar
+
+Room ECCS 112C
+Meeting Time We 10:00AM - 10:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 28026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yogesh Virkar
+
+Room ECCS 112C
+Meeting Time We 11:00AM - 11:50AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zaid Al-Ali
+
+Room ECCS 112C
+Meeting Time We 12:00PM - 12:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zaid Al-Ali
+
+Room ECCS 112C
+Meeting Time We 1:00PM - 1:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 28156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Okeson
+
+Room ECCS 112C
+Meeting Time We 2:00PM - 2:50PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 28361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Okeson
+
+Room ECCS 112C
+Meeting Time We 3:00PM - 3:50PM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 28532
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+CSCI 2400 - Computer Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ECCR 150
+Meeting Time We 4:00PM - 4:50PM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 41072
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+CSCI 2820 - Linear Algebra with Computer Science Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiao-Chuan Cai
+
+Room FLMG 154
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+CSCI 2824 - Discrete Structures
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Christian Ketelsen
+
+Room FLMG 155
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28545
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+CSCI 3002 - HCC Foundations/User-Centered Design and Development 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Pei Hsiu Yeh
+
+Room ECCR 1B40
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Clauset
+
+Room CHEM 140
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 27713
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nora Connor
+
+Room KOBL 235
+Meeting Time Fr 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 27714
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nehal Kamat
+
+Room KOBL 235
+Meeting Time Fr 10:00AM - 10:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 27715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ram Das Diwakaran
+
+Room KOBL 235
+Meeting Time Fr 11:00AM - 11:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 27716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+71
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ram Das Diwakaran
+
+Room KOBL 235
+Meeting Time Fr 12:00PM - 12:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nehal Kamat
+
+Room KOBL 235
+Meeting Time Fr 1:00PM - 1:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Santhanakrishnan Ramani
+
+Room KOBL 235
+Meeting Time Fr 2:00PM - 2:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 28757
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+CSCI 3104 - Algorithms
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wanshan Yang
+
+Room KOBL 235
+Meeting Time Fr 3:00PM - 3:50PM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 34894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Nelson
+
+Room ECCR 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 27717
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Athithyaa Panchapakesan Rajeswari
+
+Room FLMG 102
+Meeting Time We 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 28016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Austin Holler
+
+Room ECES 107
+Meeting Time Tu 3:00PM - 3:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 27718
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Athithyaa Panchapakesan Rajeswari
+
+Room FLMG 102
+Meeting Time We 11:00AM - 11:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 27719
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Nguyen
+
+Room ECCR 235
+Meeting Time We 3:00PM - 3:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+CSCI 3155 - Principles of Programming Languages
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Austin Holler, 
+Thomas Nelson
+
+Room ECCR 235
+Meeting Time We 4:00PM - 4:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 33300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+CSCI 3287 - Design and Analysis of Data Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Frank Miller
+
+Room ECCR 1B40
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28546
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Graham
+
+Room DUAN G1B20
+Meeting Time MoFr 11:00AM - 11:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 28192
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Saish Redkar
+
+Room ECCS 112C
+Meeting Time Tu 6:30PM - 8:20PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 28193
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rashmi Shetty
+
+Room ECCS 112C
+Meeting Time We 4:00PM - 5:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 28194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yawen Zhang
+
+Room ECCS 112C
+Meeting Time We 6:00PM - 7:50PM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 28195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Saish Redkar
+
+Room ECES 107
+Meeting Time Th 2:00PM - 3:50PM
+Section 104-LABBoulder 16-Wk Session/Full Sem
+Class Code 28196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rashmi Shetty
+
+Room ECES 107
+Meeting Time Th 4:00PM - 5:50PM
+Section 105-LABBoulder 16-Wk Session/Full Sem
+Class Code 28464
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yawen Zhang
+
+Room ECCS 112C
+Meeting Time Th 6:30PM - 8:20PM
+Section 106-LABBoulder 16-Wk Session/Full Sem
+Class Code 28547
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Saish Redkar
+
+Room ECCS 112C
+Meeting Time Fr 9:00AM - 10:50AM
+Section 107-LABBoulder 16-Wk Session/Full Sem
+Class Code 28931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alan Paradise
+
+Room FLMG 154
+Meeting Time Tu 5:00PM - 6:40PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 34459
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yogitha Mahadasu
+
+Room ECCR 235
+Meeting Time Fr 9:00AM - 10:50AM
+Section 201-LABBoulder 16-Wk Session/Full Sem
+Class Code 33317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yogitha Mahadasu
+
+Room ECCR 235
+Meeting Time Th 4:00PM - 5:50PM
+Section 202-LABBoulder 16-Wk Session/Full Sem
+Class Code 34460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+CSCI 3308 - SoftwareDevelopment Methods and Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yogitha Mahadasu
+
+Room ECCR 235
+Meeting Time Th 6:00PM - 7:50PM
+Section 203-LABBoulder 16-Wk Session/Full Sem
+Class Code 34461
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+CSCI 3656 - Numerical Computation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Bradley
+
+Room ECCS 1B12
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40597
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Frank Miller
+
+Room FLMG 155
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 27172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Max Hollingsworth
+
+Room KOBL 302
+Meeting Time Fr 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 27173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Brennan McConnell
+
+Room KOBL 302
+Meeting Time Fr 10:00AM - 10:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 27174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brennan McConnell
+
+Room KOBL 302
+Meeting Time Fr 11:00AM - 11:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 27175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Max Hollingsworth
+
+Room KOBL 302
+Meeting Time Fr 12:00PM - 12:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 28325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+CSCI 3753 - Design and Analysis of Operating Systems
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Chirag Kamat
+
+Room KOBL 302
+Meeting Time Fr 1:00PM - 1:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 28759
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+CSCI 4113 - Unix System Administration
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carey Herman
+
+Room ECEE 283
+Meeting Time TuTh 6:30PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+CSCI 4113 - Unix System Administration
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carey Herman
+
+Room ECEE 283
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+CSCI 4239 - Advanced Computer Graphics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Willem Schreuder
+
+Room ECCR 1B55
+Meeting Time Th 5:00PM - 7:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+CSCI 4250 - Computer Science: the Canon
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Eisenberg
+
+Room MUEN E114
+Meeting Time We 5:00PM - 7:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34600
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+CSCI 4302 - Advanced Robotics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christoffer Heckman
+
+Room ECCR 155
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34601
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+CSCI 4314 - Algorithms for Molecular Biology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Knox
+
+Room FLMG 104
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28766
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+CSCI 4318 - Software Engineering Project 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Parker
+
+Room ECCR 245
+Meeting Time MoWe 5:30PM - 6:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+CSCI 4318 - Software Engineering Project 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Parker
+
+Room ECCR 245
+Meeting Time Tu 5:30PM - 6:45PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 28326
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+CSCI 4358 - Entrepreneurial Projects II
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Richard Han, 
+Zachary Nies
+
+Room ITLL 1B50
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 34861
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+110
+CSCI 4358 - Entrepreneurial Projects II
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Han, 
+Zachary Nies
+
+Room ECCR 135
+Meeting Time We 5:00PM - 5:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 34863
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+111
+CSCI 4446 - Chaotic Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Bradley
+
+Room ECCR 139
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28329
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+112
+CSCI 4448 - Object-Oriented Analysis and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Boese
+
+Room ECCS 1B12
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+CSCI 4502 - Data Mining
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Boese
+
+Room FLMG 157
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40826
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+114
+CSCI 4593 - Computer Organization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Keith Graham
+
+Room ECCR 150
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+CSCI 4809 - Computer Animation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roger King
+
+Room ATLS 1B31
+Meeting Time WeFr 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Inclusive Dsgn & Assistv Tech
+Notes: This is a combined section class
+Instructor Shaun Kane
+
+Room ITLL 1B50
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27076
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Computer Security
+Notes: This is a combined section class
+Instructor Eric Wustrow
+
+Room ECEE 1B32
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28442
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+118
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Soft Robotics
+Notes: This is a combined section class
+Instructor Mark Gross
+
+Room ENVD 234A
+Meeting Time MoWe 2:00PM - 3:20PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 28458
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Interactive Mach Learn HCI
+Notes: This is a combined section class
+Instructor Ryan Shapiro
+
+Room ATLS 229
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 28477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+120
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Open Source Development
+Notes: This is a combined section class
+Instructor Ned Mc Clain
+
+Room ECCR 151
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 28878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Concurrent Programming
+Notes: This is a combined section class
+Instructor Pavol Cerny
+
+Room DUAN G2B47
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28374
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Bioinformatics and Genomics
+Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B115
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 28738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+123
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Universal Des Digital Media
+Notes: This is a combined section class
+Instructor Elianna James
+
+Room ATLS 1B31
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 28769
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+124
+CSCI 4830 - Special Topics in Computer Science
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 58
+Waitlist Total 0
+MiscInfo Topic: Data Science Team
+Notes: This is a combined section class
+Instructor Rafael Frongillo
+
+Room SEE DEPT
+Meeting Time Tu 5:00PM - 6:15PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 28411
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: High Perf Linear Alg
+Notes: This is a combined section class
+Instructor Jedediah Kallen-Brown
+
+Room ECCS 1B14
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 28739
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+CSCI 4830 - Special Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Machine Learning
+Notes: This is a combined section class
+Instructor Christian Ketelsen
+
+Room ECCS 1B12
+Meeting Time MoWe 5:45PM - 7:00PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 28855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+CSCI 5239 - Advanced Computer Graphics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Willem Schreuder
+
+Room ECCR 1B55
+Meeting Time Th 5:00PM - 7:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+CSCI 5250 - Computer Science: the Canon
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Eisenberg
+
+Room MUEN E114
+Meeting Time We 5:00PM - 7:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34778
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+129
+CSCI 5254 - Convex Optimization and Its Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Lijun Chen
+
+Room ECCR 155
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+CSCI 5302 - Advanced Robotics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christoffer Heckman
+
+Room ECCR 155
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34850
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+CSCI 5314 - Algorithms for Molecular Biology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Knox
+
+Room FLMG 104
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+CSCI 5350 - Entrepreneurial Projects II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Richard Han, 
+Zachary Nies
+
+Room ITLL 1B50
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+CSCI 5444 - Introduction to Theory of Computation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 51
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashutosh Trivedi
+
+Room ECCS 1B28
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32971
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+CSCI 5446 - Chaotic Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Bradley
+
+Room ECCR 139
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+135
+CSCI 5448 - Object-Oriented Analysis and Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Boese
+
+Room ECCS 1B12
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28536
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+CSCI 5608 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Margaret MacMillan
+
+Room ECCR 1B55
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+CSCI 5608 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Vasanthan Dasan
+
+Room ECCE 1B41
+Meeting Time Mo 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+138
+CSCI 5622 - Machine Learning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christian Ketelsen
+
+Room ECCS 1B12
+Meeting Time MoWe 5:45PM - 7:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34430
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+CSCI 5673 - Distributed Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Shivakant Mishra
+
+Room ECCR 150
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35067
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+140
+CSCI 5809 - Computer Animation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roger King
+
+Room ATLS 1B31
+Meeting Time WeFr 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34857
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+141
+CSCI 5817 - Database Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Frank Miller
+
+Room ECCS 1B12
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39375
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+142
+CSCI 5832 - Natural Language Processing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Susan Brown
+
+Room MUEN E131
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28854
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+CSCI 5854 - Theoretical Foundations for Cyber-Physical Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Sriram Sankaranarayanan
+
+Room ECCR 139
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+CSCI 6402 - Issues and Methods in Cognitive Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Albert Kim
+
+Room MUEN D430
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+145
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Topic: Inclusive Dsgn & Assistv Tech
+Notes: This is a combined section class
+Instructor Shaun Kane
+
+Room ITLL 1B50
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Algorth Econ & Mach Lrng Thry
+Instructor Rafael Frongillo
+
+Room ECCR 118
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34431
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: High Perf Linear Alg
+Notes: This is a combined section class
+Instructor Jedediah Kallen-Brown
+
+Room ECCS 1B14
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28441
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Incrmnt Comp: Lang, Algo & Imp
+Instructor Matthew Hammer
+
+Room ECCR 108
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28398
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+149
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Soft Robotics
+Notes: This is a combined section class
+Instructor Mark Gross
+
+Room ENVD 234A
+Meeting Time MoWe 2:00PM - 3:20PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 28459
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Human-Robot Interaction
+Notes: This is a combined section class
+Instructor Daniel Szafir
+
+Room ATLS 229
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 28743
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+151
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 37
+Waitlist Total 0
+MiscInfo Topic: Scientific Visualization
+Instructor Thomas Hauser
+
+Room ECEE 283
+Meeting Time We 6:15PM - 8:45PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 28449
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+CSCI 7000 - Current Topics in Computer Science
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Stats, Opt, and ML Seminar
+Notes: This is a combined section class
+Instructor Rafael Frongillo, 
+Stephen Becker
+
+Room ECCR 257
+Meeting Time Tu 3:30PM - 4:30PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 28877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+153
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Computer Security
+Notes: This is a combined section class
+Instructor Eric Wustrow
+
+Room ECEE 1B32
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+154
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Interactive Mach Learn HCI
+Notes: This is a combined section class
+Instructor Ryan Shapiro
+
+Room ATLS 229
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 28764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+155
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Adv Mach Lrng Nat Lang Proc
+Instructor Jordan Ying
+
+Room ECCR 131
+Meeting Time Mo 6:00PM - 8:30PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 39377
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+156
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Open Source Development
+Notes: This is a combined section class
+Instructor Ned Mc Clain
+
+Room ECCR 151
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 28899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Bioinformatics and Genomics
+Notes: This is a combined section class
+Instructor Robin Dowell-Deen
+
+Room BIOT B115
+Meeting Time MoWeFr 9:30AM - 10:20AM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 28747
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+158
+CSCI 7000 - Current Topics in Computer Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Topic: Comp Lexical Semantics
+Notes: This is a combined section class
+Instructor Martha Palmer
+
+Room ECCR 150
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 019-LECBoulder 16-Wk Session/Full Sem
+Class Code 37963
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+CSCI 7000 - Current Topics in Computer Science
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 58
+Waitlist Total 0
+MiscInfo Topic: Data Science Team
+Notes: This is a combined section class
+Instructor Rafael Frongillo
+
+Room SEE DEPT
+Meeting Time Tu 5:00PM - 6:15PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 28906
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+160
+CSCI 7135 - Topics in Programming Languages
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Program Analysis
+Instructor Bor Chang
+
+Room SEE DEPT
+Meeting Time Tu 1:00PM - 3:30PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 28689
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

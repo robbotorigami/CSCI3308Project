@@ -1,0 +1,967 @@
+0
+THTR 1003 - Acting 1: Introduction to Acting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Shakespeare
+Instructor Kevin Rich
+
+Room THTR C240
+Meeting Time MoWe 9:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+THTR 1003 - Acting 1: Introduction to Acting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Introductory Skills
+Instructor Nolan Carey
+
+Room CARL 304
+Meeting Time MoWe 9:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+THTR 1003 - Acting 1: Introduction to Acting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Introductory Skills
+Instructor Wesley Longacre
+
+Room THTR C240
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+THTR 1003 - Acting 1: Introduction to Acting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Introductory Skills
+Instructor Kevin Crowe
+
+Room CARL 304
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+THTR 1003 - Acting 1: Introduction to Acting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Introductory Skills
+Instructor Lindsay Weitkamp
+
+Room CARL 304
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 22518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+THTR 1009 - Introduction to Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 49
+Waitlist Total 0
+MiscInfo nil
+Instructor Jashodhara Sen
+
+Room HLMS 252
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17656
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+THTR 1009 - Introduction to Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 69
+Waitlist Total 0
+MiscInfo nil
+Instructor Jashodhara Sen
+
+Room HLMS 201
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17657
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+THTR 1009 - Introduction to Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Nolan Carey
+
+Room HLMS 199
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17658
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+THTR 1019 - Theatre Foundations: Text Analysis and Practice for the Theatre Arts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Justine Duda
+
+Room THTR C342
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+THTR 1105 - Stage Technologies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kerry Cripe
+
+Room THTR C190
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17663
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+THTR 1115 - Costume Technologies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Stark
+
+Room THTR C370
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+THTR 2021 - Development of Theatre 2: Forms of Modern Theatre and Drama
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Oliver Gerland
+
+Room THTR C340
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17687
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+THTR 3011 - Development of the American Musical Theatre
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Bianca Gordon
+
+Room HLMS 199
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17659
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+THTR 3011 - Development of the American Musical Theatre
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 34
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Kaplan
+
+Room HLMS 201
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+THTR 3011 - Development of the American Musical Theatre
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 52
+Waitlist Total 0
+MiscInfo nil
+Instructor Bianca Gordon
+
+Room RAMY C250
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+THTR 3011 - Development of the American Musical Theatre
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Kaplan
+
+Room EDUC 220
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 21498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+THTR 3011 - Development of the American Musical Theatre
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Schmidt
+
+Room CLRE 104
+Meeting Time Mo 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35513
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+17
+THTR 3015 - Scene Design 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Bergner
+
+Room THTR C340
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+THTR 3023 - Studio 2: Creating a Role
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Cecilia Pang
+
+Room THTR C240
+Meeting Time MoWe 2:00PM - 4:50PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22020
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+THTR 3035 - Production Practicum
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Tech Studio
+Instructor Kerry Cripe
+
+Room THTR C190
+Meeting Time WeFr 10:00AM - 11:50AM
+Section 821-PRABoulder 16-Wk Session/Full Sem
+Class Code 17800
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+THTR 3035 - Production Practicum
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Costume
+Instructor Theodore Stark
+
+Room THTR C1B30
+Meeting Time MoTuWeThFr 1:00PM - 5:00PM
+Section 840-PRABoulder 16-Wk Session/Full Sem
+Class Code 17801
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+THTR 3043 - Advanced Voice for the Stage
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Persons
+
+Room THTR C1B40
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+THTR 3045 - Stage Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Constance Lane
+
+Room THTR C342
+Meeting Time WeFr 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+THTR 3053 - Acting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Harrison
+
+Room THTR C1B40
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17816
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+THTR 3055 - Stage Lighting Design 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Iain Court, 
+Kerry Cripe
+
+Room THTR C370
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+THTR 3085 - History of Western Fashion
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Henry
+
+Room THTR C340
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+THTR 4021 - Development of Theatre 4: American Theatre and Drama
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Lewis
+
+Room THTR C370
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21673
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+THTR 4023 - Studio 4: Playing with Styles
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Tamara Meneghini-Stalker
+
+Room THTR C1B40
+Meeting Time TuTh 1:00PM - 3:50PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22522
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+THTR 4029 - Dance and Community Engagement
+Units 1 - 12
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Nii Sowah
+
+Room THTR W350
+Meeting Time Fr 12:00PM - 3:00PM
+Section 001-FLDBoulder 16-Wk Session/Full Sem
+Class Code 17993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+THTR 4039 - Musical Theatre Repertory
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Prugh
+
+Room CARL E012
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22791
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+THTR 4051 - Playwriting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Johnson
+
+Room THTR C340
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+THTR 4059 - Open Topics in Theatre and Drama
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Theatre for Social Change
+Notes: This is a combined section class
+Instructor Rebecca Brown
+
+Room THTR C240
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21536
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+THTR 4059 - Open Topics in Theatre and Drama
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Improvisation
+Notes: This is a combined section class
+Instructor Kevin Rich
+
+Room THTR C240
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34383
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+THTR 4063 - Audition Techniques
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Persons
+
+Room THTR C1B40
+Meeting Time MoWe 1:00PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 17983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+THTR 4081 - Senior Seminar
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Michelle Ellsworth
+
+Room THTR C342
+Meeting Time Mo 5:30PM - 8:00PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+THTR 4085 - Theatre Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Timothy Orr
+
+Room THTR C340
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+THTR 4095 - Special Topics in Theatre Design and Technology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Properties
+Instructor Kerry Cripe
+
+Room THTR C190
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+THTR 4105 - Theatre Make-Up Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Henry
+
+Room THTR C1B74
+Meeting Time Fr 1:00PM - 2:00PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23682
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+THTR 4105 - Theatre Make-Up Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Henry
+
+Room THTR C1B74
+Meeting Time Fr 2:00PM - 5:00PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+THTR 4113 - Comedy: A Performance Study
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Osnes
+
+Room THTR C340
+Meeting Time Tu 2:00PM - 5:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+THTR 4173 - Creative Climate Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Garrett Rue, 
+Mary Osnes, 
+Maxwell Boykoff
+
+Room ATLS 1B31
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23350
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Iain Court
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 800-PRABoulder 16-Wk Session/Full Sem
+Class Code 17985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 801-PRABoulder 16-Wk Session/Full Sem
+Class Code 17986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Henry
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 802-PRABoulder 16-Wk Session/Full Sem
+Class Code 17987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Kerry Cripe
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 803-PRABoulder 16-Wk Session/Full Sem
+Class Code 17988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Stark
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 804-PRABoulder 16-Wk Session/Full Sem
+Class Code 17989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 805-PRABoulder 16-Wk Session/Full Sem
+Class Code 17990
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Constance Lane
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 806-PRABoulder 16-Wk Session/Full Sem
+Class Code 17991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+THTR 4555 - Production Studio
+Units 1 - 2
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Bergner
+
+Room THTR C370
+Meeting Time Fr 12:00PM - 1:00PM
+Section 807-PRABoulder 16-Wk Session/Full Sem
+Class Code 17992
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+THTR 5025 - Costume Patterning and Construction
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Stark
+
+Room THTR C1B30
+Meeting Time MoWeFr 9:00AM - 10:45AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22976
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+THTR 5039 - Musical Theatre Repertory
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bertram Coleman
+
+Room CARL E012
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 22800
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+THTR 5049 - Special Topics in Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Theatre for Social Change
+Notes: This is a combined section class
+Instructor Rebecca Brown
+
+Room THTR C240
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+THTR 5049 - Special Topics in Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Improvisation
+Notes: This is a combined section class
+Instructor Kevin Rich
+
+Room THTR C240
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+THTR 5051 - Special Topics in Theatre History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Border, Performance, Activism
+Instructor Marcos Steuernagel
+
+Room THTR C342
+Meeting Time Mo 2:00PM - 5:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23686
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+THTR 5051 - Special Topics in Theatre History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Playwriting
+Instructor Oliver Gerland
+
+Room THTR C340
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24454
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+THTR 5085 - Theatre Management
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Timothy Orr
+
+Room THTR C340
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34651
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+THTR 5105 - Theatre Make-Up Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Henry
+
+Room THTR C1B74
+Meeting Time Fr 1:00PM - 2:00PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23684
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+THTR 5105 - Theatre Make-Up Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Henry
+
+Room THTR C1B74
+Meeting Time Fr 2:00PM - 5:00PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 23949
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+THTR 5113 - Comedy: A Performance Study
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Osnes
+
+Room THTR C340
+Meeting Time Tu 2:00PM - 5:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+THTR 6041 - On-Stage Studies: Modern Theatre
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcos Steuernagel
+
+Room THTR C342
+Meeting Time We 2:00PM - 5:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33004
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

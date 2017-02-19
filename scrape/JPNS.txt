@@ -1,0 +1,495 @@
+0
+JPNS 1012 - Introduction to Japanese Civilization
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton
+
+Room HLMS 199
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32682
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+JPNS 1012 - Introduction to Japanese Civilization
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton, 
+Lani Alden
+
+Room EDUC 138
+Meeting Time Tu 9:00AM - 9:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 32683
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+JPNS 1012 - Introduction to Japanese Civilization
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton, 
+Lani Alden
+
+Room MCOL E186
+Meeting Time Tu 12:00PM - 12:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 32684
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+JPNS 1012 - Introduction to Japanese Civilization
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton, 
+Ji Young Shouse
+
+Room EDUC 134
+Meeting Time We 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 32685
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+JPNS 1012 - Introduction to Japanese Civilization
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton, 
+Ji Young Shouse
+
+Room CHEM 145
+Meeting Time We 12:00PM - 12:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 32686
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanna Blaine, 
+Yoshie Arima
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15820
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Goodwin
+
+Room CHEM 145
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashley Webber, 
+Yoshie Arima
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 15821
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Ahlberg, 
+Yoshie Arima
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 21274
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Brendan Craine, 
+Yoshie Arima
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 15822
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+JPNS 1020 - Beginning Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hisako Schibli
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 15823
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+JPNS 2120 - Intermediate Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Natalie Collar, 
+Yumiko Matsunaga
+
+Room HLMS 185
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15844
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+JPNS 2120 - Intermediate Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Minako Kuhara, 
+Yumiko Matsunaga
+
+Room HLMS 181
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+JPNS 2120 - Intermediate Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Turley, 
+Yumiko Matsunaga
+
+Room HLMS 181
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 21275
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+JPNS 2811 - Heroes and the Supernatural: Word and Image in Old Japan
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Randle Kimbrough
+
+Room HUMN 125
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32781
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+JPNS 3120 - Advanced Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Hisako Schibli
+
+Room HUMN 335
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+JPNS 3120 - Advanced Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Husby, 
+Michiko Kaneyasu
+
+Room EDUC 134
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+JPNS 3120 - Advanced Japanese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Husby, 
+Michiko Kaneyasu
+
+Room HUMN 180
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 15851
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+JPNS 3200 - Adv Wrtg Topics on Chinese & Japanese Literature and Civilization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Alexander, 
+Sarah Zanolini
+
+Room HUMN 270
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+JPNS 3200 - Adv Wrtg Topics on Chinese & Japanese Literature and Civilization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Alexander, 
+Sarah Zanolini
+
+Room HUMN 245
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+JPNS 3851 - Studies in Japanese Popular Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Faye Kleeman
+
+Room MUEN E131
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+JPNS 3881 - Environment, Nature and Disaster in Japanese Literature and Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Janice Brown
+
+Room EKLC M203
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33188
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+JPNS 4070 - Second Language Acquisition of Japanese
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michiko Kaneyasu
+
+Room HUMN 245
+Meeting Time Fr 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32690
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+JPNS 4120 - Advanced Readings in Modern Japanese 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Yumiko Matsunaga
+
+Room DUAN G1B39
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+JPNS 4311 - Japanese Colonial and Transnational Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Faye Kleeman
+
+Room KTCH 1B84
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32782
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+JPNS 4320 - Classical Japanese 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Randle Kimbrough
+
+Room HUMN 1B70
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22954
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+JPNS 5070 - Second Language Acquisition of Japanese
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michiko Kaneyasu
+
+Room HUMN 245
+Meeting Time Fr 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32691
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+JPNS 5320 - Advanced Classical Japanese 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Randle Kimbrough
+
+Room HUMN 1B70
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22955
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+JPNS 5620 - Early Modern Japanese Literature and Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor David Atherton
+
+Room LIBR M498
+Meeting Time We 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+JPNS 5830 - Readings in Modern and Contemporary Japanese Thought and Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Janice Brown
+
+Room HUMN 245
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32693
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

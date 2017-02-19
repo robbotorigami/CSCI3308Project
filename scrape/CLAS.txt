@@ -1,0 +1,905 @@
+0
+CLAS 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Laura Michaelis-Cummings
+
+Room HLMS 267
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24557
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+CLAS 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Kosse
+
+Room HLMS 181
+Meeting Time Fr 3:00PM - 3:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 24558
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+CLAS 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Kosse
+
+Room CLRE 302
+Meeting Time Fr 1:00PM - 1:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 24559
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+CLAS 1020 - Argument from Evidence: Critical Writing about the Ancient World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Denton
+
+Room HUMN 245
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+CLAS 1020 - Argument from Evidence: Critical Writing about the Ancient World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Tyler Denton
+
+Room ECON 2
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+CLAS 1030 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Benjamin Rohrs
+
+Room HLMS 241
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21532
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+CLAS 1030 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Benjamin Rohrs
+
+Room VAC 1B88
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+CLAS 1030 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Christmann, 
+Mi-Kyoung Lee
+
+Room HLMS 199
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 35026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+CLAS 1051 - The World of the Ancient Greeks
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susan McMorris
+
+Room HLMS 237
+Meeting Time Mo 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35526
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Closed
+9
+CLAS 1061 - The Rise and Fall of Ancient Rome
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Travis Rupp
+
+Room HLMS 241
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22214
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+CLAS 1100 - Greek Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Pentzer
+
+Room VAC 1B88
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22216
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+CLAS 1100 - Greek Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Reina Callier
+
+Room HLMS 201
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23796
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+CLAS 1100 - Greek Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Grace Koch
+
+Room MUEN E131
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 40493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+CLAS 1110 - Gods, Monsters and Mortals: Literature of Ancient Greece
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Reina Callier
+
+Room HUMN 250
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22468
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+CLAS 1110 - Gods, Monsters and Mortals: Literature of Ancient Greece
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Reina Callier
+
+Room RAMY N1B31
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24349
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+CLAS 1115 - Masterpieces of Greek Literature in Translation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Kopff
+
+Room LIBR M300D
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 23159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+CLAS 1120 - Power and Passion: Literature of Ancient Rome
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 43
+Waitlist Total 0
+MiscInfo nil
+Instructor Carole Newlands
+
+Room EKLC E1B20
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cain
+
+Room HUMN 1B50
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23765
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Francesca Filanti
+
+Room CLRE 104
+Meeting Time We 11:00AM - 11:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 23770
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Brandon
+
+Room KTCH 1B84
+Meeting Time We 5:00PM - 5:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 23771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Francesca Filanti
+
+Room CLRE 104
+Meeting Time We 1:00PM - 1:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 23772
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ginevra Miglierina
+
+Room EDUC 143
+Meeting Time We 2:00PM - 2:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 23773
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew McDonald
+
+Room HUMN 190
+Meeting Time We 3:00PM - 3:50PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 23774
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Ginevra Miglierina
+
+Room HLMS 247
+Meeting Time Th 12:00PM - 12:50PM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 23775
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Brandon
+
+Room CLRE 301
+Meeting Time Th 1:00PM - 1:50PM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 23776
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew McDonald
+
+Room CLRE 301
+Meeting Time We 11:00AM - 11:50AM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 24578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cain
+
+Room HUMN 1B50
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 23767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Cain
+
+Room LIBR N424A
+Meeting Time Mo 11:00AM - 11:50AM
+Section 881-RECBoulder 16-Wk Session/Full Sem
+Class Code 23768
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+CLAS 1140 - Bread and Circuses: Society and Culture in the Roman World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Cain
+
+Room LIBR N424A
+Meeting Time We 11:00AM - 11:50AM
+Section 882-RECBoulder 16-Wk Session/Full Sem
+Class Code 23769
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+CLAS 2029 - Art and Archaeology of Ancient Egypt
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Travis Rupp
+
+Room VAC 1B90
+Meeting Time Mo 6:00PM - 8:30PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 35505
+Meeting Dates 02/06/2017 - 04/17/2017
+Open Status Open
+30
+CLAS 2039 - Greek Art and Archaeology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sarah James
+
+Room HLMS 201
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23814
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+CLAS 2039 - Greek Art and Archaeology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Travis Rupp
+
+Room HLMS 137
+Meeting Time We 6:00PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35510
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+32
+CLAS 2110 - Gender and Sexuality in Ancient Rome
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Samuel Kindick
+
+Room KTCH 1B64
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23797
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+CLAS 2610 - Paganism to Christianity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room HALE 260
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+CLAS 2610 - Paganism to Christianity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room VAC 1B88
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 29313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+CLAS 3009 - Modern Issues, Ancient Times
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Archaeology of Death
+Notes: This is a combined section class
+Instructor Leigh Baxter
+
+Room HALE 260
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+CLAS 3009 - Modern Issues, Ancient Times
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Archaeology of Death
+Notes: This is a combined section class
+Instructor Leigh Baxter
+
+Room HALE 260
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 37943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+CLAS 3019 - Pompeii and the Cities of Vesuvius
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Travis Rupp
+
+Room HLMS 229
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23816
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+CLAS 4040 - Seminar in Classical Antiquity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Roman Religion and Magic
+Instructor Isabel Koster
+
+Room HUMN 370
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+CLAS 4071 - Seminar in Ancient Social History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Greek / Roman Slavery
+Notes: This is a combined section class
+Instructor Peter Hunt
+
+Room CLRE 209
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+CLAS 4091 - The Roman Empire
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Isabel Koster
+
+Room KTCH 1B71
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+CLAS 4119 - Roman Sculpture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Diane Conlin
+
+Room GUGG 2
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33549
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+CLAS 4120 - Greek and Roman Tragedy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jacqueline Elliott
+
+Room HLMS 201
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+CLAS 4130 - Greek and Roman Comedy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room CLRE 209
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+CLAS 4130 - Greek and Roman Comedy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 3
+MiscInfo nil
+Instructor Andrew Cain
+
+Room HUMN 270
+Meeting Time We 6:00PM - 9:00PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 35527
+Meeting Dates 02/08/2017 - 04/19/2017
+Open Status Closed
+45
+CLAS 4139 - Greek Vase Painting
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sarah James
+
+Room HUMN 370
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+CLAS 4169 - Topics in Ancient and Classical Art and Archaeology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Archaeology of Religion
+Notes: This is a combined section class
+Instructor Dimitri Nakassis
+
+Room ENVD 120
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29329
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+CLAS 4169 - Topics in Ancient and Classical Art and Archaeology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Topog & Monuments Ancient Rome
+Notes: This is a combined section class
+Instructor Edwin Lansford
+
+Room HUMN 125
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 37992
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+CLAS 5071 - Seminar in Ancient Social History
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Greek / Roman Slavery
+Notes: This is a combined section class
+Instructor Peter Hunt
+
+Room CLRE 209
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+CLAS 5091 - The Roman Empire
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Isabel Koster
+
+Room KTCH 1B71
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+CLAS 5119 - Roman Sculpture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Diane Conlin
+
+Room GUGG 2
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+CLAS 5120 - Greek and Roman Tragedy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jacqueline Elliott
+
+Room HLMS 201
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+CLAS 5130 - Greek and Roman Comedy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room CLRE 209
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+CLAS 5139 - Greek Vase Painting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sarah James
+
+Room HUMN 370
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+CLAS 5169 - Topics in Ancient and Classical Art and Archaeology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Archaeology of Religion
+Notes: This is a combined section class
+Instructor Dimitri Nakassis
+
+Room ENVD 120
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+CLAS 5169 - Topics in Ancient and Classical Art and Archaeology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Topog & Monuments Ancient Rome
+Notes: This is a combined section class
+Instructor Edwin Lansford
+
+Room HUMN 125
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 37994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

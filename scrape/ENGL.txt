@@ -1,0 +1,2283 @@
+0
+ENGL 1001 - Freshman Writing Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiffany Beechy
+
+Room HLMS 259
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ENGL 1001 - Freshman Writing Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Gladstone
+
+Room HLMS 193
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22903
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ENGL 1001 - Freshman Writing Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Wright
+
+Room EDUC 134
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34865
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ENGL 1001 - Freshman Writing Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mary Klages
+
+Room HLMS 185
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ENGL 1001 - Freshman Writing Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Penelope Kelsey
+
+Room HLMS 259
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39393
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Hillary Susz
+
+Room DUAN G1B35
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34433
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Hillary Susz
+
+Room ECON 16
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Jedd
+
+Room CHEM 133
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34435
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Jedd
+
+Room ECON 16
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34436
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Elana Friedland
+
+Room DUAN G1B39
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34437
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Becker
+
+Room CLRE 302
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Kerutis
+
+Room HLMS 196
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34439
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Kerutis
+
+Room DUAN G1B39
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34440
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Rushi Vyas
+
+Room EKLC M203
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34441
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Natalie Sharp
+
+Room DUAN G131
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 011-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthieu LaGrenade
+
+Room CLRE 208
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34444
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ranellone
+
+Room KTCH 1B64
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 013-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34445
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Bartlett
+
+Room KTCH 1B64
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 015-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34447
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+ENGL 1191 - Introduction to Creative Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Chirtel
+
+Room HLMS 245
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 016-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ENGL 1220 - From Gothic to Horror
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Robertson
+
+Room HLMS 137
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24249
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ENGL 1220 - From Gothic to Horror
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Robertson
+
+Room HUMN 1B90
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24250
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ENGL 1230 - Environmental Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Gladstone
+
+Room HLMS 137
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+ENGL 1230 - Environmental Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Gladstone
+
+Room ECON 2
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+ENGL 1260 - Introduction to Women's Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cayla Eagon
+
+Room MUEN E130
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16125
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ENGL 1260 - Introduction to Women's Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cayla Eagon
+
+Room MUEN E431
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+ENGL 1260 - Introduction to Women's Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Klages
+
+Room KTCH 1B71
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 35153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+ENGL 1420 - Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Little
+
+Room HALE 230
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 32939
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ENGL 1420 - Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Sabelawski, 
+Katherine Little
+
+Room CLRE 212
+Meeting Time Th 9:30AM - 10:20AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 32942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ENGL 1420 - Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Sabelawski, 
+Katherine Little
+
+Room CHEM 145
+Meeting Time Th 3:30PM - 4:20PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 32943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ENGL 1420 - Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Little, 
+Kathryn Roberts
+
+Room HLMS 177
+Meeting Time Fr 9:00AM - 9:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 32944
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ENGL 1420 - Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Little, 
+Kathryn Roberts
+
+Room ATLS 1B25
+Meeting Time Fr 1:00PM - 1:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 32945
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ENGL 1500 - Masterpieces of British Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiffany Rexroth
+
+Room HLMS 251
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+ENGL 1500 - Masterpieces of British Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiffany Rexroth
+
+Room RAMY N1B31
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Raza Hasan
+
+Room DUAN G2B41
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Rogelio Garcia
+
+Room ECON 13
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16128
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Rogelio Garcia
+
+Room DUAN G2B60
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Josette Lorig
+
+Room EKLC E1B50
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 16130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Josette Lorig
+
+Room HUMN 1B90
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 16131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+ENGL 1600 - Masterpieces of American Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Quentin Mc Andrew
+
+Room EDUC 346
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 34052
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ENGL 1800 - American Ethnic Literatures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Tettleton
+
+Room ECON 205
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ENGL 2021 - Introductory Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kailey-Alyssa Tucker
+
+Room CHEM 131
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+ENGL 2021 - Introductory Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kailey-Alyssa Tucker
+
+Room HLMS 104
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ENGL 2021 - Introductory Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Thompson
+
+Room CHEM 133
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+ENGL 2036 - Introduction to Media Studies in the Humanities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lori Emerson
+
+Room ATLS 1B31
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32512
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+ENGL 2051 - Introductory Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Intro Fiction Workshop
+Instructor Erin Armstrong
+
+Room CHEM 131
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+ENGL 2051 - Introductory Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Intro Fiction Workshop
+Instructor Aaron Hull
+
+Room HLMS 229
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+ENGL 2051 - Introductory Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Intro Fiction Workshop
+Instructor Erin Armstrong
+
+Room HLMS 181
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ENGL 2051 - Introductory Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Intro Fiction Workshop
+Instructor Aaron Hull
+
+Room CHEM 133
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+ENGL 2051 - Introductory Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Intro Fiction Workshop
+Instructor Matthew Pridham
+
+Room DUAN G1B35
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+ENGL 2058 - Twentieth- and Twentyfirst-Century Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeremy Green
+
+Room HLMS 137
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ENGL 2102 - Literary Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Janice Ho
+
+Room HLMS 259
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+ENGL 2102 - Literary Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ramesh Mallipeddi
+
+Room DUAN G1B35
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+ENGL 2102 - Literary Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richelle Munkhoff
+
+Room KTCH 1B84
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 16167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+ENGL 2102 - Literary Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julius Rivers
+
+Room HLMS 241
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 21524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+ENGL 2112 - Introduction to Literary Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Jacobs
+
+Room HLMS 259
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22192
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+ENGL 2112 - Introduction to Literary Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Glimp
+
+Room HLMS 259
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22966
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+ENGL 2112 - Introduction to Literary Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karim Mattar
+
+Room HLMS 137
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23386
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+ENGL 2112 - Introduction to Literary Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric White
+
+Room HLMS 196
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 23387
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ENGL 2115 - American Frontiers
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cheryl Higashida
+
+Room HLMS 137
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35058
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+ENGL 2655 - Introduction to American Literature I
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Windell
+
+Room HLMS 137
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24234
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ENGL 2767 - Survey of Post-Colonial Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Winkiel
+
+Room VAC 1B90
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Neimann
+
+Room HLMS 137
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Neimann
+
+Room VAC 1B90
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17098
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy De Saillan-Olsen
+
+Room ECON 205
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17100
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy De Saillan-Olsen
+
+Room ECON 205
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17104
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melanie Lo
+
+Room ECON 2
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 17105
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melanie Lo
+
+Room CLUB 13
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 17106
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Bupp
+
+Room STAD 140
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 21193
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Bupp
+
+Room HALE 260
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 22900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richelle Munkhoff
+
+Room HLMS 193
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 38032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Harriet Hanson
+
+Room MUEN E130
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 38130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Teresa Nugent
+
+Room VAC 1B20
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Denise Weber, 
+Teresa Nugent
+
+Room HLMS 259
+Meeting Time We 2:00PM - 2:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 17118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Denise Weber, 
+Teresa Nugent
+
+Room HLMS 259
+Meeting Time We 3:00PM - 3:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 17127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tarah Dykeman, 
+Teresa Nugent
+
+Room HLMS 259
+Meeting Time We 4:00PM - 4:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 17121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Pillard, 
+Teresa Nugent
+
+Room HLMS 259
+Meeting Time We 5:00PM - 5:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 32914
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Pillard, 
+Teresa Nugent
+
+Room MUEN E130
+Meeting Time Th 2:00PM - 2:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 17785
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tarah Dykeman, 
+Teresa Nugent
+
+Room STAD 135
+Meeting Time Fr 12:00PM - 12:50PM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 32917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+ENGL 3000 - Shakespeare for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachael Deagman
+
+Room LIBR N424A
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 24012
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+ENGL 3021 - Intermediate Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Gordon
+
+Room DUAN G1B39
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+ENGL 3021 - Intermediate Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ansley Clark
+
+Room CHEM 131
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+ENGL 3041 - Studies in Fiction and Poetry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ansley Clark
+
+Room HLMS 104
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+ENGL 3051 - Intermediate Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Merritt
+
+Room HUMN 245
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+ENGL 3051 - Intermediate Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathleen Woods
+
+Room ECON 205
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17140
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Shelton
+
+Room ECON 2
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17141
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Raza Hasan
+
+Room HLMS 137
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17142
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Shelton
+
+Room CLRE 209
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17143
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Raza Hasan
+
+Room EDUC 155
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17144
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Izant
+
+Room ECON 2
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 17145
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Izant
+
+Room HLMS 137
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 17146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Karim Mattar
+
+Room HLMS 193
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 17147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Windell
+
+Room DUAN G2B21
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 17148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Daigle
+
+Room KTCH 1B87
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 17149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jimmy Miranda
+
+Room DUAN G2B21
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Labio
+
+Room HLMS 137
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 17150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Conny Cassity
+
+Room DUAN G131
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 17151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Schneider
+
+Room ECON 13
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 17152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Robertson
+
+Room DUAN G2B21
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 014-LECBoulder 16-Wk Session/Full Sem
+Class Code 21955
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Corey
+
+Room ECON 13
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 015-LECBoulder 16-Wk Session/Full Sem
+Class Code 22916
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Corey
+
+Room EKLC E1B50
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 22917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Schneider
+
+Room CLRE 104
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 017-LECBoulder 16-Wk Session/Full Sem
+Class Code 34452
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+101
+ENGL 3060 - Modern and Contemporary Literature for Nonmajors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Bornstein
+
+Room EDUC 134
+Meeting Time Th 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35539
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+102
+ENGL 3078 - Literature in English, 1945-Present
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Winkiel
+
+Room HLMS 137
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24247
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+ENGL 3116 - Topics in Advanced Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Modern Literature and Science
+Instructor Eric White
+
+Room GUGG 2
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35072
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+ENGL 3164 - History and Literature of Georgian Britain
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jillian Heydt-Stevenson
+
+Room HLMS 237
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+ENGL 3246 - Topics in Popular Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: High Art & Low Culture
+Instructor Paul Neimann
+
+Room ECON 2
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+106
+ENGL 3377 - Multicultural Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Asian American Literature
+Instructor Cheryl Higashida
+
+Room ECON 2
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+ENGL 3583 - Milton
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Eggert
+
+Room HLMS 193
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 32946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+108
+ENGL 3583 - Milton
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Eggert
+
+Room CHEM 145
+Meeting Time We 2:00PM - 2:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 34942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+109
+ENGL 3583 - Milton
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Eggert
+
+Room HLMS 137
+Meeting Time Th 6:00PM - 6:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 34943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+110
+ENGL 3796 - Queer Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joshua Guzman
+
+Room HLMS 137
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24267
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+111
+ENGL 4021 - Advanced Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Carr
+
+Room HLMS 104
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32955
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+112
+ENGL 4026 - Special Topics in Genre, Media, and Advanced Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Black Romanticism
+Instructor Paul Youngquist
+
+Room HLMS 193
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+ENGL 4039 - Critical Thinking in English Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Postmodern Ecofictions
+Instructor Karen Jacobs
+
+Room DUAN G1B35
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22250
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+ENGL 4039 - Critical Thinking in English Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: The Romance
+Instructor Katherine Little
+
+Room HLMS 259
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22251
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+115
+ENGL 4039 - Critical Thinking in English Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Afrofuturism
+Instructor Paul Youngquist
+
+Room ECON 16
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22252
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+ENGL 4039 - Critical Thinking in English Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Winokur
+
+Room HUMN 270
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 22253
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+117
+ENGL 4051 - Advanced Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Jones
+
+Room HLMS 104
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+118
+ENGL 4051 - Advanced Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcia Douglas
+
+Room RAMY N1B31
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23389
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+ENGL 4513 - British Medieval Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Beowulf in Translation
+Instructor Tiffany Beechy
+
+Room HUMN 186
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34965
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+ENGL 4514 - Advanced Topics: The Restoration and the Eighteenth Century
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: The Age of Satire
+Notes: This is a combined section class
+Instructor Catherine Labio
+
+Room HLMS 181
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+ENGL 4524 - Advanced Topics: Romanticism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Mary Shelley
+Instructor Jillian Heydt-Stevenson
+
+Room HLMS 191
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+ENGL 4634 - Advanced Topics: The Victorian Era
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Victorian Gothic
+Instructor Kelly Hurley
+
+Room HLMS 259
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+ENGL 4655 - Studies in American Literature to 1900
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Mythic Quests for America
+Instructor Martin Bickman
+
+Room HLMS 259
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24237
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+ENGL 4665 - Studies in American Literature after 1900
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Envisioning the American City
+Instructor Jeremy Green
+
+Room EKLC E1B50
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35065
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+ENGL 4697 - Special Topics in Multicultural and Ethnic American Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Intro to Latino Lit Cul
+Instructor Joshua Guzman
+
+Room HLMS 137
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+ENGL 5000 - Introduction to Applied Shakespeare
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo nil
+Instructor Richelle Munkhoff
+
+Room ECCS 1B14
+Meeting Time Th 6:00PM - 8:00PM
+Section 570-SEMCont Ed Extraordinary
+Class Code 39981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+ENGL 5029 - British Literature and Culture Before 1800
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Slavery in 18th-C Brit Lit.
+Instructor Ramesh Mallipeddi
+
+Room LIBR M549
+Meeting Time Tu 1:00PM - 3:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23400
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+ENGL 5029 - British Literature and Culture Before 1800
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Polity in Shakespeare & Others
+Instructor David Glimp
+
+Room MKNA 204
+Meeting Time Tu 3:30PM - 6:00PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24280
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+129
+ENGL 5059 - British Literature and Culture After 1800
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Contemporary British Fiction
+Instructor Janice Ho
+
+Room LIBR M549
+Meeting Time Mo 1:00PM - 3:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23435
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+ENGL 5109 - Literature and Culture of the United States
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Reclaiming Radical Am Renaiss
+Instructor Martin Bickman
+
+Room CHEM 146
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23390
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+131
+ENGL 5109 - Literature and Culture of the United States
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Poetics of American Song
+Instructor Adam Bradley
+
+Room LIBR N424B
+Meeting Time Tu 9:45AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23436
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+132
+ENGL 5169 - Multicultural/Postcolonial Studies.
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: (UN)documenting Latin@ Arts
+Instructor John-Michael Rivera
+
+Room SEE DEPT
+Meeting Time Mo 11:00AM - 1:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+ENGL 5229 - Poetry Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Carr
+
+Room LIBR N424B
+Meeting Time Th 2:30PM - 5:00PM
+Section 001-WKSBoulder 16-Wk Session/Full Sem
+Class Code 17259
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+ENGL 5239 - Fiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Jones
+
+Room HLMS 259
+Meeting Time Th 2:00PM - 4:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+ENGL 5259 - Nonfiction Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Noah Gordon
+
+Room HLMS 259
+Meeting Time Th 6:00PM - 8:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+ENGL 5299 - Studies in Fiction
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Talk Yuh Talk: World Fiction
+Instructor Marcia Douglas
+
+Room HLMS 259
+Meeting Time Tu 2:00PM - 4:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+137
+ENGL 5459 - Introduction to the Profession
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Harrington
+
+Room LIBR N424B
+Meeting Time We 11:15AM - 1:45PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 21497
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+138
+ENGL 5459 - Introduction to the Profession
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Harrington
+
+Room LIBR N424B
+Meeting Time We 12:45PM - 3:15PM
+Section 002-PRABoulder 16-Wk Session/Full Sem
+Class Code 23198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+ENGL 5529 - Studies in Special Topics 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Digital Media-Critical Theory
+Instructor Mark Winokur
+
+Room CHEM 146
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+140
+ENGL 5549 - Studies in Special Topics 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Virginia Woolf’s Things
+Instructor Jane Garrity
+
+Room LIBR M549
+Meeting Time Th 9:30AM - 12:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+ENGL 7059 - Advanced British Literature and Culture After 1800
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Victorian Affect
+Instructor Kelly Hurley
+
+Room LIBR M549
+Meeting Time Th 1:00PM - 3:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

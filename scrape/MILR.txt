@@ -1,0 +1,166 @@
+0
+MILR 1021 - Adventures in Leadership 2
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashkan Angha, 
+Karl Freund
+
+Room STAD 140
+Meeting Time TuTh 8:00AM - 8:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MILR 1021 - Adventures in Leadership 2
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashkan Angha, 
+Karl Freund
+
+Room STAD 140
+Meeting Time Th 3:30PM - 4:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MILR 2041 - Methods of Leadership and Management 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashkan Angha, 
+Kristin Stelzer
+
+Room STAD 112
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25818
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MILR 2041 - Methods of Leadership and Management 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashkan Angha, 
+Kristin Stelzer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 5:00PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25819
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MILR 3062 - Military Operations and Training 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof, 
+Sandra Llaury
+
+Room STAD 112
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MILR 3062 - Military Operations and Training 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof, 
+Sandra Llaury
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 5:00PM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 25870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MILR 3090 - Military Theory and Tactical Leadership
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof
+
+Room SEE DEPT
+Meeting Time MoWe 6:00AM - 6:50AM
+Section 800-LABBoulder 16-Wk Session/Full Sem
+Class Code 25879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+MILR 3090 - Military Theory and Tactical Leadership
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof
+
+Room SEE DEPT
+Meeting Time Tu 6:00AM - 6:50AM
+Section 810-LECBoulder 16-Wk Session/Full Sem
+Class Code 25880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+MILR 4082 - Leadership 2: Leadrship in a Complex World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof
+
+Room STAD 140
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+MILR 4082 - Leadership 2: Leadrship in a Complex World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Roof
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 5:00PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,835 @@
+0
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chase Raymond
+
+Room MCOL W100
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16826
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ayden Parish
+
+Room CLRE 208
+Meeting Time Fr 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 16827
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Norielle Adricula
+
+Room CLUB 4
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 21897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Norielle Adricula
+
+Room CLUB 13
+Meeting Time Fr 4:00PM - 4:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 22066
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ayden Parish
+
+Room CLRE 208
+Meeting Time Fr 9:00AM - 9:50AM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 23478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Marcus Avelar
+
+Room HUMN 250
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 21885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Holman
+
+Room MUEN E431
+Meeting Time Fr 9:00AM - 9:50AM
+Section 022-RECBoulder 16-Wk Session/Full Sem
+Class Code 21886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Irina Wagner
+
+Room ATLS 1B31
+Meeting Time Fr 1:00PM - 1:50PM
+Section 023-RECBoulder 16-Wk Session/Full Sem
+Class Code 21898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+LING 1000 - Language in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Irina Wagner
+
+Room ECON 119
+Meeting Time Fr 3:00PM - 3:50PM
+Section 024-RECBoulder 16-Wk Session/Full Sem
+Class Code 22067
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+LING 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Laura Michaelis-Cummings
+
+Room HLMS 267
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24291
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+LING 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Kosse
+
+Room HLMS 181
+Meeting Time Fr 3:00PM - 3:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 24292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+LING 1010 - The Study of Words
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mary Kosse
+
+Room CLRE 302
+Meeting Time Fr 1:00PM - 1:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 24556
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jared Desjardins
+
+Room HLMS 201
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22065
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ghazaleh Kazeminejad
+
+Room EDUC 138
+Meeting Time Fr 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 22209
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ghazaleh Kazeminejad
+
+Room HLMS 191
+Meeting Time Fr 3:00PM - 3:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 22210
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Luciana Marques
+
+Room CLRE 301
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 22211
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Stefanie Ramos Bierge
+
+Room HUMN 250
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 23458
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Moeller
+
+Room HLMS 185
+Meeting Time Fr 8:00AM - 8:50AM
+Section 021-RECBoulder 16-Wk Session/Full Sem
+Class Code 23459
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tao Lin
+
+Room CLRE 211
+Meeting Time Fr 3:00PM - 3:50PM
+Section 022-RECBoulder 16-Wk Session/Full Sem
+Class Code 23460
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tao Lin
+
+Room CLRE 301
+Meeting Time Fr 4:00PM - 4:50PM
+Section 023-RECBoulder 16-Wk Session/Full Sem
+Class Code 24294
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+LING 1020 - Languages of the World
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Moeller
+
+Room HUMN 186
+Meeting Time Fr 3:00PM - 3:50PM
+Section 024-RECBoulder 16-Wk Session/Full Sem
+Class Code 35079
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+LING 1900 - Service Learning Practicum: Adult Literacy
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Olivia Hirschey
+
+Room HALE 260
+Meeting Time Fr 10:00AM - 10:50AM
+Section 801-PRABoulder 16-Wk Session/Full Sem
+Class Code 20551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+LING 2000 - Introduction to Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Bhuvaneswari Narasimhan
+
+Room HLMS 199
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+LING 2000 - Introduction to Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Marielle Butters
+
+Room HLMS 181
+Meeting Time Fr 8:00AM - 8:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 16869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+LING 2000 - Introduction to Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Marielle Butters
+
+Room EDUC 138
+Meeting Time Fr 9:00AM - 9:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 16829
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+LING 2000 - Introduction to Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy O'Gorman
+
+Room CLUB 13
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 16870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+LING 2000 - Introduction to Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy O'Gorman
+
+Room CLRE 209
+Meeting Time Fr 4:00PM - 4:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 35081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+LING 3100 - Language Sound Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Lingshuang Mao
+
+Room HLMS 199
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+LING 3100 - Language Sound Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonnia Torres
+
+Room HUMN 1B45
+Meeting Time Fr 12:00PM - 12:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 21890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+LING 3100 - Language Sound Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ling Liu
+
+Room HUMN 1B45
+Meeting Time Fr 1:00PM - 1:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 21891
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+LING 3100 - Language Sound Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Ling Liu
+
+Room HUMN 1B45
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 32517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+LING 3100 - Language Sound Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonnia Torres
+
+Room HUMN 1B45
+Meeting Time Fr 9:00AM - 9:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 32533
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+LING 3430 - Semantics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Barbara Fox
+
+Room EKLC M203
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+LING 3545 - World Language Policies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Velda Khoo Yuan Ling
+
+Room EKLC M203
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24297
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+LING 3800 - Special Topics in Linguistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Beer
+
+Room SEE DEPT
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 40307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+LING 4100 - Perspectives on Language
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Lang, Birth and Death
+Notes: This is a combined section class
+Instructor Zygmunt Frajzyngier
+
+Room KTCH 1B44
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 38611
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+LING 4420 - Morphology and Syntax
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jesus Villalpando
+
+Room EKLC E1B75
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+LING 4560 - Language Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Karin Boerger
+
+Room SLHS 230
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22922
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+LING 4610 - English Structure for Teachers of English to Speakers of Other Languages
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Thomas-Ruzic
+
+Room ECON 205
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+LING 5410 - Phonology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Scarborough
+
+Room KTCH 1B64
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+LING 5430 - Semantics and Pragmatics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Barbara Fox
+
+Room EKLC E1B75
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+LING 5610 - English Structure for Teachers of English to Speakers of Other Languages
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Maria Thomas-Ruzic
+
+Room ECON 205
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+LING 5800 - Open Topics in Linguistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Lang, Birth and Death
+Notes: This is a combined section class
+Instructor Zygmunt Frajzyngier
+
+Room KTCH 1B44
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38612
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+LING 5832 - Natural Language Processing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Susan Brown
+
+Room MUEN E131
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+LING 5910 - TESOL Practicum
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Thomas-Ruzic
+
+Room CHEM 146
+Meeting Time We 4:00PM - 6:00PM
+Section 002-PRABoulder 16-Wk Session/Full Sem
+Class Code 22354
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+LING 6200 - Issues and Methods in Cognitive Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Albert Kim
+
+Room MUEN D430
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+LING 6320 - Linguistic Anthropology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kira Hall
+
+Room SEE DEPT
+Meeting Time We 11:30AM - 2:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32552
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+LING 6500 - Issues in Indigenous Languages
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor James Cowell
+
+Room ECON 16
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+LING 7430 - Semantic Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Zygmunt Frajzyngier
+
+Room ENVD 122
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32529
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+LING 7800 - Open Topics in Linguistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Topic: Computational Lexicon Semantic
+Notes: This is a combined section class
+Instructor Martha Palmer
+
+Room ECCR 150
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37964
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+LING 7800 - Open Topics in Linguistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Bhuvaneswari Narasimhan
+
+Room SEE DEPT
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+LING 7800 - Open Topics in Linguistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 35
+Waitlist Total 0
+MiscInfo Topic: Linguistic Circle
+Instructor Staff
+
+Room CLRE 209
+Meeting Time MoWe 4:00PM - 5:30PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24323
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

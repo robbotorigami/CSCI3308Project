@@ -1,0 +1,368 @@
+0
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shelly Miller
+
+Room ITLL 150
+Meeting Time Mo 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26831
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shelly Miller
+
+Room ITLL 150
+Meeting Time WeFr 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Melinda Piket
+
+Room ITLL 150
+Meeting Time Mo 1:00PM - 1:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 26833
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Melinda Piket
+
+Room ITLL 150
+Meeting Time WeFr 12:00PM - 1:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 26834
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jelliffe Jackson
+
+Room ITLL 150
+Meeting Time Mo 3:00PM - 3:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 26835
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jelliffe Jackson
+
+Room ITLL 150
+Meeting Time WeFr 2:00PM - 3:50PM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 26836
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Alfred Bedard
+
+Room ITLL 160
+Meeting Time Mo 11:00AM - 11:50AM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 28003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Alfred Bedard
+
+Room ITLL 160
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 28004
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Soltys
+
+Room ITLL 150
+Meeting Time Mo 12:00PM - 12:50PM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 28170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Soltys
+
+Room ITLL 150
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 051-LABBoulder 16-Wk Session/Full Sem
+Class Code 28171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Soltys
+
+Room ITLL 150
+Meeting Time Mo 2:00PM - 2:50PM
+Section 060-LECBoulder 16-Wk Session/Full Sem
+Class Code 28172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Soltys
+
+Room ITLL 150
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 061-LABBoulder 16-Wk Session/Full Sem
+Class Code 28173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ITLL 160
+Meeting Time Mo 1:00PM - 1:50PM
+Section 070-LECBoulder 16-Wk Session/Full Sem
+Class Code 34931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ITLL 160
+Meeting Time WeFr 12:00PM - 1:50PM
+Section 071-LABBoulder 16-Wk Session/Full Sem
+Class Code 34932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nikolaus Correll
+
+Room ITLL 160
+Meeting Time Mo 9:00AM - 9:50AM
+Section 080-LECBoulder 16-Wk Session/Full Sem
+Class Code 37087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+GEEN 1400 - Engineering Projects
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nikolaus Correll
+
+Room ITLL 160
+Meeting Time TuTh 9:00AM - 10:50AM
+Section 081-LABBoulder 16-Wk Session/Full Sem
+Class Code 37088
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+GEEN 2400 - Engineering Projects for the Community
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Malinda Zarske
+
+Room ITLL 160
+Meeting Time Mo 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 34928
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+GEEN 2400 - Engineering Projects for the Community
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Malinda Zarske
+
+Room ITLL 160
+Meeting Time WeFr 12:00PM - 1:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 34930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+GEEN 2851 - Statics for Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Soltys
+
+Room ITLL 1B50
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28768
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+GEEN 3400 - Invention and Innovation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Segil
+
+Room ITLL 160
+Meeting Time Mo 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28269
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+GEEN 3400 - Invention and Innovation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Segil
+
+Room ITLL 160
+Meeting Time WeFr 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28270
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+GEEN 4400 - Teaching Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Malinda Zarske
+
+Room ITLL 150
+Meeting Time Mo 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+GEEN 4400 - Teaching Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Malinda Zarske
+
+Room ITLL 150
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28904
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

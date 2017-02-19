@@ -1,0 +1,1477 @@
+0
+LAWS 5201 - Entrepreneurship, Innovation and Public Policy
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Dupont, 
+Ronald Sandgrund
+
+Room WLAW 300
+Meeting Time We 9:15AM - 10:55AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 29026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+LAWS 5624 - Property
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristen Carpenter
+
+Room WLAW 206
+Meeting Time TuTh 9:30AM - 11:10AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 28974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+LAWS 6002 - Public Land Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Karin Sheldon
+
+Room WLAW 306
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28976
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+LAWS 6007 - Income Taxation
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 61
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Hasen
+
+Room WLAW 204
+Meeting Time MoWe 9:00AM - 10:40AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28965
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+LAWS 6021 - Secured Transactions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 54
+Waitlist Total 0
+MiscInfo nil
+Instructor Garry Appel
+
+Room WLAW 205
+Meeting Time MoWe 1:00PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35217
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+LAWS 6045 - Criminal Procedure
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Marisa Gruber
+
+Room WLAW 307
+Meeting Time MoTh 10:30AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29045
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+LAWS 6079 - Criminal Defense Clinic
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Margaret England
+
+Room WLAW 411
+Meeting Time MoWe 12:00PM - 2:00PM
+Section 801-CLNBoulder 16-Wk Session/Full Sem
+Class Code 29075
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+LAWS 6103 - Legal Ethics Professionalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Deborah Cantrell
+
+Room WLAW 305
+Meeting Time MoWe 1:00PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+LAWS 6103 - Legal Ethics Professionalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 72
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Hart
+
+Room WLAW 204
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+LAWS 6103 - Legal Ethics Professionalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Huang
+
+Room WLAW 305
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 35181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+LAWS 6103 - Legal Ethics Professionalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor David Stark
+
+Room WLAW 307
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 35182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+LAWS 6104 - Wills and Trusts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Margot Edwards
+
+Room WLAW 206
+Meeting Time MoTuWe 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35219
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+LAWS 6109 - Trial Advocacy
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Wayne
+
+Room WLAW 102
+Meeting Time We 6:05PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+LAWS 6112 - Foundations of American Natural Resources Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 66
+Waitlist Total 0
+MiscInfo nil
+Instructor Roger Flynn
+
+Room WLAW 205
+Meeting Time MoWe 4:10PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35220
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+LAWS 6157 - Corporate Taxation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sloan Speck
+
+Room WLAW 205
+Meeting Time MoWe 10:45AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+LAWS 6201 - Agency, Partnership, and the LLC
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Loewenstein
+
+Room WLAW 204
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+LAWS 6211 - Corporations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Loewenstein
+
+Room WLAW 204
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+LAWS 6223 - Research and Writing in the Regulatory State
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Gabrielle Stafford, 
+Susan Nevelow Mart
+
+Room WLAW 300
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+LAWS 6236 - Judicial Opinion Writing
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Kiernan-Johnson
+
+Room WLAW 303
+Meeting Time Th 10:20AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29062
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+LAWS 6271 - Special Topics: Deals Lab
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Rosenthal
+
+Room WLAW 304
+Meeting Time We 5:25PM - 7:05PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29059
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+LAWS 6280 - Intensive Intro to Financial Info, Accounting and the Law: Accounting Boot Camp
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 62
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Zinn
+
+Room WLAW 304
+Meeting Time MoTuWeThFr 9:00AM - 12:00PM
+Section 801-LECBoulder Campus Pre-Semester
+Class Code 29102
+Meeting Dates 01/09/2017 - 01/14/2017
+Open Status Open
+21
+LAWS 6280 - Intensive Intro to Financial Info, Accounting and the Law: Accounting Boot Camp
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Zinn
+
+Room WLAW 304
+Meeting Time MoTuWeThFr 9:00AM - 12:00PM
+Section 902-LECBoulder Campus Pre-Semester
+Class Code 40743
+Meeting Dates 01/09/2017 - 01/14/2017
+Open Status Open
+22
+LAWS 6281 - Accounting Issues for Lawyers
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Garry Appel
+
+Room WLAW 205
+Meeting Time MoWe 2:30PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+LAWS 6281 - Accounting Issues for Lawyers
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Garry Appel
+
+Room WLAW 205
+Meeting Time MoWe 2:30PM - 3:50PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40656
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+LAWS 6301 - Introduction to Intellectual Property
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Harry Surden
+
+Room WLAW 205
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29060
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+LAWS 6302 - Water Resources
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Mark Squillace
+
+Room WLAW 306
+Meeting Time MoWe 10:30AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29073
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+LAWS 6315 - The Prosecutor's Role in the Criminal Justice System
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Raynes
+
+Room WLAW 303
+Meeting Time Th 6:00PM - 7:40PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35224
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+LAWS 6318 - Economic Analysis of Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Huang
+
+Room WLAW 305
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+LAWS 6331 - The Technology of Privacy
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Gordon
+
+Room WLAW 206
+Meeting Time We 7:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35226
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+LAWS 6331 - The Technology of Privacy
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Gordon
+
+Room WLAW 206
+Meeting Time We 7:00PM - 7:50PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40661
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+LAWS 6353 - Evidence
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Frederic Bloom
+
+Room WLAW 204
+Meeting Time MoTuTh 2:45PM - 3:35PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29043
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+LAWS 6373 - Federal Litigation: Everything but the Trial
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Ashley Boothby, 
+Michael Schaalman, 
+Scott Moss
+
+Room WLAW 207
+Meeting Time Mo 4:15PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+LAWS 6401 - Foreign Corrupt Practices, Anti-Bribery and Anti-Trafficking
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 38
+Waitlist Total 0
+MiscInfo nil
+Instructor Markus Funk
+
+Room WLAW 206
+Meeting Time Tu 5:30PM - 6:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+LAWS 6401 - Foreign Corrupt Practices, Anti-Bribery and Anti-Trafficking
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Markus Funk
+
+Room WLAW 206
+Meeting Time Tu 5:30PM - 6:20PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+LAWS 6410 - International Trade Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexia Brunet
+
+Room WLAW 304
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+LAWS 6510 - International Environmental Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Lakshman Guruswamy
+
+Room WLAW 421
+Meeting Time TuTh 4:15PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+LAWS 6708 - Special Topics
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Albert Barume
+
+Room WLAW 421
+Meeting Time MoTuWeThFr 5:40PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+LAWS 6712 - Climate Change Law and Policy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor William Boyd
+
+Room WLAW 304
+Meeting Time MoWe 1:00PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35228
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+LAWS 6836 - Special Topics in Legal Research
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Schultz
+
+Room WLAW 306
+Meeting Time MoWe 1:00PM - 1:55PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+LAWS 6876 - Legal Research Skills for Practice
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Linz
+
+Room WLAW 1B12
+Meeting Time TuTh 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35229
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+LAWS 7003 - Federal Courts
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Frederic Bloom
+
+Room WLAW 306
+Meeting Time MoTuTh 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+LAWS 7025 - Civil Rights
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Ramey
+
+Room WLAW 307
+Meeting Time TuTh 6:00PM - 7:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+LAWS 7045 - Criminal Procedure: Adjudicative Process
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 44
+Waitlist Total 0
+MiscInfo nil
+Instructor Sean Finn
+
+Room WLAW 206
+Meeting Time MoWe 4:15PM - 5:35PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+LAWS 7051 - Transactional Drafting
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Amy Bauer
+
+Room WLAW 306
+Meeting Time We 2:20PM - 4:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+LAWS 7051 - Transactional Drafting
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor John Hilson
+
+Room WLAW 305
+Meeting Time MoTuWeThFr 9:00AM - 12:00PM
+Section 802-LECBoulder Campus Pre-Semester
+Class Code 39008
+Meeting Dates 01/09/2017 - 01/14/2017
+Open Status Open
+45
+LAWS 7051 - Transactional Drafting
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Amy Bauer
+
+Room WLAW 306
+Meeting Time We 2:20PM - 4:00PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+LAWS 7065 - Immigration and Citizenship Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Ming Chen
+
+Room WLAW 307
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29072
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+LAWS 7103 - Ethics and Compliance Capstone
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor John Francis
+
+Room WLAW 202
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35247
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+LAWS 7103 - Ethics and Compliance Capstone
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor John Francis
+
+Room WLAW 202
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+LAWS 7135 - Parent, Child, and State
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Hendricks
+
+Room WLAW 421
+Meeting Time MoWe 2:30PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35231
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+LAWS 7154 - Land Use Planning
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Widner
+
+Room WLAW 304
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+LAWS 7159 - Advanced Trial Advocacy
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Rice
+
+Room WLAW 102
+Meeting Time Tu 6:05PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+LAWS 7169 - Motions Advocacy
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Rice
+
+Room WLAW 102
+Meeting Time Tu 4:15PM - 5:55PM
+Section 001-CLNBoulder 16-Wk Session/Full Sem
+Class Code 28986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+LAWS 7201 - Antitrust
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 52
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Weiser
+
+Room WLAW 301
+Meeting Time TuTh 4:40PM - 5:55PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+LAWS 7201 - Antitrust
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Weiser
+
+Room WLAW 301
+Meeting Time TuTh 4:40PM - 5:55PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40659
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+LAWS 7202 - Environmental Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor William Boyd
+
+Room WLAW 301
+Meeting Time MoWe 9:00AM - 10:20AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+LAWS 7202 - Environmental Law
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor William Boyd
+
+Room WLAW 301
+Meeting Time MoWe 9:00AM - 10:20AM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40663
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+LAWS 7205 - Administrative Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 50
+Waitlist Total 0
+MiscInfo nil
+Instructor Sharon Jacobs
+
+Room WLAW 204
+Meeting Time MoWe 1:00PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35233
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+LAWS 7209 - Natural Resources and Environmental Law Clinic
+Units 4
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Audrey Huang
+
+Room WLAW 411
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 801-CLNBoulder 16-Wk Session/Full Sem
+Class Code 29048
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+LAWS 7232 - Global Energy Justice
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Lakshman Guruswamy
+
+Room WLAW 330
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35234
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+LAWS 7301 - Copyright
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kristelia Garcia
+
+Room WLAW 205
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+LAWS 7303 - Complex Civil Litigation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 44
+Waitlist Total 0
+MiscInfo nil
+Instructor Chris Mueller
+
+Room WLAW 305
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29038
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+LAWS 7318 - Economics of the American Legal System
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Campos
+
+Room WLAW 305
+Meeting Time MoWe 2:30PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+LAWS 7361 - Cybersecurity
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 58
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Plotkin
+
+Room WLAW 207
+Meeting Time We 5:00PM - 6:40PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 37085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+LAWS 7361 - Cybersecurity
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Bruce Plotkin
+
+Room WLAW 207
+Meeting Time We 5:00PM - 6:40PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40660
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+LAWS 7401 - Securities Regulation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 81
+Waitlist Total 0
+MiscInfo nil
+Instructor Erik Gerding
+
+Room WLAW 204
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29069
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+LAWS 7405 - Health Law 2: Medical Malpractice and Quality Regulation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Kari Hershey, 
+Patrick O Rourke
+
+Room WLAW 306
+Meeting Time Tu 4:00PM - 6:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35235
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+LAWS 7409 - Legal Negotiation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Peppet
+
+Room WLAW 301
+Meeting Time TuTh 10:45AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35236
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+LAWS 7411 - Mergers, Acquisitions, and Reorganizations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Patricia Rogers
+
+Room WLAW 305
+Meeting Time Th 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35237
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+LAWS 7415 - Bioethics and Law
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Miles
+
+Room WLAW 300
+Meeting Time Th 4:00PM - 5:40PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35238
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+LAWS 7415 - Bioethics and Law
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor James Miles
+
+Room WLAW 300
+Meeting Time Th 4:00PM - 5:40PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40662
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+LAWS 7426 - Health Care Compliance
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor John Francis
+
+Room WLAW 306
+Meeting Time MoWe 5:45PM - 6:35PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35239
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+LAWS 7426 - Health Care Compliance
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Francis
+
+Room WLAW 306
+Meeting Time MoWe 5:45PM - 6:35PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40658
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+LAWS 7439 - Mediation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Nan Burnett
+
+Room WLAW 300
+Meeting Time Mo 1:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35240
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+LAWS 7440 - International Human Rights and Humanitarian Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 65
+Waitlist Total 0
+MiscInfo nil
+Instructor Anna Spain Bradley
+
+Room WLAW 207
+Meeting Time MoWe 10:30AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+LAWS 7449 - Juvenile and Family Law Clinic
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Colene Robinson
+
+Room WLAW 330
+Meeting Time MoWe 12:00PM - 2:00PM
+Section 801-CLNBoulder 16-Wk Session/Full Sem
+Class Code 28987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+LAWS 7541 - Employment Discrimination
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Hart
+
+Room WLAW 306
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+LAWS 7541 - Employment Discrimination
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Hart
+
+Room WLAW 306
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40835
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+LAWS 7555 - Poverty, Health, and Law Practicum
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Dayna Matthew
+
+Room WLAW 330
+Meeting Time We 4:00PM - 5:40PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35241
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+LAWS 7617 - International Taxation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo nil
+Instructor David Hasen
+
+Room WLAW 307
+Meeting Time MoWe 1:00PM - 2:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35242
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+LAWS 7715 - Indigenous Peoples in International Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristen Carpenter
+
+Room WLAW 421
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35243
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+LAWS 7718 - The Regulation of Marijuana
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 63
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Collins
+
+Room WLAW 305
+Meeting Time MoWe 4:00PM - 4:55PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35244
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+LAWS 7735 - American Indian Law II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Wilkinson
+
+Room WLAW 411
+Meeting Time MoWe 2:30PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+LAWS 7801 - Tech Policy Advocacy
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Blattner
+
+Room WLAW 301
+Meeting Time MoTuWeThFr 1:00PM - 4:00PM
+Section 801-LECBoulder Campus Pre-Semester
+Class Code 39009
+Meeting Dates 01/09/2017 - 01/14/2017
+Open Status Open
+84
+LAWS 7809 - Technology Law and Policy Clinic
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Blake Reid
+
+Room WLAW 411
+Meeting Time Tu 10:30AM - 12:50PM
+Section 001-CLNBoulder 16-Wk Session/Full Sem
+Class Code 35245
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+LAWS 8455 - Gender and Criminal Justice
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Carolyn Ramsey
+
+Room WLAW 303
+Meeting Time Tu 10:20AM - 12:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29051
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+LAWS 8545 - Seminar:  Food Law and Policy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexia Brunet
+
+Room WLAW 330
+Meeting Time TuTh 2:30PM - 3:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+LAWS 8565 - Citizenship
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Ming Chen
+
+Room WLAW 303
+Meeting Time We 1:00PM - 3:30PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29076
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+LAWS 8701 - Seminar: Counseling Families in Business
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Peppet
+
+Room WLAW 303
+Meeting Time Th 1:00PM - 2:40PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35246
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+LAWS 8722 - Advanced Energy Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Sharon Jacobs
+
+Room WLAW 330
+Meeting Time MoWe 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+LAWS 8808 - Rhetoric and the Art of Persuasion
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Todd Stafford
+
+Room WLAW 300
+Meeting Time Th 10:20AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 40631
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+LAWS 8808 - Rhetoric and the Art of Persuasion
+Units 2
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Todd Stafford
+
+Room WLAW 300
+Meeting Time Th 10:20AM - 12:00PM
+Section 902-LECBoulder 16-Wk Session/Full Sem
+Class Code 40925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

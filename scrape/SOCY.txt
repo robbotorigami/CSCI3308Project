@@ -1,0 +1,1561 @@
+0
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Johnson, 
+Michael Radelet
+
+Room HLMS 201
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 45
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Iacobucci, 
+Catherine Talbot, 
+Justin Vinneau, 
+Thomas Wadsworth, 
+Tracy Fehr Sardone
+
+Room MUEN E050
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21796
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Vinneau
+
+Room CLRE 209
+Meeting Time Th 2:00PM - 2:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 21797
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Iacobucci
+
+Room EDUC 143
+Meeting Time Fr 12:00PM - 12:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 22203
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Fehr Sardone
+
+Room GUGG 206
+Meeting Time We 3:00PM - 3:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 39904
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Fehr Sardone
+
+Room KTCH 1B71
+Meeting Time Fr 8:00AM - 8:50AM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 39906
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tracy Fehr Sardone
+
+Room MUEN E431
+Meeting Time Th 10:00AM - 10:50AM
+Section 109-RECBoulder 16-Wk Session/Full Sem
+Class Code 23262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Vinneau
+
+Room KTCH 1B60
+Meeting Time Fr 8:00AM - 8:50AM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 39086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Talbot
+
+Room ECON 119
+Meeting Time Fr 8:00AM - 8:50AM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 22205
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Talbot
+
+Room CLRE 302
+Meeting Time Fr 9:00AM - 9:50AM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 22206
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Iacobucci
+
+Room CLRE 104
+Meeting Time Th 8:00AM - 8:50AM
+Section 115-RECBoulder 16-Wk Session/Full Sem
+Class Code 24181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Vinneau
+
+Room EKLC E1B50
+Meeting Time Fr 1:00PM - 1:50PM
+Section 119-RECBoulder 16-Wk Session/Full Sem
+Class Code 24527
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaina Iacobucci
+
+Room KTCH 1B60
+Meeting Time Fr 1:00PM - 1:50PM
+Section 120-RECBoulder 16-Wk Session/Full Sem
+Class Code 24528
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Talbot
+
+Room ATLS 1B31
+Meeting Time Fr 11:00AM - 11:50AM
+Section 121-RECBoulder 16-Wk Session/Full Sem
+Class Code 32975
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+SOCY 1001 - Introduction to Sociology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Althea Godfrey
+
+Room CLRE 104
+Meeting Time We 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35551
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+15
+SOCY 1004 - Deviance in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Denardo
+
+Room HUMN 1B80
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+SOCY 1004 - Deviance in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adriana Nunez
+
+Room ENVD 120
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23505
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+SOCY 1004 - Deviance in U.S. Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Lambert
+
+Room BESC 185
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 24425
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+SOCY 1006 - The Social Construction of Sexuality
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Glenda Walden
+
+Room HLMS 241
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22200
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+SOCY 1006 - The Social Construction of Sexuality
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Brown
+
+Room CLRE 207
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+SOCY 1006 - The Social Construction of Sexuality
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jasmine Suryawan, 
+Matthew Brown
+
+Room HUMN 1B80
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+SOCY 1006 - The Social Construction of Sexuality
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Amy Wilkins
+
+Room HLMS 211
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 33900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Sherri Sasnett-Martichuski
+
+Room DUAN G125
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34392
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Amanda Barrientez
+
+Room DUAN G125
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34393
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marley Olson
+
+Room CLUB 4
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39565
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aubrey Limburg, 
+Matthew Brown
+
+Room CLRE 207
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33344
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aubrey Limburg
+
+Room EDUC 138
+Meeting Time We 9:00AM - 9:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 33345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aubrey Limburg
+
+Room KTCH 1B60
+Meeting Time We 8:00AM - 8:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 33346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aubrey Limburg
+
+Room CLRE 208
+Meeting Time Th 8:00AM - 8:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 33347
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cristen Dalessandro, 
+Sanyu Mojola
+
+Room HLMS 199
+Meeting Time TuTh 3:30PM - 4:20PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23279
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cristen Dalessandro
+
+Room CLRE 302
+Meeting Time We 10:00AM - 10:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 24094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cristen Dalessandro
+
+Room MCOL E186
+Meeting Time We 2:00PM - 2:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 24095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+SOCY 1016 - Sex, Gender, and Society 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cristen Dalessandro
+
+Room EDUC 138
+Meeting Time We 12:00PM - 12:50PM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 24096
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Lepree
+
+Room DUAN G125
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24101
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Bertha Bermudez Tapia, 
+Christina Sue
+
+Room ECCR 245
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 23248
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Bertha Bermudez Tapia
+
+Room CLUB 4
+Meeting Time We 1:00PM - 1:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 33351
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Bertha Bermudez Tapia
+
+Room GUGG 2
+Meeting Time We 10:00AM - 10:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 33352
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Bertha Bermudez Tapia
+
+Room HLMS 247
+Meeting Time We 8:00AM - 8:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 33353
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+SOCY 1021 - United States Race and Ethnic Relations
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Vanessa Roberts
+
+Room ECON 2
+Meeting Time Tu 6:00PM - 8:00PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 39322
+Meeting Dates 02/07/2017 - 04/18/2017
+Open Status Open
+39
+SOCY 1022 - Ethics and Social Issues in U.S. Health and Medicine
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Adenife Modile, 
+Liane Pedersen-Gallegos
+
+Room HUMN 135
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+SOCY 2031 - Social Problems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Laurent Cilia
+
+Room CLRE 207
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+SOCY 2031 - Social Problems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Pace
+
+Room DUAN G125
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 21904
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+SOCY 2031 - Social Problems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Lee, 
+Mathieu Desan
+
+Room MCOL W100
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 21704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+SOCY 2031 - Social Problems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Owens
+
+Room LIBR M300D
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 23679
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+SOCY 2034 - Drugs in United States Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allison Pruitt
+
+Room KTCH 1B71
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+SOCY 2044 - Crime and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Whalley
+
+Room HUMN 1B80
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Simon, 
+Ryan Masters
+
+Room HLMS 199
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Champeau
+
+Room CLRE 207
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34390
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Amanda Stevenson, 
+Joshua Goode
+
+Room HUMN 135
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Goode
+
+Room DUAN G2B60
+Meeting Time We 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 33403
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Goode
+
+Room KTCH 1B60
+Meeting Time We 3:00PM - 3:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 33404
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+SOCY 2061 - Introduction to Social Statistics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joshua Goode
+
+Room KTCH 1B60
+Meeting Time We 1:00PM - 1:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 33405
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+SOCY 2077 - Environment and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessie Luna
+
+Room CLRE 207
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+SOCY 2077 - Environment and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Althea Godfrey
+
+Room HUMN 1B80
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+SOCY 2091 - Topics in Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo Topic: Sociology of Law
+Instructor Michael Burtis, 
+Michael Sousa
+
+Room HUMN 135
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23455
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+SOCY 2091 - Topics in Sociology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo Topic: Fertility and Contraception
+Instructor Amanda Stevenson
+
+Room MUEN E113
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39392
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+SOCY 3001 - Classical Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Haffey, 
+Nataly Banda
+
+Room HLMS 199
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 17932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+SOCY 3001 - Classical Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Nataly Banda
+
+Room MCOL E186
+Meeting Time Th 8:00AM - 8:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 20675
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+SOCY 3001 - Classical Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nataly Banda
+
+Room CLRE 301
+Meeting Time We 10:00AM - 10:50AM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 20676
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+SOCY 3001 - Classical Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nataly Banda
+
+Room DUAN G2B60
+Meeting Time We 1:00PM - 1:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 20677
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+SOCY 3012 - Women and Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Rinaldo
+
+Room HLMS 241
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+SOCY 3041 - Self and Consciousness
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Glenda Walden
+
+Room HLMS 267
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33362
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+SOCY 3042 - Topics in Population and Health
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo Topic: Death & Dying
+Instructor Liane Pedersen-Gallegos
+
+Room DUAN G2B47
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23253
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+SOCY 3044 - Race, Class, Gender, and Crime
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Hillary Potter
+
+Room DUAN G131
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+SOCY 3044 - Race, Class, Gender, and Crime
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joanne Belknap, 
+Kim-Phuong Truong-Vu
+
+Room EKLC E1B20
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23263
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+SOCY 3141 - Social Movements in the U.S
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Haffey, 
+Urooj Raja
+
+Room BESC 185
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23452
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+SOCY 3201 - Sociological Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Hillary Steinberg, 
+Matthew Brown
+
+Room HUMN 1B80
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+SOCY 3314 - Violence Against Women and Girls
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cassandra Gonzalez, 
+Hillary Potter
+
+Room VAC 1B20
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+SOCY 4000 - Gender, Genocide, and Mass Trauma
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Janet Jacobs, 
+Stephanie Bonnes
+
+Room RAMY N1B23
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+SOCY 4004 - Advanced Topics in Criminology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Street Gangs: Causes & Conseq
+Instructor David Pyrooz, 
+Kendra Clark
+
+Room DUAN G125
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33369
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+SOCY 4007 - Global Human Ecology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Haffey
+
+Room KTCH 1B87
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23449
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+SOCY 4014 - Criminology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Radelet
+
+Room BESC 185
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20729
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+SOCY 4024 - Juvenile Justice and Delinquency
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Qian Sun, 
+Seth Wright
+
+Room ENVD 120
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+SOCY 4027 - Inequality, Democracy, and the Environment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Liam Downey, 
+Micah Pyles
+
+Room RAMY N1B23
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21903
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+SOCY 4031 - Social Psychology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Glenda Walden
+
+Room KTCH 1B87
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34835
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+SOCY 4037 - Hazards, Disasters and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Bittel
+
+Room HLMS 211
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+SOCY 4047 - Topics in Environment and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Environment & Justice
+Instructor Jill Harrison
+
+Room ECON 16
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22785
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+SOCY 4062 - Suffering and Care in Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Don Grant, 
+Kendra Hutchens
+
+Room HUMN 1B80
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33372
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+SOCY 4063 - Risk and Resilience in Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Liane Pedersen-Gallegos
+
+Room HUMN 1B90
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+SOCY 4071 - Social Stratification
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Haffey
+
+Room KTCH 1B87
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+SOCY 4117 - Food and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Jill Harrison
+
+Room MUEN E113
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24583
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+SOCY 4121 - Sociology of Religion
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Liane Pedersen-Gallegos
+
+Room KTCH 1B87
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23254
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+SOCY 4131 - Advanced Topics in Sociology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 35
+Waitlist Total 0
+MiscInfo Topic: Yoga, Culture and Society
+Instructor Jake Carias, 
+Lori Hunter
+
+Room KTCH 1B87
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24253
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+SOCY 4131 - Advanced Topics in Sociology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo Topic: Marxist and Critical Sociology
+Instructor Mathieu Desan
+
+Room HLMS 267
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24422
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+SOCY 4451 - Senior Honors Seminar 2
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Liam Downey
+
+Room KTCH 1B24
+Meeting Time Tu 5:00PM - 7:00PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+SOCY 4931 - Internship in Sociology
+Units 1 - 6
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo nil
+Instructor Glenda Walden
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 5:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 23368
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+SOCY 4931 - Internship in Sociology
+Units 1 - 6
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Glenda Walden
+
+Room HUMN 145
+Meeting Time Th 5:00PM - 6:15PM
+Section 800-INTBoulder 16-Wk Session/Full Sem
+Class Code 20781
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+SOCY 5037 - Hazards, Disasters and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lori Peek
+
+Room KTCH 1B24
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+SOCY 5111 - Data 1: Introduction to Social Statistics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jason Boardman
+
+Room KTCH 1B40
+Meeting Time Th 3:30PM - 6:00PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+SOCY 5201 - Graduate Seminar in Sociological Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Leslie Irvine
+
+Room KTCH 1B40
+Meeting Time We 3:00PM - 5:30PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+SOCY 6012 - Population Issues, Problems, and Policies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Rogers
+
+Room KTCH 1B40
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33374
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+SOCY 6016 - Topics in Sex and Gender
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Sexualities
+Instructor Amy Wilkins
+
+Room DUAN G1B39
+Meeting Time We 4:00PM - 6:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34389
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+SOCY 6821 - Graduate Sociology Forum 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stefanie Bailey Mollborn
+
+Room KTCH 1B40
+Meeting Time Th 12:30PM - 2:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+SOCY 6851 - Interdisciplinary Social Science Professional Socialization
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stefanie Bailey Mollborn
+
+Room SEE DEPT
+Meeting Time Fr 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33406
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+SOCY 7006 - Sociology of Sex and Gender
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Rinaldo
+
+Room CHEM 131
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24105
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+SOCY 7111 - Data III--Advanced Data Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Masters
+
+Room KTCH 1B40
+Meeting Time MoFr 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33378
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

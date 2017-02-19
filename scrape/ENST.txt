@@ -1,0 +1,64 @@
+0
+ENST 4150 - Energy Policy Project
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Mignogna
+
+Room SEEC S125
+Meeting Time MoWe 11:15AM - 12:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ENST 4150 - Energy Policy Project
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Richard Mignogna
+
+Room SEEC S125
+Meeting Time MoWe 11:15AM - 12:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40278
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ENST 5000 - Energy Systems and Technologies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Komor
+
+Room SEEC N124
+Meeting Time Th 5:00PM - 7:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24555
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ENST 5002 - The Business of Sustainable Energy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Stephen Lawrence
+
+Room SEEC N124
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,467 @@
+0
+TLEN 5050 - Leading Oneself
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Ronald Duren
+
+Room ECCS 1B28
+Meeting Time Tu 5:30PM - 8:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+TLEN 5106 - International Deployment of Broadband Networks
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Martin Taschdjian
+
+Room ECEE 283
+Meeting Time Tu 11:00AM - 1:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+TLEN 5130 - Telecommunications Business Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo nil
+Instructor John Scarano
+
+Room ECCS 1B12
+Meeting Time Fr 8:00AM - 10:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+TLEN 5250 - Technology Law and Policy Clinic
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Blake Reid
+
+Room WLAW 411
+Meeting Time Tu 10:30AM - 12:50PM
+Section 801-CLNBoulder 16-Wk Session/Full Sem
+Class Code 39983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+TLEN 5265 - Copyright
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kristelia Garcia
+
+Room WLAW 205
+Meeting Time TuTh 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28100
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+TLEN 5310 - Telecommunications Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Cook
+
+Room ECEE 283
+Meeting Time Mo 8:00AM - 10:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+TLEN 5370 - IP Routing Protocols
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo nil
+Instructor Kevin Epperson
+
+Room ECCR 108
+Meeting Time Fr 4:00PM - 6:30PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 27709
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+TLEN 5410 - Network Management and Operations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Levi Perigo
+
+Room ECEE 283
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+TLEN 5460 - Telecommunication Systems Laboratory
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Santos
+
+Room ECCR 151
+Meeting Time Tu 3:30PM - 6:00PM
+Section 810-LECBoulder 16-Wk Session/Full Sem
+Class Code 27176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+TLEN 5460 - Telecommunication Systems Laboratory
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Santos
+
+Room ECEE 275A
+Meeting Time Fr 7:30PM - 10:30PM
+Section 811-LABBoulder 16-Wk Session/Full Sem
+Class Code 27706
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+TLEN 5460 - Telecommunication Systems Laboratory
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Santos
+
+Room ECEE 275A
+Meeting Time Fr 4:30PM - 7:30PM
+Section 812-LABBoulder 16-Wk Session/Full Sem
+Class Code 40828
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+TLEN 5462 - Advanced Telecommunications Lab
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Santos
+
+Room ECEE 283
+Meeting Time Fr 11:00AM - 1:30PM
+Section 810-LECBoulder 16-Wk Session/Full Sem
+Class Code 28600
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+TLEN 5462 - Advanced Telecommunications Lab
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Santos
+
+Room ECEE 275A
+Meeting Time Fr 7:30PM - 10:30PM
+Section 811-LABBoulder 16-Wk Session/Full Sem
+Class Code 28737
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+TLEN 5520 - Wireless Local Area Networks
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Lansford
+
+Room ECCS 1B12
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27189
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+TLEN 5540 - Network Security Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph McManus
+
+Room SEE DEPT
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 27177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+TLEN 5560 - Wireless Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Dimaio, 
+Jeffrey Smith
+
+Room ECCR 108
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28293
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+TLEN 5710 - Capstone
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor David Reed
+
+Room ECCS 1B12
+Meeting Time We 3:00PM - 5:30PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 27188
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Topic: Next Generation Networks
+Instructor Levi Perigo
+
+Room ECEE 283
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34365
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total nil
+MiscInfo Topic: Advanced Wireless Lab
+Instructor Kevin Gifford
+
+Room SEE DEPT
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34366
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Information Risk Management
+Instructor Timothy Smit
+
+Room ECCR 211
+Meeting Time Mo 5:00PM - 7:30PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Topic: Service Provider Networks
+Instructor Jose Santos
+
+Room ECEE 283
+Meeting Time Th 11:00AM - 1:30PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 33201
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Topic: Adv. Next Generation Networks
+Instructor Levi Perigo
+
+Room ECEE 283
+Meeting Time MoWe 1:30PM - 2:45PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 33202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo Topic: Secure Embedded Programming
+Instructor Joseph McManus
+
+Room ECEE 283
+Meeting Time Mo 3:00PM - 5:30PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 33203
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+TLEN 5830 - Special Topics
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Topic: Service Provider Networks
+Instructor Jose Santos
+
+Room ECEE 275A
+Meeting Time Fr 7:30PM - 10:30PM
+Section 811-LABBoulder 16-Wk Session/Full Sem
+Class Code 34951
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+TLEN 5836 - Special Topics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Entrep Innov & Public Policy
+Notes: This is a combined section class
+Instructor David Dupont, 
+Ronald Sandgrund
+
+Room WLAW 300
+Meeting Time We 9:15AM - 10:55AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 28261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+TLEN 5836 - Special Topics
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo Topic: Entrep Innov & Public Policy
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 2:30PM - 4:10PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 28848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+TLEN 5841 - Secure Web Application Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Joseph McManus
+
+Room ECCR 1B51
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34362
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+TLEN 5842 - Linux Systems Administration
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carey Herman
+
+Room ECEE 283
+Meeting Time TuTh 6:30PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+TLEN 5842 - Linux Systems Administration
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carey Herman
+
+Room ECEE 283
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34368
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

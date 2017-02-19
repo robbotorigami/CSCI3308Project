@@ -1,0 +1,32 @@
+0
+INVS 2919 - Renewing Democracy in Communities and Schools
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Charla Agnoletti
+
+Room EDUC 231
+Meeting Time Mo 1:00PM - 2:30PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26258
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+INVS 2919 - Renewing Democracy in Communities and Schools
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Charla Agnoletti
+
+Room EDUC 231
+Meeting Time Mo 2:55PM - 4:25PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 26260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

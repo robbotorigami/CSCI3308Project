@@ -1,0 +1,48 @@
+0
+HEBR 1020 - Beginning Modern Hebrew, Second Semester
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Eyal Rivlin
+
+Room CLUB 6
+Meeting Time MoWeFr 10:00AM - 11:10AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+HEBR 2120 - Intermediate Modern Hebrew, Second Semester
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Eyal Rivlin
+
+Room CLUB 6
+Meeting Time MoWeFr 11:15AM - 12:25PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22236
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+HEBR 3020 - Third Year Modern Hebrew, Second Semester
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Eyal Rivlin
+
+Room CLUB 6
+Meeting Time MoFr 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

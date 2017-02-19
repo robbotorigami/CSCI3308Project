@@ -1,0 +1,80 @@
+0
+HIND 1020 - Beginning Hindi 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Muhammad Sheeraz
+
+Room HLMS 263
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15857
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+HIND 2120 - Intermediate Hindi 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Muhammad Sheeraz
+
+Room HLMS 185
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+HIND 3120 - Advanced Hindi 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Muhammad Sheeraz
+
+Room CHEM 146
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40616
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+HIND 3811 - The Power of the Word: Subversive and Censored 20th Century Indo-Pakistani Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Rahul Parson
+
+Room KTCH 1B60
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+HIND 3851 - Devotional Literature in South Asia
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rahul Parson
+
+Room EKLC M203
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

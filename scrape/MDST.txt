@@ -1,0 +1,240 @@
+0
+MDST 2001 - Global Media Literacy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Polly Mclean
+
+Room ARMR 218
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MDST 2002 - Media and Communication History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Barnes
+
+Room HALE 240
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+MDST 2002 - Media and Communication History
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Shannon Sindorf
+
+Room VAC 1B90
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+MDST 3001 - Media Research
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Shu-Ling Berggreen
+
+Room HALE 240
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33707
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MDST 3002 - Digital Culture and Politics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Calabrese
+
+Room HLMS 141
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25700
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MDST 3201 - Media, Culture and Globalization
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nabil Echchaibi
+
+Room CLUB 13
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25778
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MDST 4111 - Crime, Media and Contemporary Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Tracey
+
+Room EDUC 155
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33708
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+MDST 4331 - Gender, Race, Class, and Sexuality in Popular Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Frost
+
+Room EDUC 155
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25703
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+MDST 4361 - TV and the Family in American Culture and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Janice Peck
+
+Room CLUB 13
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33709
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+MDST 4871 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Designing Alt Media Platforms
+Instructor Steven Frost
+
+Room ARMR 211
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+MDST 4871 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Hacker Culture & Politics
+Instructor Nathan Schneider
+
+Room VAC 1B90
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25702
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MDST 5002 - Media Activism and Public Engagement
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Schneider
+
+Room ARMR 1B01
+Meeting Time Mo 9:00AM - 11:30AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25785
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+MDST 6311 - Power, Politics and Mediated Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Tracey
+
+Room ARMR 218
+Meeting Time We 9:00AM - 11:30AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25708
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MDST 6711 - Media and Popular Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Polly Mclean
+
+Room ARMR 206A
+Meeting Time Mo 1:00PM - 3:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25784
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+MDST 6871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Media and Food Politics
+Instructor Andrew Calabrese
+
+Room ARMR 1B01
+Meeting Time We 1:00PM - 3:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33710
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

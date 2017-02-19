@@ -1,0 +1,144 @@
+0
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HALE 230
+Meeting Time Tu 6:00PM - 8:00PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 25798
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room CHEM 133
+Meeting Time Th 3:30PM - 5:30PM
+Section 801-RECBoulder 16-Wk Session/Full Sem
+Class Code 25799
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HLMS 185
+Meeting Time Th 3:30PM - 5:30PM
+Section 802-RECBoulder 16-Wk Session/Full Sem
+Class Code 25800
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HLMS 193
+Meeting Time Th 5:30PM - 7:30PM
+Section 803-RECBoulder 16-Wk Session/Full Sem
+Class Code 25801
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HALE 235
+Meeting Time Th 3:30PM - 5:30PM
+Section 804-RECBoulder 16-Wk Session/Full Sem
+Class Code 25802
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HALE 235
+Meeting Time Th 5:30PM - 7:30PM
+Section 805-RECBoulder 16-Wk Session/Full Sem
+Class Code 25803
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+PRLC 1820 - Community Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room ECON 16
+Meeting Time Th 5:30PM - 7:30PM
+Section 806-RECBoulder 16-Wk Session/Full Sem
+Class Code 25804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+PRLC 2820 - Multilevel Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Dino
+
+Room ECCR 139
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 25846
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+PRLC 3810 - Global Issues in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliemarie Shepherd
+
+Room HUMN 335
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 25877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

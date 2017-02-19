@@ -1,0 +1,785 @@
+0
+JRNL 1000 - Principles of Journalism and Networked Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 55
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Chiarmonte, 
+Hannah Granberry, 
+Tammy Matthews, 
+Tom Yulsman
+
+Room HALE 270
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+JRNL 1000 - Principles of Journalism and Networked Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Hannah Granberry
+
+Room MCOL E158
+Meeting Time Fr 9:00AM - 9:50AM
+Section 120-RECBoulder 16-Wk Session/Full Sem
+Class Code 25250
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+JRNL 1000 - Principles of Journalism and Networked Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Hannah Granberry
+
+Room GUGG 2
+Meeting Time Fr 10:00AM - 10:50AM
+Section 130-RECBoulder 16-Wk Session/Full Sem
+Class Code 25251
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+JRNL 1000 - Principles of Journalism and Networked Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Chiarmonte
+
+Room HUMN 186
+Meeting Time Fr 8:00AM - 8:50AM
+Section 140-RECBoulder 16-Wk Session/Full Sem
+Class Code 25252
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+JRNL 1000 - Principles of Journalism and Networked Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Evan Rowe
+
+Room MCOL E158
+Meeting Time Fr 2:00PM - 2:50PM
+Section 150-RECBoulder 16-Wk Session/Full Sem
+Class Code 25253
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+JRNL 2001 - Fundamentals of Reporting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Browne
+
+Room ARMR 209
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25246
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+JRNL 2001 - Fundamentals of Reporting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Taylor
+
+Room ARMR 201
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25247
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+JRNL 2001 - Fundamentals of Reporting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Clark
+
+Room ARMR 211
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25248
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+JRNL 2001 - Fundamentals of Reporting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room ARMR 209
+Meeting Time We 8:00AM - 10:30AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 25249
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+JRNL 3102 - Photojournalism I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Moloney
+
+Room HUMN 1B70
+Meeting Time Tu 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25254
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+JRNL 3221 - History of Digital Journalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Ferrucci
+
+Room ARMR 206A
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33717
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+JRNL 3552 - Editing and Presentation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Prentice
+
+Room ARMR 211
+Meeting Time MoWe 8:30AM - 10:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25255
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+JRNL 3552 - Editing and Presentation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room ARMR 211
+Meeting Time TuTh 8:30AM - 10:30AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25256
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+JRNL 3614 - Principles of Audio Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Goldenberg
+
+Room ARMR 211
+Meeting Time We 12:00PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25257
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+JRNL 3644 - Principles of Television Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Mc Pherson
+
+Room ATLS 2B31
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25258
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+JRNL 3644 - Principles of Television Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Mc Pherson
+
+Room ATLS 2B31
+Meeting Time TuTh 3:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25259
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+JRNL 3644 - Principles of Television Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Daugherty
+
+Room ARMR 218
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+JRNL 3644 - Principles of Television Production
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Daugherty
+
+Room ATLS 2B31
+Meeting Time TuTh 3:00PM - 4:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+JRNL 3651 - Media Law and Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chelsea Daggett
+
+Room HLMS 201
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+JRNL 3651 - Media Law and Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael McDevitt
+
+Room DUAN G125
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+JRNL 3651 - Media Law and Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Skewes
+
+Room HALE 240
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 40816
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+JRNL 3674 - Television Production 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Jones
+
+Room ARMR 218
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25263
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+JRNL 3674 - Television Production 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Jones
+
+Room ATLS 2B31
+Meeting Time TuTh 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25264
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+JRNL 3704 - Sports Writing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Henry Siegel
+
+Room ARMR 218
+Meeting Time Th 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+JRNL 4002 - Reporting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ellen Mahoney
+
+Room HLMS 193
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+JRNL 4002 - Reporting 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jan Whitt
+
+Room DUAN G1B25
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25787
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+JRNL 4102 - Photojournalism Portfolio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kevin Moloney
+
+Room HLMS 259
+Meeting Time Mo 6:30PM - 9:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25266
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+JRNL 4311 - Literary Journalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jan Whitt
+
+Room ENVD 122
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+JRNL 4354 - TV Reporting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Hun  Shik Kim
+
+Room ARMR 211
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25267
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+JRNL 4411 - International Media and Global Crises
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hun  Shik Kim
+
+Room VAC 1B88
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33720
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+JRNL 4502 - Reporting 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael McDevitt
+
+Room ARMR 206A
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 25268
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+JRNL 4502 - Reporting 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Ferrucci
+
+Room ARMR 206A
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-PRABoulder 16-Wk Session/Full Sem
+Class Code 40627
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+JRNL 4572 - News Corps
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Browne
+
+Room ARMR 201
+Meeting Time Fr 9:00AM - 11:30AM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 33712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+JRNL 4624 - News Team
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mei-Ling McNamara, 
+Paul Daugherty
+
+Room ARMR 218
+Meeting Time Fr 1:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25269
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+JRNL 4624 - News Team
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mei-Ling McNamara, 
+Paul Daugherty
+Staff
+
+Room ARMR 209
+ATLS 2B31
+Meeting Time TuTh 8:00AM - 11:00AM
+TuTh 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25270
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+35
+JRNL 4674 - Television Production 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Jones
+
+Room ATLS 2B31
+Meeting Time TuTh 8:00AM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25272
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+JRNL 4704 - Athletic Media Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Plati
+
+Room ARMR 218
+Meeting Time Tu 6:30PM - 9:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+JRNL 4872 - Special Topics:  Print
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Social Media Storytelling
+Notes: This is a combined section class
+Instructor Kathleen Ryan
+
+Room ARMR 209
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25273
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+JRNL 5102 - Photojournalism Portfolio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kevin Moloney
+
+Room HLMS 259
+Meeting Time Mo 6:30PM - 9:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+JRNL 5502 - Newsgathering 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael McDevitt
+
+Room ARMR 206A
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 25380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+JRNL 5521 - Precision Journalism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Burritt Hubbard
+
+Room ARMR 201
+Meeting Time We 10:00AM - 12:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+JRNL 5624 - News Team
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mei-Ling McNamara, 
+Paul Daugherty
+
+Room ARMR 218
+Meeting Time Fr 1:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+JRNL 5624 - News Team
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mei-Ling McNamara, 
+Paul Daugherty
+Staff
+
+Room ARMR 209
+ATLS 2B31
+Meeting Time TuTh 8:00AM - 11:00AM
+TuTh 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25383
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+43
+JRNL 5651 - Journalism Law & Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Voakes
+
+Room ARMR 218
+Meeting Time Mo 9:00AM - 11:30AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33714
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+JRNL 5822 - Reporting on the Environment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Kodas
+
+Room ARMR 201
+Meeting Time Tu 9:30AM - 12:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+JRNL 5872 - Special Topics: Print
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Social Media Storytelling
+Notes: This is a combined section class
+Instructor Kathleen Ryan
+
+Room ARMR 209
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+JRNL 5872 - Special Topics: Print
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: CU News Corps
+Instructor Jeffrey Browne
+
+Room ARMR 201
+Meeting Time Fr 9:00AM - 11:30AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 33713
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+JRNL 6871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Documentary & Display
+Instructor David Taylor
+
+Room ARMR 201
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25710
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

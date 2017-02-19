@@ -1,0 +1,1474 @@
+0
+ATLS 1100 - Design Foundations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Bethancourt
+
+Room ATLS 100
+Meeting Time MoWe 12:00PM - 1:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28535
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ATLS 2000 - The Meaning of Information Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carruth
+
+Room ATLS 100
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ATLS 2000 - The Meaning of Information Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carruth
+
+Room ATLS 100
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+ATLS 2036 - Introduction to Media Studies in the Humanities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Lori Emerson
+
+Room ATLS 1B31
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Hoth
+
+Room ATLS 100
+Meeting Time We 9:00AM - 10:15AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas King
+
+Room ATLS 104
+Meeting Time We 1:00PM - 3:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28497
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Wolfe
+
+Room ATLS 104
+Meeting Time Fr 2:00PM - 4:30PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Wolfe
+
+Room ATLS 104
+Meeting Time Fr 5:00PM - 7:30PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas King
+
+Room ATLS 104
+Meeting Time Mo 8:00AM - 10:30AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28541
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Hoth
+
+Room ATLS 104
+Meeting Time Th 1:00PM - 3:30PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28542
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+ATLS 2100 - Image
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Hoth
+
+Room ATLS 104
+Meeting Time Th 4:00PM - 6:30PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 28543
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Hales
+
+Room ATLS 100
+Meeting Time Tu 9:30AM - 10:45AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28558
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Hales
+
+Room ATLS 1B25
+Meeting Time Mo 1:00PM - 3:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28559
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Hales
+
+Room ATLS 1B25
+Meeting Time Th 11:00AM - 1:30PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schaal, 
+Ian Hales
+
+Room ATLS 1B25
+Meeting Time Th 2:00PM - 4:30PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28561
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schaal, 
+Ian Hales
+
+Room ATLS 1B25
+Meeting Time Th 5:00PM - 7:30PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Hales, 
+Kari Santos
+
+Room ATLS 1B25
+Meeting Time We 1:00PM - 3:30PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28563
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ATLS 2200 - Web
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Hales, 
+Kari Santos
+
+Room ATLS 1B25
+Meeting Time Tu 2:00PM - 4:30PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 28564
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Brizida Ahrnsbrak
+
+Room ATLS 100
+Meeting Time Mo 9:00AM - 10:15AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28539
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Braha
+
+Room ATLS 104
+Meeting Time We 8:00AM - 10:30AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28540
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Braha
+
+Room ATLS 104
+Meeting Time Fr 11:00AM - 1:30PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28570
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Wolfe
+
+Room ATLS 104
+Meeting Time Mo 4:00PM - 6:30PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28571
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Braha
+
+Room ATLS 104
+Meeting Time Fr 8:00AM - 10:30AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28572
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Mitchell Wolfe
+
+Room ATLS 104
+Meeting Time Mo 1:00PM - 3:30PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 28573
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+ATLS 2300 - Text
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Braha
+
+Room ATLS 104
+Meeting Time We 4:00PM - 6:30PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 28574
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ATLS 3000 - Code
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Swanson
+
+Room ATLS 1B31
+Meeting Time Mo 11:00AM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 32791
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ATLS 3000 - Code
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joel Swanson
+
+Room ATLS 1B31
+Meeting Time We 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 32793
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+ATLS 3100 - Form
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Rankin
+
+Room ATLS 1B31
+Meeting Time Mo 9:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28537
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+ATLS 3100 - Form
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Rankin
+
+Room ATLS 1B31
+Meeting Time We 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28538
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+ATLS 3173 - Creative Climate Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Garrett Rue, 
+Mary Osnes, 
+Maxwell Boykoff
+
+Room ATLS 1B31
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34465
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ATLS 3200 - Sound
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schaal
+
+Room ATLS 1B31
+Meeting Time Tu 11:00AM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+ATLS 3200 - Sound
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Schaal
+
+Room ATLS 1B31
+Meeting Time Th 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Universal Des Digital Media
+Notes: This is a combined section class
+Instructor Elianna James
+
+Room ATLS 1B31
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28330
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Object
+Instructor Arielle Hein
+
+Room ATLS 113
+Meeting Time Tu 11:00AM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28259
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Object
+Instructor Arielle Hein
+
+Room ATLS 113
+Meeting Time Th 11:00AM - 12:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28260
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Streaming Live Production
+Instructor Ian Hales
+
+Room ATLS 2B31
+Meeting Time Mo 9:00AM - 10:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 32803
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Streaming Live Production
+Instructor Ian Hales
+
+Room ATLS 2B31
+Meeting Time We 9:00AM - 10:50AM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 32804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Advanced Image
+Instructor Thomas King
+
+Room ATLS 104
+Meeting Time Mo 11:00AM - 12:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 33875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Advanced Image
+Instructor Thomas King
+
+Room ATLS 104
+Meeting Time We 11:00AM - 12:50PM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 33876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Alternative Digital Imaging
+Instructor Kevin Hoth
+
+Room ATLS 229
+Meeting Time Tu 9:00AM - 10:50AM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 34381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Alternative Digital Imaging
+Instructor Kevin Hoth
+
+Room ATLS 229
+Meeting Time Th 9:00AM - 10:50AM
+Section 051-LABBoulder 16-Wk Session/Full Sem
+Class Code 34382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Materials
+Instructor Daniel Rankin
+
+Room ATLS 113
+Meeting Time Tu 9:00AM - 10:50AM
+Section 060-LECBoulder 16-Wk Session/Full Sem
+Class Code 34467
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Materials
+Instructor Daniel Rankin
+
+Room ATLS 113
+Meeting Time Th 9:00AM - 10:50AM
+Section 061-LABBoulder 16-Wk Session/Full Sem
+Class Code 34468
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: The Real Time Web
+Instructor Arielle Hein
+
+Room ATLS 1B31
+Meeting Time Mo 1:00PM - 2:50PM
+Section 070-LECBoulder 16-Wk Session/Full Sem
+Class Code 34901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ATLS 3519 - Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: The Real Time Web
+Instructor Arielle Hein
+
+Room ATLS 1B31
+Meeting Time We 1:00PM - 2:50PM
+Section 071-LABBoulder 16-Wk Session/Full Sem
+Class Code 34902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+ATLS 3529 - Special Topics in Critical Perspectives in Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: History of Design
+Instructor Brizida Ahrnsbrak
+
+Room ATLS 1B25
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+ATLS 4214 - Big Data Architecture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Greenstreet
+
+Room ATLS 100
+Meeting Time MoWe 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29378
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Interactive Mach Learn HCI
+Notes: This is a combined section class
+Instructor Ryan Shapiro
+
+Room ATLS 229
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28277
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Soft Robotics
+Notes: This is a combined section class
+Instructor Mark Gross
+
+Room ENVD 234A
+Meeting Time MoWe 2:00PM - 3:20PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28749
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Aesthetics in Design
+Notes: This is a combined section class
+Instructor Jean Hertzberg
+
+Room ITLL 1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28770
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Web Creative Dev Tools
+Instructor David Schaal
+
+Room ATLS 1B25
+Meeting Time Tu 9:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Web Creative Dev Tools
+Instructor David Schaal
+
+Room ATLS 1B25
+Meeting Time Th 9:00AM - 10:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28519
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Wearable Technologies
+Notes: This is a combined section class
+Instructor Corrina Espinosa
+
+Room ATLS 113
+Meeting Time Tu 1:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 28551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Wearable Technologies
+Notes: This is a combined section class
+Instructor Corrina Espinosa
+
+Room ATLS 113
+Meeting Time Th 1:00PM - 2:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 28552
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Game Design
+Notes: This is a combined section class
+Instructor Matthew Bethancourt
+
+Room ATLS 229
+Meeting Time Tu 11:00AM - 12:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 28580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Game Design
+Notes: This is a combined section class
+Instructor Matthew Bethancourt
+
+Room ATLS 229
+Meeting Time Th 11:00AM - 12:50PM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 28581
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Adv Mobile Appl Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Tu 11:00AM - 12:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 28858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Adv Mobile Appl Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Th 11:00AM - 12:50PM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 28859
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Web Front-End Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Tu 9:00AM - 10:50AM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 34046
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Web Front-End Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Th 9:00AM - 10:50AM
+Section 051-LABBoulder 16-Wk Session/Full Sem
+Class Code 34047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Capstone Projects 1
+Instructor Arielle Hein
+
+Room ATLS 229
+Meeting Time MoWe 9:00AM - 10:15AM
+Section 070-LECBoulder 16-Wk Session/Full Sem
+Class Code 34886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Capstone Projects 1
+Instructor Arielle Hein
+
+Room ATLS 229
+Meeting Time We 3:00PM - 4:50PM
+Section 071-LABBoulder 16-Wk Session/Full Sem
+Class Code 34887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Capstone Projects 2
+Instructor Arielle Hein
+
+Room ATLS 229
+Meeting Time MoWe 9:00AM - 10:15AM
+Section 080-LECBoulder 16-Wk Session/Full Sem
+Class Code 34890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Capstone Projects 2
+Instructor Arielle Hein
+
+Room ATLS 229
+Meeting Time We 3:00PM - 4:50PM
+Section 081-LABBoulder 16-Wk Session/Full Sem
+Class Code 34891
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Product Development Studio
+Notes: This is a combined section class
+Instructor John Bacus
+
+Room ATLS 1B25
+Meeting Time Mo 4:00PM - 5:50PM
+Section 090-LECBoulder 16-Wk Session/Full Sem
+Class Code 34903
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+ATLS 4519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Product Development Studio
+Notes: This is a combined section class
+Instructor John Bacus
+
+Room ATLS 1B25
+Meeting Time We 4:00PM - 5:50PM
+Section 091-LABBoulder 16-Wk Session/Full Sem
+Class Code 34904
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+ATLS 4809 - Computer Animation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roger King
+
+Room ATLS 1B31
+Meeting Time WeFr 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34854
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+ATLS 5214 - Big Data Architecture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Greenstreet
+
+Room ATLS 100
+Meeting Time MoWe 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29379
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+ATLS 5250 - Fieldwork Methods for ICTD Practitioners
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Mustafa Naseem
+
+Room ATLS 1B31
+Meeting Time Mo 4:30PM - 7:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28145
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Design Studio
+Instructor Jonathan Black
+
+Room ATLS 2B31
+Meeting Time We 4:00PM - 6:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28691
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Interactive Mach Learn HCI
+Notes: This is a combined section class
+Instructor Ryan Shapiro
+
+Room ATLS 229
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28765
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Design Thesis
+Instructor Jill Dupre
+
+Room SEE DEPT
+Meeting Time Tu 11:00AM - 1:30PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 28864
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Aesthetics in Design
+Notes: This is a combined section class
+Instructor Jean Hertzberg
+
+Room ITLL 1B50
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 28771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Human-Robot Interaction
+Notes: This is a combined section class
+Instructor Daniel Szafir
+
+Room ATLS 229
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 28841
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Proseminar: Industry
+Instructor Jill Dupre
+
+Room SEE DEPT
+Meeting Time Tu 3:00PM - 5:30PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 34479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Soft Robotics
+Notes: This is a combined section class
+Instructor Mark Gross
+
+Room ENVD 234A
+Meeting Time MoWe 2:00PM - 3:20PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 39017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Creative Technologies
+Instructor Jeffrey Harriman
+
+Room ATLS 113
+Meeting Time Mo 1:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 39482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Creative Technologies
+Instructor Jeffrey Harriman
+
+Room ATLS 113
+Meeting Time We 1:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 39483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Wearable Technologies
+Notes: This is a combined section class
+Instructor Corrina Espinosa
+
+Room ATLS 113
+Meeting Time Tu 1:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 28553
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Wearable Technologies
+Notes: This is a combined section class
+Instructor Corrina Espinosa
+
+Room ATLS 113
+Meeting Time Th 1:00PM - 2:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 28554
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Game Design
+Notes: This is a combined section class
+Instructor Matthew Bethancourt
+
+Room ATLS 229
+Meeting Time Tu 11:00AM - 12:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 33930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Game Design
+Notes: This is a combined section class
+Instructor Matthew Bethancourt
+
+Room ATLS 229
+Meeting Time Th 11:00AM - 12:50PM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 33931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Adv Mobile Appl Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Tu 11:00AM - 12:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 28860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: Adv Mobile Appl Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Th 11:00AM - 12:50PM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 28861
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Web Front-End Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Tu 9:00AM - 10:50AM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 34048
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Web Front-End Development
+Notes: This is a combined section class
+Instructor Aileen Pierce
+
+Room ATLS 104
+Meeting Time Th 9:00AM - 10:50AM
+Section 051-LABBoulder 16-Wk Session/Full Sem
+Class Code 34049
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Product Development Studio
+Notes: This is a combined section class
+Instructor John Bacus
+
+Room ATLS 1B25
+Meeting Time Mo 4:00PM - 5:50PM
+Section 090-LECBoulder 16-Wk Session/Full Sem
+Class Code 34906
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+ATLS 5519 - Advanced Special Topics in Technology, Arts, and Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Product Development Studio
+Notes: This is a combined section class
+Instructor John Bacus
+
+Room ATLS 1B25
+Meeting Time We 4:00PM - 5:50PM
+Section 091-LABBoulder 16-Wk Session/Full Sem
+Class Code 34907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+ATLS 5809 - Computer Animation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roger King
+
+Room ATLS 1B31
+Meeting Time WeFr 5:30PM - 6:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+ATLS 6910 - Information and Communication Technology for Development Practicum
+Units 3 - 6
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Mustafa Naseem
+
+Room SEE DEPT
+Meeting Time TuTh 12:00PM - 2:50PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 28146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

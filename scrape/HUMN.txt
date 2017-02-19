@@ -1,0 +1,488 @@
+0
+HUMN 1120 - Introduction to Humanities:  Literature 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Annjeanette Wiese
+
+Room HALE 240
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+HUMN 1120 - Introduction to Humanities:  Literature 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Rowe
+
+Room LIBR M498
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+HUMN 1120 - Introduction to Humanities:  Literature 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Audrey Burba
+
+Room KTCH 1B44
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 23535
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+HUMN 1220 - Introduction to Humanities:  Art and Music 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 118
+Waitlist Total 0
+MiscInfo nil
+Instructor Giulia Bernardini, 
+Marjorie Eddy
+
+Room MATH 100
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+HUMN 2100 - Arts, Culture and Media
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo nil
+Instructor Giulia Bernardini
+
+Room KTCH 1B64
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29210
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+HUMN 2601 - Kafka and the Kafkaesque
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Davide Stimilli
+
+Room MUEN E432
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+HUMN 3092 - Studies in Humanities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Aesthetic Theory
+Notes: This is a combined section class
+Instructor Graham Oddie
+
+Room MUEN E130
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23546
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+HUMN 3093 - Topics in Humanities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Representing Islam
+Notes: This is a combined section class
+Instructor Haytham Bahoora
+
+Room RAMY N1B31
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32798
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+HUMN 3093 - Topics in Humanities
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Narrating the City
+Notes: This is a combined section class
+Instructor Haytham Bahoora
+
+Room KTCH 1B60
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+HUMN 3104 - Film Criticism and Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Farmer
+Staff
+
+Room ATLS 102
+ATLS 102
+Meeting Time TuTh 9:30AM - 10:45AM
+Tu 7:00PM - 9:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18155
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+10
+HUMN 3200 - Fictions of Illness: Modern Medicine and the Literary Imagination
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Audrey Burba
+
+Room HLMS 255
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+HUMN 3240 - Tragedy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Gordon
+
+Room LIBR M498
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+HUMN 3500 - Literatures of Consciousness
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Annjeanette Wiese
+
+Room HALE 236
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Ferris
+
+Room VAC 1B20
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 29211
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 211
+Meeting Time Fr 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 29216
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 302
+Meeting Time Fr 12:00PM - 12:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 29217
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B84
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 29218
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room HALE 236
+Meeting Time Fr 1:00PM - 1:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 29219
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 302
+Meeting Time Fr 2:00PM - 2:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 29220
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+HUMN 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Tabare Azcona
+
+Room ECON 2
+Meeting Time Fr 2:00PM - 2:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 29221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+HUMN 4030 - The Art of Travel
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Shirley Carnahan
+
+Room KTCH 1B44
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32471
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+HUMN 4130 - Greek and Roman Comedy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room CLRE 209
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+HUMN 4150 - Boccaccio's Decameron: Tales of Sex and Death in the Middle Ages
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Valerio Ferme
+
+Room EKLC E1B20
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+HUMN 4155 - Philosophy, Art, and the Sublime
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Gordon
+
+Room HLMS 251
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+HUMN 4170 - Fiction and Reality: Literature, Science, and Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Annjeanette Wiese
+
+Room CLRE 207
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 22194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+HUMN 4170 - Fiction and Reality: Literature, Science, and Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room VAC 1B88
+Meeting Time Fr 1:00PM - 1:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 22195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+HUMN 4170 - Fiction and Reality: Literature, Science, and Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room HLMS 267
+Meeting Time Fr 1:00PM - 1:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 24536
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+HUMN 4730 - Italian Feminisms: Culture, Theory, and Narratives of Difference
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cosetta Seno
+
+Room GUGG 206
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+HUMN 4811 - 19th Century Russian Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Roberts
+
+Room HLMS 241
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23063
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+HUMN 4821 - 20th Century Russian Literature and Art
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Leiderman
+
+Room EKLC E1B50
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

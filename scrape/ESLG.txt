@@ -1,0 +1,48 @@
+0
+ESLG 1130 - Accent Reduction for Foreign Students
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Michelle Raese
+
+Room IEC 103
+Meeting Time MoWe 5:00PM - 6:30PM
+Section 560-LECCont Ed IEC ESL Credit 10 Week
+Class Code 39996
+Meeting Dates 02/06/2017 - 04/19/2017
+Open Status Open
+1
+ESLG 1140 - Presentation Skills for International Students
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Summer Webb
+
+Room IEC 103
+Meeting Time TuTh 5:00PM - 6:30PM
+Section 560-SEMCont Ed IEC ESL Credit 10 Week
+Class Code 39997
+Meeting Dates 02/07/2017 - 04/20/2017
+Open Status Open
+2
+ESLG 1210 - Academic Writing for Foreign Students
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo nil
+Instructor Luke Coffelt
+
+Room IEC 106
+Meeting Time Tu 5:00PM - 6:30PM
+Section 561-LECCont Ed IEC ESL Credit 10 Week
+Class Code 39999
+Meeting Dates 02/07/2017 - 04/18/2017
+Open Status Open

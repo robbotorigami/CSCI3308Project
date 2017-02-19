@@ -1,0 +1,16 @@
+0
+MSEN 5370 - Materials Thermodynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Pope
+
+Room BIOT B331
+Meeting Time TuTh 8:30AM - 9:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40824
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,1619 @@
+0
+IPHY 2420 - Nutrition for Health and Performance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Bryant Pham
+
+Room RAMY C250
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+IPHY 2420 - Nutrition for Health and Performance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 97
+Waitlist Total 0
+MiscInfo nil
+Instructor Bryant Pham
+
+Room RAMY C250
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 21315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+IPHY 2420 - Nutrition for Health and Performance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicole Stob
+
+Room HUMN 125
+Meeting Time Tu 6:00PM - 8:00PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 35563
+Meeting Dates 02/07/2017 - 04/18/2017
+Open Status Open
+3
+IPHY 2500 - Perspectives in Health and Medicine
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo nil
+Instructor Penelope Bennett
+
+Room KTCH 1B87
+Meeting Time We 5:00PM - 6:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Steven Hobbs
+
+Room ECCR 200
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 15995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Roseman
+
+Room CLRE 111
+Meeting Time Fr 8:00AM - 8:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 22262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Roseman
+
+Room CLRE 111
+Meeting Time Fr 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 15996
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Roseman
+
+Room CLRE 111
+Meeting Time Fr 10:00AM - 10:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 15997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 42
+Waitlist Total 0
+MiscInfo nil
+Instructor John Harsh
+
+Room EDUC 220
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 15998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Roseman
+
+Room CLRE 111
+Meeting Time Fr 11:00AM - 11:50AM
+Section 201-RECBoulder 16-Wk Session/Full Sem
+Class Code 15999
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Roseman
+
+Room CLRE 111
+Meeting Time Fr 12:00PM - 12:50PM
+Section 202-RECBoulder 16-Wk Session/Full Sem
+Class Code 16000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+IPHY 2800 - Introduction to Statistics
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room CLRE 111
+Meeting Time Fr 1:00PM - 1:50PM
+Section 203-RECBoulder 16-Wk Session/Full Sem
+Class Code 23624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+IPHY 3410 - Introduction to Human Anatomy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 50
+Waitlist Total 0
+MiscInfo nil
+Instructor Leif Saul
+
+Room HALE 270
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+IPHY 3410 - Introduction to Human Anatomy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Ruth Heisler
+
+Room CHEM 142
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22788
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Roller
+
+Room RAMY N268
+Meeting Time MoWe 8:00AM - 9:50AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachel Roller
+
+Room RAMY N268
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16018
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Buck
+
+Room RAMY N276
+Meeting Time MoWe 10:00AM - 11:50AM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16019
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Loupy
+
+Room RAMY N268
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16020
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Hassell
+
+Room RAMY N276
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelsey Loupy
+
+Room RAMY N268
+Meeting Time MoWe 2:00PM - 3:50PM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Breanne Newell
+
+Room RAMY N276
+Meeting Time MoWe 2:00PM - 3:50PM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Allen
+
+Room RAMY N268
+Meeting Time MoWe 4:00PM - 5:50PM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16024
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Breanne Newell
+
+Room RAMY N276
+Meeting Time MoWe 4:00PM - 5:50PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21106
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Anthony Martillotti
+
+Room RAMY N268
+Meeting Time MoWe 6:00PM - 7:50PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21107
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jarryd Butler
+
+Room RAMY N268
+Meeting Time TuTh 8:00AM - 9:50AM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jarryd Butler
+
+Room RAMY N268
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Feeney
+
+Room RAMY N276
+Meeting Time TuTh 10:00AM - 11:50AM
+Section 013-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Feeney
+
+Room RAMY N268
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 014-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21206
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Hassell
+
+Room RAMY N276
+Meeting Time TuTh 12:00PM - 1:50PM
+Section 015-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathew Arnold
+
+Room RAMY N268
+Meeting Time TuTh 4:00PM - 5:50PM
+Section 016-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22327
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Buck
+
+Room RAMY N276
+Meeting Time TuTh 4:00PM - 5:50PM
+Section 017-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+IPHY 3415 - Human Anatomy Laboratory
+Units 2
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathew Arnold, 
+Steven Hobbs
+
+Room RAMY N268
+Meeting Time TuTh 6:00PM - 7:50PM
+Section 018-MLSBoulder 16-Wk Session/Full Sem
+Class Code 32413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+IPHY 3430 - Introduction to Human Physiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Casagrand
+
+Room ATLS 100
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Milstead
+
+Room RAMY N168
+Meeting Time Mo 9:00AM - 12:50PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Lawrence Johnson
+
+Room RAMY N176
+Meeting Time Mo 9:00AM - 12:50PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Marko Melnick
+
+Room RAMY N176
+Meeting Time Mo 1:00PM - 4:50PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room RAMY N176
+Meeting Time Mo 1:00PM - 4:50PM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16029
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Mariani
+
+Room RAMY N168
+Meeting Time Mo 5:00PM - 8:50PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16030
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Sapinsley
+
+Room RAMY N176
+Meeting Time Mo 5:00PM - 8:50PM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16031
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamie Hijmans
+
+Room RAMY N168
+Meeting Time Tu 9:30AM - 1:20PM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Milstead
+
+Room RAMY N176
+Meeting Time Tu 9:30AM - 1:20PM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamie Hijmans
+
+Room RAMY N176
+Meeting Time Tu 5:00PM - 8:50PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16034
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room RAMY N176
+Meeting Time Tu 5:00PM - 8:50PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelly Stockelman
+
+Room RAMY N168
+Meeting Time We 9:00AM - 12:50PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16036
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Borchert
+
+Room RAMY N176
+Meeting Time We 9:00AM - 12:50PM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 16037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Mariani
+
+Room RAMY N168
+Meeting Time We 1:00PM - 4:50PM
+Section 013-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Borchert
+
+Room RAMY N176
+Meeting Time We 1:00PM - 4:50PM
+Section 014-MLSBoulder 16-Wk Session/Full Sem
+Class Code 21316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Michelle Gaffney
+
+Room RAMY N168
+Meeting Time Th 9:30AM - 1:20PM
+Section 015-MLSBoulder 16-Wk Session/Full Sem
+Class Code 22008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+IPHY 3435 - Physiology Lab
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Janet Casagrand
+
+Room RAMY N176
+Meeting Time Th 9:30AM - 1:20PM
+Section 016-MLSBoulder 16-Wk Session/Full Sem
+Class Code 32502
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+IPHY 3470 - Human Physiology 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Todd Gleeson
+
+Room GOLD A2B70
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16038
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+IPHY 3480 - Human Physiology 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 40
+Waitlist Total 0
+MiscInfo nil
+Instructor Heidi Bustamante
+
+Room HUMN 1B50
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+IPHY 3490 - Introduction to Epidemiology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew McQueen
+
+Room DUAN G1B20
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+IPHY 3580 - Sleep, Circadian Rhythms and Health
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Monique Lebourgeois
+
+Room HUMN 1B90
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+IPHY 3700 - Scientific Writing in Integrative Physiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas LA Rocca
+
+Room HUMN 1B35
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23054
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+IPHY 3700 - Scientific Writing in Integrative Physiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas LA Rocca
+
+Room HUMN 1B35
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23056
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+IPHY 3700 - Scientific Writing in Integrative Physiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas LA Rocca
+
+Room HUMN 1B35
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23057
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+IPHY 3700 - Scientific Writing in Integrative Physiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Marie Boyko
+
+Room HUMN 1B35
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+IPHY 4200 - Physiological Genetics and Genomics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jerry Stitzel
+
+Room KTCH 1B87
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+IPHY 4440 - Endocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Teresa Foley
+
+Room EDUC 220
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+IPHY 4440 - Endocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Lowry
+
+Room HLMS 252
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 16096
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+IPHY 4440 - Endocrinology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessenia Cruz-Robles, 
+Teresa Foley
+
+Room DUAN G2B60
+Meeting Time We 8:00AM - 8:50AM
+Section 301-RECBoulder 16-Wk Session/Full Sem
+Class Code 16092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+IPHY 4440 - Endocrinology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessenia Cruz-Robles
+
+Room MUEN E431
+Meeting Time We 9:00AM - 9:50AM
+Section 302-RECBoulder 16-Wk Session/Full Sem
+Class Code 16093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+IPHY 4440 - Endocrinology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessenia Cruz-Robles
+
+Room CLRE 111A
+Meeting Time We 10:00AM - 10:50AM
+Section 303-RECBoulder 16-Wk Session/Full Sem
+Class Code 16094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+IPHY 4440 - Endocrinology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessenia Cruz-Robles
+
+Room CLRE 111A
+Meeting Time We 11:00AM - 11:50AM
+Section 304-RECBoulder 16-Wk Session/Full Sem
+Class Code 16097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+IPHY 4440 - Endocrinology
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessenia Cruz-Robles
+
+Room RAMY N1B31
+Meeting Time We 12:00PM - 12:50PM
+Section 305-RECBoulder 16-Wk Session/Full Sem
+Class Code 23625
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+IPHY 4470 - Biology of Human Reproduction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristin Lopez
+
+Room STAD 140
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+IPHY 4540 - Biomechanics
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Alaa Ahmed
+
+Room CLRE 207
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+IPHY 4540 - Biomechanics
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Southern
+
+Room CLRE 111F
+Meeting Time Mo 8:00AM - 10:20AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 16110
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+IPHY 4540 - Biomechanics
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Southern
+
+Room CLRE 111F
+Meeting Time Mo 10:30AM - 12:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 16112
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+IPHY 4540 - Biomechanics
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrick Bruening
+
+Room CLRE 111F
+Meeting Time Mo 1:00PM - 3:20PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 16113
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+IPHY 4600 - Immunology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Monika Fleshner
+
+Room MCOL W100
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Teresa Foley
+
+Room ATLS 100
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Reiakvam
+
+Room RAMY C209
+Meeting Time Mo 8:00AM - 8:50AM
+Section 110-RECBoulder 16-Wk Session/Full Sem
+Class Code 16149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+73
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Reiakvam
+
+Room RAMY C209
+Meeting Time Mo 9:00AM - 10:50AM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 16150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalaya Kipp, 
+Tyler Bammert
+
+Room RAMY C209
+Meeting Time Mo 11:00AM - 11:50AM
+Section 210-RECBoulder 16-Wk Session/Full Sem
+Class Code 16152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalaya Kipp
+
+Room RAMY C209
+Meeting Time Mo 12:00PM - 1:50PM
+Section 211-LABBoulder 16-Wk Session/Full Sem
+Class Code 16154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Hall
+
+Room RAMY C209
+Meeting Time Mo 2:00PM - 2:50PM
+Section 310-RECBoulder 16-Wk Session/Full Sem
+Class Code 16156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Hall
+
+Room RAMY C209
+Meeting Time Mo 3:00PM - 4:50PM
+Section 311-LABBoulder 16-Wk Session/Full Sem
+Class Code 16157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Mazzo
+
+Room RAMY C209
+Meeting Time Mo 5:00PM - 5:50PM
+Section 410-RECBoulder 16-Wk Session/Full Sem
+Class Code 16159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Mazzo
+
+Room RAMY C209
+Meeting Time Mo 6:00PM - 7:50PM
+Section 411-LABBoulder 16-Wk Session/Full Sem
+Class Code 21199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Reiakvam
+
+Room RAMY C209
+Meeting Time We 8:00AM - 8:50AM
+Section 510-RECBoulder 16-Wk Session/Full Sem
+Class Code 21734
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Whitney Reiakvam
+
+Room RAMY C209
+Meeting Time We 9:00AM - 10:50AM
+Section 511-LABBoulder 16-Wk Session/Full Sem
+Class Code 21735
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Hall
+
+Room RAMY C209
+Meeting Time We 11:00AM - 11:50AM
+Section 610-RECBoulder 16-Wk Session/Full Sem
+Class Code 29381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Hall
+
+Room RAMY C209
+Meeting Time We 12:00PM - 1:50PM
+Section 611-LABBoulder 16-Wk Session/Full Sem
+Class Code 29382
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalaya Kipp
+
+Room RAMY C209
+Meeting Time We 2:00PM - 2:50PM
+Section 710-RECBoulder 16-Wk Session/Full Sem
+Class Code 29384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+IPHY 4650 - Exercise Physiology
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shalaya Kipp
+
+Room RAMY C209
+Meeting Time We 3:00PM - 4:50PM
+Section 711-LABBoulder 16-Wk Session/Full Sem
+Class Code 29385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Roger Enoka
+
+Room ATLS 100
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16177
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robyn Capobianco
+
+Room CLRE 111F
+Meeting Time Tu 8:00AM - 9:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 16178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Leah Davis
+
+Room CLRE 111F
+Meeting Time Tu 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 16179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robyn Capobianco
+
+Room CLRE 111F
+Meeting Time Tu 12:00PM - 1:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 16180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room RAMY C209
+Meeting Time Tu 2:00PM - 3:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 16181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leah Davis
+
+Room CLRE 111F
+Meeting Time Tu 4:00PM - 5:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 16220
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+IPHY 4720 - Neurophysiology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Diba Mani
+
+Room CLRE 111F
+Meeting Time Tu 6:00PM - 7:50PM
+Section 016-LABBoulder 16-Wk Session/Full Sem
+Class Code 22464
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+IPHY 5100 - Colloquium in Integrative Physiology
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Monika Fleshner
+
+Room RAMY C250
+Meeting Time Mo 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 16182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+IPHY 5100 - Colloquium in Integrative Physiology
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Monika Fleshner
+
+Room CLUB 13
+Meeting Time Mo 3:00PM - 3:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 16183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+IPHY 5200 - Physiological Genetics and Genomics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jerry Stitzel
+
+Room KTCH 1B87
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23631
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+IPHY 5200 - Physiological Genetics and Genomics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jerry Stitzel
+
+Room CLRE 111A
+Meeting Time Mo 4:00PM - 4:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 24468
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+IPHY 5262 - Application of Bioinformatics and Genomics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo nil
+Instructor Marissa Ehringer
+
+Room IBG 210
+Meeting Time Tu 12:30PM - 3:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32454
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+IPHY 5440 - Endocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Lowry
+
+Room HLMS 252
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 40715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+IPHY 5440 - Endocrinology
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room MCOL E155
+Meeting Time Th 4:00PM - 4:50PM
+Section 201-RECBoulder 16-Wk Session/Full Sem
+Class Code 40716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+IPHY 6010 - Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Topic: Aging/Neurodegenerative Diseas
+Instructor Charles Hoeffer
+
+Room HLMS 177
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23454
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

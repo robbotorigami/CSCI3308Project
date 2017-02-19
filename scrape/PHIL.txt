@@ -1,0 +1,1679 @@
+0
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Spelman
+
+Room VAC 1B90
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23267
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Geyer
+
+Room HLMS 263
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Coren
+
+Room HLMS 251
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Anthony Kelley
+
+Room GUGG 205
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 23492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Spelman
+
+Room HALE 260
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 22123
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Rohrs
+
+Room HLMS 229
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 22124
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson
+
+Room HLMS 237
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 22283
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Coren
+
+Room HLMS 211
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 34962
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Geyer
+
+Room HLMS 245
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 35122
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alastair Norcross
+
+Room DUAN G2B47
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 39388
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson
+
+Room HALE 230
+Meeting Time TuTh 9:30AM - 10:20AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 15866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson, 
+Maggie Taylor
+
+Room HLMS 177
+Meeting Time Mo 8:00AM - 8:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 18345
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson, 
+Maggie Taylor
+
+Room HLMS 177
+Meeting Time Mo 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 18346
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson, 
+Maggie Taylor
+
+Room HLMS 177
+Meeting Time Mo 11:00AM - 11:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 18347
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+PHIL 1000 - Introduction to Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Pike
+
+Room ECON 13
+Meeting Time We 5:30PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35577
+Meeting Dates 01/25/2017 - 05/03/2017
+Open Status Open
+15
+PHIL 1010 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Benjamin Rohrs
+
+Room HLMS 241
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21531
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+PHIL 1010 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Benjamin Rohrs
+
+Room VAC 1B88
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+PHIL 1010 - Introduction to Western Philosophy: Ancient
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Christmann, 
+Mi-Kyoung Lee
+
+Room HLMS 199
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 35011
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+PHIL 1020 - Introduction to Western Philosophy: Modern
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Spencer Case
+
+Room HLMS 267
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22793
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+PHIL 1020 - Introduction to Western Philosophy: Modern
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Spencer Case
+
+Room HLMS 255
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+PHIL 1020 - Introduction to Western Philosophy: Modern
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room HUMN 1B90
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+PHIL 1020 - Introduction to Western Philosophy: Modern
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room ECON 13
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 35133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Huemer
+
+Room GUGG 205
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17903
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cheryl Abbate
+
+Room CLRE 209
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17904
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Caleb Pickard
+
+Room HLMS 251
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cheryl Abbate
+
+Room EDUC 155
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17905
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Caleb Pickard
+
+Room HUMN 190
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 35020
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Lee
+
+Room HLMS 237
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 35023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Kultgen
+
+Room HLMS 251
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 22588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Kultgen
+
+Room HLMS 255
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 35028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+PHIL 1100 - Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Lee
+
+Room ECON 13
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 39360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+PHIL 1100 - Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Benjamin Mahlberg
+
+Room HLMS 229
+Meeting Time Th 6:00PM - 9:00PM
+Section 400E-LECCE Evening 10 Weeks
+Class Code 35578
+Meeting Dates 02/09/2017 - 04/20/2017
+Open Status Open
+32
+PHIL 1160 - Introduction to Bioethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Zambrano
+
+Room ECON 205
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+PHIL 1160 - Introduction to Bioethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Zambrano
+
+Room ECON 13
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24176
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Sturgis
+
+Room HLMS 229
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Sturgis
+
+Room CLRE 302
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 17908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zak Kopeikin
+
+Room MUEN E064
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 17909
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Wilson
+
+Room DUAN G2B21
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 17911
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Chapman
+
+Room HLMS 251
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 23269
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Wilson
+
+Room HLMS 245
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 24178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Melnitzer
+
+Room HALE 240
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 24179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Melnitzer
+
+Room HLMS 245
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 24180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zak Kopeikin
+
+Room HLMS 229
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 39361
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Hosein
+
+Room HUMN 150
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 15867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Nieblas
+
+Room HLMS 177
+Meeting Time We 8:00AM - 8:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 18363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Nieblas
+
+Room HLMS 177
+Meeting Time We 9:00AM - 9:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 18364
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erica Nieblas
+
+Room HLMS 177
+Meeting Time We 11:00AM - 11:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 18365
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Judith Carlisle
+
+Room MUEN E417
+Meeting Time We 9:00AM - 9:50AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 23503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Judith Carlisle
+
+Room RAMY N1B31
+Meeting Time We 10:00AM - 10:50AM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 24515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+PHIL 1200 - Philosophy and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Zerella
+
+Room KTCH 1B71
+Meeting Time Tu 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35579
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+50
+PHIL 1400 - Philosophy and the Sciences
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Carol Cleland
+
+Room HALE 230
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 33070
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+PHIL 1400 - Philosophy and the Sciences
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Erich Riesen
+
+Room DUAN G2B60
+Meeting Time We 9:00AM - 9:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 35073
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+PHIL 1400 - Philosophy and the Sciences
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Erich Riesen
+
+Room HLMS 229
+Meeting Time We 8:00AM - 8:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 35074
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+PHIL 1400 - Philosophy and the Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiziana Vistarini
+
+Room HLMS 196
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 17912
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+PHIL 1440 - Introductory Logic
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiziana Vistarini
+
+Room HLMS 177
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35031
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+PHIL 1440 - Introductory Logic
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiziana Vistarini
+
+Room HLMS 245
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+PHIL 1500 - Reading, Writing and Reasoning
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Thomas-Smith
+
+Room HLMS 177
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+PHIL 1500 - Reading, Writing and Reasoning
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Thomas-Smith
+
+Room HLMS 177
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+PHIL 1600 - Philosophy and Religion
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Chapman
+
+Room CLRE 208
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+PHIL 1600 - Philosophy and Religion
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Chapman
+
+Room HLMS 177
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+PHIL 1600 - Philosophy and Religion
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Francis Beckwith
+
+Room HLMS 229
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 35037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+PHIL 2200 - Major Social Theories
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Gronholz
+
+Room VAC 1B88
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35142
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+PHIL 2200 - Major Social Theories
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Gronholz
+
+Room CLRE 209
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35143
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+PHIL 2220 - Philosophy and Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Bowman
+
+Room HLMS 251
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17918
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+PHIL 2220 - Philosophy and Law
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Bowman
+
+Room CLUB 13
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35062
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+PHIL 2270 - Philosophy and Race
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Sechman
+
+Room CLUB 4
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+PHIL 2270 - Philosophy and Race
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Sechman
+
+Room HLMS 245
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+PHIL 2290 - Philosophy and Women
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo nil
+Instructor Anthony Kelley
+
+Room HLMS 245
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35145
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+PHIL 2390 - Philosophy and Psychology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Iskra Fileva
+
+Room CLRE 302
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23276
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+PHIL 2440 - Symbolic Logic
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Lloyd, 
+Graeme Forbes
+
+Room HLMS 229
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17795
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+PHIL 2440 - Symbolic Logic
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Lloyd, 
+Graeme Forbes
+
+Room HLMS 245
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+PHIL 3000 - History of Ancient Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Dominic Bailey, 
+Lenhardt Stevens
+
+Room VAC 1B90
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17796
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+PHIL 3000 - History of Ancient Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor John Christmann, 
+Mi-Kyoung Lee
+
+Room HLMS 237
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+PHIL 3000 - History of Ancient Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Dominic Bailey
+
+Room HALE 235
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 880-LECBoulder 16-Wk Session/Full Sem
+Class Code 35083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+PHIL 3010 - History of Modern Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathalie Morasch
+
+Room ECON 13
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+PHIL 3010 - History of Modern Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson
+
+Room VAC 1B88
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23277
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+PHIL 3100 - Ethical Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alastair Norcross, 
+Philip Choi
+
+Room DUAN G2B47
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17813
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+PHIL 3140 - Environmental Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Youkey, 
+Jasmine Carter
+
+Room MCOL W100
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+PHIL 3140 - Environmental Ethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Youkey, 
+Heather Stewart
+
+Room RAMY N1B31
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17814
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+PHIL 3160 - Bioethics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Colvin
+
+Room DUAN G2B21
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17924
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+PHIL 3260 - Philosophy and the International Order
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Youkey
+
+Room CLRE 209
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17846
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+PHIL 3430 - History of Science: Newton to Einstein
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Youkey
+
+Room CLUB 4
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35071
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+PHIL 3480 - Critical Thinking/Writing in Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Maria Colvin
+
+Room HLMS 104
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+PHIL 3480 - Critical Thinking/Writing in Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Hye-Ryoung Kang
+
+Room HLMS 196
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39390
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+PHIL 3600 - Philosophy of Religion
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Heathwood
+
+Room VAC 1B88
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+PHIL 3700 - Aesthetic Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Graham Oddie
+
+Room MUEN E130
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23281
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+PHIL 3930 - Internship in Social Policy
+Units 1 - 6
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: CU in DC
+Instructor Staff
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 5:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 23489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+PHIL 4010 - Single Philosopher
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Kant
+Instructor Jason Potter
+
+Room HLMS 177
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+PHIL 4070 - Existentialist Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Chapman
+
+Room CLRE 104
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35082
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+PHIL 4110 - Contemporary Moral Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Iskra Fileva
+
+Room HLMS 104
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+PHIL 4250 - Marxism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Garrett Bredeson
+
+Room VAC 1B90
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+PHIL 4260 - Philosophy of Law
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo nil
+Instructor Adam Hosein
+
+Room HLMS 177
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+PHIL 4300 - Philosophy of Mind
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Robert Rupert
+
+Room HLMS 237
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+PHIL 4340 - Epistemology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Huemer
+
+Room HLMS 177
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+PHIL 4360 - Metaphysics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Graham Oddie
+
+Room HLMS 177
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35088
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+PHIL 4450 - History and Philosophy of Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Allan Franklin
+
+Room DUAN G2B47
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+PHIL 4800 - Open Topics in Philosophy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Gender and Global Justice
+Notes: This is a combined section class
+Instructor Alison Jaggar
+
+Room HLMS 251
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+PHIL 5110 - Contemporary Moral Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Iskra Fileva
+
+Room HLMS 104
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+PHIL 5300 - Philosophy of Mind
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Robert Rupert
+
+Room HLMS 237
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35099
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+PHIL 5450 - History and Philosophy of Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Allan Franklin
+
+Room DUAN G2B47
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+PHIL 5550 - Metaphysics and Epistemology Proseminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo nil
+Instructor Carol Cleland, 
+Graeme Forbes, 
+Raul Saucedo Ceballos, 
+Robert Pasnau
+
+Room HLMS 177
+Meeting Time Th 5:00PM - 7:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35109
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+PHIL 6000 - Seminar in the History of Philosophy
+Units 3 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Aristotle:  M&E
+Instructor Robert Pasnau
+
+Room HLMS 177
+Meeting Time We 5:00PM - 7:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22329
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+102
+PHIL 6310 - Issues and Methods in Cognitive Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Albert Kim
+
+Room MUEN D430
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+PHIL 6340 - Seminar in Epistemology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthias Steup
+
+Room HLMS 177
+Meeting Time Mo 5:00PM - 7:30PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39362
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

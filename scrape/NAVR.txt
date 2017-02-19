@@ -1,0 +1,328 @@
+0
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Richard Waters III
+
+Room STAD 140
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25806
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 81
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25807
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+2
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Abraham Kim
+
+Room STAD 140
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 86
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25809
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+4
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Richard Waters III
+
+Room STAD 140
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 25810
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+NAVR 2020 - Seapower and Maritime Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Abraham Kim
+
+Room STAD 140
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 25811
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+NAVR 3020 - Naval Operations and Seamanship
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Edward Dawson
+
+Room SEE DEPT
+Meeting Time MoWeFr 6:00PM - 6:50PM
+Section 500-LECBoulder 16-Wk Session/Full Sem
+Class Code 29377
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+NAVR 3030 - Naval Engineering Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Asbury
+
+Room STAD 135
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25843
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+NAVR 3030 - Naval Engineering Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 93
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25844
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+9
+NAVR 3030 - Naval Engineering Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jonathan Asbury
+
+Room STAD 135
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Gough
+
+Room STAD 112
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25812
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 32
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25813
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+12
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Gough
+
+Room STAD 112
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25814
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 38
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 25815
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+14
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Gough
+
+Room STAD 112
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 25816
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+NAVR 4020 - Leadership and Ethics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Michael Gough
+
+Room STAD 112
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 25817
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+NAVR 4030 - Navigation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Edward Dawson
+
+Room STAD 140
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25840
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+NAVR 4030 - Navigation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 85
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joel Knutson
+Joel Knutson
+
+Room MATH 100
+MATH 100
+Meeting Time Th 3:30PM - 5:30PM
+Tu 3:30PM - 5:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 25841
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+18
+NAVR 4030 - Navigation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Edward Dawson
+
+Room STAD 140
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 25842
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

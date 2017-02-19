@@ -1,0 +1,80 @@
+0
+INBU 3300 - International Business and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonio Papuzza
+
+Room KOBL 302
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+INBU 3300 - International Business and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonio Papuzza
+
+Room KOBL 302
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24702
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+INBU 3450 - International Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ozlem Koc
+
+Room KOBL 235
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35138
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+INBU 4200 - International Financial Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Delgado
+
+Room KOBL 235
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+INBU 4200 - International Financial Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Francisco Delgado
+
+Room KOBL 235
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24700
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

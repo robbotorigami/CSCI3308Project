@@ -1,0 +1,513 @@
+0
+MKTG 2400 - Principles of Marketing for Communications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Mostafa Purmehdi
+
+Room DUAN G1B20
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MKTG 2400 - Principles of Marketing for Communications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 69
+Waitlist Total 0
+MiscInfo nil
+Instructor Mostafa Purmehdi
+
+Room MCOL W100
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 33590
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MKTG 2700 - Digital Marketing Tools
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Pomerance
+
+Room KOBL 230
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 300E-LECCE Evening Full Session
+Class Code 38539
+Meeting Dates 01/24/2017 - 05/04/2017
+Open Status Closed
+3
+MKTG 3050 - Customer Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Fernbach
+
+Room KOBL 255
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MKTG 3100 - Fundamentals of Professional Selling
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Higgins
+
+Room KOBL 302
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25071
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MKTG 3150 - Sales Management, Leadership and Organization Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Higgins
+
+Room KOBL 102
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25073
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+MKTG 3201 - Business Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kai Larsen
+
+Room KOBL 320
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34938
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+MKTG 3201 - Business Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Kai Larsen
+
+Room KOBL 320
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+MKTG 3250 - Buyer Behavior
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Anderson
+
+Room KOBL 302
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+MKTG 3250 - Buyer Behavior
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Anderson
+
+Room KOBL 302
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24722
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+MKTG 3350 - Marketing Research and Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Fernbach
+
+Room KOBL 102
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+MKTG 3350 - Marketing Research and Analytics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Philip Fernbach
+
+Room KOBL 102
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24725
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+MKTG 3700 - Digital Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Kornish
+
+Room KOBL 220
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25074
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+MKTG 3700 - Digital Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Kornish
+
+Room KOBL 220
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 35090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+MKTG 4250 - Product Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Waddell
+
+Room KOBL S110
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24775
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+MKTG 4250 - Product Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Waddell
+
+Room KOBL S110
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+MKTG 4250 - Product Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jay Waddell
+
+Room KOBL 375
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24949
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+MKTG 4300 - Pricing and Channels of Distribution
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yacheng Sun
+
+Room KOBL 102
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+MKTG 4300 - Pricing and Channels of Distribution
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yacheng Sun
+
+Room KOBL 102
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+MKTG 4300 - Pricing and Channels of Distribution
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ozlem Koc
+
+Room KOBL 102
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+MKTG 4300 - Pricing and Channels of Distribution
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ozlem Koc
+
+Room KOBL 102
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 35092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+MKTG 4550 - Advertising and Promotion Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Smarandescu
+
+Room KOBL 340
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24726
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+MKTG 4550 - Advertising and Promotion Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Smarandescu
+
+Room KOBL 340
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24727
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+MKTG 4550 - Advertising and Promotion Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Kennedy
+
+Room KOBL 102
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 40620
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+MKTG 4550 - Advertising and Promotion Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Kennedy
+
+Room KOBL 102
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 40621
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+MKTG 4820 - Special Topics in Marketing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Strategic Brand Management
+Notes: This is a combined section class
+Instructor William Weintraub
+
+Room STAD 136C
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+MKTG 4850 - Senior Seminar in Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bahriye Goren
+
+Room KOBL S127
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24905
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+MKTG 4850 - Senior Seminar in Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin McMahon
+
+Room KOBL S127
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24906
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+MKTG 4850 - Senior Seminar in Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin McMahon
+
+Room KOBL 220
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+MKTG 4850 - Senior Seminar in Marketing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin McMahon
+
+Room KOBL 220
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+MKTG 7310 - Design and Analysis of Experiments in Business
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Reinholtz
+
+Room KOBL 350
+Meeting Time Mo 1:30PM - 4:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+MKTG 7825 - Doctoral Seminar: Empirical Models in Marketing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Yacheng Sun
+
+Room KOBL 203
+Meeting Time Tu 11:00AM - 2:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 35110
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

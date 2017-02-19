@@ -1,0 +1,736 @@
+0
+FILM 1002 - Film Analysis for Non-Majors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Young
+
+Room HUMN 125
+Meeting Time Th 6:00PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35540
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+1
+FILM 1502 - Introduction to Film Studies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 38
+Waitlist Total 0
+MiscInfo nil
+Instructor Ernesto Acevedo- Munoz
+Staff
+
+Room VAC 1B20
+VAC 1B20
+Meeting Time TuTh 9:30AM - 10:45AM
+We 3:00PM - 5:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15865
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+2
+FILM 2000 - Moving Image Foundations I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Biagini
+
+Room ATLS 1B29
+Meeting Time MoWe 11:00AM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16423
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+FILM 2000 - Moving Image Foundations I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Biagini
+
+Room VAC 1B88
+Meeting Time MoWe 3:00PM - 5:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16422
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+FILM 2000 - Moving Image Foundations I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Yannacito
+
+Room ATLS 1B29
+Meeting Time TuTh 11:00AM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 21128
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+FILM 2003 - Film Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Topic: Film & the Law
+Instructor Jeffrey O'Holleran
+
+Room KTCH 1B84
+Meeting Time Th 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35541
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+6
+FILM 2005 - Form, Structure, and Narrative Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiel Lundy
+Staff
+
+Room ATLS 1B29
+ATLS 102
+Meeting Time TuTh 9:30AM - 10:45AM
+Mo 6:00PM - 8:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22905
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+7
+FILM 2010 - Moving Image Computer Foundations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chris Pearce
+
+Room ATLS 310
+Meeting Time MoWe 11:00AM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24255
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Gluckstern
+
+Room VAC 1B90
+Meeting Time MoWe 3:00PM - 5:20PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16426
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Jendras
+
+Room ATLS 342
+Meeting Time TuTh 9:30AM - 11:55AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 16425
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Sekuler
+
+Room VAC 1B90
+Meeting Time TuTh 3:30PM - 5:55PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Gluckstern
+
+Room ATLS 310
+Meeting Time Fr 2:00PM - 2:50PM
+Section 010-LABBoulder 16-Wk Session/Full Sem
+Class Code 37133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Jendras
+
+Room ATLS 310
+Meeting Time Fr 3:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 37134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+FILM 2500 - Moving Image Foundations II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Sekuler
+
+Room ATLS 310
+Meeting Time Fr 4:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 37135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+FILM 2900 - Lighting
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Roger Carter
+
+Room ATLS 2B10
+Meeting Time Mo 2:30PM - 5:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16428
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+FILM 3002 - Major Film Movements
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Australia & New Zealand Cinema
+Instructor Roger Carter
+
+Room RAMY N1B23
+Meeting Time Mo 6:00PM - 9:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35542
+Meeting Dates 01/23/2017 - 05/01/2017
+Open Status Open
+16
+FILM 3003 - Major Film Directors
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Stanley Kubrick
+Instructor Ernesto Acevedo- Munoz
+Staff
+
+Room ATLS 102
+ATLS 102
+Meeting Time TuTh 2:00PM - 3:15PM
+We 6:00PM - 9:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32532
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+17
+FILM 3030 - Cinema Alternative Process
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Busti
+
+Room MCKY 2B27
+Meeting Time Mo 3:30PM - 6:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+FILM 3041 - Environmental Cinema
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Espelie
+Staff
+
+Room ATLS 102
+ATLS 102
+Meeting Time TuTh 12:30PM - 1:45PM
+Th 7:00PM - 9:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24554
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+19
+FILM 3061 - Film History 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor James Farmer
+
+Room ATLS 100
+Meeting Time TuTh 3:30PM - 6:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+FILM 3104 - Film Criticism and Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Farmer
+Staff
+
+Room ATLS 102
+ATLS 102
+Meeting Time TuTh 9:30AM - 10:45AM
+Tu 7:00PM - 9:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15873
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+21
+FILM 3400 - Cinema Production I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Gluckstern
+
+Room ATLS 342
+Meeting Time MoWe 9:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16430
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+FILM 3400 - Cinema Production I
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Geoffrey Marslett
+
+Room ATLS 342
+Meeting Time MoWe 11:00AM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22011
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+FILM 3513 - German Film and Society 1945-1989
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Beverly Weber
+
+Room HUMN 125
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29296
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+FILM 3515 - Camera Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christin Turner, 
+Dario Ortega, 
+Elizabeth Striegl
+
+Room ATLS 2B10
+Meeting Time Mo 8:00AM - 10:20AM
+Section 001-WKSBoulder 16-Wk Session/Full Sem
+Class Code 16432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+FILM 3515 - Camera Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christin Turner, 
+Dario Ortega, 
+Elizabeth Striegl
+
+Room ATLS 2B10
+Meeting Time Mo 11:30AM - 1:50PM
+Section 002-WKSBoulder 16-Wk Session/Full Sem
+Class Code 22010
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+FILM 3525 - Cinema Editing Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Osborn
+
+Room ATLS 310
+Meeting Time TuTh 10:00AM - 11:15AM
+Section 001-WKSBoulder 16-Wk Session/Full Sem
+Class Code 16433
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+FILM 3525 - Cinema Editing Workshop
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Osborn
+
+Room ATLS 310
+Meeting Time TuTh 11:30AM - 12:45PM
+Section 002-WKSBoulder 16-Wk Session/Full Sem
+Class Code 22012
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+FILM 3620 - Experimental Digital Animation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelly Sears
+
+Room ATLS 342
+Meeting Time MoWe 4:00PM - 5:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 54
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Ferris
+
+Room VAC 1B20
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 29212
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 211
+Meeting Time Fr 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 29222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 302
+Meeting Time Fr 12:00PM - 12:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 29223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room KTCH 1B84
+Meeting Time Fr 3:00PM - 3:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 29224
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room HALE 236
+Meeting Time Fr 1:00PM - 1:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 29225
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room CLRE 302
+Meeting Time Fr 2:00PM - 2:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 29226
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+FILM 3660 - The Postmodern
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Tabare Azcona
+
+Room ECON 2
+Meeting Time Fr 2:00PM - 2:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 29227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+FILM 3700 - Digital Audio Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chris Pearce
+
+Room ATLS 310
+Meeting Time MoWe 9:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 16467
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+FILM 4000 - Advanced Digital Postproduction
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Osborn
+
+Room ATLS 310
+Meeting Time Fr 10:00AM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22939
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+FILM 4005 - Screenwriting Workshop: Short Form
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Geoffrey Marslett
+
+Room ATLS 1B29
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+FILM 4023 - Topics in International Cinema
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo Topic: Contemp Asian Cinema
+Notes: This is a combined section class
+Instructor Suranjan Ganguly
+Staff
+
+Room MUEN E131
+ATLS 102
+Meeting Time TuTh 12:30PM - 1:45PM
+Mo 12:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23041
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+40
+FILM 4024 - Advanced Research Seminar
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Stories We Tell
+Notes: This is a combined section class
+Instructor Melinda Barlow
+
+Room ATLS 1B29
+Meeting Time MoWe 3:30PM - 6:45PM
+Section 801-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29255
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+FILM 4500 - Cinema Production 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Advanced Filmmaking
+Notes: This is a combined section class
+Instructor Kelly Sears
+
+Room ATLS 342
+Meeting Time MoWe 1:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+FILM 4500 - Cinema Production 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Advanced Filmmaking
+Notes: This is a combined section class
+Instructor Jeanne Liotta
+
+Room ATLS 342
+Meeting Time TuTh 1:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 18301
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+FILM 4604 - Colloquium in Film Aesthetics
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Melinda Barlow
+
+Room ATLS 1B29
+Meeting Time TuTh 3:30PM - 6:45PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 23572
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

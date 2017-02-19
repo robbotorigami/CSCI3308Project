@@ -1,0 +1,281 @@
+0
+CHIN 1020 - Beginning Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Amy Lantrip, 
+Zhiying Qian
+
+Room EDUC 136
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15802
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+CHIN 1020 - Beginning Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor John O'Leary, 
+Zhiying Qian
+
+Room EDUC 134
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15803
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+CHIN 1020 - Beginning Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Yalin Zhou, 
+Zhiying Qian
+
+Room HLMS 263
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+CHIN 1051 - Masterpieces of Chinese Literature in Translation
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xiaojing Miao
+
+Room KTCH 1B60
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+CHIN 2120 - Intermediate Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Crismon Lewis, 
+Jin Chen
+
+Room HALE 236
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+CHIN 2120 - Intermediate Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jin Chen, 
+Long Feng
+
+Room DUAN G1B27
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+CHIN 3120 - Advanced Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Chun-Ling Hsu, 
+Guoying Gong
+
+Room MUEN D439
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+CHIN 3120 - Advanced Chinese 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Chun-Ling Hsu, 
+Kangni Huang
+
+Room MUEN D439
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23780
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+CHIN 3200 - Adv Wrtg Topics on Chinese & Japanese Literature and Civilization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Alexander, 
+Sarah Zanolini
+
+Room HUMN 270
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22296
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+CHIN 3200 - Adv Wrtg Topics on Chinese & Japanese Literature and Civilization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Katherine Alexander, 
+Sarah Zanolini
+
+Room HUMN 245
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+CHIN 3341 - Literature and Popular Culture in Modern China
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor George Stuckey
+
+Room HALE 260
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32764
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+CHIN 3371 - Topics in Chinese Film
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor George Stuckey
+
+Room ECON 205
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32767
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+CHIN 4120 - Advanced Readings in Modern Chinese 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor George Stuckey
+
+Room CHEM 133
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+CHIN 4220 - Readings in Classical Chinese
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Kroll
+
+Room HUMN 245
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23731
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+CHIN 5220 - Ancient Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Kroll
+
+Room HUMN 245
+Meeting Time We 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32688
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+CHIN 5280 - Topics in Ancient Literature
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthias Richter
+
+Room HUMN 245
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24567
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+CHIN 5410 - Medieval Prose
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Antje Richter
+
+Room HUMN 245
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

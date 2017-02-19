@@ -1,0 +1,1069 @@
+0
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCR 200
+Meeting Time MoFr 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26628
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCE 1B47
+Meeting Time Mo 2:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCE 1B41
+Meeting Time Tu 2:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCE 1B47
+Meeting Time We 2:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 26631
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCE 1B41
+Meeting Time Th 2:00PM - 4:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 26632
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+CVEN 2012 - Introduction to Geomatics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor William Pfeffer
+
+Room ECCE 1B47
+Meeting Time Fr 2:00PM - 4:50PM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 38025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+CVEN 2121 - Analytical Mechanics 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yunping Xi
+
+Room ECCR 150
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26633
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+CVEN 3111 - Analytical Mechanics 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeong-Hoon Song
+
+Room FLMG 154
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26634
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+CVEN 3161 - Mechanics of Materials 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Yunping Xi
+
+Room ECCR 265
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26635
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+CVEN 3161 - Mechanics of Materials 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yunping Xi
+
+Room ECCE 1B52
+Meeting Time We 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 26636
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+CVEN 3161 - Mechanics of Materials 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Yunping Xi
+
+Room ECCE 1B52
+Meeting Time We 4:00PM - 5:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26637
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+CVEN 3227 - Probability, Statistics and Decision
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbie Liel
+
+Room ECCR 200
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26638
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+CVEN 3246 - Introduction to Construction
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Hallowell
+
+Room FLMG 157
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26639
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+CVEN 3256 - Construction Equipment and Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Goodrum
+
+Room ECCR 150
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+CVEN 3313 - Theoretical Fluid Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Crimaldi
+
+Room ECCR 245
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26640
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+CVEN 3313 - Theoretical Fluid Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Crimaldi
+
+Room ECCR 265
+Meeting Time Mo 3:00PM - 3:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 26641
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+CVEN 3414 - Fundamentals of Environmental Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Corwin
+
+Room FLMG 154
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26642
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+CVEN 3424 - Water and Wastewater Treatment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Corwin
+
+Room FLMG 154
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26643
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+CVEN 3434 - Introduction to Applied Ecology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Writer
+
+Room ECCR 155
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26644
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+CVEN 3525 - Structural Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Ross Corotis
+
+Room ECCR 135
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26645
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+CVEN 3708 - Geotechnical Engineering 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Pak
+
+Room ECCR 155
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+CVEN 3708 - Geotechnical Engineering 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Pak
+
+Room ECCE 1B53
+Meeting Time Tu 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27708
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+CVEN 3708 - Geotechnical Engineering 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Pak
+
+Room ECCE 1B53
+Meeting Time Th 4:00PM - 5:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 26647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+CVEN 3718 - Geotechnical Engineering 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Dobroslav Znidarcic
+
+Room ECCR 155
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28094
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+CVEN 3718 - Geotechnical Engineering 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Dobroslav Znidarcic
+
+Room ECCE 1B53
+Meeting Time Mo 2:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28095
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+CVEN 3718 - Geotechnical Engineering 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Dobroslav Znidarcic
+
+Room ECCE 1B53
+Meeting Time Mo 4:00PM - 5:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28096
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+CVEN 3718 - Geotechnical Engineering 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Dobroslav Znidarcic
+
+Room ECCE 1B53
+Meeting Time We 2:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28097
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+CVEN 4333 - Engineering Hydrology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Kasprzyk
+
+Room ECCR 105
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+CVEN 4383 - Groundwater Modeling
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roseanna Neupauer
+
+Room ECCR 155
+Meeting Time We 4:00PM - 6:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28053
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+CVEN 4424 - Environmental Organic Chemistry
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Joseph Ryan
+
+Room ECCE 1B41
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26649
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+CVEN 4434 - Environmental Engineering Design
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Corwin, 
+Michael Walker
+
+Room FLMG 104
+Meeting Time TuTh 3:30PM - 5:10PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28054
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+CVEN 4484 - Introduction to Environmental Microbiology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Zhiyong Ren
+
+Room FLMG 156
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+CVEN 4545 - Steel Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor George Hearn
+
+Room ECCR 105
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26651
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+CVEN 4565 - Timber Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Wilfred Srubar
+
+Room ECCE 1B41
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34673
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+CVEN 4833 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Open Channel Hydraulics
+Notes: This is a combined section class
+Instructor Michael Gooseff
+
+Room ECCR 139
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34674
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+CVEN 4834 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Sustainabilty Princip for Engr
+Instructor Sherri Cook
+
+Room ECCR 150
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28283
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+CVEN 4834 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Water and Sanitation
+Notes: This is a combined section class
+Instructor Karl Linden
+
+Room ECCR 108
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34922
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+CVEN 4837 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo Topic: Syst Approach to Global Engrg
+Notes: This is a combined section class
+Instructor Bernard Amadei
+
+Room ECCR 150
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28366
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+CVEN 4899 - Civil Engineering Senior Project Design
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Morris
+
+Room FLMG 156
+Meeting Time TuTh 3:30PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28687
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+CVEN 5131 - Continuum Mechanics and Elasticity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Pak
+
+Room ECCR 139
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27724
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+CVEN 5206 - Design Development
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor David Matheson
+
+Room ECCE 1B47
+Meeting Time Th 8:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+CVEN 5246 - Legal Aspects of Construction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Walsh, 
+Linwood Holt
+
+Room ECCE 1B41
+Meeting Time Th 5:00PM - 7:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28271
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+CVEN 5383 - Applied Groundwater Modeling
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Roseanna Neupauer
+
+Room ECCR 155
+Meeting Time We 4:00PM - 6:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+CVEN 5393 - Water Resources System and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Kasprzyk
+
+Room SEEC N128
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+CVEN 5424 - Environmental Organic Chemistry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Fernando Rosario-Ortiz
+
+Room SEEC N129
+Meeting Time MoWeFr 9:15AM - 10:05AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39327
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+CVEN 5434 - Environmental Engineering Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Christopher Corwin, 
+Michael Walker
+
+Room FLMG 104
+Meeting Time TuTh 3:30PM - 5:10PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28055
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+CVEN 5454 - Statistical Methods for Natural and Engineered Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Rajagopalan Balaji
+
+Room ITLL 1B50
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26653
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+CVEN 5484 - Applied Microbiology and Toxicology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 36
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Zhiyong Ren
+
+Room FLMG 156
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+CVEN 5524 - Drinking Water Treatment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Summers
+
+Room SEEC N126
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28937
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+CVEN 5564 - Water Profession: Leadership & Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor R Kuchenrither
+
+Room ECCE 1B41
+Meeting Time We 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+CVEN 5565 - Life-Cycle Engineering of Civil Infrastructure Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Ross Corotis
+
+Room ECCR 155
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26655
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+CVEN 5585 - Advanced Topics in Reinforced Concrete Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Saouma
+
+Room ECCE 1B47
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39797
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+CVEN 5748 - Design of Earth Structures
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Dobroslav Znidarcic
+
+Room ECCR 110
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34679
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+CVEN 5818 - Geotechnical Earthquake Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Shideh Dashti
+
+Room ECCR 131
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28056
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+CVEN 5830 - Special Topics for Seniors/Grads
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Illumination 2
+Notes: This is a combined section class
+Instructor Sandra Vasconez
+
+Room ECCE 1B41
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28364
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+CVEN 5831 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Topic: Wave-Based Methods and Apps
+Instructor Fatemeh Pourahmadian
+
+Room ECCE 1B47
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+CVEN 5833 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Open Channel Hydraulics
+Notes: This is a combined section class
+Instructor Michael Gooseff
+
+Room ECCR 139
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28907
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+CVEN 5833 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: Surf Water Quality Modeling
+Instructor Michael Gooseff
+
+Room SEEC S125
+Meeting Time MoWe 9:15AM - 10:30AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34676
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+CVEN 5834 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Topic: Small Syst Water/WW Treatment
+Instructor Joann Silverstein
+
+Room ECCE 1B41
+Meeting Time Mo 2:00PM - 4:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+CVEN 5834 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Topic: Microbial Electrochemistry
+Instructor Zhiyong Ren
+
+Room SEE DEPT
+Meeting Time Tu 9:00AM - 11:30AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+CVEN 5835 - Special Topics for Seniors/Grads
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Topic: Expmntl Meth in Struct Engrg
+Instructor Petros Sideris
+
+Room ECCE 1B47
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+CVEN 5836 - Special Topics for Seniors/Grads
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: BIM for Construction
+Instructor Paul Goodrum
+
+Room ECCE 1B47
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28272
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+CVEN 5837 - Special Topics for Seniors/Grads
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo Topic: Syst Approach to Global Engrg
+Notes: This is a combined section class
+Instructor Bernard Amadei
+
+Room ECCR 150
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28367
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+CVEN 5929 - Sustainable Community Development 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bernard Amadei
+
+Room ECCE 1B41
+Meeting Time Mo 10:30AM - 1:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+CVEN 6393 - Hydrologic Sciences and Water Resources Engineering Seminar
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 37
+Waitlist Total 0
+MiscInfo nil
+Instructor Rajagopalan Balaji
+
+Room ECCE 1B41
+Meeting Time We 11:00AM - 11:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 26654
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+CVEN 6595 - Earthquake Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbie Liel
+Staff
+
+Room ECCE 1B47
+ECCE 1B47
+Meeting Time TuTh 12:30PM - 1:45PM
+MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27884
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open

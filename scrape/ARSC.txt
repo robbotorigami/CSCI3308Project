@@ -1,0 +1,433 @@
+0
+ARSC 1080 - College Writing and Research
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Oshetski
+Shane Oshetski
+
+Room FLMG 244
+FLMG 244
+Meeting Time MoWe 10:00AM - 11:15AM
+Fr 10:00AM - 10:50AM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 17651
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+1
+ARSC 1080 - College Writing and Research
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Oshetski
+Shane Oshetski
+
+Room FLMG 244
+FLMG 244
+Meeting Time MoWe 1:00PM - 2:15PM
+Fr 1:00PM - 1:50PM
+Section 311R-LECBoulder 16-Wk Session/Full Sem
+Class Code 17652
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+2
+ARSC 1080 - College Writing and Research
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel West
+Daniel West
+
+Room FLMG 244
+FLMG 265
+Meeting Time TuTh 12:30PM - 1:45PM
+Fr 12:00PM - 12:50PM
+Section 312R-LECBoulder 16-Wk Session/Full Sem
+Class Code 18143
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+3
+ARSC 1080 - College Writing and Research
+Units 4
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+Staff
+
+Room TBA
+FLMG 102
+Meeting Time TuTh 11:00AM - 12:15PM
+Fr 11:00AM - 11:50AM
+Section 313R-LECBoulder 16-Wk Session/Full Sem
+Class Code 22940
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ARSC 1400 - MASP Coseminar: Chemistry 1 & 2
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: SASC CO-SEM: Chem I & II
+Instructor Sachin Nedungadi
+
+Room FLMG 170
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24591
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ARSC 1400 - MASP Coseminar: Chemistry 1 & 2
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 410R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ARSC 1420 - MASP Coseminar: Introduction to EEB
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: SASC CO-Seminar: EBIO
+Instructor Caitlin Kelly
+
+Room FLMG 244
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ARSC 1420 - MASP Coseminar: Introduction to EEB
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: SASC CO-Seminar: EBIO
+Instructor Caitlin Kelly
+
+Room FLMG 244
+Meeting Time TuTh 4:30PM - 5:45PM
+Section 311R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21221
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ARSC 1440 - MASP Coseminar: Mathematics
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: SASC CO-SEM: Math
+Instructor William Piper
+
+Room FLMG 170
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22374
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ARSC 1440 - MASP Coseminar: Mathematics
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo Topic: SASC CO-SEM: Math
+Instructor William Piper
+
+Room FLMG 170
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 311R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22373
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ARSC 1480 - MASP Social Science Seminar
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michele Simpson
+
+Room FRND MCCA
+Meeting Time Tu 4:00PM - 5:00PM
+Section 400R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24364
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+ARSC 1490 - MASP Humanities Seminar
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Ramirez
+
+Room CLRE 212
+Meeting Time Mo 4:00PM - 5:15PM
+Section 410R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ARSC 1492 - MASP Research Seminar
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Ramirez
+
+Room CLRE 212
+Meeting Time We 4:00PM - 5:15PM
+Section 401R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ARSC 1492 - MASP Research Seminar
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Katharine Semsar
+
+Room GOLD A1B20
+Meeting Time We 12:00PM - 1:00PM
+Section 402R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ARSC 1492 - MASP Research Seminar
+Units 1 - 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Katharine Semsar
+
+Room CHEM 131
+Meeting Time Th 3:30PM - 4:45PM
+Section 410R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21136
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ARSC 1710 - SASC Coseminar: Mathematics
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Maung Moon
+
+Room FLMG 265
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21245
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ARSC 1720 - SASC Coseminar: Calculus Work Group
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Clifford Bridges
+
+Room FLMG 150
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21207
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ARSC 2000 - Ways of Knowing: Constructions of Knowledge in the Academy and Beyond
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Altman
+
+Room FLMG 265
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 18152
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+ARSC 2400 - MASP Coseminar: Organic Chemistry
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: SASC CO-SEM: Org Chem 1
+Instructor Sachin Nedungadi
+
+Room FLMG 170
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23369
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ARSC 2400 - MASP Coseminar: Organic Chemistry
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Ciancanelli
+
+Room SEE DEPT
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 410R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21137
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ARSC 2470 - MASP Coseminar: Physics 1 and 2
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: SASC CO-SEM: Physics
+Instructor Daniel Cole
+
+Room FLMG 150
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 310R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ARSC 2470 - MASP Coseminar: Physics 1 and 2
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Barry Vant Hull
+
+Room SEE DEPT
+Meeting Time TuTh 9:00AM - 10:30AM
+Section 410R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 21941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+ARSC 3100 - Multicultural Perspective and Academic Discourse
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Buchanan
+
+Room FLMG 265
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 310R-WKSBoulder 16-Wk Session/Full Sem
+Class Code 18153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+ARSC 3100 - Multicultural Perspective and Academic Discourse
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room FLMG 241
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 311R-WKSBoulder 16-Wk Session/Full Sem
+Class Code 18154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ARSC 3935 - Internship
+Units 1 - 6
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Kenneth Bickers
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 5:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 22428
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+ARSC 4750 - Social Foundations of Professional Life in Washington DC
+Units 3 - 4
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo nil
+Instructor Jessica Gerrity, 
+Wendy Ginsberg
+
+Room CU in DC Carnegie
+Meeting Time Tu 6:30PM - 9:00PM
+Section 550R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22423
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

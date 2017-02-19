@@ -1,0 +1,1717 @@
+0
+ECEN 1030 - Special Topics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 122
+Waitlist Total 0
+MiscInfo Topic: MATLAB Programming
+Instructor Fabio Somenzi
+
+Room ECCR 1B40
+Meeting Time Fr 3:00PM - 4:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ECEN 1310 - C and MATLAB Programming for Electrical & Computer Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Fabio Somenzi
+
+Room ECCR 1B40
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28121
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ECEN 1310 - C and MATLAB Programming for Electrical & Computer Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Fabio Somenzi
+
+Room ECEE 281
+Meeting Time Tu 8:30AM - 10:20AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28124
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ECEN 1310 - C and MATLAB Programming for Electrical & Computer Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Fabio Somenzi
+
+Room ECEE 281
+Meeting Time Tu 3:30PM - 5:20PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28125
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ECEN 1310 - C and MATLAB Programming for Electrical & Computer Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Fabio Somenzi
+
+Room ECEE 282
+Meeting Time Tu 8:30AM - 10:20AM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ECEN 1310 - C and MATLAB Programming for Electrical & Computer Engineers
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Fabio Somenzi
+
+Room ECEE 282
+Meeting Time Tu 3:30PM - 5:20PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ECEN 1400 - Introduction to Digital and Analog Electronics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 29
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Fosdick
+
+Room ECCR 245
+Meeting Time MoWe 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ECEN 1400 - Introduction to Digital and Analog Electronics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Fosdick
+
+Room ECEE 281
+Meeting Time Fr 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+ECEN 1400 - Introduction to Digital and Analog Electronics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Fosdick
+
+Room ECEE 281
+Meeting Time Fr 3:00PM - 4:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ECEN 1400 - Introduction to Digital and Analog Electronics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Fosdick
+
+Room ECEE 282
+Meeting Time Fr 3:00PM - 4:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 34546
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ECEN 2250 - Introduction to Circuits and Electronics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Garret Moddel
+
+Room ECEE 1B32
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ECEN 2260 - Circuits as Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECCR 245
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27815
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+ECEN 2270 - Electronics Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECCR 200
+Meeting Time Mo 3:00PM - 3:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ECEN 2270 - Electronics Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECEE 281
+Meeting Time TuTh 10:30AM - 12:20PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28084
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+ECEN 2270 - Electronics Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECEE 282
+Meeting Time TuTh 10:30AM - 12:20PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ECEN 2270 - Electronics Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECEE 282
+Meeting Time TuTh 5:30PM - 7:20PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ECEN 2270 - Electronics Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Zefram Marks
+
+Room ECEE 281
+Meeting Time TuTh 5:30PM - 7:20PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 28332
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ECEN 2350 - Digital Logic
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Fosdick
+
+Room ECCR 200
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26667
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+ECEN 2410 - Renewable Sources and Efficient Electrical Energy Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 41
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexander Dixon
+
+Room FLMG 104
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33089
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ECEN 2420 - Electronics for Wireless Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Dimitra Psychogiou, 
+Z Popovic
+
+Room ECEE 1B32
+Meeting Time Mo 4:00PM - 4:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ECEN 2420 - Electronics for Wireless Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dimitra Psychogiou, 
+Z Popovic
+
+Room ECEE 281
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 33663
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ECEN 2420 - Electronics for Wireless Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Z Popovic
+
+Room ECEE 282
+Meeting Time MoWe 12:00PM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33664
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+ECEN 3010 - Circuits and Electronics for Mechanical Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Newhall
+
+Room ECCR 1B40
+Meeting Time MoWe 4:00PM - 4:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ECEN 3010 - Circuits and Electronics for Mechanical Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Newhall
+
+Room ITLL 2B10
+Meeting Time Tu 12:00PM - 1:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28119
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ECEN 3010 - Circuits and Electronics for Mechanical Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Newhall
+
+Room ITLL 2B10
+Meeting Time Tu 12:00PM - 1:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28120
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ECEN 3010 - Circuits and Electronics for Mechanical Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Newhall
+
+Room ITLL 2B10
+Meeting Time Th 12:00PM - 1:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 32959
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ECEN 3010 - Circuits and Electronics for Mechanical Engineers
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Newhall
+
+Room ITLL 2B10
+Meeting Time Th 12:00PM - 1:50PM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 32960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+ECEN 3250 - Microelectronics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Juliet Gopinath
+
+Room FLMG 156
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26668
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ECEN 3300 - Linear Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Behrouz Touri
+
+Room ECEE 1B32
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+ECEN 3320 - Semiconductor Devices
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jaewoong Jeong
+
+Room ECEE 265
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28342
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ECEN 3350 - Programming Digital Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Keller
+
+Room ECEE 1B32
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27816
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ECEN 3360 - Digital Design Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor James Williamson
+
+Room ECCR 245
+Meeting Time Mo 4:00PM - 4:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28333
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ECEN 3360 - Digital Design Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Williamson
+
+Room ECEE 281
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+ECEN 3360 - Digital Design Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor James Williamson
+
+Room ECEE 282
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ECEN 3360 - Digital Design Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor James Williamson
+
+Room SEE DEPT
+Meeting Time TuTh 1:00PM - 2:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ECEN 3400 - Electromagnetic Fields and Waves
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Dejan Filipovic
+
+Room ECEE 1B32
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26670
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ECEN 3410 - Electromagnetic Waves and Transmission
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelvin Wagner
+
+Room ECEE 265
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+ECEN 4002 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Computer Security
+Notes: This is a combined section class
+Instructor Eric Wustrow
+
+Room ECEE 1B32
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39072
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ECEN 4005 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: Photovoltaic Devices
+Notes: This is a combined section class
+Instructor Sean Shaheen
+
+Room SEEC N124
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ECEN 4009 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo Topic: Science Court
+Notes: This is a combined section class
+Instructor Garret Moddel
+
+Room ITLL 1B50
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ECEN 4011 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Design of Medical Devices
+Notes: This is a combined section class
+Instructor Richard Mihran
+
+Room FLMG 104
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 40312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ECEN 4224 - High Speed Digital Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Chun-Ting Wang Lee, 
+Eric Bogatin, 
+Melinda Piket
+
+Room ITLL 1B50
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28178
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ECEN 4313 - Concurrent Programming
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Pavol Cerny
+
+Room DUAN G2B47
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 40482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+ECEN 4341 - Bioelectromagnetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Frank Barnes
+
+Room ECEE 1B32
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28048
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ECEN 4423 - Chaotic Dynamics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Bradley
+
+Room ECCR 139
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+ECEN 4517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B32
+Meeting Time Mo 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27078
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+ECEN 4517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time Tu 12:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27079
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ECEN 4517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time We 12:00PM - 3:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28872
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+ECEN 4517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time Th 12:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 28885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+ECEN 4532 - Digital Signal Processing Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Farhad Pourkamali Anaraki
+
+Room ECCR 150
+Meeting Time Mo 3:00PM - 4:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 26671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+ECEN 4593 - Computer Organization
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Keith Graham
+
+Room ECCR 150
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+ECEN 4606 - Undergraduate Optics Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Jiun-Yann Yu
+
+Room ECEE 265
+Meeting Time Mo 3:00PM - 4:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 33090
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+ECEN 4606 - Undergraduate Optics Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jiun-Yann Yu
+
+Room ECEE 105
+Meeting Time Tu 3:30PM - 6:30PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 33091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+ECEN 4606 - Undergraduate Optics Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Jiun-Yann Yu
+
+Room ECEE 105
+Meeting Time We 3:30PM - 6:30PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 33092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+ECEN 4606 - Undergraduate Optics Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jiun-Yann Yu
+
+Room ECEE 105
+Meeting Time Th 3:30PM - 6:30PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 33093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+ECEN 4616 - Optoelectronic System Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Anthony Barsic
+
+Room ECEE 1B32
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28754
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ECEN 4620 - Capstone Lab, Part 2
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Femrite
+
+Room SEE DEPT
+Meeting Time TuTh 9:30AM - 12:15PM
+Section 800-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+ECEN 4620 - Capstone Lab, Part 2
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Femrite
+
+Room ECEE 2B37
+Meeting Time TuTh 9:30AM - 12:15PM
+Section 801-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ECEN 4638 - Control Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Cook
+
+Room ITLL 1B10
+Meeting Time TuTh 12:00PM - 2:30PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 28148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+ECEN 4638 - Control Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Jacob Cook
+
+Room ITLL 1B10
+Meeting Time TuTh 2:30PM - 5:00PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 37115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ECEN 4652 - Communication Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Mathys
+
+Room ECEE 265
+Meeting Time We 3:00PM - 4:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+ECEN 4652 - Communication Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Mathys
+
+Room ECEE 282
+Meeting Time WeFr 9:00AM - 11:00AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+ECEN 5002 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Grad Comm Lab
+Notes: This is a combined section class
+Instructor Peter Mathys
+
+Room ECEE 265
+Meeting Time We 3:00PM - 4:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+ECEN 5002 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Grad Comm Lab
+Notes: This is a combined section class
+Instructor Peter Mathys
+
+Room ECEE 282
+Meeting Time WeFr 9:00AM - 11:00AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 28340
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+ECEN 5003 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Mastering Emb Sys Architecture
+Instructor Timothy Scherr
+
+Room ECCS 1B28
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+ECEN 5005 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: Photovoltaic Devices
+Notes: This is a combined section class
+Instructor Sean Shaheen
+
+Room SEEC N124
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34369
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+ECEN 5006 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Topic: Computational Optical Imaging
+Instructor Rafael Piestun
+
+Room ECEE 1B32
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40560
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+ECEN 5008 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Topic: Adv in Ctrl and Optim Pwr Grid
+Instructor Emiliano Dall'anese
+
+Room ECEE 265
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34083
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+ECEN 5008 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo Topic: Geometric Control Theory
+Instructor Xudong Chen
+
+Room ECEE 265
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+ECEN 5009 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Topic: Science Court
+Notes: This is a combined section class
+Instructor Garret Moddel
+
+Room ITLL 1B50
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+ECEN 5011 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Design of Medical Devices
+Notes: This is a combined section class
+Instructor Richard Mihran
+
+Room FLMG 104
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 40313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ECEN 5013 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Embedded Software Essentials
+Instructor Alexander Fosdick
+
+Room ECCS 1B28
+Meeting Time MoWeFr 4:00PM - 4:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28399
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+ECEN 5015 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Nanophotonics
+Instructor Wounjhang Park
+
+Room ECEE 265
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+ECEN 5016 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Quantum Mechanics
+Instructor Wounjhang Park
+
+Room ECEE 265
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33197
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+ECEN 5023 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Mobile Comp/loT Security
+Instructor Keith Graham
+
+Room ECCR 1B51
+Meeting Time TuTh 6:30PM - 7:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28839
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+ECEN 5023 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Low Power Embdd Dsgn Techngs
+Instructor Keith Graham
+
+Room ECCR 1B51
+Meeting Time MoWeFr 5:00PM - 5:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34972
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+ECEN 5024 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Topic: RF Power Amplifiers
+Instructor Taylor Barton
+
+Room ECEE 1B32
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 37130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+ECEN 5032 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Topic: Wireless LANs
+Notes: This is a combined section class
+Instructor James Lansford
+
+Room ECCS 1B12
+Meeting Time MoWe 1:00PM - 2:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 27190
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+ECEN 5032 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Computer Security
+Notes: This is a combined section class
+Instructor Eric Wustrow
+
+Room ECEE 1B32
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39073
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+ECEN 5043 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Prog System on a Chip
+Instructor Timothy Scherr
+
+Room ECCS 1B28
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+ECEN 5053 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo Topic: Embedding Sensors & Actuators
+Instructor James Zweighaft, 
+Nestor Lobo, 
+Rishabh Berlia
+
+Room ECEE 283
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+ECEN 5053 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Develop Indstrl Intrnt Thngs
+Instructor David Sluiter
+
+Room ECEE 1B32
+Meeting Time TuTh 6:30PM - 7:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28840
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+ECEN 5053 - Special Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Embedded Interface Design
+Instructor Bruce Montgomery
+
+Room ECEE 265
+Meeting Time Mo 5:00PM - 7:30PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 33341
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+ECEN 5224 - High Speed Digital Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Chun-Ting Wang Lee, 
+Eric Bogatin, 
+Melinda Piket
+
+Room ITLL 1B50
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28179
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+ECEN 5264 - Electromagnetic Absorption, Scattering, and Propagation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Albin Gasiewski, 
+Kun Zhang
+
+Room ECCS 1B14
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 40445
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+ECEN 5341 - Bioelectromagnetics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Frank Barnes
+
+Room ECEE 1B32
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28049
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+ECEN 5423 - Chaotic Dynamics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elizabeth Bradley
+
+Room ECCR 139
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28381
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+ECEN 5458 - Sampled Data and Digital Control Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Alan Wright
+
+Room ECEE 1B32
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28852
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+ECEN 5517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B32
+Meeting Time Mo 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 27080
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+ECEN 5517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time Tu 12:00PM - 3:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 27081
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+ECEN 5517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time We 12:00PM - 3:50PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 28873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+ECEN 5517 - Power Electronics and Photovoltaic Power Systems Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Khurram Afridi
+
+Room ECEE 1B65
+Meeting Time Th 12:00PM - 3:50PM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 39324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+ECEN 5603 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Margaret MacMillan
+
+Room ECCR 1B55
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28721
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+93
+ECEN 5603 - Software Project Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Vasanthan Dasan
+
+Room ECCE 1B41
+Meeting Time Mo 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+ECEN 5613 - Embedded System Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Linden Mc Clure
+
+Room ECCS 1B14
+Meeting Time Mo 6:30PM - 9:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 26927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+ECEN 5616 - Optoelectric System Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Anthony Barsic
+
+Room ECEE 1B32
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40439
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+ECEN 5623 - Real-Time Embedded Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Scherr
+
+Room ECCS 1B28
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28846
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+ECEN 5652 - Detection and Extraction of Signals from  Noise
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Mahesh Varanasi
+
+Room ECEE 265
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33191
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+ECEN 5673 - Distributed Systems
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Shivakant Mishra
+
+Room ECCR 150
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 35069
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+ECEN 5692 - Principles of Digital Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Youjian Liu
+
+Room ECEE 265
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28489
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+ECEN 5737 - Adjustable-Speed AC Drives
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 21
+Waitlist Total 0
+MiscInfo nil
+Instructor Nikola Milivojevic, 
+Yusuf Gurkaynak
+
+Room ECCS 1B28
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28414
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+ECEN 5807 - Modeling and Control of Power Electronic  Systems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Dragan Maksimovic
+
+Room ECCS 1B28
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+102
+ECEN 5837 - Mixed-Signal IC Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Hanh-Phuc Le
+
+Room ECEE 265
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 28887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+ECEN 5837 - Mixed-Signal IC Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Hanh-Phuc Le
+
+Room ECEE 265
+Meeting Time Fr 3:00PM - 6:00PM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 39487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+ECEN 6016 - Special Topics
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo Topic: Grad Professional Seminar
+Instructor Dejan Filipovic
+
+Room ECEE 1B32
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+ECEN 6144 - Electromagnetic Boundary Problems
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total 0
+MiscInfo nil
+Instructor Edward Kuester
+
+Room ECCS 1B28
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

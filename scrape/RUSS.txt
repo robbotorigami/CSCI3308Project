@@ -1,0 +1,433 @@
+0
+RUSS 1010 - Beginning Russian 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yekaterina Pak
+
+Room MCOL E158
+Meeting Time MoTuWeTh 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+RUSS 1020 - Beginning Russian 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Elena Kostoglodova
+
+Room MCOL E158
+Meeting Time MoTuWeTh 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+RUSS 1020 - Beginning Russian 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Elena Kostoglodova
+
+Room MCOL E158
+Meeting Time MoTuWeTh 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+RUSS 2010 - Second-Year Russian 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Galina Siarheichyk
+
+Room MCOL E158
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21968
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+RUSS 2020 - Second-Year Russian 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tatiana Mikhailova
+
+Room HALE 236
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+RUSS 2221 - Introduction to Modern Russian Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Vicki Grove
+
+Room EDUC 155
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+RUSS 2222 - Sports and the Cold War
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Galina Siarheichyk
+
+Room MKNA 112
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34394
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+RUSS 2222 - Sports and the Cold War
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Artemi Romanov
+
+Room HLMS 201
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+RUSS 2222 - Sports and the Cold War
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor MaryKate DeGraw
+
+Room HLMS 201
+Meeting Time Fr 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+RUSS 2222 - Sports and the Cold War
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor MaryKate DeGraw
+
+Room MCOL E186
+Meeting Time Fr 2:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 23196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+RUSS 2222 - Sports and the Cold War
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor MaryKate DeGraw
+
+Room CLUB 13
+Meeting Time Fr 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 23197
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+RUSS 2231 - Fairy Tales of Russia
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Osterman
+
+Room HLMS 255
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+RUSS 3020 - Third-Year Russian II
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Tatiana Mikhailova
+
+Room HUMN 1B70
+Meeting Time TuTh 3:30PM - 5:10PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+RUSS 3241 - Red Star Trek: Russian Science Fiction Between Utopia and Dystopia
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julia Gerhard
+
+Room ECON 119
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+RUSS 4020 - Advanced Conversation and Composition 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elena Kostoglodova
+
+Room MCOL E158
+Meeting Time MoTuWeTh 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29297
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+RUSS 4060 - Advanced Russian for Heritage Speakers (Part 2)
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elena Kostoglodova
+
+Room MCOL E158
+Meeting Time MoTuWeTh 9:00AM - 9:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29298
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+RUSS 4401 - The Russian Jewish Experience
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Aleksandr Senderovich
+
+Room GUGG 205
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+RUSS 4441 - Tolstoy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Roberts
+
+Room HUMN 190
+Meeting Time Mo 3:30PM - 6:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34387
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+RUSS 4471 - Women in 20th-21st Century Russian Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Laura Osterman
+
+Room CLRE 302
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+RUSS 4811 - 19th Century Russian Literature
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Roberts
+
+Room HLMS 241
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23060
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+RUSS 4821 - 20th Century Russian Literature and Art
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mark Leiderman
+
+Room EKLC E1B50
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+RUSS 4851 - Critical Thinking: Russian Film and Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Moving Forward Into Past
+Notes: This is a combined section class
+Instructor Tatiana Mikhailova
+
+Room HUMN 125
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29300
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+RUSS 5020 - Advanced Russian Seminar 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elena Kostoglodova
+
+Room MCOL E158
+Meeting Time MoTuWeTh 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29299
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+RUSS 5401 - The Russian Jewish Experience
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Aleksandr Senderovich
+
+Room GUGG 205
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32670
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+RUSS 5441 - Tolstoy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Roberts
+
+Room HUMN 190
+Meeting Time Mo 3:30PM - 6:00PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34388
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+RUSS 5471 - Women in 20th-21st Century Russian Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Laura Osterman
+
+Room CLRE 302
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+RUSS 5851 - Critical Thinking: Russian Film and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Tatiana Mikhailova
+
+Room HUMN 125
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 29301
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

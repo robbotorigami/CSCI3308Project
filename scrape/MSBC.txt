@@ -1,0 +1,32 @@
+0
+MSBC 5480 - Supervised Supply Chain Internship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Driscoll
+
+Room KOBL 355
+Meeting Time We 9:30AM - 12:15PM
+Section 001-INTBoulder 16-Wk Session/Full Sem
+Class Code 24975
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MSBC 5490 - Supervised Business Analytics Internship
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Jonathan Bein
+
+Room KOBL 255
+Meeting Time We 9:30AM - 12:15PM
+Section 001-INTBoulder 16-Wk Session/Full Sem
+Class Code 24974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

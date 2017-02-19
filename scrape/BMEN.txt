@@ -1,0 +1,16 @@
+0
+BMEN 2000 - Introduction to Biomedical Engineering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 137
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Nuttelman
+
+Room MUEN E050
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28673
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

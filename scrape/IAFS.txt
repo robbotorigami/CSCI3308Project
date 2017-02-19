@@ -1,0 +1,289 @@
+0
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 43
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Kanner
+
+Room HALE 270
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 16551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Hale
+
+Room DUAN G131
+Meeting Time Tu 5:00PM - 5:50PM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 16951
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew King
+
+Room MUEN E064
+Meeting Time We 2:00PM - 2:50PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 16952
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew King
+
+Room CLUB 13
+Meeting Time We 9:00AM - 9:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 16953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathleen King
+
+Room MCOL E155
+Meeting Time Th 3:00PM - 3:50PM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 16954
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+IAFS 1000 - Global Issues and International Affairs
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total 0
+MiscInfo nil
+Instructor Jordan Hale
+
+Room HLMS 229
+Meeting Time Th 5:00PM - 5:50PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 16955
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+IAFS 3000 - Special Topics in International Affairs
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: US-Latin America Relations
+Instructor Benjamin Montoya
+
+Room EKLC E1B50
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 16631
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+IAFS 3000 - Special Topics in International Affairs
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Climate/Developing World
+Instructor Atreyee Bhattacharya
+
+Room GUGG 206
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+IAFS 3631 - Arctic Society and Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Asger Nordvig
+
+Room EKLC M203
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33213
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+IAFS 3640 - Data Analysis for Global Environmental Affairs
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Atreyee Bhattacharya
+
+Room SEEC N128
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: US Foreign Relations
+Instructor Thomas Zeiler
+
+Room CLUB 6
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Global Security
+Instructor Gregory Young
+
+Room CLUB 6
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Globalization and Africa
+Instructor Robert Wyrod
+
+Room KTCH 1B84
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17237
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Global Political Economy
+Instructor David Bearce
+
+Room KTCH 1B44
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17238
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo Topic: Global Environ & Nat Security
+Notes: This is a combined section class
+Instructor David Zierler
+
+Room CU in DC Carnegie
+Meeting Time We 6:00PM - 8:30PM
+Section 551R-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22949
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+IAFS 4500 - The Post-Cold War World
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: International Human Rights
+Instructor Sheila Scanlon
+
+Room GUGG 206
+Meeting Time Mo 4:00PM - 6:30PM
+Section 800-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+IAFS 4930 - Internship in International Affairs
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor Tracey-Katherine Rousseau
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 12:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 22961
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+IAFS 4930 - Internship in International Affairs
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor Tracey-Katherine Rousseau
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 1:00PM - 5:00PM
+Section 551R-INTBoulder 16-Wk Session/Full Sem
+Class Code 23964
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

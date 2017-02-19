@@ -1,0 +1,244 @@
+0
+ITAL 1010 - Beginning Italian 1.
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Olga Vasile
+
+Room HUMN 145
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ITAL 1010 - Beginning Italian 1.
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Giorgio Corda
+
+Room SEE DEPT
+Meeting Time MoTuWe 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ITAL 1020 - Beginning Italian 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Chiara Torriani
+
+Room HLMS 181
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ITAL 1020 - Beginning Italian 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Chiara Torriani
+
+Room HUMN 180
+Meeting Time MoTuWeThFr 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ITAL 1020 - Beginning Italian 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Giorgio Corda
+
+Room SEE DEPT
+Meeting Time MoTuWe 2:00PM - 2:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 23139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+ITAL 1050 - Fast-Track Italian
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Susanna Saurini
+Staff
+
+Room HUMN 245
+SEE DEPT
+Meeting Time MoWeFr 10:00AM - 10:50AM
+TuTh 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34609
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+6
+ITAL 1500 - That's Amore: Introduction to Italian Culture
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Priscilla Craven
+
+Room CLRE 207
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24107
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ITAL 2110 - Intermediate Italian Reading, Grammar, and Composition 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Susanna Saurini
+
+Room VAC 1B90
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ITAL 2120 - Intermediate Italian Reading, Grammar, and Composition 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Susanna Saurini
+
+Room HUMN 190
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15891
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ITAL 2130 - Introduction to Literary Analysis.
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Priscilla Craven
+
+Room HUMN 190
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ITAL 3040 - Italian Conversation Through Cinema
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michela Ardizzoni
+
+Room LIBR M498
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ITAL 3160 - Readings in Italian Literature--Medieval and Renaissance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Suzanne Magnanini
+
+Room HUMN 245
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+ITAL 4150 - Boccaccio's Decameron: Tales of Sex and Death in the Middle Ages
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Valerio Ferme
+
+Room EKLC E1B20
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ITAL 4250 - History of Modern Italy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cosetta Seno
+
+Room KTCH 1B71
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24108
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ITAL 4730 - Italian Feminisms: Culture, Theory, and Narratives of Difference
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cosetta Seno
+
+Room GUGG 206
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

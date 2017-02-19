@@ -1,0 +1,153 @@
+0
+LDSP 1571 - Topics in Leadership
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo nil
+Instructor Catherine Altman
+
+Room FLMG 265
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 310R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25851
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+LDSP 1571 - Topics in Leadership
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Ann Scarritt, 
+Johanna Maes
+
+Room KCEN S163
+Meeting Time We 4:00PM - 5:15PM
+Section 460R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+LDSP 1571 - Topics in Leadership
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Alisha Hammett, 
+Ann Scarritt
+
+Room KCEN S161
+Meeting Time We 3:00PM - 4:50PM
+Section 461R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34617
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+LDSP 1571 - Topics in Leadership
+Units 1
+Restriction N
+Consent Required Y
+Seats Remaining 21
+Waitlist Total nil
+MiscInfo nil
+Instructor Ann Scarritt, 
+Donna Ida
+
+Room KCEN N100
+Meeting Time Th 3:00PM - 4:50PM
+Section 462R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34618
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+LDSP 2820 - Multilevel Issue in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Ann Scarritt, 
+Lisa Bates
+
+Room KCEN S161
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 460R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+LDSP 2820 - Multilevel Issue in Leadership
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Ann Scarritt, 
+Lisa Bates
+
+Room KCEN S161
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 461R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+LDSP 3100 - Multicultural Leadership: Theories, Principles and Practices
+Units 3 - 4
+Restriction N
+Consent Required Y
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Ann Scarritt, 
+Johanna Maes
+
+Room KCEN N101
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 460R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25864
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+LDSP 4932 - Community Leadership in Action, Part 2
+Units 1 - 6
+Restriction N
+Consent Required Y
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Ann Scarritt, 
+Johanna Maes
+
+Room KCEN S163
+Meeting Time We 2:00PM - 3:50PM
+Section 460R-PRABoulder 16-Wk Session/Full Sem
+Class Code 33205
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+LDSP 4932 - Community Leadership in Action, Part 2
+Units 1 - 6
+Restriction N
+Consent Required Y
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Alyssa Willet, 
+Ann Scarritt, 
+Hannah Wilks
+
+Room CLUB 4
+Meeting Time We 4:00PM - 6:00PM
+Section 461R-PRABoulder 16-Wk Session/Full Sem
+Class Code 25878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

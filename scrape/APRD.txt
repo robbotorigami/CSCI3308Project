@@ -1,0 +1,918 @@
+0
+APRD 1000 - Idea Industries
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Melinda Cheval
+
+Room CHEM 140
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25231
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tom Leydon
+
+Room HALE 240
+Meeting Time Th 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Allen Richardson
+
+Room KTCH 1B84
+Meeting Time Mo 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Jon Ligon
+
+Room EKLC M203
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 33741
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Smail
+
+Room HUMN 190
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 33737
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Celeste Mckeon, 
+Kyle Parr
+
+Room HALE 240
+Meeting Time Tu 6:00PM - 8:30PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 33738
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Giangreco, 
+Jason Curry
+
+Room KTCH 1B84
+Meeting Time We 6:00PM - 8:30PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 33739
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+APRD 1001 - Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Hooten
+
+Room HALE 260
+Meeting Time Tu 6:00PM - 8:30PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 33740
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tobias Hopp
+
+Room ENVD 122
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25387
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Irma Fisher
+
+Room FLMG 103
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25388
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelty Logan
+
+Room MCOL E186
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25389
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Dawn Doty
+
+Room EDUC 143
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 33742
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 6:00PM - 8:30PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 33743
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Molly Katz
+
+Room HLMS 263
+Meeting Time Mo 6:00PM - 8:30PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 33744
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Willis
+
+Room DUAN G131
+Meeting Time Tu 6:00PM - 8:30PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 33745
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+APRD 1002 - Introduction to Branding
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Kiersten Bagley
+
+Room KTCH 1B60
+Meeting Time We 6:00PM - 8:30PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 33746
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+APRD 2000 - Principles of Advertising
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Vargo
+
+Room EDUC 220
+Meeting Time Mo 5:00PM - 7:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+APRD 2002 - Principles of Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelly Kinner
+
+Room HLMS 141
+Meeting Time Mo 5:00PM - 7:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25390
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+APRD 2003 - Principles of Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Smail
+
+Room HLMS 241
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25391
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+APRD 3000 - Intermediate Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Tu 6:00PM - 8:30PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 25537
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+APRD 3000 - Intermediate Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Jon Ligon
+
+Room CLRE 301
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 33747
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+APRD 3000 - Intermediate Creative Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Weed
+
+Room HLMS 191
+Meeting Time Mo 6:00PM - 8:30PM
+Section 803-LECBoulder 16-Wk Session/Full Sem
+Class Code 33748
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+APRD 3001 - Intermediate Design Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Lawrence Olson
+
+Room ARMR 211
+Meeting Time Th 7:00PM - 9:30PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 25538
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+APRD 3001 - Intermediate Design Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Benjamin
+
+Room ARMR 211
+Meeting Time Tu 6:00PM - 8:30PM
+Section 802-LECBoulder 16-Wk Session/Full Sem
+Class Code 33749
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+APRD 3001 - Intermediate Design Concepts
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Stone
+
+Room ARMR 211
+Meeting Time We 6:00PM - 8:30PM
+Section 803-LECBoulder 16-Wk Session/Full Sem
+Class Code 33750
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+APRD 3002 - Communication Platforms
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Melinda Cheval
+
+Room VAC 1B90
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25392
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+APRD 3002 - Communication Platforms
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo nil
+Instructor Maxim Lenderman
+
+Room KTCH 1B71
+Meeting Time Th 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25773
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+APRD 3003 - Strategic Communication Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kelty Logan
+
+Room RAMY N1B23
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25393
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+APRD 3003 - Strategic Communication Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Colman
+
+Room MUEN E064
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 33751
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+APRD 3004 - Account Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor David Oakes
+
+Room HLMS 263
+Meeting Time We 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25394
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+APRD 3004 - Account Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Forsyth, 
+Ryan Smith
+
+Room HUMN 190
+Meeting Time Th 6:00PM - 8:30PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 33752
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+APRD 3100 - Design for Digital Media
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jon Ligon
+
+Room DUAN G2B47
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+APRD 3103 - Strategic Writing for Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25397
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+APRD 3103 - Strategic Writing for Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Dawn Doty
+
+Room HUMN 190
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 33753
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+APRD 3300 - Crisis Communication in Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Dawn Doty
+
+Room HALE 240
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+APRD 3301 - Social Media Strategies for Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tobias Hopp
+
+Room ARMR 206A
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39067
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+APRD 3302 - Strategic Planning and Cases in Public Relations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Seow Lee
+
+Room KTCH 1B44
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+APRD 3500 - Story Design II
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Slayden
+
+Room KTCH 1B44
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-WKSBoulder 16-Wk Session/Full Sem
+Class Code 33979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+APRD 4100 - Brands and Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristina Ford
+
+Room HLMS 185
+Meeting Time Mo 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+APRD 4102 - Sustainable Brand Practices: Ethics Cases in Advertising and PR
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Schauster
+
+Room RAMY N1B75
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+APRD 4300 - Strategic Communication Analytics and Metrics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Vargo
+
+Room HUMN 190
+Meeting Time Tu 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+APRD 4403 - Strategic Communication Campaigns
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room TBA
+Meeting Time TuTh 3:30PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25398
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+42
+APRD 4403 - Strategic Communication Campaigns
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Erin Schauster
+
+Room ARMR 218
+Meeting Time TuTh 3:30PM - 5:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25399
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+APRD 4403 - Strategic Communication Campaigns
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Goode-Allen
+
+Room ARMR 206A
+Meeting Time MoWe 10:00AM - 11:45AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25400
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+APRD 4403 - Strategic Communication Campaigns
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Irma Fisher
+
+Room EDUC 134
+Meeting Time TuTh 3:30PM - 5:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 25788
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+APRD 4403 - Strategic Communication Campaigns
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Irma Fisher
+
+Room HALE 240
+Meeting Time MoWe 6:00PM - 7:45PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 33754
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+APRD 4501 - Design for Social Innovation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Russell Bowen
+
+Room HLMS 185
+Meeting Time Th 6:00PM - 8:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+APRD 4523 - Portfolio 2
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Barrett Brynestad
+
+Room HLMS 259
+Meeting Time Tu 6:00PM - 8:30PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 25396
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+APRD 4543 - Strategic Brand Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor William Weintraub
+
+Room STAD 136C
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25401
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+APRD 4873 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Data Visualization
+Instructor Trina Arnett
+
+Room HUMN 186
+Meeting Time We 6:00PM - 8:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25712
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+APRD 5003 - Brand Design Studio 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Louis Ferracane
+
+Room SEE DEPT
+Meeting Time We 12:30PM - 3:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 40802
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+APRD 5004 - Experiential Design Studio 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Leonard Beasley, 
+Russell Bowen
+
+Room SEE DEPT
+Meeting Time Tu 5:30PM - 8:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 40804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+APRD 5007 - Critical Making Studio 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Benton Rochester, 
+Pablo Alejo
+
+Room SEE DEPT
+Meeting Time Th 12:30PM - 3:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 40805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+APRD 5008 - RE: Studio 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Baker, 
+Jesse Weaver
+
+Room SEE DEPT
+Meeting Time Th 5:30PM - 8:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 40849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+APRD 5011 - Book Lab
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Smith
+
+Room SEE DEPT
+Meeting Time Tu 12:30PM - 3:30PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 40806
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+APRD 6871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Health Communication
+Instructor Erin Willis
+
+Room ARMR 1B01
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+APRD 6871 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Topic: Moral Psychology/Media Ethics
+Instructor Erin Schauster
+
+Room ARMR 1B01
+Meeting Time Mo 12:00PM - 2:30PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 34386
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

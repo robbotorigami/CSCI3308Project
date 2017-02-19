@@ -1,0 +1,64 @@
+0
+KREN 1020 - Beginning Korean 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sangbok Kim
+
+Room HUMN 186
+Meeting Time MoTuWeThFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+KREN 1020 - Beginning Korean 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heeseung Suh
+
+Room HUMN 180
+Meeting Time MoTuWeThFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 32859
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+KREN 2120 - Intermediate Korean 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sangbok Kim
+
+Room HUMN 1B70
+Meeting Time MoTuWeThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15863
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+KREN 3120 - Advanced Korean 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Sangbok Kim
+
+Room HUMN 1B70
+Meeting Time MoTuWeThFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15864
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

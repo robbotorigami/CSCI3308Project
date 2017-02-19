@@ -1,0 +1,1473 @@
+0
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ruth Hickerson
+
+Room CHEM 140
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25112
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Emma Collins
+
+Room HLMS 255
+Meeting Time Th 11:00AM - 11:50AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 25113
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emma Collins
+
+Room EDUC 138
+Meeting Time Th 8:00AM - 8:50AM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 25114
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marti White
+
+Room HLMS 77
+Meeting Time Fr 8:00AM - 8:50AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 25115
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary VeShancey
+
+Room DUAN G2B21
+Meeting Time Th 12:30PM - 1:20PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 25116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary VeShancey
+
+Room MCOL E158
+Meeting Time Fr 10:00AM - 10:50AM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 25117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marti White
+
+Room MUEN E123
+Meeting Time Fr 9:00AM - 9:50AM
+Section 107-RECBoulder 16-Wk Session/Full Sem
+Class Code 25118
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Caitlyn Leytham-Powell
+
+Room DUAN G2B60
+Meeting Time Fr 11:00AM - 11:50AM
+Section 108-RECBoulder 16-Wk Session/Full Sem
+Class Code 25119
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+COMM 1210 - Perspectives on Human Communication
+Units 3
+Restriction N
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kendra Gale
+
+Room BUCK S106
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 220R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25674
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Avalos
+
+Room ECON 2
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25123
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Holly Gates
+
+Room KTCH 1B64
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25124
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevan Feshami
+
+Room CHEM 131
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25125
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevan Feshami
+
+Room EKLC E1B75
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 25126
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Avalos
+
+Room HUMN 245
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 25127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Johnson
+
+Room HLMS 77
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 25128
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Johnson
+
+Room ECON 16
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 25129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamie Skerski
+
+Room CHEM 133
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 25130
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shannon O'Sullivan
+
+Room CHEM 131
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 25131
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Hartzell
+
+Room HUMN 190
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 25132
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 011-LECBoulder 16-Wk Session/Full Sem
+Class Code 25133
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+COMM 1300 - Public Speaking
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Megan Hallinan
+
+Room CHEM 131
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 25142
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+COMM 1300 - Public Speaking
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Hartzell
+
+Room ECON 16
+Meeting Time Tu 5:30PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35528
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+22
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Koschmann
+
+Room HUMN 1B50
+Meeting Time Tu 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25134
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Shrum
+
+Room HLMS 77
+Meeting Time Fr 10:00AM - 11:15AM
+Section 101-RECBoulder 16-Wk Session/Full Sem
+Class Code 25135
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Bartlett
+
+Room ECON 205
+Meeting Time Th 11:00AM - 12:15PM
+Section 102-RECBoulder 16-Wk Session/Full Sem
+Class Code 25136
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Peglow
+
+Room HLMS 251
+Meeting Time Th 8:00AM - 9:15AM
+Section 103-RECBoulder 16-Wk Session/Full Sem
+Class Code 25137
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time Th 8:00AM - 9:15AM
+Section 104-RECBoulder 16-Wk Session/Full Sem
+Class Code 25138
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Shrum
+
+Room FLMG 154
+Meeting Time Th 11:00AM - 12:15PM
+Section 105-RECBoulder 16-Wk Session/Full Sem
+Class Code 25139
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+COMM 1600 - Group Interaction
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Peglow
+
+Room HLMS 77
+Meeting Time Fr 11:30AM - 12:45PM
+Section 106-RECBoulder 16-Wk Session/Full Sem
+Class Code 25140
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+COMM 2000 - Topics in Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Computing/Informtion/Comm
+Instructor William Aspray
+
+Room RAMY N1B23
+Meeting Time TuTh 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 39913
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+COMM 2360 - Campaigns and Revolutions
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Henry Archer
+
+Room STAD 136C
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25144
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dana Harrington
+
+Room HALE 236
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25145
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bingjuan Xiong
+
+Room EDUC 143
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25146
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Claire Chase
+
+Room KTCH 1B84
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dana Harrington
+
+Room EKLC E1B75
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 25148
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanne Esch
+
+Room EDUC 134
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 25149
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+COMM 2400 - Discourse, Culture and Identities
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kellie Brownlee
+
+Room ECCR 135
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 40292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+COMM 2500 - Interpersonal Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jared Kopczynski
+
+Room STAD 135
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25150
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+COMM 2500 - Interpersonal Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Poole
+
+Room EDUC 143
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+COMM 2600 - Organizational Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Dana Underwood
+
+Room KTCH 1B60
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25153
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+COMM 2600 - Organizational Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Chorley
+
+Room HLMS 245
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25154
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Timothy Kuhn
+
+Room MCOL W100
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Norell Bond
+
+Room GUGG 206
+Meeting Time Th 9:30AM - 10:20AM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 25157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Norell Bond
+
+Room GUGG 206
+Meeting Time Th 11:00AM - 11:50AM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 25158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Juan Ahumada
+
+Room HLMS 77
+Meeting Time Fr 1:00PM - 1:50PM
+Section 113-RECBoulder 16-Wk Session/Full Sem
+Class Code 25159
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Juan Ahumada
+
+Room HLMS 77
+Meeting Time Fr 2:00PM - 2:50PM
+Section 114-RECBoulder 16-Wk Session/Full Sem
+Class Code 25160
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+COMM 3210 - Human Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Leslie
+
+Room CLRE 302
+Meeting Time Fr 10:00AM - 10:50AM
+Section 115-RECBoulder 16-Wk Session/Full Sem
+Class Code 25161
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Phaedra Pezzullo
+
+Room HUMN 1B50
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 25162
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Beck
+
+Room EDUC 134
+Meeting Time Th 8:00AM - 8:50AM
+Section 111-RECBoulder 16-Wk Session/Full Sem
+Class Code 25163
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Sarah Beck
+
+Room MCOL E186
+Meeting Time Th 12:00PM - 12:50PM
+Section 112-RECBoulder 16-Wk Session/Full Sem
+Class Code 25164
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Bujold
+
+Room FLMG 154
+Meeting Time Th 9:00AM - 9:50AM
+Section 113-RECBoulder 16-Wk Session/Full Sem
+Class Code 25165
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Nathan Bedsole
+
+Room DUAN G2B60
+Meeting Time Fr 2:00PM - 2:50PM
+Section 114-RECBoulder 16-Wk Session/Full Sem
+Class Code 25166
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+COMM 3300 - Rhetorical Foundations of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Patrick Bujold
+
+Room MUEN D439
+Meeting Time Fr 11:00AM - 11:50AM
+Section 116-RECBoulder 16-Wk Session/Full Sem
+Class Code 25168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+COMM 3310 - Principles and Practices of Argumentation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Rice
+
+Room STAD 136C
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25227
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+COMM 3320 - Persuasion in Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamie Skerski
+
+Room STAD 136C
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25229
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+COMM 3320 - Persuasion in Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jamie Skerski
+
+Room STAD 136C
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32551
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+COMM 3340 - Political Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Motter
+
+Room HLMS 251
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25233
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+COMM 3340 - Political Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Jeffrey Motter
+
+Room CHEM 145
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+COMM 3370 - Environmental Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jessica Rich
+
+Room MCOL E186
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33401
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor David Boromisza-Habashi
+
+Room STAD 136C
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tajshen Campbell
+
+Room EKLC E1B75
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Bingjuan Xiong
+
+Room STAD 136C
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeanette Musselwhite
+
+Room STAD 136C
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 25173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeanette Musselwhite
+
+Room STAD 136C
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 25174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+COMM 3410 - Intercultural Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Katherine Peters
+
+Room HLMS 237
+Meeting Time Th 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35531
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Open
+65
+COMM 3420 - Gender and Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Flores
+
+Room EKLC E1B20
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25209
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+COMM 3510 - Family Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ruth Hickerson
+
+Room CLRE 301
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25210
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+COMM 3510 - Family Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo nil
+Instructor Ruth Hickerson
+
+Room CLRE 301
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32554
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+COMM 3610 - Communication, Technology, and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Bryan Taylor
+
+Room MUEN E130
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+COMM 3700 - Communication and Conflict Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Alison Castel
+
+Room CLRE 208
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25222
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+COMM 3740 - Qualitative Communication Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Natasha Shrikant
+
+Room HLMS 77
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25780
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+COMM 3740 - Qualitative Communication Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lydia Reinig
+
+Room CHEM 145
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25781
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+COMM 3750 - Quantitative Research Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa Poole
+
+Room EKLC M203
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25211
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+COMM 3760 - Rhetorical Criticism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiara Naputi
+
+Room HLMS 245
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25782
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+COMM 3760 - Rhetorical Criticism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tiara Naputi
+
+Room HLMS 251
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25783
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+COMM 4000 - Advanced Topics in Communication
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Cindy White
+
+Room HLMS 181
+Meeting Time We 2:00PM - 2:50PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 39492
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+COMM 4220 - Senior Seminar: Functions of Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Comm, Cultr and Globalization
+Instructor Natasha Shrikant
+
+Room HLMS 104
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25223
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+77
+COMM 4300 - Senior Seminar: Rhetoric
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Argument as Storytelling
+Instructor Peter Simonson
+
+Room HLMS 77
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25224
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+78
+COMM 4510 - Senior Seminar: Interpersonal Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Communicatns & Human Relations
+Instructor Lawrence Frey
+
+Room HLMS 141
+Meeting Time Tu 5:00PM - 7:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+79
+COMM 4510 - Senior Seminar: Interpersonal Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: The Dark Side of Relationships
+Instructor Lisa Poole
+
+Room HLMS 196
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25212
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+80
+COMM 4600 - Senior Seminar: Organizational Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Risk, Crisis and Hazard Comm
+Notes: This is a combined section class
+Instructor Jody Jahn
+
+Room HLMS 77
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32510
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+COMM 4600 - Senior Seminar: Organizational Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Org Change & Resilience
+Instructor Joelle Cruz
+
+Room CLRE 211
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+COMM 4600 - Senior Seminar: Organizational Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Org Change & Resilience
+Instructor Joelle Cruz
+
+Room CLRE 211
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32525
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+COMM 4610 - Communication Studies of Science and Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Keywords in Digital Culture
+Instructor Theodore Striphas
+
+Room HLMS 77
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32555
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+COMM 4930 - Internship
+Units 1 - 6
+Restriction Y
+Consent Required Y
+Seats Remaining 35
+Waitlist Total nil
+MiscInfo Topic: CU in DC
+Instructor Jamie Skerski
+
+Room CU in DC Carnegie
+Meeting Time MoTuWeThFr 8:00AM - 5:00PM
+Section 550R-INTBoulder 16-Wk Session/Full Sem
+Class Code 25715
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+COMM 5210 - Readings in Communication Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Timothy Kuhn
+
+Room HLMS 77
+Meeting Time Mo 6:15PM - 8:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+COMM 5230 - Applied Communication
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Lawrence Frey
+
+Room HLMS 77
+Meeting Time We 6:15PM - 8:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+COMM 5720 - Readings in Communication and Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo nil
+Instructor John Ackerman
+
+Room HLMS 77
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+COMM 6200 - Seminar: Selected Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Intro to Cultural Studies
+Instructor Theodore Striphas
+
+Room HLMS 77
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 25218
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+COMM 6310 - Rhetorical Criticism
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Topic: Rhetorical Field Methods
+Instructor Bryan Taylor
+
+Room HLMS 77
+Meeting Time We 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32519
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+COMM 6420 - Interaction Analysis
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo Topic: Adv Qualitative Res Methods
+Instructor David Boromisza-Habashi
+
+Room HLMS 77
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32516
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+COMM 6740 - Theory and Philosophy of Organizing and Organizations
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Matthew Koschmann
+
+Room HLMS 77
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

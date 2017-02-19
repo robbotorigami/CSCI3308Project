@@ -1,0 +1,726 @@
+0
+ATOC 1050 - Weather and the Atmosphere
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Melissa Nigro
+
+Room DUAN G1B30
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15493
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ATOC 1050 - Weather and the Atmosphere
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Giuliana Turi
+
+Room CHEM 140
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15494
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Kay
+
+Room DUAN G1B30
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15496
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alexandra Jahn
+
+Room EKLC E1B20
+Meeting Time MoWe 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15495
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aleya Kaushik
+
+Room MUEN E064
+Meeting Time Fr 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 24155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aleya Kaushik
+
+Room MUEN D439
+Meeting Time Fr 1:00PM - 1:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 24156
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Maloney
+
+Room CLRE 212
+Meeting Time Th 4:30PM - 5:20PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 24157
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+ATOC 1060 - Our Changing Environment: El Nino, Ozone, and Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Maloney
+
+Room CLRE 212
+Meeting Time Th 3:30PM - 4:20PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 24158
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Bateman
+
+Room SEEC S128
+Meeting Time Mo 9:20AM - 11:10AM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15497
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Bateman
+
+Room SEEC S128
+Meeting Time Mo 11:20AM - 1:10PM
+Section 002-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15498
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Cann
+
+Room SEEC S128
+Meeting Time Mo 1:20PM - 3:10PM
+Section 003-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15499
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Cann
+
+Room SEEC S128
+Meeting Time Mo 3:20PM - 5:10PM
+Section 004-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15500
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Lemmon, 
+Jackson Knoll
+
+Room SEEC S128
+Meeting Time Mo 5:20PM - 7:10PM
+Section 005-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15501
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anondo Mukherjee
+
+Room SEEC S128
+Meeting Time Tu 11:15AM - 1:05PM
+Section 006-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15502
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Tomoko Koyama
+
+Room SEEC S128
+Meeting Time Tu 3:45PM - 5:25PM
+Section 007-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15503
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Jackson Knoll
+
+Room SEEC S128
+Meeting Time We 9:20AM - 11:10AM
+Section 008-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15504
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Anondo Mukherjee
+
+Room SEEC S128
+Meeting Time We 11:20AM - 1:10PM
+Section 009-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15505
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Heney
+
+Room SEEC S128
+Meeting Time We 1:20PM - 3:10PM
+Section 010-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15506
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Heney
+
+Room SEEC S128
+Meeting Time We 3:20PM - 5:10PM
+Section 011-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15507
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+ATOC 1070 - Weather and the Atmosphere Laboratory
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jackson Knoll
+
+Room SEEC S128
+Meeting Time We 5:20PM - 7:10PM
+Section 012-MLSBoulder 16-Wk Session/Full Sem
+Class Code 15508
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+ATOC 3050 - Principles of Weather
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Betsy Forrest
+
+Room SEEC N124
+Meeting Time MoWe 11:15AM - 12:05PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+ATOC 3050 - Principles of Weather
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEEC N129
+Meeting Time Fr 11:15AM - 12:05PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23433
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ATOC 3050 - Principles of Weather
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room SEEC S125
+Meeting Time Th 4:30PM - 5:20PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 23434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+ATOC 3070 - Introduction to Oceanography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Thomas Marchitto
+
+Room BESC 180
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ATOC 3500 - Air Chemistry and Pollution
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Tolbert
+
+Room EKLC M203
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22380
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+ATOC 3600 - Principles of Climate
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Blanken
+
+Room DUAN G2B47
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20147
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ATOC 3720 - Planets and Their Atmospheres
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Brain, 
+Samantha Walker
+
+Room DUAN G130
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 19371
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ATOC 4200 - Biogeochemical Oceanography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nicole Lovenduski
+
+Room SEEC N126
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22413
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+ATOC 4500 - Special Topics in Atmospheric and Oceanic Sciences
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Physical Oceanography/Climate
+Notes: This is a combined section class
+Instructor Kristopher Karnauskas
+
+Room SEEC N126
+Meeting Time MoWe 3:15PM - 4:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23584
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+ATOC 4500 - Special Topics in Atmospheric and Oceanic Sciences
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Peter Pilewskie
+
+Room SEEC S126
+Meeting Time MoWe 2:45PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34086
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+ATOC 4710 - Introduction to Atmospheric Physics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor David Kingsmill
+
+Room SEEC N126
+Meeting Time MoWe 9:15AM - 10:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32865
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+ATOC 4720 - Introduction to Atmospheric dynamics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Derek Brown
+
+Room SEEC N129
+Meeting Time MoWe 11:15AM - 12:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+ATOC 4770 - Wind Energy Meteorology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Julie Lundquist
+
+Room SEEC N124
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23200
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+ATOC 4800 - Policy Implications of Climate Controversies
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Weiqing Han
+
+Room SEEC N128
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22384
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+ATOC 5000 - Critical Issues in Climate and the Environment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Weiqing Han
+
+Room SEEC N128
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22385
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+ATOC 5060 - Dynamics of the Atmosphere and Oceans
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Weiss
+
+Room SEEC S125
+Meeting Time TuTh 10:30AM - 11:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+ATOC 5200 - Biogeochemical Oceanography
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nicole Lovenduski
+
+Room SEEC N126
+Meeting Time TuTh 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22414
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+ATOC 5235 - Introduction to Atmospheric Radiative Transfer and Remote Sensing
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Sebastian Schmidt
+
+Room SEEC S125
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ATOC 5600 - Physics and Chemistry of Clouds and Aerosols
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Owen Toon
+
+Room SEEC N129
+Meeting Time TuTh 1:30PM - 2:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22415
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+ATOC 5770 - Wind Energy Meteorology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Julie Lundquist
+
+Room SEEC N124
+Meeting Time MoWe 1:15PM - 2:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ATOC 5830 - Topics in Planetary Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Mars
+Instructor Bruce Jakosky
+
+Room DUAN E126
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ATOC 5835 - Seminar in Planetary Science
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo Topic: Gravity in Our Solar System
+Notes: This is a combined section class
+Instructor Kristy Tiampo
+
+Room DUAN E126
+Meeting Time Tu 4:00PM - 4:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 19372
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ATOC 6020 - Seminar in Atmospheric and Oceanic Sciences
+Units 1
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Julie Lundquist
+
+Room SEEC S125
+Meeting Time Fr 2:00PM - 3:00PM
+Section 816-SEMBoulder 16-Wk Session/Full Sem
+Class Code 37129
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+ATOC 7500 - Special Topics in Atmospheric and Oceanic Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Topic: Physical Oceanography/Climate
+Notes: This is a combined section class
+Instructor Kristopher Karnauskas
+
+Room SEEC N126
+Meeting Time MoWe 3:15PM - 4:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+ATOC 7500 - Special Topics in Atmospheric and Oceanic Sciences
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Instrument Lab
+Notes: This is a combined section class
+Instructor Peter Pilewskie
+
+Room SEEC S126
+Meeting Time MoWe 2:45PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 29215
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

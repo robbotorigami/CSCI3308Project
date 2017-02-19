@@ -1,0 +1,512 @@
+0
+RLST 1830 - Global History of Holocaust and Genocide
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor David Shneer
+
+Room HALE 270
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34542
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+RLST 2320 - The Muslim World, 600--1250
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 57
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Brian Catlos
+
+Room HALE 230
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33077
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+RLST 2400 - Religion and Contemporary Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Elias Sacks
+
+Room HLMS 141
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+RLST 2500 - Religions in the United States
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Deborah Whitehead
+
+Room HUMN 250
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21500
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+RLST 2500 - Religions in the United States
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cameron Rowlett
+
+Room MCOL E186
+Meeting Time We 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 21501
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+RLST 2500 - Religions in the United States
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Cameron Rowlett
+
+Room HLMS 263
+Meeting Time We 3:00PM - 3:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 21915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+RLST 2600 - Judaism, Christianity, and Islam
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Sharon Adams
+
+Room EDUC 134
+Meeting Time Tu 6:00PM - 8:00PM
+Section 300E-LECCE Evening Full Session
+Class Code 35554
+Meeting Dates 01/24/2017 - 05/02/2017
+Open Status Open
+7
+RLST 2610 - Religions of India
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Loriliai Biernacki
+
+Room HUMN 1B90
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32789
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+RLST 2614 - Paganism to Christianity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room HALE 260
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+RLST 2614 - Paganism to Christianity
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Mitchell Pentzer
+
+Room VAC 1B88
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 29312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+RLST 2620 - Religions of East Asia
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 34
+Waitlist Total 0
+MiscInfo nil
+Instructor Terry Kleeman
+
+Room HUMN 1B80
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32790
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+RLST 2700 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 150
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23829
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+RLST 2700 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Baron
+
+Room ECON 2
+Meeting Time We 2:00PM - 2:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23830
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+RLST 2700 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 24
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cynthia Howard
+
+Room RAMY N1B31
+Meeting Time Fr 10:00AM - 10:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 23831
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+RLST 2700 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Baron
+
+Room ENVD 120
+Meeting Time Fr 11:00AM - 11:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 23832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+RLST 2700 - American Indian Religious Traditions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Cynthia Howard
+
+Room ENVD 120
+Meeting Time Fr 12:00PM - 12:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 32792
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+RLST 2800 - Women and Religion
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Denice Walker
+
+Room MCOL E186
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22242
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+RLST 3040 - The Quran
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 59
+Waitlist Total 0
+MiscInfo nil
+Instructor Aun Ali
+
+Room HUMN 1B80
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+RLST 3060 - Fundamentalism and Islam
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Aun Ali
+
+Room STAD 135
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+RLST 3550 - Tibetan Buddhism
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Antonia Gayley
+
+Room HLMS 141
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33169
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+RLST 3820 - Topics in Religious Studies
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo Topic: Religion and the Environment
+Instructor Stephanie Yuhas
+
+Room ENVD 122
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34649
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+RLST 4180 - Is God Dead?
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elias Sacks
+
+Room HUMN 270
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+RLST 4280 - Body and Magic in India
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loriliai Biernacki
+
+Room HUMN 370
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+RLST 4353 - Indigenous Traditions and Law: A Global Perspective
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 270
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+RLST 4750 - Daoism
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Terry Kleeman
+
+Room HUMN 370
+Meeting Time We 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33795
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+RLST 4830 - Senior Majors Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Deborah Whitehead
+
+Room HUMN 270
+Meeting Time We 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 17930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+RLST 4850 - Gender in Hagiography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Antonia Gayley
+
+Room HUMN 270
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33801
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+RLST 5180 - Is God Dead?
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Elias Sacks
+
+Room HUMN 270
+Meeting Time Th 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38314
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+RLST 5280 - Body and Magic in India
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loriliai Biernacki
+
+Room HUMN 370
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+RLST 5353 - Indigenous Traditions and Law: A Global Perspective
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Gregory Johnson
+
+Room HUMN 270
+Meeting Time Mo 3:00PM - 5:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+RLST 5750 - Daoism
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Terry Kleeman
+
+Room HUMN 370
+Meeting Time We 3:00PM - 5:30PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33798
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+RLST 5850 - Gender in Hagiography
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Antonia Gayley
+
+Room HUMN 270
+Meeting Time Tu 3:30PM - 6:00PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 33803
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

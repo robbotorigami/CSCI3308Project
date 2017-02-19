@@ -1,0 +1,112 @@
+0
+LEAD 1000 - Becoming a Leader
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Chereta Quana Madison
+
+Room EDUC 143
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+LEAD 1000 - Becoming a Leader
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lilyana Ortega
+
+Room EDUC 143
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 26215
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+LEAD 1000 - Becoming a Leader
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Medford Moorer
+
+Room EDUC 143
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 26245
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+LEAD 1000 - Becoming a Leader
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kira Pasquesi
+
+Room EDUC 132
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 37770
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+LEAD 4000 - Leadership in Context and Emerging Challenges: A Capstone
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alphonse Keasley
+
+Room HLMS 237
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 010-SEMBoulder 16-Wk Session/Full Sem
+Class Code 26230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+LEAD 4000 - Leadership in Context and Emerging Challenges: A Capstone
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kira Pasquesi
+
+Room HLMS 237
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 020-SEMBoulder 16-Wk Session/Full Sem
+Class Code 26232
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+LEAD 4000 - Leadership in Context and Emerging Challenges: A Capstone
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Sommer
+
+Room EDUC 341
+Meeting Time We 9:00AM - 11:30AM
+Section 030-SEMBoulder 16-Wk Session/Full Sem
+Class Code 26248
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

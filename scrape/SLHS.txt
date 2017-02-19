@@ -1,0 +1,582 @@
+0
+SLHS 1010 - Disabilities in Contemporary American Society
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Pollard
+
+Room ECCR 200
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17621
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+SLHS 2000 - Introduction to Communication Disorders
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Gail Ramsberger
+
+Room SLHS 230
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17622
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+SLHS 2010 - Science of Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Pollard
+
+Room SLHS 230
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17623
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+SLHS 2010 - Science of Human Communication
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christine Brennan
+
+Room SLHS 230
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17624
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+SLHS 2305 - American Sign Language 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Boyd
+
+Room KTCH 1B44
+Meeting Time MoTuWeTh 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+SLHS 2305 - American Sign Language 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Willard Moers
+
+Room CLRE 211
+Meeting Time MoTuWeTh 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17626
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+SLHS 2305 - American Sign Language 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Boyd
+
+Room KTCH 1B44
+Meeting Time MoWe 5:00PM - 6:40PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 32642
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+SLHS 2315 - American Sign Language 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Willard Moers
+
+Room MUEN D439
+Meeting Time MoTuWeTh 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17627
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+SLHS 2315 - American Sign Language 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Willard Moers
+
+Room MUEN D439
+Meeting Time MoTuWeTh 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 17628
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+SLHS 2315 - American Sign Language 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Boyd
+
+Room SLHS 393
+Meeting Time MoTuWeTh 3:00PM - 3:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 39481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+SLHS 2325 - American Sign Language 3
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Willard Moers
+
+Room FLMG 103
+Meeting Time MoTuWeTh 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+SLHS 2325 - American Sign Language 3
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Karen Boyd
+
+Room KTCH 1B64
+Meeting Time TuTh 5:00PM - 6:40PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+SLHS 3106 - Hearing Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Arehart
+
+Room SLHS 230
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22918
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+SLHS 3116 - Speech Science
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Neeraja Sadagopan
+
+Room MUEN E064
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+SLHS 4502 - Language Disorders: Child and Adult
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Pui Fong Kan
+
+Room SLHS 230
+Meeting Time MoWe 4:00PM - 5:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22047
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+SLHS 4512 - Speech Disorders: Voice, Cleft Palate, Motor Disorders, Stuttering
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Neeraja Sadagopan
+
+Room SLHS 230
+Meeting Time MoWe 11:30AM - 12:40PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+SLHS 4560 - Language Development
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Karin Boerger
+
+Room SLHS 230
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 22921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+SLHS 4704 - Audiological Evaluation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Rachael Baiduc
+
+Room SLHS 230
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22919
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+SLHS 4714 - Audiological Rehabilitation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Bonino
+
+Room SLHS 230
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24420
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+SLHS 4918 - Introduction to Clinical Practice
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Karin Boerger
+
+Room EKLC E1B50
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 22924
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+SLHS 5132 - Clinical Practice III: School Based Skills
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Sherri Tennant
+
+Room SLHS 230
+Meeting Time Th 5:15PM - 6:05PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+SLHS 5282 - Acquired Cognitive Disorders
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo nil
+Instructor Kathryn Hardin
+
+Room SLHS 230
+Meeting Time Fr 1:00PM - 3:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 22944
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+SLHS 5302 - Articulation and Phonological Disorders
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Schwartz
+
+Room SLHS 230
+Meeting Time Tu 5:15PM - 8:05PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24435
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+SLHS 5332 - Cleft Palate and Voice Disorders
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Steffen, 
+Jennifer Lewon
+Jeffrey Steffen, 
+Jennifer Lewon
+
+Room SLHS 230
+SLHS 230
+Meeting Time We 1:00PM - 2:50PM
+Th 6:15PM - 8:05PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32648
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+24
+SLHS 5362 - Fluency Disorders
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Ryan Pollard
+
+Room SLHS 230
+Meeting Time Mo 1:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32644
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+SLHS 5612 - Language Learning Disabilities
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Marson Parker
+
+Room WLAW 306
+Meeting Time We 12:00PM - 12:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 40355
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+SLHS 5898 - Practicum 1: Speech-Language-Learning Intervention
+Units 1 - 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Neeraja Sadagopan
+
+Room SLHS 230
+Meeting Time We 3:00PM - 3:50PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 40354
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+SLHS 5918 - Audiology Clinical Practicum:  Level 1
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Kristin Sommerfeldt
+
+Room SLHS 393
+Meeting Time We 9:00AM - 9:50AM
+Section 801-PRABoulder 16-Wk Session/Full Sem
+Class Code 23338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+SLHS 5918 - Audiology Clinical Practicum:  Level 1
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Kristin Sommerfeldt
+
+Room SLHS 393
+Meeting Time We 1:00PM - 1:50PM
+Section 802-PRABoulder 16-Wk Session/Full Sem
+Class Code 23340
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+SLHS 5918 - Audiology Clinical Practicum:  Level 1
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total nil
+MiscInfo nil
+Instructor Kristin Sommerfeldt
+
+Room SLHS 393
+Meeting Time We 2:00PM - 2:50PM
+Section 803-PRABoulder 16-Wk Session/Full Sem
+Class Code 23339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+SLHS 6006 - Advanced Hearing Science
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kathryn Arehart
+
+Room SLHS 393
+Meeting Time TuTh 8:15AM - 9:30AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+SLHS 6554 - Auditory Processes: Child Assessment
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Angela Bonino
+
+Room SLHS 393
+Meeting Time MoWe 10:30AM - 11:45AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+SLHS 6564 - Auditory Processes: Neurodiagnostics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Anu Sharma
+
+Room SLHS 393
+Meeting Time TuTh 9:45AM - 11:00AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+SLHS 7000 - Research Designs in Human Communication Sciences and Disorders
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Pui Fong Kan
+
+Room SLHS 393
+Meeting Time Tu 12:00PM - 2:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 23476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+SLHS 7540 - Auditory Processes: Physiology, Assessment, and Management of the Vestibular System
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Darcy Strong
+
+Room SEE DEPT
+Meeting Time Th 4:00PM - 6:50PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 32646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+SLHS 7714 - Advanced Topics in Amplification
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristin Sommerfeldt
+
+Room SLHS 393
+Meeting Time Th 11:15AM - 2:05PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32645
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

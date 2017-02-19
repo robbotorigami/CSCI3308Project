@@ -1,0 +1,112 @@
+0
+MBAC 6012 - Managerial Economics 2
+Units 1.5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Wobbekind
+
+Room KOBL S127
+Meeting Time TuTh 9:30AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24645
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+MBAC 6012 - Managerial Economics 2
+Units 1.5
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Wobbekind
+
+Room KOBL S127
+Meeting Time TuTh 11:00AM - 12:20PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+MBAC 6050 - Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rana Olapurath
+
+Room KOBL S125
+Meeting Time We 9:30AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24703
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+MBAC 6050 - Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Rana Olapurath
+
+Room KOBL S125
+Meeting Time We 2:00PM - 4:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24704
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+MBAC 6080 - Decision Modeling and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Vossen
+
+Room KOBL S125
+Meeting Time TuTh 9:30AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24705
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+MBAC 6080 - Decision Modeling and Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Vossen
+
+Room KOBL S125
+Meeting Time TuTh 11:00AM - 12:20PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24706
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+MBAC 6099 - Professional Development II
+Units 1.5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Helmers
+
+Room KOBL S125
+Meeting Time We 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 24902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

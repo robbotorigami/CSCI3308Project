@@ -1,0 +1,889 @@
+0
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Catherine Milburn
+
+Room KOBL 220
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34802
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Gwozdz
+
+Room KOBL 220
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 34804
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Alston
+
+Room KOBL 220
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 34805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lorna Christoff
+
+Room KOBL 300
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34806
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Reed
+
+Room KOBL 300
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 34807
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Lorna Christoff
+
+Room KOBL 330
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 34808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Reed
+
+Room KOBL 300
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 34809
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Richard Reed
+
+Room KOBL 300
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 37151
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ronald Gwozdz
+
+Room KOBL 300
+Meeting Time Th 5:30PM - 8:30PM
+Section 300E-LECCE Evening Full Session
+Class Code 35525
+Meeting Dates 01/26/2017 - 05/04/2017
+Open Status Closed
+9
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Kenneth Schuetz
+
+Room WVN 181A
+Meeting Time MoWe 11:30AM - 12:45PM
+Section 641R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34810
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Chapple
+
+Room WVN 181A
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 642R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34811
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+BCOR 1015 - The World of Business
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total 0
+MiscInfo nil
+Instructor Nancy Chapple
+
+Room WVN 181A
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 643R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34812
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 31
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Fisher
+
+Room KOBL 210
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Fisher
+
+Room KOBL 210
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Schaub
+
+Room KOBL 210
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24990
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Kevin Schaub
+
+Room KOBL 210
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 24991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Adams
+
+Room CHEY 240
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 610R-LECBoulder 16-Wk Session/Full Sem
+Class Code 37127
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Fisher
+
+Room CHEY 240
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 611R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Fisher
+
+Room CHEY 240
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 612R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Bohr
+
+Room CHEY 240
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 613R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25029
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christina Fisher
+
+Room CHEY 240
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 614R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25030
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Adams
+
+Room CHEY 240
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 615R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25031
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Bohr
+
+Room KOBL 330
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 24994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+BCOR 1025 - Data Analysis in Business
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 28
+Waitlist Total 0
+MiscInfo nil
+Instructor Adam Bohr
+
+Room KOBL 340
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 25000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carbone
+
+Room KOBL 230
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 34839
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carbone
+
+Room DUAN G131
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 25012
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carbone
+
+Room KOBL 308
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 006-LECBoulder 16-Wk Session/Full Sem
+Class Code 25013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Bone
+
+Room MUEN E130
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 007-LECBoulder 16-Wk Session/Full Sem
+Class Code 34840
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Bone
+
+Room DUAN G2B60
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 008-LECBoulder 16-Wk Session/Full Sem
+Class Code 25087
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Jennifer Bone
+
+Room KTCH 1B60
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 009-LECBoulder 16-Wk Session/Full Sem
+Class Code 25104
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Kimberly Campbell
+
+Room KOBL 308
+Meeting Time Mo 5:00PM - 7:30PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 34845
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Bonnie Auslander
+
+Room KOBL 308
+Meeting Time We 5:00PM - 7:30PM
+Section 013-LECBoulder 16-Wk Session/Full Sem
+Class Code 34846
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Salma Shukri
+
+Room MUEN D439
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 014-LECBoulder 16-Wk Session/Full Sem
+Class Code 34847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Salma Shukri
+
+Room MUEN D439
+Meeting Time MoWe 4:30PM - 5:45PM
+Section 015-LECBoulder 16-Wk Session/Full Sem
+Class Code 34848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Carbone
+
+Room FLMG 102
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 016-LECBoulder 16-Wk Session/Full Sem
+Class Code 39318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Cory Cunningham
+
+Room KOBL S135
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 017-LECBoulder 16-Wk Session/Full Sem
+Class Code 39378
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cory Cunningham
+
+Room KOBL 302
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 018-LECBoulder 16-Wk Session/Full Sem
+Class Code 39379
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristin Swisher
+
+Room CHEY 140
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 610R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34841
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+38
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Ludwig
+
+Room CHEY 140
+Meeting Time MoWe 2:00PM - 3:15PM
+Section 611R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34842
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristin Swisher
+
+Room CHEY 140
+Meeting Time TuTh 9:00AM - 10:15AM
+Section 612R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Ludwig
+
+Room CHEY 140
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 613R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+41
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Kristin Swisher
+
+Room CHEY 140
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 614R-LECBoulder 16-Wk Session/Full Sem
+Class Code 34843
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kimberly Campbell
+
+Room CHEY 140
+Meeting Time MoWe 3:30PM - 4:45PM
+Section 615R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25034
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Ludwig
+
+Room CHEY 140
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 616R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+BCOR 1030 - Communication Strategy
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kimberly Campbell
+
+Room CHEY 240
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 617R-LECBoulder 16-Wk Session/Full Sem
+Class Code 25036
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+BCOR 2001 - Principles of Marketing and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Kennedy, 
+Kevin Schaub
+
+Room KOBL 210
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+BCOR 2001 - Principles of Marketing and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Kennedy, 
+Kevin Schaub
+
+Room KOBL 210
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+BCOR 2001 - Principles of Marketing and Management
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Kennedy, 
+Kevin Schaub
+
+Room KOBL 210
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+BCOR 2002 - Principles of Accounting and Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell, 
+Joshua Neil
+
+Room KOBL 340
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+BCOR 2002 - Principles of Accounting and Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell, 
+Joshua Neil
+
+Room KOBL 340
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25038
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+BCOR 2002 - Principles of Accounting and Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jeffrey Merrell, 
+Joshua Neil
+
+Room KOBL 340
+Meeting Time MoWe 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+BCOR 2003 - Business Law, Ethics and Social Responsibility
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Stapp, 
+Michael Maciszewski
+
+Room KOBL 330
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 25040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+BCOR 2003 - Business Law, Ethics and Social Responsibility
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Stapp, 
+Michael Maciszewski
+
+Room KOBL 330
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 25041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+BCOR 2003 - Business Law, Ethics and Social Responsibility
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Stapp, 
+Michael Maciszewski
+
+Room KOBL 330
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 25042
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+BCOR 3010 - Business Applications of Social Responsibility
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Birdie Reznicek
+
+Room KOBL 302
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24669
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

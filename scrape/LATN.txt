@@ -1,0 +1,176 @@
+0
+LATN 1014 - Beginning Latin 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Wesley Wood
+
+Room MCOL E186
+Meeting Time MoTuThFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23112
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+LATN 1014 - Beginning Latin 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Florencia Foxley
+
+Room CLRE 301
+Meeting Time MoTuThFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 23113
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+LATN 1024 - Beginning Latin 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Edwin Lansford
+
+Room MCOL E186
+Meeting Time MoTuThFr 11:00AM - 11:50AM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24431
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+LATN 2114 - Intermediate Latin 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Elizabeth Deacon
+
+Room CLRE 301
+Meeting Time MoTuThFr 10:00AM - 10:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+LATN 2124 - Intermediate Latin 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Samuel Kindick
+
+Room HLMS 104
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23116
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+LATN 3024 - Introduction to Latin Poetry
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Topic: Ovid
+Instructor Reina Callier
+
+Room HUMN 370
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23117
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+LATN 4084 - Survey of Roman Literature Part 2:  Imperial
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Carole Newlands
+
+Room HUMN 370
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29336
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+LATN 4824 - Latin Teaching Methods: Open Topics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Edwin Lansford
+
+Room LIBR M498
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29338
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+LATN 5084 - Survey of Roman Literature Part 2:  Imperial
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Carole Newlands
+
+Room HUMN 370
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29337
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+LATN 5824 - Latin Teaching Methods: Open Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Edwin Lansford
+
+Room LIBR M498
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 29339
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+LATN 6844 - Graduate Independent Study
+Units 1 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room TBA
+Meeting Time TBA
+Section 901-INDBoulder 16-Wk Session/Full Sem
+Class Code 23302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

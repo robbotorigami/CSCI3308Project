@@ -1,0 +1,49 @@
+0
+FRSI 1011 - Introduction to Persian Civilization
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 33
+Waitlist Total 0
+MiscInfo nil
+Instructor Reza Farokhfal
+
+Room HUMN 1B90
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 20410
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+FRSI 1020 - Beginning Farsi 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Reza Farokhfal, 
+Seyed Biashad
+
+Room EDUC 136
+Meeting Time MoTuWeThFr 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+FRSI 2120 - Intermediate Farsi 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Reza Farokhfal
+
+Room EDUC 136
+Meeting Time MoTuWeTh 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32689
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

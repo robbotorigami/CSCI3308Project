@@ -1,0 +1,3130 @@
+0
+PHYS 1020 - Physics of Everyday Life 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor Eleanor Hodby
+
+Room DUAN G125
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+PHYS 1020 - Physics of Everyday Life 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Adrienne Blevins
+
+Room DUAN G2B70
+Meeting Time Tu 4:00PM - 5:50PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 18167
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+PHYS 1020 - Physics of Everyday Life 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Adrienne Blevins
+
+Room DUAN G2B70
+Meeting Time We 2:00PM - 3:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 18168
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+PHYS 1110 - General Physics 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Bolton
+
+Room DUAN G1B30
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17261
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+PHYS 1110 - General Physics 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Bolton
+
+Room DUAN G1B30
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 17262
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+PHYS 1110 - General Physics 1
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Bolton
+
+Room DUAN G1B30
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 22085
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Doss
+
+Room DUAN G2B63
+Meeting Time Th 8:00AM - 8:50AM
+Section 401-RECBoulder 16-Wk Session/Full Sem
+Class Code 17847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbas Hassani
+
+Room DUAN G2B64
+Meeting Time Th 8:00AM - 8:50AM
+Section 402-RECBoulder 16-Wk Session/Full Sem
+Class Code 17848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Smith
+
+Room DUAN G2B60
+Meeting Time Th 8:00AM - 8:50AM
+Section 403-RECBoulder 16-Wk Session/Full Sem
+Class Code 17849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Doss
+
+Room DUAN G2B63
+Meeting Time Th 9:00AM - 9:50AM
+Section 404-RECBoulder 16-Wk Session/Full Sem
+Class Code 17850
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbas Hassani
+
+Room DUAN G2B64
+Meeting Time Th 9:00AM - 9:50AM
+Section 405-RECBoulder 16-Wk Session/Full Sem
+Class Code 17851
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Grennell
+
+Room DUAN G2B60
+Meeting Time Th 9:00AM - 9:50AM
+Section 406-RECBoulder 16-Wk Session/Full Sem
+Class Code 17852
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hengdi Zhao
+
+Room DUAN G2B63
+Meeting Time Th 10:00AM - 10:50AM
+Section 407-RECBoulder 16-Wk Session/Full Sem
+Class Code 17853
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Doss
+
+Room DUAN G2B64
+Meeting Time Th 10:00AM - 10:50AM
+Section 408-RECBoulder 16-Wk Session/Full Sem
+Class Code 17854
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Izabella Berman
+
+Room DUAN G2B60
+Meeting Time Th 10:00AM - 10:50AM
+Section 409-RECBoulder 16-Wk Session/Full Sem
+Class Code 17855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hengdi Zhao
+
+Room DUAN G2B63
+Meeting Time Th 11:00AM - 11:50AM
+Section 410-RECBoulder 16-Wk Session/Full Sem
+Class Code 17856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julian Gifford
+
+Room DUAN G2B64
+Meeting Time Th 11:00AM - 11:50AM
+Section 411-RECBoulder 16-Wk Session/Full Sem
+Class Code 17857
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbas Hassani
+
+Room DUAN G2B60
+Meeting Time Th 11:00AM - 11:50AM
+Section 412-RECBoulder 16-Wk Session/Full Sem
+Class Code 17858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Carl Hoffman
+
+Room DUAN G2B63
+Meeting Time Th 12:00PM - 12:50PM
+Section 413-RECBoulder 16-Wk Session/Full Sem
+Class Code 17859
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wei Mao
+
+Room DUAN G2B64
+Meeting Time Th 12:00PM - 12:50PM
+Section 414-RECBoulder 16-Wk Session/Full Sem
+Class Code 17860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Izabella Berman
+
+Room DUAN G2B60
+Meeting Time Th 12:00PM - 12:50PM
+Section 415-RECBoulder 16-Wk Session/Full Sem
+Class Code 17861
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Smith
+
+Room DUAN G2B63
+Meeting Time Th 1:00PM - 1:50PM
+Section 416-RECBoulder 16-Wk Session/Full Sem
+Class Code 17862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Grennell
+
+Room DUAN G2B64
+Meeting Time Th 1:00PM - 1:50PM
+Section 417-RECBoulder 16-Wk Session/Full Sem
+Class Code 17863
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Izabella Berman
+
+Room DUAN G2B60
+Meeting Time Th 1:00PM - 1:50PM
+Section 418-RECBoulder 16-Wk Session/Full Sem
+Class Code 17864
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Dincao
+
+Room DUAN G2B63
+Meeting Time Th 2:00PM - 2:50PM
+Section 419-RECBoulder 16-Wk Session/Full Sem
+Class Code 17865
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Smith
+
+Room DUAN G2B64
+Meeting Time Th 2:00PM - 2:50PM
+Section 420-RECBoulder 16-Wk Session/Full Sem
+Class Code 17866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Grennell
+
+Room DUAN G2B60
+Meeting Time Th 2:00PM - 2:50PM
+Section 421-RECBoulder 16-Wk Session/Full Sem
+Class Code 17867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+27
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Dincao
+
+Room DUAN G2B63
+Meeting Time Th 3:00PM - 3:50PM
+Section 422-RECBoulder 16-Wk Session/Full Sem
+Class Code 17868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Carl Hoffman
+
+Room DUAN G2B64
+Meeting Time Th 3:00PM - 3:50PM
+Section 423-RECBoulder 16-Wk Session/Full Sem
+Class Code 17869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+29
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Grennell
+
+Room DUAN G2B60
+Meeting Time Th 3:00PM - 3:50PM
+Section 424-RECBoulder 16-Wk Session/Full Sem
+Class Code 21230
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Julian Gifford
+
+Room DUAN G2B63
+Meeting Time Th 4:00PM - 4:50PM
+Section 425-RECBoulder 16-Wk Session/Full Sem
+Class Code 21956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Doss
+
+Room DUAN G2B64
+Meeting Time Th 4:00PM - 4:50PM
+Section 426-RECBoulder 16-Wk Session/Full Sem
+Class Code 22268
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wei Mao
+
+Room DUAN G2B60
+Meeting Time Th 4:00PM - 4:50PM
+Section 427-RECBoulder 16-Wk Session/Full Sem
+Class Code 22269
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Izabella Berman
+
+Room DUAN G2B63
+Meeting Time We 8:00AM - 8:50AM
+Section 428-RECBoulder 16-Wk Session/Full Sem
+Class Code 22270
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Pocs
+
+Room DUAN G2B63
+Meeting Time We 10:00AM - 10:50AM
+Section 429-RECBoulder 16-Wk Session/Full Sem
+Class Code 22271
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+35
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Abbas Hassani
+
+Room DUAN G2B63
+Meeting Time We 12:00PM - 12:50PM
+Section 430-RECBoulder 16-Wk Session/Full Sem
+Class Code 22272
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Christopher Pocs
+
+Room DUAN G2B63
+Meeting Time We 1:00PM - 1:50PM
+Section 431-RECBoulder 16-Wk Session/Full Sem
+Class Code 22368
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Joseph Smith
+
+Room DUAN G2B63
+Meeting Time We 2:00PM - 2:50PM
+Section 432-RECBoulder 16-Wk Session/Full Sem
+Class Code 23107
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Siegfried
+
+Room DUAN G2B63
+Meeting Time We 3:00PM - 3:50PM
+Section 433-RECBoulder 16-Wk Session/Full Sem
+Class Code 23297
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+PHYS 1110 - General Physics 1
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Peter Siegfried
+
+Room DUAN G2B63
+Meeting Time We 4:00PM - 4:50PM
+Section 434-RECBoulder 16-Wk Session/Full Sem
+Class Code 23298
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+40
+PHYS 1120 - General Physics 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Dubson
+
+Room DUAN G1B30
+Meeting Time MoWeFr 8:00AM - 8:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17263
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+PHYS 1120 - General Physics 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Dubson
+
+Room DUAN G1B30
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 17328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+PHYS 1120 - General Physics 2
+Units 4
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Dubson
+
+Room DUAN G1B30
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 300-LECBoulder 16-Wk Session/Full Sem
+Class Code 23091
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Phillip Maple
+
+Room DUAN G2B63
+Meeting Time Tu 8:00AM - 8:50AM
+Section 401-RECBoulder 16-Wk Session/Full Sem
+Class Code 17870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Fiorenza
+
+Room DUAN G2B64
+Meeting Time Tu 8:00AM - 8:50AM
+Section 402-RECBoulder 16-Wk Session/Full Sem
+Class Code 17871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Junling Long
+
+Room DUAN G2B60
+Meeting Time Tu 8:00AM - 8:50AM
+Section 403-RECBoulder 16-Wk Session/Full Sem
+Class Code 17872
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+46
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ming Yan
+
+Room DUAN G2B63
+Meeting Time Tu 9:00AM - 9:50AM
+Section 404-RECBoulder 16-Wk Session/Full Sem
+Class Code 17873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+47
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Fiorenza
+
+Room DUAN G2B64
+Meeting Time Tu 9:00AM - 9:50AM
+Section 405-RECBoulder 16-Wk Session/Full Sem
+Class Code 17874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Junling Long
+
+Room DUAN G2B60
+Meeting Time Tu 9:00AM - 9:50AM
+Section 406-RECBoulder 16-Wk Session/Full Sem
+Class Code 17875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Pearlman
+
+Room DUAN G2B63
+Meeting Time Tu 10:00AM - 10:50AM
+Section 407-RECBoulder 16-Wk Session/Full Sem
+Class Code 17876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Blair Seidlitz
+
+Room DUAN G2B64
+Meeting Time Tu 10:00AM - 10:50AM
+Section 408-RECBoulder 16-Wk Session/Full Sem
+Class Code 17877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Steckhahn
+
+Room DUAN G2B60
+Meeting Time Tu 10:00AM - 10:50AM
+Section 409-RECBoulder 16-Wk Session/Full Sem
+Class Code 17878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Pearlman
+
+Room DUAN G2B63
+Meeting Time Tu 11:00AM - 11:50AM
+Section 410-RECBoulder 16-Wk Session/Full Sem
+Class Code 17879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Blair Seidlitz
+
+Room DUAN G2B64
+Meeting Time Tu 11:00AM - 11:50AM
+Section 411-RECBoulder 16-Wk Session/Full Sem
+Class Code 17880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Steckhahn
+
+Room DUAN G2B60
+Meeting Time Tu 11:00AM - 11:50AM
+Section 412-RECBoulder 16-Wk Session/Full Sem
+Class Code 17881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yingchao Zhang
+
+Room DUAN G2B63
+Meeting Time Tu 12:00PM - 12:50PM
+Section 413-RECBoulder 16-Wk Session/Full Sem
+Class Code 17882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+56
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Pearlman
+
+Room DUAN G2B64
+Meeting Time Tu 12:00PM - 12:50PM
+Section 414-RECBoulder 16-Wk Session/Full Sem
+Class Code 17883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Pellatz
+
+Room DUAN G2B60
+Meeting Time Tu 12:00PM - 12:50PM
+Section 415-RECBoulder 16-Wk Session/Full Sem
+Class Code 17884
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Yingchao Zhang
+
+Room DUAN G2B63
+Meeting Time Tu 1:00PM - 1:50PM
+Section 416-RECBoulder 16-Wk Session/Full Sem
+Class Code 17885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Fiorenza
+
+Room DUAN G2B64
+Meeting Time Tu 1:00PM - 1:50PM
+Section 417-RECBoulder 16-Wk Session/Full Sem
+Class Code 21946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+60
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Steckhahn
+
+Room DUAN G2B60
+Meeting Time Tu 1:00PM - 1:50PM
+Section 418-RECBoulder 16-Wk Session/Full Sem
+Class Code 21947
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Fiorenza
+
+Room DUAN G2B63
+Meeting Time Tu 2:00PM - 2:50PM
+Section 419-RECBoulder 16-Wk Session/Full Sem
+Class Code 22273
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Blair Seidlitz
+
+Room DUAN G2B64
+Meeting Time Tu 2:00PM - 2:50PM
+Section 420-RECBoulder 16-Wk Session/Full Sem
+Class Code 22274
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Yingchao Zhang
+
+Room DUAN G2B60
+Meeting Time Tu 2:00PM - 2:50PM
+Section 421-RECBoulder 16-Wk Session/Full Sem
+Class Code 22334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nicholas Pellatz
+
+Room DUAN G2B63
+Meeting Time Tu 3:00PM - 3:50PM
+Section 422-RECBoulder 16-Wk Session/Full Sem
+Class Code 22335
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Blair Seidlitz
+
+Room DUAN G2B64
+Meeting Time Tu 3:00PM - 3:50PM
+Section 423-RECBoulder 16-Wk Session/Full Sem
+Class Code 22798
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Steckhahn
+
+Room DUAN G2B60
+Meeting Time Tu 3:00PM - 3:50PM
+Section 424-RECBoulder 16-Wk Session/Full Sem
+Class Code 22799
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Tennesse Joyce
+
+Room DUAN G2B63
+Meeting Time Tu 4:00PM - 4:50PM
+Section 425-RECBoulder 16-Wk Session/Full Sem
+Class Code 23316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 16
+Waitlist Total 0
+MiscInfo nil
+Instructor Wesley Brand
+
+Room DUAN G2B64
+Meeting Time Tu 4:00PM - 4:50PM
+Section 426-RECBoulder 16-Wk Session/Full Sem
+Class Code 23317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wesley Brand
+
+Room DUAN G2B64
+Meeting Time We 9:00AM - 9:50AM
+Section 428-RECBoulder 16-Wk Session/Full Sem
+Class Code 23319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Tennesse Joyce
+
+Room DUAN G2B64
+Meeting Time We 11:00AM - 11:50AM
+Section 429-RECBoulder 16-Wk Session/Full Sem
+Class Code 23320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+71
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Wesley Brand
+
+Room DUAN G2B64
+Meeting Time We 12:00PM - 12:50PM
+Section 430-RECBoulder 16-Wk Session/Full Sem
+Class Code 23321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Phillip Maple
+
+Room DUAN G2B64
+Meeting Time We 1:00PM - 1:50PM
+Section 431-RECBoulder 16-Wk Session/Full Sem
+Class Code 23322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ian Leahy
+
+Room DUAN G2B64
+Meeting Time We 2:00PM - 2:50PM
+Section 432-RECBoulder 16-Wk Session/Full Sem
+Class Code 23323
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bradley Pearlman
+
+Room DUAN G2B64
+Meeting Time We 3:00PM - 3:50PM
+Section 433-RECBoulder 16-Wk Session/Full Sem
+Class Code 34945
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+75
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Phillip Maple
+
+Room DUAN G2B64
+Meeting Time We 4:00PM - 4:50PM
+Section 434-RECBoulder 16-Wk Session/Full Sem
+Class Code 34946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+76
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Wesley Brand
+
+Room DUAN G2B64
+Meeting Time We 10:00AM - 10:50AM
+Section 435-RECBoulder 16-Wk Session/Full Sem
+Class Code 39818
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+PHYS 1120 - General Physics 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Ming Yan
+
+Room DUAN G2B64
+Meeting Time Tu 5:00PM - 5:50PM
+Section 436-RECBoulder 16-Wk Session/Full Sem
+Class Code 40356
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Lewandowski
+
+Room DUAN G1B30
+Meeting Time Mo 4:00PM - 4:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17646
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Heather Lewandowski
+
+Room DUAN G1B30
+Meeting Time Tu 4:00PM - 4:50PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 17647
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Morrill
+
+Room DUAN G2B75
+Meeting Time Tu 8:00AM - 9:50AM
+Section 301-LABBoulder 16-Wk Session/Full Sem
+Class Code 18180
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+81
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yifei Ni
+
+Room DUAN G2B77
+Meeting Time Tu 8:00AM - 9:50AM
+Section 302-LABBoulder 16-Wk Session/Full Sem
+Class Code 18181
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+82
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ting-Wei Hsu
+
+Room DUAN G2B75
+Meeting Time Tu 10:00AM - 11:50AM
+Section 303-LABBoulder 16-Wk Session/Full Sem
+Class Code 18182
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+83
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Manoj Priyashanka Kalubovilage
+
+Room DUAN G2B77
+Meeting Time Tu 10:00AM - 11:50AM
+Section 304-LABBoulder 16-Wk Session/Full Sem
+Class Code 18183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+84
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Saad Ansari
+
+Room DUAN G2B75
+Meeting Time Tu 12:00PM - 1:50PM
+Section 305-LABBoulder 16-Wk Session/Full Sem
+Class Code 18184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+85
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Gray
+
+Room DUAN G2B77
+Meeting Time Tu 12:00PM - 1:50PM
+Section 306-LABBoulder 16-Wk Session/Full Sem
+Class Code 18185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+86
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Koblesky
+
+Room DUAN G2B75
+Meeting Time Tu 2:00PM - 3:50PM
+Section 307-LABBoulder 16-Wk Session/Full Sem
+Class Code 18186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+87
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Hackett
+
+Room DUAN G2B77
+Meeting Time Tu 2:00PM - 3:50PM
+Section 308-LABBoulder 16-Wk Session/Full Sem
+Class Code 18187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+88
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ting-Wei Hsu
+
+Room DUAN G2B75
+Meeting Time Tu 4:00PM - 5:50PM
+Section 309-LABBoulder 16-Wk Session/Full Sem
+Class Code 18188
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+89
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xu Zheng
+
+Room DUAN G2B77
+Meeting Time Tu 4:00PM - 5:50PM
+Section 310-LABBoulder 16-Wk Session/Full Sem
+Class Code 18189
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+90
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Drew Morrill
+
+Room DUAN G2B75
+Meeting Time We 8:00AM - 9:50AM
+Section 311-LABBoulder 16-Wk Session/Full Sem
+Class Code 18190
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+91
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yifei Ni
+
+Room DUAN G2B77
+Meeting Time We 8:00AM - 9:50AM
+Section 312-LABBoulder 16-Wk Session/Full Sem
+Class Code 18191
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+92
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Gary Simmons
+
+Room DUAN G2B75
+Meeting Time We 10:00AM - 11:50AM
+Section 313-LABBoulder 16-Wk Session/Full Sem
+Class Code 18192
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chen Tang
+
+Room DUAN G2B77
+Meeting Time We 10:00AM - 11:50AM
+Section 314-LABBoulder 16-Wk Session/Full Sem
+Class Code 18193
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+94
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Saad Ansari
+
+Room DUAN G2B75
+Meeting Time We 12:00PM - 1:50PM
+Section 315-LABBoulder 16-Wk Session/Full Sem
+Class Code 18194
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Gray
+
+Room DUAN G2B77
+Meeting Time We 12:00PM - 1:50PM
+Section 316-LABBoulder 16-Wk Session/Full Sem
+Class Code 18195
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+96
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Hackett
+
+Room DUAN G2B75
+Meeting Time We 2:00PM - 3:50PM
+Section 317-LABBoulder 16-Wk Session/Full Sem
+Class Code 18196
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+97
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ivan Kurz
+
+Room DUAN G2B77
+Meeting Time We 2:00PM - 3:50PM
+Section 318-LABBoulder 16-Wk Session/Full Sem
+Class Code 18197
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+98
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Valencia
+
+Room DUAN G2B75
+Meeting Time We 4:00PM - 5:50PM
+Section 319-LABBoulder 16-Wk Session/Full Sem
+Class Code 21948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+99
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bin Wang
+
+Room DUAN G2B77
+Meeting Time We 4:00PM - 5:50PM
+Section 320-LABBoulder 16-Wk Session/Full Sem
+Class Code 22372
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+100
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Chen Tang
+
+Room DUAN G2B75
+Meeting Time Th 8:00AM - 9:50AM
+Section 321-LABBoulder 16-Wk Session/Full Sem
+Class Code 22471
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+101
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhang
+
+Room DUAN G2B77
+Meeting Time Th 8:00AM - 9:50AM
+Section 322-LABBoulder 16-Wk Session/Full Sem
+Class Code 22985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+102
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Valencia
+
+Room DUAN G2B75
+Meeting Time Th 10:00AM - 11:50AM
+Section 323-LABBoulder 16-Wk Session/Full Sem
+Class Code 22986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+103
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Bin Wang
+
+Room DUAN G2B77
+Meeting Time Th 10:00AM - 11:50AM
+Section 324-LABBoulder 16-Wk Session/Full Sem
+Class Code 22997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+104
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hongda Wang
+
+Room DUAN G2B75
+Meeting Time Th 12:00PM - 1:50PM
+Section 325-LABBoulder 16-Wk Session/Full Sem
+Class Code 23328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+105
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kai Wong
+
+Room DUAN G2B77
+Meeting Time Th 12:00PM - 1:50PM
+Section 326-LABBoulder 16-Wk Session/Full Sem
+Class Code 23329
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+106
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Hongda Wang
+
+Room DUAN G2B75
+Meeting Time Th 2:00PM - 3:50PM
+Section 327-LABBoulder 16-Wk Session/Full Sem
+Class Code 23330
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+107
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Kai Wong
+
+Room DUAN G2B77
+Meeting Time Th 2:00PM - 3:50PM
+Section 328-LABBoulder 16-Wk Session/Full Sem
+Class Code 23331
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+108
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cameron Straatsma
+
+Room DUAN G2B75
+Meeting Time Th 4:00PM - 5:50PM
+Section 329-LABBoulder 16-Wk Session/Full Sem
+Class Code 23332
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+109
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey McKenna
+
+Room DUAN G2B77
+Meeting Time Th 4:00PM - 5:50PM
+Section 330-LABBoulder 16-Wk Session/Full Sem
+Class Code 23333
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+110
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Yu Zhang
+
+Room DUAN G2B75
+Meeting Time Fr 8:00AM - 9:50AM
+Section 331-LABBoulder 16-Wk Session/Full Sem
+Class Code 23334
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+111
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Xu Zheng
+
+Room DUAN G2B77
+Meeting Time Fr 8:00AM - 9:50AM
+Section 332-LABBoulder 16-Wk Session/Full Sem
+Class Code 23993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Cameron Straatsma
+
+Room DUAN G2B75
+Meeting Time Fr 10:00AM - 11:50AM
+Section 333-LABBoulder 16-Wk Session/Full Sem
+Class Code 23994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+113
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Casey McKenna
+
+Room DUAN G2B77
+Meeting Time Fr 10:00AM - 11:50AM
+Section 334-LABBoulder 16-Wk Session/Full Sem
+Class Code 23995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+114
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adrian Merritt
+
+Room DUAN G2B75
+Meeting Time Fr 12:00PM - 1:50PM
+Section 335-LABBoulder 16-Wk Session/Full Sem
+Class Code 23996
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+115
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Spott
+
+Room DUAN G2B77
+Meeting Time Fr 12:00PM - 1:50PM
+Section 336-LABBoulder 16-Wk Session/Full Sem
+Class Code 23997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+116
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Adrian Merritt
+
+Room DUAN G2B75
+Meeting Time Fr 2:00PM - 3:50PM
+Section 337-LABBoulder 16-Wk Session/Full Sem
+Class Code 23998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+117
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Spott
+
+Room DUAN G2B77
+Meeting Time Fr 2:00PM - 3:50PM
+Section 338-LABBoulder 16-Wk Session/Full Sem
+Class Code 23999
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+118
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Theodore Koblesky
+
+Room DUAN G2B75
+Meeting Time Mo 2:00PM - 3:50PM
+Section 339-LABBoulder 16-Wk Session/Full Sem
+Class Code 40287
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+119
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ivan Kurz
+
+Room DUAN G2B77
+Meeting Time Mo 2:00PM - 3:50PM
+Section 340-LABBoulder 16-Wk Session/Full Sem
+Class Code 40286
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+120
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Gary Simmons
+
+Room DUAN G2B75
+Meeting Time Mo 12:00PM - 1:50PM
+Section 341-LABBoulder 16-Wk Session/Full Sem
+Class Code 40629
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+121
+PHYS 1140 - Experimental Physics 1
+Units 1
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Manoj Priyashanka Kalubovilage
+
+Room DUAN G2B77
+Meeting Time Mo 12:00PM - 1:50PM
+Section 342-LABBoulder 16-Wk Session/Full Sem
+Class Code 40630
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+122
+PHYS 1230 - Light and Color for Nonscientists
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 17
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Chasteen
+
+Room DUAN G1B30
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17416
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+PHYS 1240 - Sound and Music
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 27
+Waitlist Total 0
+MiscInfo nil
+Instructor Murray Holland
+
+Room DUAN G1B20
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17417
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+PHYS 1580 - Energy and Interactions
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Enrique Suarez
+
+Room EDUC 346
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23217
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+125
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Gang Cao
+
+Room DUAN G1B30
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17421
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Ariniello
+
+Room DUAN G2B83
+Meeting Time Tu 8:00AM - 9:50AM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 17886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Koller
+
+Room DUAN G2B83
+Meeting Time Tu 10:00AM - 11:50AM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 17887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Lewis
+
+Room DUAN G2B83
+Meeting Time Tu 12:00PM - 1:50PM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 17888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+129
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Koller
+
+Room DUAN G2B83
+Meeting Time Tu 2:00PM - 3:50PM
+Section 104-LABBoulder 16-Wk Session/Full Sem
+Class Code 17889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Ariniello
+
+Room DUAN G2B83
+Meeting Time We 8:00AM - 9:50AM
+Section 105-LABBoulder 16-Wk Session/Full Sem
+Class Code 17890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor William Lewis
+
+Room DUAN G2B83
+Meeting Time We 10:00AM - 11:50AM
+Section 106-LABBoulder 16-Wk Session/Full Sem
+Class Code 17891
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+132
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Weingarten
+
+Room DUAN G2B83
+Meeting Time We 12:00PM - 1:50PM
+Section 107-LABBoulder 16-Wk Session/Full Sem
+Class Code 17892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+133
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Daniel Weingarten
+
+Room DUAN G2B83
+Meeting Time Th 10:00AM - 11:50AM
+Section 108-LABBoulder 16-Wk Session/Full Sem
+Class Code 17893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+134
+PHYS 2010 - General Physics 1
+Units 5
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Ariniello
+
+Room DUAN G2B83
+Meeting Time Th 12:00PM - 1:50PM
+Section 109-LABBoulder 16-Wk Session/Full Sem
+Class Code 17894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+135
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Beale
+
+Room DUAN G1B30
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 17424
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanna Perido
+
+Room DUAN G2B88
+Meeting Time Tu 8:00AM - 9:50AM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 17895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Mehlhaff
+
+Room DUAN G2B88
+Meeting Time Tu 10:00AM - 11:50AM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 17896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+138
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Dushyant Narayan
+
+Room DUAN G2B88
+Meeting Time Tu 12:00PM - 1:50PM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 18198
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+139
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Joanna Perido
+
+Room DUAN G2B88
+Meeting Time Tu 2:00PM - 3:50PM
+Section 104-LABBoulder 16-Wk Session/Full Sem
+Class Code 18199
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+140
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Nara Noeur
+
+Room DUAN G2B88
+Meeting Time Tu 4:00PM - 5:50PM
+Section 105-LABBoulder 16-Wk Session/Full Sem
+Class Code 18200
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Dushyant Narayan
+
+Room DUAN G2B88
+Meeting Time We 8:00AM - 9:50AM
+Section 106-LABBoulder 16-Wk Session/Full Sem
+Class Code 18201
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+142
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Nara Noeur
+
+Room DUAN G2B88
+Meeting Time We 10:00AM - 11:50AM
+Section 107-LABBoulder 16-Wk Session/Full Sem
+Class Code 18202
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+143
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Rightley
+
+Room DUAN G2B88
+Meeting Time We 12:00PM - 1:50PM
+Section 108-LABBoulder 16-Wk Session/Full Sem
+Class Code 18203
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+144
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor John Mehlhaff
+
+Room DUAN G2B88
+Meeting Time Th 10:00AM - 11:50AM
+Section 110-LABBoulder 16-Wk Session/Full Sem
+Class Code 18205
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+145
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Mathis Habich
+
+Room DUAN G2B88
+Meeting Time Th 12:00PM - 1:50PM
+Section 111-LABBoulder 16-Wk Session/Full Sem
+Class Code 18206
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+146
+PHYS 2020 - General Physics 2
+Units 5
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Shane Rightley
+
+Room DUAN G2B88
+Meeting Time Th 2:00PM - 3:50PM
+Section 112-LABBoulder 16-Wk Session/Full Sem
+Class Code 22979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+147
+PHYS 2130 - General Physics 3
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Minhyea Lee
+
+Room DUAN G130
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17649
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Noel Clark
+
+Room DUAN G1B20
+Meeting Time Mo 4:00PM - 4:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 18170
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+149
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Snyder
+
+Room DUAN G2B70
+Meeting Time Tu 10:00AM - 11:50AM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 18171
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Junxiong Tang
+
+Room DUAN G2B70
+Meeting Time Tu 1:00PM - 2:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 18172
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+151
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Zachary Snyder
+
+Room DUAN G2B70
+Meeting Time Th 10:00AM - 11:50AM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 18173
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Junxiong Tang
+
+Room DUAN G2B70
+Meeting Time Th 1:00PM - 2:50PM
+Section 104-LABBoulder 16-Wk Session/Full Sem
+Class Code 18174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+153
+PHYS 2150 - Experimental Physics
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Noel Clark
+
+Room DUAN G2B70
+Meeting Time Th 3:00PM - 4:50PM
+Section 105-LABBoulder 16-Wk Session/Full Sem
+Class Code 22805
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+154
+PHYS 2170 - Foundations of Modern Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Litos
+
+Room DUAN G130
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18175
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+155
+PHYS 2210 - Classical Mechanics and Mathematical Methods 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Calkins
+
+Room DUAN G1B20
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21114
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+156
+PHYS 3000 - Science and Public Policy
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Michael Ritzwoller
+
+Room DUAN G2B41
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18208
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+PHYS 3070 - Energy and the Environment
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Nagle
+
+Room DUAN G130
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17648
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+158
+PHYS 3210 - Classical Mechanics and Mathematical Methods 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Shijie Zhong
+
+Room DUAN G125
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18209
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+PHYS 3220 - Quantum Mechanics and Atomic Physics 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Oliver DeWolfe
+
+Room DUAN G130
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17653
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+160
+PHYS 3310 - Principles of Electricity and Magnetism 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Schibli
+
+Room DUAN G125
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 17654
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+161
+PHYS 3311 - Tutorial Practicum for Electricity & Magnetism 1
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Schibli
+
+Room DUAN G2B60
+Meeting Time Fr 3:00PM - 3:50PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 38033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+162
+PHYS 3320 - Principles of Electricity and Magnetism 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Andreas Becker
+
+Room DUAN G130
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+163
+PHYS 3330 - Electronics for the Physical Sciences
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Zimmerman, 
+Sascha Kempf, 
+Stephen Wagner
+
+Room DUAN G125
+Meeting Time TuTh 1:00PM - 1:50PM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 18317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+164
+PHYS 3330 - Electronics for the Physical Sciences
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Eric Zimmerman
+
+Room DUAN G230
+Meeting Time Tu 9:00AM - 11:50AM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 18318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+165
+PHYS 3330 - Electronics for the Physical Sciences
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Sascha Kempf
+
+Room DUAN G230
+Meeting Time Tu 2:00PM - 4:50PM
+Section 102-LABBoulder 16-Wk Session/Full Sem
+Class Code 18319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+166
+PHYS 3330 - Electronics for the Physical Sciences
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Wagner
+
+Room DUAN G230
+Meeting Time Th 2:00PM - 4:50PM
+Section 103-LABBoulder 16-Wk Session/Full Sem
+Class Code 24537
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+167
+PHYS 4230 - Thermodynamics and Statistical Mechanics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Charles Rogers
+
+Room DUAN G2B47
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+168
+PHYS 4340 - Introduction to Solid State Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total 0
+MiscInfo nil
+Instructor Dmitry Reznik
+
+Room DUAN G2B47
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21918
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+169
+PHYS 4410 - Quantum Mechanics and Atomic Physics 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Cindy Regal
+
+Room DUAN G131
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+170
+PHYS 4420 - Nuclear and Particle Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Wagner
+
+Room DUAN G1B25
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 22951
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+171
+PHYS 4430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time TuTh 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+PHYS 4430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time Tu 10:00AM - 12:50PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 21931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+173
+PHYS 4430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time TuTh 1:00PM - 1:50PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 21934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+174
+PHYS 4430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time Tu 2:00PM - 4:50PM
+Section 201-LABBoulder 16-Wk Session/Full Sem
+Class Code 21935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+175
+PHYS 4450 - History and Philosophy of Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Allan Franklin
+
+Room DUAN G2B47
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+176
+PHYS 4560 - Introduction to Biophysics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loren Hough
+
+Room DUAN G2B41
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38607
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+177
+PHYS 5150 - Introductory Plasma Physics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Martin Goldman
+
+Room DUAN G1B25
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18745
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+178
+PHYS 5260 - Introduction to Quantum Mechanics 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Romatschke
+
+Room HLMS 211
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18746
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+179
+PHYS 5430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time TuTh 9:00AM - 9:50AM
+Section 100-LECBoulder 16-Wk Session/Full Sem
+Class Code 21932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+180
+PHYS 5430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time Tu 10:00AM - 12:50PM
+Section 101-LABBoulder 16-Wk Session/Full Sem
+Class Code 21933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+181
+PHYS 5430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time TuTh 1:00PM - 1:50PM
+Section 200-LECBoulder 16-Wk Session/Full Sem
+Class Code 21936
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+182
+PHYS 5430 - Advanced Laboratory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor James Thompson, 
+Scott Diddams
+
+Room SEE DEPT
+Meeting Time Tu 2:00PM - 4:50PM
+Section 201-LABBoulder 16-Wk Session/Full Sem
+Class Code 21937
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+183
+PHYS 5450 - History and Philosophy of Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Allan Franklin
+
+Room DUAN G2B47
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+184
+PHYS 5560 - Introduction to Biophysics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Loren Hough
+
+Room DUAN G2B41
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38610
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+185
+PHYS 5770 - Gravitational Theory (Theory of General Relativity)
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Thomas Degrand
+
+Room DUAN G2B41
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18765
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+186
+PHYS 7230 - Statistical Mechanics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Matthew Glaser
+
+Room DUAN G130
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24600
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+187
+PHYS 7250 - Quantum Many Body Theory
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Victor Gurarie
+
+Room DUAN G1B39
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32665
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+188
+PHYS 7320 - Electromagnetic Theory 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo nil
+Instructor Senarath De alwis
+
+Room DUAN G131
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18766
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+189
+PHYS 7440 - Theory of the Solid State
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total 0
+MiscInfo nil
+Instructor Rahul Nandkishore
+
+Room DUAN G2B47
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+190
+PHYS 7560 - Quantum Optics
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 20
+Waitlist Total 0
+MiscInfo nil
+Instructor Dana Anderson
+
+Room DUAN G2B21
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32666
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+191
+PHYS 7730 - Theory of Elementary Particles
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Alysia Marino
+
+Room DUAN G2B41
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32667
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+192
+PHYS 7810 - Special Topics in Physics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: Quantum Information/Computing
+Instructor Graeme Smith
+
+Room SEE DEPT
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 23517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+193
+PHYS 7810 - Special Topics in Physics
+Units 1 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Foundtn Interdis Quant Bio-Prc
+Instructor Loren Hough
+
+Room SEE DEPT
+Meeting Time Tu 1:00PM - 2:50PM
+Section 801-LECBoulder 16-Wk Session/Full Sem
+Class Code 40524
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+194
+PHYS 7820 - Topics in Scientific Writing
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Wilkerson
+
+Room DUAN G1B25
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 18692
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

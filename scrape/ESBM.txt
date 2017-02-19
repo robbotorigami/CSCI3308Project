@@ -1,0 +1,96 @@
+0
+ESBM 3700 - Entrepreneurial Environments
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 30
+Waitlist Total 0
+MiscInfo nil
+Instructor Xin Yao
+
+Room KOBL 300
+Meeting Time MoWe 8:00AM - 9:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24675
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+ESBM 3700 - Entrepreneurial Environments
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Xin Yao
+
+Room KOBL 300
+Meeting Time MoWe 9:30AM - 10:45AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24676
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+2
+ESBM 3700 - Entrepreneurial Environments
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Xin Yao
+
+Room KOBL 300
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24677
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+ESBM 4570 - Entrepreneurial Finance
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Sanjai Bhagat
+
+Room KOBL S125
+Meeting Time Tu 3:30PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24678
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+ESBM 4830 - Entrepreneurship Business Planning and Preparation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Walter Werner
+
+Room FLMG 103
+Meeting Time We 3:30PM - 6:15PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 24948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ESBM 4830 - Entrepreneurship Business Planning and Preparation
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Walter Werner
+
+Room KOBL 300
+Meeting Time Tu 6:00PM - 9:00PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 24892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

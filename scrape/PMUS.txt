@@ -1,0 +1,4408 @@
+0
+PMUS 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Neila Wisniewski Getz
+
+Room MUS N1B85
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14827
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+PMUS 1184 - Voice Class
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Halverson
+
+Room MUS C125
+Meeting Time TuTh 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 39553
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+PMUS 1205 - Keyboard-Musicianship 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Maria Kurchevskaya
+
+Room MUS N180C
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14828
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+PMUS 1205 - Keyboard-Musicianship 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Maria Wietrzynska
+
+Room MUS N180C
+Meeting Time TuTh 9:00AM - 9:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 14829
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+PMUS 1205 - Keyboard-Musicianship 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Sarah Rushing
+
+Room MUS N180C
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 004-LECBoulder 16-Wk Session/Full Sem
+Class Code 14831
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+5
+PMUS 1205 - Keyboard-Musicianship 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total nil
+MiscInfo nil
+Instructor Sarah Rushing
+
+Room MUS N180C
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 005-LECBoulder 16-Wk Session/Full Sem
+Class Code 14832
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+PMUS 1506 - Bassoon
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14847
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+PMUS 1516 - Clarinet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14852
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+8
+PMUS 1526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 33694
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+9
+PMUS 1526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 33695
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+PMUS 1526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 33696
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+11
+PMUS 1526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 33697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+12
+PMUS 1546 - Euphonium
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14873
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+PMUS 1556 - Flute
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14878
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+PMUS 1566 - Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14882
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+PMUS 1576 - Harp
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14886
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+PMUS 1596 - Horn
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14892
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+PMUS 1606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14896
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+PMUS 1606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14897
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+19
+PMUS 1626 - Percussion
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14908
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+20
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14912
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+21
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14913
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+22
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14914
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14915
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Sarah Rushing
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14916
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+25
+PMUS 1636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 15266
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+26
+PMUS 1646 - Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14932
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+PMUS 1656 - Double Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14936
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+PMUS 1666 - Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14941
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+PMUS 1676 - Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14945
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+30
+PMUS 1686 - Tuba
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14949
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+31
+PMUS 1696 - Viola
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14953
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+32
+PMUS 1706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14957
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+33
+PMUS 1706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14958
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+34
+PMUS 1706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 33568
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+PMUS 1716 - Violoncello
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14965
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+36
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+37
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14971
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14972
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+39
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14973
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bryce Bartu
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 14975
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Halverson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 806-STUBoulder 16-Wk Session/Full Sem
+Class Code 14976
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+43
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Neila Wisniewski Getz
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 807-STUBoulder 16-Wk Session/Full Sem
+Class Code 14977
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+44
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tessa Romano
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 808-STUBoulder 16-Wk Session/Full Sem
+Class Code 14978
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+45
+PMUS 1726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 809-STUBoulder 16-Wk Session/Full Sem
+Class Code 14979
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+PMUS 1806 - Jazz Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15000
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+PMUS 1816 - Jazz Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15006
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+48
+PMUS 1826 - Jazz Drum Set
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15012
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+49
+PMUS 1846 - Jazz Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15018
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+50
+PMUS 1856 - Jazz Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15024
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+51
+PMUS 1866 - Jazz Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15030
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+52
+PMUS 1876 - Jazz Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15036
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+53
+PMUS 2205 - Keyboard-Musicianship 4
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Hjelmstad
+
+Room MUS N180C
+Meeting Time MoWe 12:00PM - 12:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14834
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+54
+PMUS 2205 - Keyboard-Musicianship 4
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Robert Hjelmstad
+
+Room MUS N180C
+Meeting Time TuTh 2:00PM - 2:50PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+55
+PMUS 2506 - Bassoon
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14848
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+PMUS 2516 - Clarinet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14853
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+57
+PMUS 2526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14857
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+58
+PMUS 2526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14858
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+59
+PMUS 2526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14859
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+PMUS 2526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14860
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+61
+PMUS 2546 - Euphonium
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14874
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+62
+PMUS 2556 - Flute
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14879
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+63
+PMUS 2566 - Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14883
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+64
+PMUS 2576 - Harp
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14887
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+65
+PMUS 2596 - Horn
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14893
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+66
+PMUS 2606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14898
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+67
+PMUS 2606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14899
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+68
+PMUS 2626 - Percussion
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14909
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+69
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14917
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+70
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14918
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14919
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+72
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14920
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Sarah Rushing
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14921
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+74
+PMUS 2636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 15267
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+PMUS 2646 - Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14933
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+PMUS 2656 - Double Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14937
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+PMUS 2666 - Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14942
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+78
+PMUS 2676 - Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14946
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+79
+PMUS 2686 - Tuba
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14950
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+80
+PMUS 2696 - Viola
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14954
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+81
+PMUS 2706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14959
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+82
+PMUS 2706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14960
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+83
+PMUS 2706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 33569
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+84
+PMUS 2716 - Violoncello
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14966
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+85
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14980
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+86
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14981
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+87
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14982
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+88
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14983
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+89
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14984
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+90
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bryce Bartu
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 14985
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+91
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Halverson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 806-STUBoulder 16-Wk Session/Full Sem
+Class Code 14986
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+92
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Neila Wisniewski Getz
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 807-STUBoulder 16-Wk Session/Full Sem
+Class Code 14989
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+93
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tessa Romano
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 808-STUBoulder 16-Wk Session/Full Sem
+Class Code 14987
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+94
+PMUS 2726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 809-STUBoulder 16-Wk Session/Full Sem
+Class Code 14988
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+95
+PMUS 2806 - Jazz Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15001
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+96
+PMUS 2816 - Jazz Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15007
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+97
+PMUS 2826 - Jazz Drum Set
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15013
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+98
+PMUS 2846 - Jazz Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15019
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+99
+PMUS 2856 - Jazz Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15025
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+100
+PMUS 2866 - Jazz Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15031
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+101
+PMUS 2876 - Jazz Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+102
+PMUS 3271 - Basic Improvisation
+Units 2
+Restriction Y
+Consent Required Y
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo nil
+Instructor Paul Erhard
+
+Room MUS C125
+Meeting Time MoWe 4:00PM - 4:50PM
+Section 800-LECBoulder 16-Wk Session/Full Sem
+Class Code 15290
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+103
+PMUS 3506 - Bassoon
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14849
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+104
+PMUS 3516 - Clarinet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14854
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+105
+PMUS 3526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14861
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+106
+PMUS 3526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14862
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+107
+PMUS 3526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14863
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+108
+PMUS 3526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14864
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+109
+PMUS 3546 - Euphonium
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14875
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+110
+PMUS 3556 - Flute
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14880
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+111
+PMUS 3566 - Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14884
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+112
+PMUS 3576 - Harp
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 33564
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+113
+PMUS 3596 - Horn
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14894
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+114
+PMUS 3606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14900
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+115
+PMUS 3606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14901
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+116
+PMUS 3626 - Percussion
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14910
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+117
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14922
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+118
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+119
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14924
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+120
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14925
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+121
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Sarah Rushing
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14926
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+122
+PMUS 3636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 15268
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+123
+PMUS 3646 - Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14934
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+124
+PMUS 3656 - Double Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14938
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+125
+PMUS 3666 - Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14943
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+126
+PMUS 3676 - Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14947
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+127
+PMUS 3686 - Tuba
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14951
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+128
+PMUS 3696 - Viola
+Units 2 - 4
+Restriction N
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14955
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+129
+PMUS 3706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14961
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+130
+PMUS 3706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14962
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+131
+PMUS 3706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 33570
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+132
+PMUS 3716 - Violoncello
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14967
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+133
+PMUS 3726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14990
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+134
+PMUS 3726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14991
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+135
+PMUS 3726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14992
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+136
+PMUS 3726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14993
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+137
+PMUS 3726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14994
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+138
+PMUS 3806 - Jazz Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15002
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+139
+PMUS 3816 - Jazz Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15008
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+140
+PMUS 3826 - Jazz Drum Set
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15014
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+141
+PMUS 3846 - Jazz Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15020
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+142
+PMUS 3856 - Jazz Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15026
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+143
+PMUS 3866 - Jazz Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15032
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+144
+PMUS 3876 - Jazz Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15038
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+145
+PMUS 4147 - Opera Theatre 2
+Units 1
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeremy Reger
+
+Room MUS N1B95D
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 14836
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+146
+PMUS 4157 - Opera Practicum
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nicholas Carthy
+Nicholas Carthy
+
+Room MUS N1B95D
+MUS N1B95D
+Meeting Time MoTuThFr 7:00PM - 10:00PM
+TuWeThFr 4:00PM - 4:50PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 15177
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+147
+PMUS 4497 - Vocal Repertoire Coaching
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Mutsumi Moteki
+
+Room MUS N180D
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15155
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+148
+PMUS 4506 - Bassoon
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14850
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+149
+PMUS 4516 - Clarinet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14855
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+150
+PMUS 4526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14865
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+151
+PMUS 4526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14866
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+152
+PMUS 4526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14867
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+153
+PMUS 4526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+154
+PMUS 4546 - Euphonium
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14876
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+155
+PMUS 4556 - Flute
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14881
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+156
+PMUS 4566 - Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14885
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+157
+PMUS 4576 - Harp
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14888
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+158
+PMUS 4596 - Horn
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14895
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+159
+PMUS 4606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14902
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+160
+PMUS 4606 - Oboe
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14903
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+161
+PMUS 4626 - Percussion
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14911
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+162
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14927
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+163
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14928
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+164
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+165
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14930
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+166
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 15
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Sarah Rushing
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14931
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+167
+PMUS 4636 - Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 805-STUBoulder 16-Wk Session/Full Sem
+Class Code 15269
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+168
+PMUS 4646 - Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14935
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+169
+PMUS 4656 - Double Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14939
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+170
+PMUS 4666 - Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14944
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+171
+PMUS 4676 - Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14948
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+172
+PMUS 4686 - Tuba
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14952
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+173
+PMUS 4696 - Viola
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14956
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+174
+PMUS 4706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14963
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+175
+PMUS 4706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14964
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+176
+PMUS 4706 - Violin
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 33571
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+177
+PMUS 4716 - Violoncello
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14968
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+178
+PMUS 4726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 14995
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+179
+PMUS 4726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 801-STUBoulder 16-Wk Session/Full Sem
+Class Code 14996
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+180
+PMUS 4726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 802-STUBoulder 16-Wk Session/Full Sem
+Class Code 14997
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+181
+PMUS 4726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 803-STUBoulder 16-Wk Session/Full Sem
+Class Code 14998
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+182
+PMUS 4726 - Voice
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 804-STUBoulder 16-Wk Session/Full Sem
+Class Code 14999
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+183
+PMUS 4806 - Jazz Piano
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15003
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+184
+PMUS 4816 - Jazz Bass
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15009
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+185
+PMUS 4826 - Jazz Drum Set
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15015
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+186
+PMUS 4846 - Jazz Guitar
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15021
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+187
+PMUS 4856 - Jazz Trumpet
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15027
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+188
+PMUS 4866 - Jazz Trombone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15033
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+189
+PMUS 4876 - Jazz Saxophone
+Units 2 - 4
+Restriction Y
+Consent Required Y
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 800-STUBoulder 16-Wk Session/Full Sem
+Class Code 15039
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+190
+PMUS 5147 - Opera Theatre 2
+Units 2
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeremy Reger
+
+Room MUS N1B95D
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 001-MLSBoulder 16-Wk Session/Full Sem
+Class Code 33791
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+191
+PMUS 5157 - Opera Theatre Practicum
+Units 1 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Nicholas Carthy
+Nicholas Carthy
+
+Room MUS N1B95D
+MUS N1B95D
+Meeting Time MoTuThFr 7:00PM - 10:00PM
+TuWeThFr 4:00PM - 4:50PM
+Section 001-PRABoulder 16-Wk Session/Full Sem
+Class Code 15176
+Meeting Dates 01/17/2017 - 05/05/2017
+01/17/2017 - 05/05/2017
+Open Status Open
+192
+PMUS 5497 - Vocal Repertoire Coaching
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 7
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Mutsumi Moteki
+
+Room MUS N180D
+Meeting Time MoWe 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 14838
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+193
+PMUS 5506 - Bassoon
+Units 2 - 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33579
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+194
+PMUS 5516 - Clarinet
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+195
+PMUS 5526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14869
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+196
+PMUS 5526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 14870
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+197
+PMUS 5526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 14871
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+198
+PMUS 5526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 14872
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+199
+PMUS 5546 - Euphonium
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33478
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+200
+PMUS 5556 - Flute
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33581
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+201
+PMUS 5566 - Guitar
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33562
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+202
+PMUS 5576 - Harp
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14889
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+203
+PMUS 5596 - Horn
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+204
+PMUS 5606 - Oboe
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33583
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+205
+PMUS 5606 - Oboe
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33584
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+206
+PMUS 5626 - Percussion
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+207
+PMUS 5636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33509
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+208
+PMUS 5636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33511
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+209
+PMUS 5636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33512
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+210
+PMUS 5636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 33513
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+211
+PMUS 5636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 006-STUBoulder 16-Wk Session/Full Sem
+Class Code 33515
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+212
+PMUS 5646 - Saxophone
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33588
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+213
+PMUS 5656 - Double Bass
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33565
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+214
+PMUS 5666 - Trombone
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+215
+PMUS 5676 - Trumpet
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33485
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+216
+PMUS 5686 - Tuba
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33487
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+217
+PMUS 5696 - Viola
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33566
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+218
+PMUS 5706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33572
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+219
+PMUS 5706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33573
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+220
+PMUS 5706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33574
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+221
+PMUS 5716 - Violoncello
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14969
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+222
+PMUS 5726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33771
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+223
+PMUS 5726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33772
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+224
+PMUS 5726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33773
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+225
+PMUS 5726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 33774
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+226
+PMUS 5726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 005-STUBoulder 16-Wk Session/Full Sem
+Class Code 33775
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+227
+PMUS 5806 - Jazz Piano
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15004
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+228
+PMUS 5816 - Jazz Bass
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15010
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+229
+PMUS 5826 - Jazz Drum Set
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15016
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+230
+PMUS 5846 - Jazz Guitar
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15022
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+231
+PMUS 5856 - Jazz Trumpet
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15028
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+232
+PMUS 5866 - Jazz Trombone
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15034
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+233
+PMUS 5876 - Jazz Saxophone
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15040
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+234
+PMUS 6506 - Bassoon
+Units 2 - 3
+Restriction N
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Yoshiyuki Ishikawa
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14851
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+235
+PMUS 6516 - Clarinet
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Silver
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14856
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+236
+PMUS 6526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Drumheller
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33698
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+237
+PMUS 6526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Kellogg
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33699
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+238
+PMUS 6526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Theodore
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33700
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+239
+PMUS 6526 - Composition
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Carter Pann
+
+Room MUS C191
+Meeting Time We 2:00PM - 3:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 33701
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+240
+PMUS 6546 - Euphonium
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14877
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+241
+PMUS 6556 - Flute
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Christina Jennings
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33582
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+242
+PMUS 6566 - Guitar
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Nicolo Spera
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33563
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+243
+PMUS 6576 - Harp
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Janet Harriman
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+244
+PMUS 6596 - Horn
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Michael Thornton
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33480
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+245
+PMUS 6606 - Oboe
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Peter Cooper
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33585
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+246
+PMUS 6606 - Oboe
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 25
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Brody
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33586
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+247
+PMUS 6626 - Percussion
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Douglas Walter
+
+Room MUS C185
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+248
+PMUS 6636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 19
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Alejandro Cremaschi
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33510
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+249
+PMUS 6636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Korevaar
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33516
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+250
+PMUS 6636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Hayghe
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33517
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+251
+PMUS 6636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Andrew Cooperstock
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 33518
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+252
+PMUS 6636 - Piano
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Daniel Sher
+
+Room SEE DEPT
+Meeting Time Mo 2:00PM - 2:50PM
+Section 006-STUBoulder 16-Wk Session/Full Sem
+Class Code 33520
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+253
+PMUS 6646 - Saxophone
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Tom Myer
+
+Room SEE DEPT
+Meeting Time Th 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33589
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+254
+PMUS 6656 - Double Bass
+Units 2 - 3
+Restriction N
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Erhard
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 14940
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+255
+PMUS 6666 - Trombone
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor William Stanley
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33484
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+256
+PMUS 6676 - Trumpet
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Terry Sawchuk
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33486
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+257
+PMUS 6686 - Tuba
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 18
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor James Dunn
+
+Room SEE DEPT
+Meeting Time Tu 3:30PM - 4:20PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33488
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+258
+PMUS 6696 - Viola
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 14
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Erika Eckert
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33567
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+259
+PMUS 6706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Harumi Rhodes
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33575
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+260
+PMUS 6706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 5
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Charles Wetherbee
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33576
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+261
+PMUS 6706 - Violin
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 20
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Margaret Gutierrez
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33577
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+262
+PMUS 6716 - Violoncello
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Requiro
+
+Room SEE DEPT
+Meeting Time Mo 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33578
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+263
+PMUS 6726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 17
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jennifer Bird-Arvidsson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 33777
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+264
+PMUS 6726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Matthew Chellis
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 002-STUBoulder 16-Wk Session/Full Sem
+Class Code 33778
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+265
+PMUS 6726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Abigail Nims
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 003-STUBoulder 16-Wk Session/Full Sem
+Class Code 33779
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+266
+PMUS 6726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 23
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patti Peterson
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 004-STUBoulder 16-Wk Session/Full Sem
+Class Code 33780
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+267
+PMUS 6726 - Voice
+Units 2 - 3
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Patrick Mason
+
+Room SEE DEPT
+Meeting Time We 3:00PM - 3:50PM
+Section 005-STUBoulder 16-Wk Session/Full Sem
+Class Code 33781
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+268
+PMUS 6806 - Jazz Piano
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Jeffrey Jenkins
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15005
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+269
+PMUS 6816 - Jazz Bass
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Eduardo Barbosa
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15011
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+270
+PMUS 6826 - Jazz Drum Set
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul Romaine
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15017
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+271
+PMUS 6846 - Jazz Guitar
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 13
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor David Corbus
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15023
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+272
+PMUS 6856 - Jazz Trumpet
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 12
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Bradley Goode
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15029
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+273
+PMUS 6866 - Jazz Trombone
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 10
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor Paul McKee
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+274
+PMUS 6876 - Jazz Saxophone
+Units 1 - 2
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total nil
+MiscInfo Notes: This is a combined section class
+Instructor John Gunther
+
+Room MCKY 1B03B
+Meeting Time Th 11:00AM - 11:50AM
+Section 001-STUBoulder 16-Wk Session/Full Sem
+Class Code 15041
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

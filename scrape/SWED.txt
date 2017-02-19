@@ -1,0 +1,32 @@
+0
+SWED 1020 - Beginning Swedish 2
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Merete Leonhardt-Lupa
+
+Room HLMS 152
+Meeting Time MoTuWeTh 2:00PM - 2:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 32676
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+SWED 2020 - Intermediate Swedish 2 - DILS
+Units 4
+Restriction N
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Merete Leonhardt-Lupa
+
+Room HLMS 152
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-OTHBoulder 16-Wk Session/Full Sem
+Class Code 23206
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

@@ -1,0 +1,464 @@
+0
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor H Fredricksmeyer
+
+Room ECCR 1B06
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27183
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Diduch
+
+Room LESS 1B01
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27184
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anja Lange
+
+Room LESS 1B01
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27868
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Turner
+
+Room ECCR 1B06
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28092
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Aaron Turner
+
+Room ECCR 1B06
+Meeting Time MoWeFr 3:00PM - 3:50PM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28093
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Diduch
+
+Room LESS 1B01
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28110
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Rabinowitz
+
+Room ECCR 1B06
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28549
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa DE Alwis
+
+Room LESS 1B01
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28174
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Lisa DE Alwis
+
+Room LESS 1B01
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 009-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28289
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shilo Brooks
+
+Room LESS 1B01
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 010-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shilo Brooks
+
+Room LESS 1B01
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 011-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28295
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Rabinowitz
+
+Room LESS 1B01
+Meeting Time TuTh 3:30PM - 4:45PM
+Section 012-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28923
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Donna Axel
+
+Room LESS 1B01
+Meeting Time MoWeFr 12:00PM - 12:50PM
+Section 013-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39808
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+13
+HUEN 1010 - Humanities for Engineers:  The Human Quest
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephanie Rowe
+
+Room KTCH 1B64
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 802-SEMBoulder 16-Wk Session/Full Sem
+Class Code 40481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+HUEN 1850 - Engineering in History:  The Social Impact of Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 15
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leland Giovannelli
+
+Room ECCR 151
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28045
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+15
+HUEN 1850 - Engineering in History:  The Social Impact of Technology
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Leland Giovannelli
+
+Room ECCR 151
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 28050
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+16
+HUEN 2210 - Engineering, Science, and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Diduch
+
+Room ITLL 1B50
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+17
+HUEN 2210 - Engineering, Science, and Society
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 9
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Diduch
+
+Room ITLL 1B50
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-LECBoulder 16-Wk Session/Full Sem
+Class Code 38349
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+18
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor H Fredricksmeyer
+
+Room ECCR 1B06
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27185
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Paul Diduch
+
+Room ECCR 1B06
+Meeting Time MoWeFr 11:00AM - 11:50AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27186
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor H Fredricksmeyer
+
+Room ECCR 1B06
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 003-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27187
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Anja Lange
+
+Room LESS 1B01
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 27707
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Kowalchuk
+
+Room LESS 1B01
+Meeting Time TuTh 8:00AM - 9:15AM
+Section 005-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28349
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+23
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Shilo Brooks
+
+Room ECCR 1B06
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 006-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28415
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+24
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrea Kowalchuk
+
+Room ECCR 1B06
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 007-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28550
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+HUEN 3100 - Advanced Humanities for Engineers: The Human Quest Continues
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Laura Rabinowitz
+
+Room ECCR 1B06
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 008-SEMBoulder 16-Wk Session/Full Sem
+Class Code 28890
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+HUEN 3430 - Ethics of Genetic Engineering: A Multidisciplinary Approach
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 8
+Waitlist Total 0
+MiscInfo nil
+Instructor Donald Wilkerson
+
+Room FLMG 103
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34911
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+HUEN 3843 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total 0
+MiscInfo Topic: The Limits of Reason
+Instructor Andrea Kowalchuk
+
+Room FLMG 104
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 28265
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+28
+HUEN 3843 - Special Topics
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Leonardo DaVinci's World
+Instructor Diane Sieber
+
+Room KCEN S161
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 580R-LECBoulder 16-Wk Session/Full Sem
+Class Code 28360
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed

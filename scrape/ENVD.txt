@@ -1,0 +1,1251 @@
+0
+ENVD 1004 - Introduction to Environmental Design Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stacey Schulte
+
+Room ENVD 120
+Meeting Time MoWe 10:00AM - 10:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15479
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+1
+ENVD 1004 - Introduction to Environmental Design Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Breanna Workman
+
+Room ENVD 1B49
+Meeting Time Fr 11:00AM - 11:50AM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 32711
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+ENVD 1004 - Introduction to Environmental Design Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Elyse Skinner
+
+Room ENVD 102
+Meeting Time Fr 11:00AM - 11:50AM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 32713
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+3
+ENVD 1004 - Introduction to Environmental Design Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Andrew Landis
+
+Room ENVD 1B49
+Meeting Time Fr 12:00PM - 12:50PM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 32714
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+4
+ENVD 1004 - Introduction to Environmental Design Theory
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Rebecca Randolph
+
+Room ENVD 102
+Meeting Time Fr 12:00PM - 12:50PM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 32716
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Jade Polizzi
+
+Room ENVD 120
+Meeting Time TuTh 9:30AM - 10:20AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15448
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+6
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Marianne Holbert
+
+Room SEE DEPT
+Meeting Time TuTh 10:30AM - 11:30AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15449
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+7
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Jade Polizzi
+
+Room SEE DEPT
+Meeting Time TuTh 10:30AM - 11:30AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 15450
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 10:30AM - 11:30AM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 32697
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 10
+Waitlist Total 0
+MiscInfo nil
+Instructor Jade Polizzi
+
+Room ENVD 120
+Meeting Time TuTh 12:30PM - 1:20PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 15470
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+10
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Shawhin Roudbari
+
+Room SEE DEPT
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 15471
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor F. Siobhan Brooks
+
+Room SEE DEPT
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 022-LABBoulder 16-Wk Session/Full Sem
+Class Code 15472
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+ENVD 1052 - Design and Communication 1
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room SEE DEPT
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 023-LABBoulder 16-Wk Session/Full Sem
+Class Code 15483
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 26
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Bellucci, 
+Kimberly Drennan
+
+Room ENVD 134
+Meeting Time TuTh 8:45AM - 9:35AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15301
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+14
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Betsy Johnson
+
+Room ENVD 301
+Meeting Time TuTh 9:45AM - 10:45AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15302
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+15
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Anne Kaufman
+
+Room ENVD 301
+Meeting Time TuTh 9:45AM - 10:45AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 15303
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+16
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ENVD 301
+Meeting Time TuTh 9:45AM - 10:45AM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 15304
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+17
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ENVD 301
+Meeting Time TuTh 9:45AM - 10:45AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 15305
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+18
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Matthew Schexnyder
+
+Room ENVD 301
+Meeting Time TuTh 9:45AM - 10:45AM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 15306
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+19
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Bellucci, 
+Kimberly Drennan
+
+Room HLMS 201
+Meeting Time TuTh 12:30PM - 1:20PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 15307
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+20
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Justin Bellucci
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 15308
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+21
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Kimberly Drennan
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 022-LABBoulder 16-Wk Session/Full Sem
+Class Code 15309
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+22
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Raymond McCall
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 023-LABBoulder 16-Wk Session/Full Sem
+Class Code 15310
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+23
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Betsy Johnson
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 024-LABBoulder 16-Wk Session/Full Sem
+Class Code 15311
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+24
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Lisa Kistner
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 025-LABBoulder 16-Wk Session/Full Sem
+Class Code 15312
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+25
+ENVD 1102 - Design and Communication 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ENVD 301
+Meeting Time TuTh 1:30PM - 2:30PM
+Section 026-LABBoulder 16-Wk Session/Full Sem
+Class Code 15313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+26
+ENVD 1104 - Introduction to Environmental Design Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 22
+Waitlist Total 0
+MiscInfo nil
+Instructor Jose Escobar
+
+Room HUMN 1B50
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 38037
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+27
+ENVD 2001 - Human Behavior in Design and Planning
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor F. Siobhan Brooks
+
+Room ENVD 120
+Meeting Time MoWe 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34678
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+28
+ENVD 2130 - Environmental Design Studio 2
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor F. Siobhan Brooks
+
+Room MUEN E0046
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15315
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+29
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Emily Greenwood
+
+Room ENVD 301
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15316
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+30
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Timothy McGinty
+
+Room ENVD 122
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 012-LABBoulder 16-Wk Session/Full Sem
+Class Code 15317
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+31
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Eric Pearse
+
+Room ENVD 301
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 013-LABBoulder 16-Wk Session/Full Sem
+Class Code 15318
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+32
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Staff
+
+Room ENVD 301
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 014-LABBoulder 16-Wk Session/Full Sem
+Class Code 15319
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+33
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Neal Evers
+
+Room ENVD 301
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 015-LABBoulder 16-Wk Session/Full Sem
+Class Code 15320
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+34
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor F. Siobhan Brooks
+
+Room RAMY N1B23
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 15321
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+35
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor F. Siobhan Brooks
+
+Room ENVD 120
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 15322
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+36
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Emily Greenwood
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 022-LABBoulder 16-Wk Session/Full Sem
+Class Code 15323
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+37
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total nil
+MiscInfo nil
+Instructor Timothy McGinty
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 023-LABBoulder 16-Wk Session/Full Sem
+Class Code 15324
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+38
+ENVD 2130 - Environmental Design Studio 2
+Units 6
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo nil
+Instructor Jeffrey Lakey
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 024-LABBoulder 16-Wk Session/Full Sem
+Class Code 15325
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+39
+ENVD 3003 - Site Planning
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 5
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Carman
+
+Room MCOL W100
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15429
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+40
+ENVD 3134 - History and Theory of Environmental Design and the Medium Scale: Precincts
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Danielle Rivera
+
+Room CHEM 140
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15457
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+41
+ENVD 3152 - Introduction to Computer Graphics Applications
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Topic: RHINO
+Instructor Marcel De Lange
+
+Room CINC 152  H
+Meeting Time MoWe 5:00PM - 6:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15456
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+42
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Praxis Studio: LAMA
+Instructor Jade Polizzi
+
+Room CINC 152
+Meeting Time MoFr 8:30AM - 9:20AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15430
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+43
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Praxis Studio: LAMA
+Instructor Jade Polizzi
+
+Room CINC 152
+Meeting Time MoFr 9:30AM - 1:00PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15431
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+44
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Praxis Seminar: LAMA
+Instructor Stephen Eckert
+
+Room CINC 152  H
+Meeting Time We 10:00AM - 12:30PM
+Section 012-LECBoulder 16-Wk Session/Full Sem
+Class Code 15443
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+45
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Topic: Praxis Studio: Balsam/Pine
+Instructor Stacey Schulte
+
+Room ENVD 301
+Meeting Time MoWe 8:00AM - 8:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 15433
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+46
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 6
+Waitlist Total nil
+MiscInfo Topic: Praxis Studio: Balsam/Pine
+Instructor Stacey Schulte
+
+Room ENVD 301
+Meeting Time MoWe 9:00AM - 12:30PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 15434
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+47
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Denver Play Scape DB
+Instructor Jeremy Ehly
+
+Room CINC 152
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 15473
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+48
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Denver Play Scape DB
+Instructor Jeremy Ehly
+
+Room CINC 152
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 15474
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+49
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Sem: Denver Play Scape DB
+Instructor Jeremy Ehly
+
+Room CINC 152  H
+Meeting Time We 2:00PM - 4:50PM
+Section 032-LECBoulder 16-Wk Session/Full Sem
+Class Code 15477
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+50
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Ecological Urbanism
+Instructor John Lanterman
+
+Room CINC 152
+Meeting Time WeFr 2:00PM - 2:50PM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 15475
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+51
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Ecological Urbanism
+Instructor John Lanterman
+
+Room CINC 152
+Meeting Time WeFr 3:00PM - 6:30PM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 15476
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+52
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Ecological Urbanism
+Instructor Kimberly Drennan
+
+Room CINC 152
+Meeting Time WeFr 2:00PM - 2:50PM
+Section 050-LECBoulder 16-Wk Session/Full Sem
+Class Code 15480
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+53
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Stu: Ecological Urbanism
+Instructor Kimberly Drennan
+
+Room CINC 152
+Meeting Time WeFr 3:00PM - 6:30PM
+Section 051-LABBoulder 16-Wk Session/Full Sem
+Class Code 15481
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+54
+ENVD 3300 - Special Topics: Intermediate Design Lab
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: Prxs Sem: Urban Energy Model
+Instructor Justin Bellucci
+
+Room CINC 152  H
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 052-LECBoulder 16-Wk Session/Full Sem
+Class Code 15482
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+55
+ENVD 3939 - Exploratory Internship
+Units 3
+Restriction Y
+Consent Required Y
+Seats Remaining 19
+Waitlist Total 0
+MiscInfo nil
+Instructor John Lanterman
+
+Room ENVD 213
+Meeting Time We 5:00PM - 6:15PM
+Section 801-INTBoulder 16-Wk Session/Full Sem
+Class Code 39363
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+56
+ENVD 4052 - Digital Presentation and Portfolio
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Raymond McCall
+
+Room ENVD 211
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15326
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+57
+ENVD 4112 - Architectural Graphics 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Ping Xu
+
+Room ENVD 102
+Meeting Time Tu 1:00PM - 3:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15451
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+58
+ENVD 4122 - Digital Photo for Designers
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Stephen Cardinale
+
+Room ENVD 213
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 15452
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+59
+ENVD 4300 - Advanced Design Lab 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo Topic: MATERIALS+METHODS 1 (LAND)
+Instructor Jesse Young
+
+Room ENVD 122
+Meeting Time Th 3:30PM - 6:00PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 15446
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+60
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Ping Xu
+
+Room ENVD 122
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 15435
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+61
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Ping Xu
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 011-LABBoulder 16-Wk Session/Full Sem
+Class Code 15436
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+62
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Alexander Worden
+
+Room CINC 152
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 15437
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+63
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Alexander Worden
+
+Room CINC 152
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 15438
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+64
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Neal Evers
+
+Room ENVD 301
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 030-LECBoulder 16-Wk Session/Full Sem
+Class Code 15439
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+65
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Neal Evers
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 031-LABBoulder 16-Wk Session/Full Sem
+Class Code 15440
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+66
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Staff
+
+Room CINC 152
+Meeting Time MoWeFr 9:00AM - 9:50AM
+Section 040-LECBoulder 16-Wk Session/Full Sem
+Class Code 15447
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+67
+ENVD 4300 - Advanced Design Lab 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total nil
+MiscInfo Topic: ARCH STUDIO 2
+Instructor Staff
+
+Room CINC 152
+Meeting Time MoWeFr 10:00AM - 11:50AM
+Section 041-LABBoulder 16-Wk Session/Full Sem
+Class Code 15469
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+68
+ENVD 4311 - Housing Policies and Practices
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Georgia Lindsay
+
+Room ENVD 120
+Meeting Time TuTh 2:00PM - 3:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 15453
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+69
+ENVD 4352 - Special Topics: Computer Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Revit
+Instructor Alexander Gore, 
+Lance Cayko
+
+Room ENVD 211
+Meeting Time We 1:00PM - 3:30PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 15432
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+70
+ENVD 4352 - Special Topics: Computer Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Digital Desgn/Fabrication
+Instructor Marcel De Lange
+
+Room CINC 152  H
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 15327
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+71
+ENVD 4352 - Special Topics: Computer Methods
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Revit
+Instructor Bennie McMullen
+
+Room ENVD 211
+Meeting Time TuTh 4:00PM - 5:15PM
+Section 004-SEMBoulder 16-Wk Session/Full Sem
+Class Code 39526
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+72
+ENVD 4363 - Special Topics: Physical Factors in Environmental Design
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo Topic: Transprtatn/Livable Commnties
+Instructor David Kemp
+
+Room ENVD 213
+Meeting Time MoWe 3:00PM - 4:15PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 15458
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+73
+ENVD 4420 - Senior Capstone Seminar
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo Topic: Sr Capstone Sem for DSGN
+Instructor Jeremy Ehly
+
+Room ENVD 213
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 002-SEMBoulder 16-Wk Session/Full Sem
+Class Code 38035
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+74
+ENVD 4440 - Landscape Design Studio 2
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Carman
+
+Room ENVD 301
+Meeting Time MoWeFr 2:00PM - 2:50PM
+Section 020-LECBoulder 16-Wk Session/Full Sem
+Class Code 39364
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+75
+ENVD 4440 - Landscape Design Studio 2
+Units 6
+Restriction Y
+Consent Required N
+Seats Remaining 11
+Waitlist Total 0
+MiscInfo nil
+Instructor Scott Carman
+
+Room ENVD 301
+Meeting Time MoWeFr 3:00PM - 4:50PM
+Section 021-LABBoulder 16-Wk Session/Full Sem
+Class Code 39365
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+76
+ENVD 4794 - History of Urban Design and Planning
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Brian Muller
+
+Room ENVD 213
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 001-SEMBoulder 16-Wk Session/Full Sem
+Class Code 15328
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+77
+ENVD 5346 - Spec Topics: Environmental Design
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 3
+Waitlist Total 0
+MiscInfo Topic: Urban Conflict
+Instructor Jose Escobar
+
+Room ENVD 213
+Meeting Time MoWe 10:00AM - 11:15AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 34762
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open

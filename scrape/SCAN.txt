@@ -1,0 +1,240 @@
+0
+SCAN 1202 - Tolkien's Nordic Sources and the Lord of the Rings
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 4
+Waitlist Total 0
+MiscInfo nil
+Instructor Vicki Grove
+
+Room HLMS 252
+Meeting Time MoWe 1:00PM - 1:50PM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 23313
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+1
+SCAN 1202 - Tolkien's Nordic Sources and the Lord of the Rings
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Baca
+
+Room HLMS 252
+Meeting Time Fr 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 23929
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+2
+SCAN 1202 - Tolkien's Nordic Sources and the Lord of the Rings
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Baca
+
+Room CLRE 104
+Meeting Time Fr 2:00PM - 2:50PM
+Section 012-RECBoulder 16-Wk Session/Full Sem
+Class Code 24580
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+3
+SCAN 1202 - Tolkien's Nordic Sources and the Lord of the Rings
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 2
+Waitlist Total 0
+MiscInfo nil
+Instructor Alicia Baca
+
+Room ATLS 1B25
+Meeting Time Fr 9:00AM - 9:50AM
+Section 013-RECBoulder 16-Wk Session/Full Sem
+Class Code 29292
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+4
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avedan Raggio
+
+Room HALE 270
+Meeting Time MoWe 9:00AM - 9:50AM
+Section 010-LECBoulder 16-Wk Session/Full Sem
+Class Code 21969
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+5
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Budde
+
+Room EDUC 134
+Meeting Time We 1:00PM - 1:50PM
+Section 011-RECBoulder 16-Wk Session/Full Sem
+Class Code 21970
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+6
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Budde
+
+Room HALE 270
+Meeting Time Fr 9:00AM - 9:50AM
+Section 014-RECBoulder 16-Wk Session/Full Sem
+Class Code 21973
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
+7
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Taylor Budde
+
+Room CLRE 209
+Meeting Time Fr 2:00PM - 2:50PM
+Section 015-RECBoulder 16-Wk Session/Full Sem
+Class Code 21974
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+8
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Staff
+
+Room DUAN G1B25
+Meeting Time Fr 3:00PM - 3:50PM
+Section 016-RECBoulder 16-Wk Session/Full Sem
+Class Code 21975
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+9
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avedan Raggio
+
+Room EDUC 134
+Meeting Time We 10:00AM - 10:50AM
+Section 018-RECBoulder 16-Wk Session/Full Sem
+Class Code 29293
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+10
+SCAN 3202 - Old Norse Mythology
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avedan Raggio
+
+Room DUAN G2B60
+Meeting Time Fr 1:00PM - 1:50PM
+Section 019-RECBoulder 16-Wk Session/Full Sem
+Class Code 33853
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+11
+SCAN 3204 - Medieval Icelandic Sagas
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avedan Raggio
+
+Room ECON 13
+Meeting Time TuTh 9:30AM - 10:45AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 21733
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+12
+SCAN 3204 - Medieval Icelandic Sagas
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Avedan Raggio
+
+Room MKNA 112
+Meeting Time TuTh 12:30PM - 1:45PM
+Section 002-LECBoulder 16-Wk Session/Full Sem
+Class Code 32675
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+13
+SCAN 3205 - Scandinavian Folk Narrative
+Units 3
+Restriction N
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Asger Nordvig
+
+Room ECON 205
+Meeting Time MoWeFr 10:00AM - 10:50AM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33212
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed
+14
+SCAN 3631 - Arctic Society and Culture
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 1
+Waitlist Total 0
+MiscInfo Notes: This is a combined section class
+Instructor Asger Nordvig
+
+Room EKLC M203
+Meeting Time MoWeFr 1:00PM - 1:50PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 33671
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Open
