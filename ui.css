@@ -94,12 +94,14 @@ div:hover
 {
 	font-size: 20px;
 	max-width: 300px;
+	min-width: 300px;
 	background-color: rgb(44, 60, 70);
-	transition: max-width .15s;
+	transition: all .15s;
 }
 
 #functions.isOpen
 {
+	min-width: 0px;
 	max-width: 0px;
 }
 
@@ -135,6 +137,13 @@ div:hover
 	margin: 5px;
 	padding: 5px;
 	text-align: center;
+	max-height: 100px;
+	overflow: auto;
+}
+
+.classholder
+{
+	/*flex: 1;*/
 }
 
 .fall
@@ -228,11 +237,6 @@ div:hover
 {
 	font-size: 40px;
 	transition: all .5s;
-}
-
-.classholder
-{
-	flex: 1;
 }
 
 /* --- the following is for minimal scrollbars on webkit based browsers --- */

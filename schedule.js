@@ -15,9 +15,11 @@ function addTerm( id )
 	var classaddbutton = document.createElement( "div" );
 	// classaddbutton.classList.add( "classaddbutton" );
 	classaddbutton.innerText = "+";
+	classaddbutton.onclick = addRandomCourse;
 
 	var classholder = document.createElement( "div" );
 	classholder.classList.add( "classholder" );
+	classholder.classList.add( "rowcontainer" );
 
 	var del = document.createElement( "div" );
 	del.classList.add( "delterm" );
@@ -38,4 +40,12 @@ function removeTerm( id )
 
 // do some course management stuff here while there is no database
 
-var unparsedCourseList = courseAmalgam.split( /(?=^\d{1,4}$)/m )[1] );
+var unparsedCourseList = courseAmalgam.split( /(?=^\d{1,4}$)/m );
+
+function addRandomCourse( on )
+{
+	var cls = document.createElement( "div" );
+	cls.classList.add( "course" );
+	cls.innerText = unparsedCourseList[ Math.floor( Math.random() * unparsedCourseList.length ) ];
+	on.target.parentNode.getElementsByClassName( "classholder" )[0].appendChild( cls );
+}
