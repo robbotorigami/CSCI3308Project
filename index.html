@@ -32,19 +32,27 @@
 			<div class="courseadder">Term to Insert Class into</div>
 			<div class="courseadder">I'm a brief audit summary</div>
 		</div>
-		<div class="colcontainer" id="schedule">
-			2015
-			<div class="scheduleterm intermediary">i'm some past high school things just cuz</div>
-			<div class="scheduleterm fall">i'm the first semester ever omg let's call it fall
-			<div class="course">CSCI3308</div>
-			<div class="course">CSCI3104</div>
-			<div class="course">CSCI2270</div>
+		 <div class="colcontainer" id="schedule">
+		 	<div id="terms">
+				 2015
+				<div class="scheduleterm intermediary">i'm some past high school things just cuz</div>
+				<div class="scheduleterm fall">i'm the first semester ever omg let's call it fall
+				<div class="course">CSCI3308</div>
+				<div class="course">CSCI3104</div>
+				<div class="course">CSCI2270</div>
+				</div>
+				2016
+				<div class="scheduleterm spring">wow an entire other schoolyear has begun (oops. ordering)</div>
+				<div class="scheduleterm summer">took dat summer term to expediate stuff</div>
+				<div class="scheduleterm fall">second fall ever. impressive</div>
 			</div>
-			2016
-			<div class="scheduleterm spring">wow an entire other schoolyear has begun (oops. ordering)</div>
-			<div class="scheduleterm summer">took dat summer term to expediate stuff</div>
-			<div class="scheduleterm fall">second fall ever. impressive</div>
-			<div class="scheduleterm" id="addterm">+</div>
+			<div id="addterm">
+				add<br />term
+				<div class="termselection" id="tsfall">Fall</div>
+				<div class="termselection" id="tsspring">Spring</div>
+				<div class="termselection" id="tssummer">Summer</div>
+				<div class="termselection" id="tsintermediary">Intermediary</div>
+			</div>
 		</div>
 		<div class="colcontainer" id="functions">
 			<div class="functionitem">I'm a search thing</div>
@@ -69,6 +77,8 @@
 		</div>
 	</div>
 
+
+	<script src="schedule.js"></script> <!-- TODO load this when confirmed ready; relies upon element id's -->
 	</body>
 
 </body>

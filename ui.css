@@ -113,6 +113,7 @@ div:hover
 	flex-grow: 1;
 	background-color: rgb(58, 83, 100);
 	font-style: italic;
+	overflow: auto;
 }
 
 .scheduleterm
@@ -177,7 +178,38 @@ div:hover
 
 #addterm
 {
-	margin-left: 10%;
+	/*margin-left: 10%;*/
+	background-color: rgba(0, 0, 0, .1);
+	height: 70px;
+	min-height: 70px;
+
+	padding: 10px;
+	margin: 10px;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: row;
+	overflow: auto;
+}
+
+#addterm:hover
+{
+	
+	/*background-color: rgba(0, 0, 0, .2);*/
+}
+
+.termselection
+{
+	flex: 1;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 25px;
+	transition: all .1s;
+}
+
+.termselection:hover
+{
+	background-color: rgba(255, 255, 255, .2);
+	transition: all .25s;
 }
 
 /* --- the following is for minimal scrollbars on webkit based browsers --- */
