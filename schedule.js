@@ -21,6 +21,8 @@ function addTerm( id )
 	classholder.classList.add( "classholder" );
 	classholder.classList.add( "rowcontainer" );
 
+	Sortable.create( classholder, {animation:250, draggable:".course", group:"courses"} );
+
 	var del = document.createElement( "div" );
 	del.classList.add( "delterm" );
 	del.innerText = "x";
