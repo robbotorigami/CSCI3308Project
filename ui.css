@@ -133,6 +133,8 @@ div:hover
 .course
 {
 	min-width: 300px;
+	max-width: 300px;
+	width: 300px;
 	background-color: rgba(0, 0, 0, .2);
 	margin: 5px;
 	padding: 5px;
@@ -144,6 +146,9 @@ div:hover
 .classholder
 {
 	flex: 1;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .fall
@@ -237,6 +242,10 @@ div:hover
 {
 	font-size: 40px;
 	transition: all .5s;
+}
+
+.sortable-drag {
+  /*opacity: 0;  this removes ghost */
 }
 
 /* --- the following is for minimal scrollbars on webkit based browsers --- */
