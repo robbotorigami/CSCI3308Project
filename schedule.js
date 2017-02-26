@@ -4,6 +4,7 @@ document.getElementById( "tssummer" ).onclick = addTerm;
 document.getElementById( "tsintermediary" ).onclick = addTerm;
 
 var schedule = document.getElementById( "terms" );
+Sortable.create( schedule, {animation:250, draggable:".scheduleterm"} ); // TODO make sure sortable and schedule are ready
 
 function addTerm( id )
 {
