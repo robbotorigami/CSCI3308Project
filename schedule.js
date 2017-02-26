@@ -11,5 +11,27 @@ function addTerm( id )
 	var t = document.createElement( "div" );
 	t.classList.add( "scheduleterm" );
 	t.classList.add( id.target.innerText.toLowerCase() );
+
+	var classaddbutton = document.createElement( "div" );
+	// classaddbutton.classList.add( "classaddbutton" );
+	classaddbutton.innerText = "+";
+
+	var classholder = document.createElement( "div" );
+	classholder.classList.add( "classholder" );
+
+	var del = document.createElement( "div" );
+	del.classList.add( "delterm" );
+	del.innerText = "x";
+	del.onclick = removeTerm;
+
+	t.appendChild( classaddbutton );
+	t.appendChild( classholder );
+	t.appendChild( del );
+
 	schedule.appendChild( t );
+}
+
+function removeTerm( id )
+{
+	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
 }
