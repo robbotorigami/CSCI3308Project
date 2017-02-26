@@ -35,3 +35,7 @@ function removeTerm( id )
 {
 	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
 }
+
+// do some course management stuff here while there is no database
+
+var unparsedCourseList = courseAmalgam.split( /(?=^\d{1,4}$)/m )[1] );
