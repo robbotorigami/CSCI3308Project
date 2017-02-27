@@ -34,3 +34,5 @@ Link: https://trello.com/b/f3YAkExL/tasks
 
 
 [Latest Master Preview (be wary of caching)](http://htmlpreview.github.io/?https://github.com/robbotorigami/CSCI3308Project/blob/master/index.html)
+
+[Part 2 Demo Presentation](https://docs.google.com/presentation/d/10fvtCiHCuii0phYofOP2jvLumiXRMDdUO2DaOeJoV_w/edit?usp=sharing)
