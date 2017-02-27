@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS courses (
 ) ENGINE=INNODB;
 
 CREATE TABLE IF NOT EXISTS sections (
-	id INT AUTO_INCREMENT PRIMARY KEY,
+	class_id INT AUTO_INCREMENT PRIMARY KEY,
     course_id INT,
     section_description VARCHAR(100),
     enrollment_restriction BOOL,
@@ -23,7 +23,9 @@ CREATE TABLE IF NOT EXISTS sections (
     room VARCHAR(20),
     instructor VARCHAR(40),
     startdate DATE,
-    enddate DATE    
+    enddate DATE,
+    term_year INT,
+    term_section ENUM('FALL', 'SPRING', 'SUMMER')
 ) ENGINE=INNODB;
 
 CREATE TABLE IF NOT EXISTS classtimes (
