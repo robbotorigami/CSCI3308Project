@@ -1,0 +1,257 @@
+ACCT	Accounting
+AIRR	Air Force Aerospace Studies - ROTC
+ALCV	Asian Languages and Civilizations
+AMUS	Aspen Music
+ANTH	Anthropology
+APPM	Applied Math
+APRD	Advertising, PR, & Media Design
+ARAB	Arabic Languages
+ARCH	Architecture
+AREN	Architectural Engineering
+ARSC	Arts & Sciences Courses
+ARTF	Art Film Studies
+ARTH	Art History
+ARTS	Art Studio and Non-Studio
+ASEN	Aerospace Engineering
+ASIA	Asian Studies
+ASTR	Astrophysical & Planetary Sciences
+ATLS	ATLAS
+ATOC	Atmospheric & Oceanic Sciences
+ACCT	Accounting
+AIRR	Air Force Aerospace Studies - ROTC
+ALCV	Asian Languages and Civilizations
+AMUS	Aspen Music
+ANTH	Anthropology
+APPM	Applied Math
+APRD	Advertising, PR, & Media Design
+ARAB	Arabic Languages
+ARCH	Architecture
+AREN	Architectural Engineering
+ARSC	Arts & Sciences Courses
+ARTF	Art Film Studies
+ARTH	Art History
+ARTS	Art Studio and Non-Studio
+ASEN	Aerospace Engineering
+ASIA	Asian Studies
+ASTR	Astrophysical & Planetary Sciences
+ATLS	ATLAS
+ATOC	Atmospheric & Oceanic Sciences
+ACCT	Accounting
+AIRR	Air Force Aerospace Studies - ROTC
+ALCV	Asian Languages and Civilizations
+AMUS	Aspen Music
+ANTH	Anthropology
+APPM	Applied Math
+APRD	Advertising, PR, & Media Design
+ARAB	Arabic Languages
+ARCH	Architecture
+AREN	Architectural Engineering
+ARSC	Arts & Sciences Courses
+ARTF	Art Film Studies
+ARTH	Art History
+ARTS	Art Studio and Non-Studio
+ASEN	Aerospace Engineering
+ASIA	Asian Studies
+ASTR	Astrophysical & Planetary Sciences
+ATLS	ATLAS
+ATOC	Atmospheric & Oceanic Sciences
+BADM	Business Administration
+BAKR	Baker Residential Acad Prgm
+BASE	BCOR Applied Semester Experience
+BCOR	Business Core
+BECN	Business Economics
+BMEN	Biomedical Engineering
+BPOL	Business Environment & Policy
+BSLW	Business Law
+BUSM	Business Minor
+CACI	Non-credit Cisco
+CAMW	Center of the American West
+CASP	Computer Applications Special Programs
+CEES	Central and East European Studies
+CESR	Curriculum Emphasis in Social Responsibility
+CHEM	Chemistry
+CHEN	Chemical Engineering
+CHIN	Chinese
+CLAS	Classics
+CMCI	College of Media, Communication, & Information
+CMDP	Critical Media Practices
+CNCR	Concurrent Placeholder
+COEN	College of Engineering and Applied Science Admin
+COML	Comparative Literature
+COMM	Communication
+COMR	Communication Residential Academic Program
+CONV	Convocation Music
+CSCI	Computer Science
+CSVC	Career Services
+CVEN	Civil Engineering
+CWCV	Center for Western Civilization
+DANE	Danish
+DNCE	Dance
+EALC	East Asian Languages & Civilizations
+EBIO	Ecology & Evolutionary Biology
+ECEN	Electrical & Computer Engineering
+ECON	Economics
+EDEN	Engineering for Developing Communities
+EDUC	Education
+EHON	Engineering Honors
+EMEN	Engineering Management
+EMUS	Music Ensemble
+ENEN	Energy Engineering
+ENGL	English
+ENST	Environment and Sustainability
+ENVD	Environmental Design
+ENVM	Master of the Environment
+ENVS	Environmental Studies
+ESBM	Entrepreneurial & Small Business Management
+ESLG	English as a Second Language
+ETHN	Ethnic Studies
+EVEN	Environmental Engineering
+FARR	Farrand Residential Acad Prgm
+FILM	Film Studies
+FINN	Finnish
+FNCE	Finance
+FREN	French
+FRSI	Farsi
+FYSM	First Year Seminar
+GEEN	General Engineering
+GEOG	Geography
+GEOL	Geological Sciences
+GREK	Classical Greek Language
+GRMN	German
+GRTE	Graduate Teacher Education
+GSAP	Global Studies Residential Academic Program
+GSLL	Germanic & Slavic Languages & Literatures
+HEBR	Hebrew
+HIND	Hindi
+HIST	History
+HONR	Honors
+HUEN	Humanities for Engineers
+HUMN	Humanities
+IAFS	International Affairs
+IAWP	Intermedia Art, Writing, & Performance
+IMUS	Intensive Music
+INBU	International Business Cert
+INDO	Indonesian
+INFO	Information Science
+INVS	INVST Community Studies
+IPHY	Integrative Physiology
+ITAL	Italian
+JOUR	Journalism
+JPNS	Japanese
+JRNL	Journalism
+JWST	Jewish Studies
+KREN	Korean
+LAMS	Latin American Studies
+LATN	Latin Language
+LAWS	Law School
+LDSP	Leadership Res Acad Prgrm
+LEAD	Leadership Minor
+LGBT	Lesbn/Gay/Bisexual Stdys
+LGTC	Language Technology
+LIBB	Libby Residential Acad Prgm
+LIBR	Libraries
+LING	Linguistics
+MATH	Mathematics
+MBAC	MBA Core
+MBAX	MBA Advanced Electives
+MCDB	Molecular Cell & Developmental Biology
+MCEN	Mechanical Engineering
+MDRP	Media Research and Practice
+MDST	Media Studies
+MEMS	Medieval and Early Modern Studies
+MGMT	Management
+MILR	Military Science - Army ROTC
+MKTG	Marketing
+MSBC	MS Business Core
+MSBX	MS Business Electives
+MSEN	Materials Science and Engineering
+MUEL	Music Electives
+MUSC	Music
+MUSM	Museum
+NAVR	Naval Science - ROTC
+NC M	Non-credit Music
+NCAL	Non-credit Arch/Lndscpe Design
+NCBE	Non-credit Business Education
+NCCH	Chinese
+NCCM	Communication
+NCED	Non-credit Education
+NCEM	Non-credit Engineering Management
+NCEN	Non-credit Engineering
+NCFA	Fine Arts
+NCFR	French
+NCGK	Greek
+NCGR	German
+NCHI	Non-credit History
+NCHS	Non-credit High School
+NCIE	International English
+NCIT	Italian
+NCJP	Non-credit Japanese
+NCJR	Non-credit Journalism
+NCKR	Non-credit Korean
+NCLN	Non-credit Latin
+NCLS	Lifestyle
+NCMU	Music
+NCPR	Non-credit Portuguese
+NCPS	Non-credit Profssional Seminar
+NCRU	Non-credit Russian
+NCSN	Spanish
+NCSO	Non-credit Sports/Outdoors
+NCSP	Sustainable Practices
+NCSS	Science and Society
+NCSW	Non-credit Swedish
+NCTH	Theater
+NCTM	Non-credit Technology & Media
+NCWR	Writing
+NORW	Norwegian
+NRLN	Norlin Scholars
+NRSC	Neuroscience
+OPIM	Operations and Information Management
+OPMG	Operations Management
+ORMG	Organization Management
+PACS	Peace & Conflict Studies
+PHED	Physical Education
+PHIL	Philosophy
+PHYS	Physics
+PMUS	Performance Music
+PORT	Portuguese
+PRLC	Presidents Leadership Class
+PSCI	Political Science
+PSYC	Psychology
+RCPR	Reciprocal Exchange
+REAL	Real Estate
+RLST	Religious Studies
+RSEI	Renewable and Sustainable Energy Institute
+RUSS	Russian
+SCAN	Scandinavian
+SEWL	Sewall Residential Acad Prgm
+SLHS	Speech, Language, & Hearing Sciences
+SNSK	Sanskrit
+SOCY	Sociology
+SPAN	Spanish
+SSIR	Sustainability and Social Innovation RAP
+STDY	Study Abroad
+SUST	Sustainability by Design RAP
+SWED	Swedish
+SYST	Systems
+TBTN	Tibetan
+TDXD	Experience Design
+THDN	Theater, Dance and Performance Studies
+THTR	Theatre
+TLEN	Telecommunications
+TMUS	Thesis Music
+TOMG	Tourism Management
+TREC	Tourism & Recreation
+TRMG	Transportation & Dist. Mngmt.
+WGST	Women and Gender Studies
+WMST	Women's Studies
+WRTG	Writing and Rhetoric
+XFCR	General Credit
+XTAP	Generic Architecture & Planning Transfer
+XTAS	Generic AS Transfer
+XTBU	Generic Business Transfer
+XTCR	Generic Boulder Transfer
+XTED	Generic Education Transfer
+XTEN	Generic Engineering Transfer
+XTJR	Generic Journalism Transfer
+XTMU	Generic Music Transfer
+YIDD	Yiddish
