@@ -8,9 +8,9 @@
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> -->
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> -->
 	<script src="mergedHack.js"></script>
-	<script src="Sortable/Sortable.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato">
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300">
+	<script src="dependencies/Sortable/Sortable.min.js"></script>
+	<!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato"> -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="ui.css" />
 </head>
 
@@ -19,14 +19,17 @@
 	<div class="colcontainer" id="maincontent">
 
 	<div id="header">
-		It's time to end scheduling insanity.
-		<div class="rowcontainer" id="headerLinks">
-			<div class="headeritem">Link1</div>
-			<div class="headeritem">Link2</div>
-			<div class="headeritem">Link3</div>
-			<button style="flex: 1;background: transparent; color: inherit; text-align: right;" onclick="document.getElementById('functions').classList.toggle('isOpen');">toggle functions</button>
+		<div class="colcontainer">
+			<div>It's time to end scheduling insanity.</div>
+			<div class="rowcontainer" id="headerLinks">
+				<div class="headeritem">Publish</div>
+				<div class="headeritem">Compare With</div>
+				<div class="headeritem">Fork</div>
+				<button style="flex: 1;background: transparent; color: inherit; text-align: right;" onclick="document.getElementById('functions').classList.toggle('isOpen');">toggle functions</button>
+			</div>
 		</div>
 	</div>
+	<hr />
 	<div class="rowcontainer">
 <!-- 		<div class="colcontainer" id="classaddinterface">
 			Course Adder
@@ -60,7 +63,8 @@
 				<div class="termselection" id="tsintermediary">Intermediary</div>
 			</div>
 		</div>
-		<div class="colcontainer" id="functions">
+		<!-- todo rename isOpen to isClosed... if this is even going to be kept -->
+		<div class="colcontainer isOpen" id="functions">
 			<div class="functionitem">I'm a search thing</div>
 			<div class="functionitem">I'm a equivalent class finder thing</div>
 			<div class="functionitem">I'm a permutation generator</div>

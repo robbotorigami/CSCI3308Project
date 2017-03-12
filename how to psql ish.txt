@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/15237366/how-to-execute-a-sql-script-on-heroku
+
+heroku config --app csci3308project
+	shows the shit you need
+
+set PGPASSWORD=7a929823b067dc01ca47dfafba91b7fb9c7b63ed58419c5249ea828576425470
+	sets the damned password
+
+psql -h ec2-54-243-185-99.compute-1.amazonaws.com -p 5432 -d d2gh98eb33jimt -U aadvezpiuguyvz -f "./Reference SQL queries/create_database.sql"
+	runs the damned file from the superdirectory
+
+heroku pg:psql --app csci3308project
+	manual interface; sql normally
