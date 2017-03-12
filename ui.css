@@ -13,6 +13,7 @@ html, body
 	/*font-family: 'Roboto';*/
 	font-family: 'Montserrat', sans-serif;
     font-size: 18px;
+    font-weight: 400;
 }
 
 *, *:before, *:after
@@ -142,6 +143,9 @@ div:hover
 	font-style: normal;
 	background-color: rgba( 255, 255, 255, .7 );
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	/* this was added to get the term text display absolute to work. plz don't screw up other stuff later */
+	position: relative;
 }
 
 .course
@@ -161,6 +165,12 @@ div:hover
 	border-color: rgba( 0, 0, 0, 1 );
 	border-width: 2px;
 	color: rgb(225, 225, 225);
+
+	z-index: 4;
+
+/*	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;*/
 }
 
 .classholder
@@ -171,24 +181,47 @@ div:hover
 	flex-wrap: wrap;
 }
 
-.fall
+.scheduleterm::before
+{
+	position: absolute;
+	top: 5px;
+	right: 80px;
+	/*width: 0;*/
+	flex: none;
+	font-size: 46px;
+	font-weight: 900;
+
+
+background-color: #888;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.25) 0px 3px 3px;
+}
+
+.fall::before
 {
 	/*background-color: rgba(50, 50, 150, .3);*/
+	content: "Fall";
 }
 
-.spring
+.spring::before
 {
 	/*background-color: rgba(50, 150, 50, .3);*/
+	content: "Spring";
 }
 
-.summer
+.summer::before
 {
 	/*background-color: rgba(150, 50, 50, .3);*/
+	content: "Summer";
 }
 
-.intermediary
+.intermediary::before
 {
 	/*background-color: rgba(50, 50, 50, .3);*/
+	content: "Intermediary";
 }
 
 #classaddinterface
