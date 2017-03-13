@@ -138,7 +138,6 @@ div:hover
 	border-radius: 3px;
 	display: flex;
 	flex-direction: row;
-	overflow: auto;
 	min-height: 70px;
 	font-style: normal;
 	background-color: rgba( 255, 255, 255, .7 );
@@ -146,6 +145,9 @@ div:hover
 
 	/* this was added to get the term text display absolute to work. plz don't screw up other stuff later */
 	position: relative;
+
+	/* this was added to get the course adder to display over everything else. plz don't screw up other stuff later. was simply overflow: auto*/
+	overflow: visible;
 }
 
 .course
@@ -295,6 +297,30 @@ background-color: #888;
 {
 	font-size: 40px;
 	transition: all .5s;
+}
+
+input
+{
+	background-color: transparent;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 5px;
+	border-color: rgba( 0, 0, 0, .8 );
+	padding: 5px;
+	width: 120px;
+	transition: all .5s;
+}
+
+input:focus
+{
+	background-color: rgba( 0, 0, 0, .7 );
+}
+
+.awesomplete > ul
+{
+	width: 600px;
+	height: 600px;
+	overflow: auto;
 }
 
 .sortable-drag {
