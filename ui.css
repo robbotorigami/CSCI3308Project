@@ -321,6 +321,7 @@ input:focus
 	width: 600px;
 	height: 600px;
 	overflow: auto;
+	z-index: 6 !important;
 }
 
 .sortable-drag {
