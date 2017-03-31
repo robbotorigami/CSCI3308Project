@@ -5,6 +5,9 @@ from django.urls import reverse
 from django.views import generic
 from .models import Question, Choice
 
+def index(request):
+    return render(request, 'scheduler/home.html', {})
+
 class IndexView(generic.ListView):
     template_name = 'scheduler/index.html'
     context_object_name = 'latest_question_list'

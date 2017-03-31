@@ -1354,7 +1354,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Goldfarb,
+Instructor Kathryn Goldfarb, 
 Kelly Graves
 
 Room MCOL W100
@@ -1371,7 +1371,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Goldfarb,
+Instructor Kathryn Goldfarb, 
 Texanna Day
 
 Room MUEN E130
@@ -1388,7 +1388,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Goldfarb,
+Instructor Kathryn Goldfarb, 
 Kelly Graves
 
 Room HLMS 181
@@ -1405,7 +1405,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Goldfarb,
+Instructor Kathryn Goldfarb, 
 Texanna Day
 
 Room HALE 236
@@ -1422,7 +1422,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Goldfarb,
+Instructor Kathryn Goldfarb, 
 Kelly Graves
 
 Room HLMS 193
@@ -2949,7 +2949,7 @@ Consent Required N
 Seats Remaining 28
 Waitlist Total 0
 MiscInfo nil
-Instructor Anthony Wong,
+Instructor Anthony Wong, 
 Igor Rumanov
 
 Room FLMG 154
@@ -4070,7 +4070,7 @@ Consent Required N
 Seats Remaining 19
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Bengt Fornberg,
+Instructor Bengt Fornberg, 
 Xudan Luo
 
 Room FLMG 104
@@ -4366,7 +4366,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Bengt Fornberg,
+Instructor Bengt Fornberg, 
 Xudan Luo
 
 Room FLMG 104
@@ -4693,7 +4693,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Rafael Frongillo,
+Instructor Rafael Frongillo, 
 Stephen Becker
 
 Room ECCR 257
@@ -4790,7 +4790,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Celeste Mckeon,
+Instructor Celeste Mckeon, 
 Kyle Parr
 
 Room HALE 240
@@ -4807,7 +4807,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christopher Giangreco,
+Instructor Christopher Giangreco, 
 Jason Curry
 
 Room KTCH 1B84
@@ -5192,7 +5192,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Eric Forsyth,
+Instructor Eric Forsyth, 
 Ryan Smith
 
 Room HUMN 190
@@ -5529,7 +5529,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Leonard Beasley,
+Instructor Leonard Beasley, 
 Russell Bowen
 
 Room SEE DEPT
@@ -5546,7 +5546,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Benton Rochester,
+Instructor Benton Rochester, 
 Pablo Alejo
 
 Room SEE DEPT
@@ -5563,7 +5563,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Baker,
+Instructor Andrew Baker, 
 Jesse Weaver
 
 Room SEE DEPT
@@ -5788,7 +5788,7 @@ Consent Required N
 Seats Remaining 28
 Waitlist Total 0
 MiscInfo nil
-Instructor Alexander Gore,
+Instructor Alexander Gore, 
 Lance Cayko
 
 Room ECCR 200
@@ -5805,7 +5805,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Alexander Gore,
+Instructor Alexander Gore, 
 Lance Cayko
 
 Room ECCE 141
@@ -5822,7 +5822,7 @@ Consent Required N
 Seats Remaining 26
 Waitlist Total 0
 MiscInfo nil
-Instructor Alexander Gore,
+Instructor Alexander Gore, 
 Lance Cayko
 
 Room ECCE 141
@@ -6515,7 +6515,7 @@ Consent Required N
 Seats Remaining 15
 Waitlist Total nil
 MiscInfo nil
-Instructor Jessica Gerrity,
+Instructor Jessica Gerrity, 
 Wendy Ginsberg
 
 Room CU in DC Carnegie
@@ -9512,7 +9512,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Kurt Maute,
+Instructor Kurt Maute, 
 Mahmoud Hussein
 
 Room MATH 100
@@ -9561,7 +9561,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Penina Axelrad,
+Instructor Penina Axelrad, 
 Robert Nerem
 
 Room CHEM 140
@@ -9578,7 +9578,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Penina Axelrad,
+Instructor Penina Axelrad, 
 Robert Nerem
 
 Room ITLL 2B10
@@ -9595,7 +9595,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Penina Axelrad,
+Instructor Penina Axelrad, 
 Robert Nerem
 
 Room ITLL 2B10
@@ -9612,7 +9612,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Penina Axelrad,
+Instructor Penina Axelrad, 
 Robert Nerem
 
 Room ITLL 2B10
@@ -9629,7 +9629,7 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo nil
-Instructor Donna Gerren,
+Instructor Donna Gerren, 
 Torin Clark
 
 Room DUAN G1B30
@@ -9646,7 +9646,7 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo nil
-Instructor Donna Gerren,
+Instructor Donna Gerren, 
 Torin Clark
 
 Room ITLL 2B10
@@ -9663,7 +9663,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Donna Gerren,
+Instructor Donna Gerren, 
 Torin Clark
 
 Room ITLL 2B10
@@ -9680,7 +9680,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Donna Gerren,
+Instructor Donna Gerren, 
 Torin Clark
 
 Room ITLL 2B10
@@ -9729,7 +9729,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dale Lawrence,
+Instructor Dale Lawrence, 
 Nisar Ahmed
 
 Room FLMG 155
@@ -9746,7 +9746,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dale Lawrence,
+Instructor Dale Lawrence, 
 Nisar Ahmed
 
 Room ITLL 1B10
@@ -9763,7 +9763,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dale Lawrence,
+Instructor Dale Lawrence, 
 Nisar Ahmed
 
 Room ITLL 1B10
@@ -9780,7 +9780,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Daniel Scheeres,
+Instructor Daniel Scheeres, 
 Natasha Bosanac
 
 Room ECCR 1B40
@@ -9797,7 +9797,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Daniel Scheeres,
+Instructor Daniel Scheeres, 
 Natasha Bosanac
 
 Room ITLL 2B10
@@ -9814,7 +9814,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Daniel Scheeres,
+Instructor Daniel Scheeres, 
 Natasha Bosanac
 
 Room ITLL 2B10
@@ -9831,7 +9831,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dennis Akos,
+Instructor Dennis Akos, 
 Robert Marshall
 
 Room BESC 180
@@ -9848,7 +9848,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dennis Akos,
+Instructor Dennis Akos, 
 Robert Marshall
 
 Room ITLL 2B10
@@ -9865,7 +9865,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dennis Akos,
+Instructor Dennis Akos, 
 Robert Marshall
 
 Room ITLL 2B10
@@ -10554,7 +10554,7 @@ Consent Required N
 Seats Remaining 64
 Waitlist Total 0
 MiscInfo nil
-Instructor Amanda White,
+Instructor Amanda White, 
 Seth Hornstein
 
 Room DUAN G1B30
@@ -10571,7 +10571,7 @@ Consent Required N
 Seats Remaining 40
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Wernke,
+Instructor Heather Wernke, 
 Nicholas Schneider
 
 Room DUAN G1B20
@@ -10716,7 +10716,7 @@ Consent Required N
 Seats Remaining 33
 Waitlist Total 0
 MiscInfo nil
-Instructor David Schenck,
+Instructor David Schenck, 
 Webster Cash
 
 Room DUAN G1B20
@@ -10861,7 +10861,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Joshua Moloney,
+Instructor Joshua Moloney, 
 Zachory Berta-Thompson
 
 Room DUAN G130
@@ -10910,8 +10910,8 @@ Consent Required N
 Seats Remaining 36
 Waitlist Total 0
 MiscInfo nil
-Instructor Connor Bice,
-Juri Toomre,
+Instructor Connor Bice, 
+Juri Toomre, 
 Piyush Agrawal
 
 Room DUAN G130
@@ -10928,8 +10928,8 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Connor Bice,
-Juri Toomre,
+Instructor Connor Bice, 
+Juri Toomre, 
 Piyush Agrawal
 
 Room DUAN D318
@@ -10946,7 +10946,7 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor Connor Bice,
+Instructor Connor Bice, 
 Juri Toomre
 
 Room DUAN D318
@@ -10963,7 +10963,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Connor Bice,
+Instructor Connor Bice, 
 Juri Toomre
 
 Room DUAN D318
@@ -10980,7 +10980,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Connor Bice,
+Instructor Connor Bice, 
 Juri Toomre
 
 Room DUAN D318
@@ -10997,7 +10997,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Juri Toomre,
+Instructor Juri Toomre, 
 Piyush Agrawal
 
 Room DUAN D318
@@ -11014,7 +11014,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Stemo,
+Instructor Aaron Stemo, 
 Adam Kowalski
 
 Room DUAN G130
@@ -11031,7 +11031,7 @@ Consent Required N
 Seats Remaining 119
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Danforth,
+Instructor Charles Danforth, 
 Samantha Walker
 
 Room DUAN G1B20
@@ -11064,7 +11064,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Erica Ellingson,
+Instructor Erica Ellingson, 
 Robinson Wallace
 
 Room BESC 180
@@ -11113,7 +11113,7 @@ Consent Required N
 Seats Remaining 21
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Stemo,
+Instructor Aaron Stemo, 
 Julia Comerford
 
 Room DUAN G130
@@ -11130,7 +11130,7 @@ Consent Required N
 Seats Remaining 45
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Axel Brandenburg,
+Instructor Axel Brandenburg, 
 Daniel Everding
 
 Room BESC 180
@@ -11147,7 +11147,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mike Zawaski,
+Instructor Mike Zawaski, 
 Stephen Mojzsis
 
 Room HUMN 135
@@ -11196,7 +11196,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Baylee Bordwell,
+Instructor Baylee Bordwell, 
 Erica Ellingson
 
 Room DUAN E126
@@ -11229,7 +11229,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Brain,
+Instructor David Brain, 
 Samantha Walker
 
 Room DUAN G130
@@ -11278,7 +11278,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Schenck,
+Instructor David Schenck, 
 Douglas Duncan
 
 Room OBSV S125
@@ -11327,7 +11327,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Brian Alden,
+Instructor Brian Alden, 
 Jack Burns
 
 Room DUAN G131
@@ -11745,7 +11745,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Schaal,
+Instructor David Schaal, 
 Ian Hales
 
 Room ATLS 1B25
@@ -11762,7 +11762,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Schaal,
+Instructor David Schaal, 
 Ian Hales
 
 Room ATLS 1B25
@@ -11779,7 +11779,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Ian Hales,
+Instructor Ian Hales, 
 Kari Santos
 
 Room ATLS 1B25
@@ -11796,7 +11796,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Ian Hales,
+Instructor Ian Hales, 
 Kari Santos
 
 Room ATLS 1B25
@@ -11989,8 +11989,8 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Garrett Rue,
-Mary Osnes,
+Instructor Garrett Rue, 
+Mary Osnes, 
 Maxwell Boykoff
 
 Room ATLS 1B31
@@ -13187,7 +13187,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Danielle Lemmon,
+Instructor Danielle Lemmon, 
 Jackson Knoll
 
 Room SEEC S128
@@ -13412,7 +13412,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Brain,
+Instructor David Brain, 
 Samantha Walker
 
 Room DUAN G130
@@ -13981,7 +13981,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Thomas Ragonetti,
+Instructor Thomas Ragonetti, 
 Thomas Thibodeau
 
 Room OFF SITE
@@ -15094,7 +15094,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -15111,7 +15111,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -15128,7 +15128,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -15145,7 +15145,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -15162,7 +15162,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -15179,7 +15179,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -15196,7 +15196,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -15213,7 +15213,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -15230,7 +15230,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -15983,7 +15983,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -16000,7 +16000,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -16017,7 +16017,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Kennedy,
+Instructor Heather Kennedy, 
 Kevin Schaub
 
 Room KOBL 210
@@ -16034,7 +16034,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -16051,7 +16051,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -16068,7 +16068,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room KOBL 340
@@ -16085,7 +16085,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -16102,7 +16102,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -16119,7 +16119,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Stapp,
+Instructor Elizabeth Stapp, 
 Michael Maciszewski
 
 Room KOBL 330
@@ -16216,7 +16216,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Lynch,
+Instructor John Lynch, 
 Tracy Jennings
 
 Room RAMY C250
@@ -16233,7 +16233,7 @@ Consent Required N
 Seats Remaining 27
 Waitlist Total 0
 MiscInfo nil
-Instructor John Lynch,
+Instructor John Lynch, 
 Tracy Jennings
 
 Room RAMY C250
@@ -16250,7 +16250,7 @@ Consent Required N
 Seats Remaining 49
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room HUMN 150
@@ -16267,7 +16267,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Merrell,
+Instructor Jeffrey Merrell, 
 Joshua Neil
 
 Room HUMN 150
@@ -16284,7 +16284,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Adams,
+Instructor Heather Adams, 
 Laura Smarandescu
 
 Room KOBL 330
@@ -16301,7 +16301,7 @@ Consent Required N
 Seats Remaining 25
 Waitlist Total 0
 MiscInfo nil
-Instructor Heather Adams,
+Instructor Heather Adams, 
 Laura Smarandescu
 
 Room KOBL 330
@@ -16318,7 +16318,7 @@ Consent Required N
 Seats Remaining 30
 Waitlist Total 0
 MiscInfo nil
-Instructor Noah Zikmund,
+Instructor Noah Zikmund, 
 Thomas Nelson
 
 Room KOBL 230
@@ -16335,7 +16335,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Noah Zikmund,
+Instructor Noah Zikmund, 
 Thomas Nelson
 
 Room KOBL 230
@@ -16384,7 +16384,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Cynthia Banks,
+Instructor Cynthia Banks, 
 Daniel Zacek
 
 Room KOBL 330
@@ -16401,7 +16401,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Culbreth,
+Instructor David Culbreth, 
 Keith Stockton
 
 Room KOBL 330
@@ -16434,7 +16434,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Keith Stockton,
+Instructor Keith Stockton, 
 Mark Kuta
 
 Room KOBL S135
@@ -16451,7 +16451,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Keith Stockton,
+Instructor Keith Stockton, 
 William Calderwood
 
 Room KOBL S135
@@ -16468,7 +16468,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Cass,
+Instructor David Cass, 
 Stephanie Drumm
 
 Room KOBL 235
@@ -20821,7 +20821,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M224
@@ -20838,7 +20838,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M224
@@ -20855,7 +20855,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M224
@@ -20872,7 +20872,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M224
@@ -20889,7 +20889,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M225
@@ -20906,7 +20906,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M225
@@ -20923,7 +20923,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M225
@@ -20940,7 +20940,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Gordana Dukovic,
+Instructor Gordana Dukovic, 
 Molly Larsen
 
 Room EKLC M225
@@ -20957,7 +20957,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Ricardo Stephen,
+Instructor Ricardo Stephen, 
 Suzannah Miller
 
 Room CHEM 140
@@ -20990,7 +20990,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Lindsey Broadwell,
+Instructor Lindsey Broadwell, 
 Ricardo Stephen
 
 Room BIOT B115
@@ -21007,7 +21007,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Lindsey Broadwell,
+Instructor Lindsey Broadwell, 
 Ricardo Stephen
 
 Room BIOT B115
@@ -21152,8 +21152,8 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jenna Rimel,
-Leah Damon,
+Instructor Jenna Rimel, 
+Leah Damon, 
 Roy Parker
 
 Room BIOT B160
@@ -21170,8 +21170,8 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jenna Rimel,
-Leah Damon,
+Instructor Jenna Rimel, 
+Leah Damon, 
 Marcelo Sousa
 
 Room BIOT B160
@@ -21316,7 +21316,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Lindsey Broadwell,
+Instructor Lindsey Broadwell, 
 Ricardo Stephen
 
 Room BIOT B115
@@ -21333,7 +21333,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Lindsey Broadwell,
+Instructor Lindsey Broadwell, 
 Ricardo Stephen
 
 Room BIOT B115
@@ -21478,7 +21478,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Dylan Taatjes,
+Instructor Dylan Taatjes, 
 Jeffrey Cameron
 
 Room BIOT B331
@@ -21495,7 +21495,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Dylan Taatjes,
+Instructor Dylan Taatjes, 
 Jeffrey Cameron
 
 Room BIOT B331
@@ -22044,7 +22044,7 @@ Consent Required N
 Seats Remaining 21
 Waitlist Total 0
 MiscInfo nil
-Instructor Adam Holewinski,
+Instructor Adam Holewinski, 
 Andrew Goodwin
 
 Room BIOT A115
@@ -22061,7 +22061,7 @@ Consent Required N
 Seats Remaining 29
 Waitlist Total 0
 MiscInfo nil
-Instructor Adam Holewinski,
+Instructor Adam Holewinski, 
 Andrew Goodwin
 
 Room BIOT A115
@@ -22110,7 +22110,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT A115
@@ -22127,7 +22127,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22144,7 +22144,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22161,7 +22161,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22178,7 +22178,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT A115
@@ -22195,7 +22195,7 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22212,7 +22212,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22229,7 +22229,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Christine Hrenya,
+Instructor Christine Hrenya, 
 David Clough
 
 Room BIOT B171
@@ -22426,7 +22426,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Amy Lantrip,
+Instructor Amy Lantrip, 
 Zhiying Qian
 
 Room EDUC 136
@@ -22443,7 +22443,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor John O'Leary,
+Instructor John O'Leary, 
 Zhiying Qian
 
 Room EDUC 134
@@ -22460,7 +22460,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Yalin Zhou,
+Instructor Yalin Zhou, 
 Zhiying Qian
 
 Room HLMS 263
@@ -22493,7 +22493,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Crismon Lewis,
+Instructor Crismon Lewis, 
 Jin Chen
 
 Room HALE 236
@@ -22510,7 +22510,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jin Chen,
+Instructor Jin Chen, 
 Long Feng
 
 Room DUAN G1B27
@@ -22527,7 +22527,7 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Chun-Ling Hsu,
+Instructor Chun-Ling Hsu, 
 Guoying Gong
 
 Room MUEN D439
@@ -22544,7 +22544,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Chun-Ling Hsu,
+Instructor Chun-Ling Hsu, 
 Kangni Huang
 
 Room MUEN D439
@@ -22561,7 +22561,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Katherine Alexander,
+Instructor Katherine Alexander, 
 Sarah Zanolini
 
 Room HUMN 270
@@ -22578,7 +22578,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Katherine Alexander,
+Instructor Katherine Alexander, 
 Sarah Zanolini
 
 Room HUMN 245
@@ -22819,7 +22819,7 @@ Consent Required N
 Seats Remaining 17
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor John Christmann,
+Instructor John Christmann, 
 Mi-Kyoung Lee
 
 Room HLMS 199
@@ -23612,8 +23612,8 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Amy Voida,
-Kathleen Ryan,
+Instructor Amy Voida, 
+Kathleen Ryan, 
 Lecia Barker
 
 Room HUMN 1B50
@@ -23758,13 +23758,13 @@ Consent Required N
 Seats Remaining 26
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Alexis De Coning,
-Amy Voida,
-Deborha Campbell,
-Elizabeth Allen,
-Elizabeth Striegl,
-Kathleen Ryan,
-Lecia Barker,
+Instructor Alexis De Coning, 
+Amy Voida, 
+Deborha Campbell, 
+Elizabeth Allen, 
+Elizabeth Striegl, 
+Kathleen Ryan, 
+Lecia Barker, 
 Maya Livio
 
 Room HALE 270
@@ -23909,8 +23909,8 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Amy Voida,
-Kathleen Ryan,
+Instructor Amy Voida, 
+Kathleen Ryan, 
 Lecia Barker
 
 Room HUMN 1B50
@@ -23959,13 +23959,13 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Alexis De Coning,
-Amy Voida,
-Deborha Campbell,
-Elizabeth Allen,
-Elizabeth Striegl,
-Kathleen Ryan,
-Lecia Barker,
+Instructor Alexis De Coning, 
+Amy Voida, 
+Deborha Campbell, 
+Elizabeth Allen, 
+Elizabeth Striegl, 
+Kathleen Ryan, 
+Lecia Barker, 
 Maya Livio
 
 Room HALE 270
@@ -27439,7 +27439,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Austin Holler,
+Instructor Austin Holler, 
 Thomas Nelson
 
 Room ECCR 235
@@ -27904,7 +27904,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ITLL 1B50
@@ -27921,7 +27921,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ECCR 135
@@ -28285,7 +28285,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ITLL 1B50
@@ -28611,7 +28611,7 @@ Seats Remaining 12
 Waitlist Total 0
 MiscInfo Topic: Stats, Opt, and ML Seminar
 Notes: This is a combined section class
-Instructor Rafael Frongillo,
+Instructor Rafael Frongillo, 
 Stephen Becker
 
 Room ECCR 257
@@ -30042,7 +30042,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Austin Holler,
+Instructor Austin Holler, 
 Thomas Nelson
 
 Room ECCR 235
@@ -30507,7 +30507,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ITLL 1B50
@@ -30524,7 +30524,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ECCR 135
@@ -30888,7 +30888,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Richard Han,
+Instructor Richard Han, 
 Zachary Nies
 
 Room ITLL 1B50
@@ -31214,7 +31214,7 @@ Seats Remaining 12
 Waitlist Total 0
 MiscInfo Topic: Stats, Opt, and ML Seminar
 Notes: This is a combined section class
-Instructor Rafael Frongillo,
+Instructor Rafael Frongillo, 
 Stephen Becker
 
 Room ECCR 257
@@ -31845,7 +31845,7 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Christopher Corwin,
+Instructor Christopher Corwin, 
 Michael Walker
 
 Room FLMG 104
@@ -32025,7 +32025,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Kevin Walsh,
+Instructor Kevin Walsh, 
 Linwood Holt
 
 Room ECCE 1B41
@@ -32090,7 +32090,7 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Christopher Corwin,
+Instructor Christopher Corwin, 
 Michael Walker
 
 Room FLMG 104
@@ -33173,7 +33173,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo Topic: Contact Improv
-Instructor Erika Randall,
+Instructor Erika Randall, 
 Gwen Ritchie
 
 Room THTR W150
@@ -33447,8 +33447,8 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Brett Melbourne,
-Derek Sweeney,
+Instructor Brett Melbourne, 
+Derek Sweeney, 
 Pieter Johnson
 
 Room HUMN 1B50
@@ -33465,8 +33465,8 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Brett Melbourne,
-Derek Sweeney,
+Instructor Brett Melbourne, 
+Derek Sweeney, 
 Pieter Johnson
 
 Room HUMN 1B50
@@ -33483,8 +33483,8 @@ Consent Required N
 Seats Remaining 85
 Waitlist Total 0
 MiscInfo nil
-Instructor Derek Sweeney,
-Kendi Davies,
+Instructor Derek Sweeney, 
+Kendi Davies, 
 Rebecca Safran
 
 Room MATH 100
@@ -33501,8 +33501,8 @@ Consent Required N
 Seats Remaining 210
 Waitlist Total 0
 MiscInfo nil
-Instructor Derek Sweeney,
-Kendi Davies,
+Instructor Derek Sweeney, 
+Kendi Davies, 
 Rebecca Safran
 
 Room MATH 100
@@ -34543,7 +34543,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Grietje Van Der Heide,
+Instructor Grietje Van Der Heide, 
 Kimberly Vincent
 
 Room KTCH 1B14
@@ -34560,7 +34560,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Chiara Forrester,
+Instructor Chiara Forrester, 
 Kimberly Vincent
 
 Room KTCH 1B14
@@ -34577,7 +34577,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Caldwell,
+Instructor Megan Caldwell, 
 Nathan MacArthur
 
 Room KTCH 1B14
@@ -34594,7 +34594,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Caldwell,
+Instructor Megan Caldwell, 
 Nathan MacArthur
 
 Room KTCH 1B14
@@ -34611,7 +34611,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Chiara Forrester,
+Instructor Chiara Forrester, 
 Grietje Van Der Heide
 
 Room KTCH 1B14
@@ -34852,7 +34852,7 @@ Consent Required N
 Seats Remaining 34
 Waitlist Total 0
 MiscInfo nil
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room GOLD A120
@@ -34869,8 +34869,8 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
-Nolan Kane,
+Instructor Nancy Emery, 
+Nolan Kane, 
 Silas Tittes
 
 Room RAMY N1B36
@@ -34887,7 +34887,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -34920,7 +34920,7 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo nil
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -34937,7 +34937,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -34954,7 +34954,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -34971,7 +34971,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -34988,7 +34988,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35005,7 +35005,7 @@ Consent Required N
 Seats Remaining 32
 Waitlist Total 0
 MiscInfo nil
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room HUMN 250
@@ -35022,8 +35022,8 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
-Nolan Kane,
+Instructor Nancy Emery, 
+Nolan Kane, 
 Silas Tittes
 
 Room RAMY N1B36
@@ -35040,7 +35040,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35057,7 +35057,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35090,7 +35090,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35107,7 +35107,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35124,7 +35124,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35141,7 +35141,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Nancy Emery,
+Instructor Nancy Emery, 
 Nolan Kane
 
 Room RAMY N1B36
@@ -35190,7 +35190,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35207,7 +35207,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35224,7 +35224,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35241,7 +35241,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35258,7 +35258,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35275,7 +35275,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35292,7 +35292,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35309,7 +35309,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35326,7 +35326,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -35343,7 +35343,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor John Basey,
+Instructor John Basey, 
 Steve Schmidt
 
 Room RAMY N1B24
@@ -36071,9 +36071,9 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo Topic: Evolutionary Genomics
-Instructor Nolan Kane,
-Rebecca Safran,
-Samuel Flaxman,
+Instructor Nolan Kane, 
+Rebecca Safran, 
+Samuel Flaxman, 
 Scott Taylor
 
 Room SEE DEPT
@@ -36090,9 +36090,9 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo Topic: Diversity Ecol & Evol Biology
-Instructor Julian Resasco,
-Kendi Davies,
-Mallory Choudoir,
+Instructor Julian Resasco, 
+Kendi Davies, 
+Mallory Choudoir, 
 Scott Taylor
 
 Room RAMY N183
@@ -36413,7 +36413,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Dimitra Psychogiou,
+Instructor Dimitra Psychogiou, 
 Z Popovic
 
 Room ECEE 1B32
@@ -36430,7 +36430,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dimitra Psychogiou,
+Instructor Dimitra Psychogiou, 
 Z Popovic
 
 Room ECEE 281
@@ -36771,8 +36771,8 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Chun-Ting Wang Lee,
-Eric Bogatin,
+Instructor Chun-Ting Wang Lee, 
+Eric Bogatin, 
 Melinda Piket
 
 Room ITLL 1B50
@@ -37404,8 +37404,8 @@ Consent Required N
 Seats Remaining 17
 Waitlist Total 0
 MiscInfo Topic: Embedding Sensors & Actuators
-Instructor James Zweighaft,
-Nestor Lobo,
+Instructor James Zweighaft, 
+Nestor Lobo, 
 Rishabh Berlia
 
 Room ECEE 283
@@ -37454,8 +37454,8 @@ Consent Required N
 Seats Remaining 24
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Chun-Ting Wang Lee,
-Eric Bogatin,
+Instructor Chun-Ting Wang Lee, 
+Eric Bogatin, 
 Melinda Piket
 
 Room ITLL 1B50
@@ -37472,7 +37472,7 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo nil
-Instructor Albin Gasiewski,
+Instructor Albin Gasiewski, 
 Kun Zhang
 
 Room ECCS 1B14
@@ -37729,7 +37729,7 @@ Consent Required N
 Seats Remaining 21
 Waitlist Total 0
 MiscInfo nil
-Instructor Nikola Milivojevic,
+Instructor Nikola Milivojevic, 
 Yusuf Gurkaynak
 
 Room ECCS 1B28
@@ -40086,7 +40086,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Brian Marein,
+Instructor Brian Marein, 
 Oleg Baranov
 
 Room ECON 5
@@ -40103,7 +40103,7 @@ Consent Required N
 Seats Remaining 19
 Waitlist Total 0
 MiscInfo nil
-Instructor Martin Boileau,
+Instructor Martin Boileau, 
 Minghui Li
 
 Room ECON 119
@@ -40120,8 +40120,8 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo nil
-Instructor Brian Marein,
-Minghui Li,
+Instructor Brian Marein, 
+Minghui Li, 
 Xiaodong Liu
 
 Room ECON 119
@@ -40250,7 +40250,7 @@ Consent Required N
 Seats Remaining 15
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Writer,
+Instructor Jeffrey Writer, 
 Jennifer Keil
 
 Room EDUC 346
@@ -40267,7 +40267,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Writer,
+Instructor Jeffrey Writer, 
 Malinda Zarske
 
 Room EDUC 346
@@ -40284,7 +40284,7 @@ Consent Required N
 Seats Remaining 22
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Writer,
+Instructor Jeffrey Writer, 
 Malinda Zarske
 
 Room EDUC 346
@@ -40301,7 +40301,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Jennifer Keil,
+Instructor Jennifer Keil, 
 Michael Matassa
 
 Room EDUC 346
@@ -40318,7 +40318,7 @@ Consent Required N
 Seats Remaining 11
 Waitlist Total 0
 MiscInfo nil
-Instructor Jennifer Keil,
+Instructor Jennifer Keil, 
 Michael Matassa
 
 Room EDUC 346
@@ -41201,7 +41201,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Erin Furtak,
+Instructor Erin Furtak, 
 Michael Klymkowsky
 
 Room EDUC 346
@@ -41844,7 +41844,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Erin Furtak,
+Instructor Erin Furtak, 
 Michael Klymkowsky
 
 Room EDUC 346
@@ -42117,7 +42117,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Allison Atteberry,
+Instructor Allison Atteberry, 
 Spencer Dudley
 
 Room EDUC 346
@@ -42134,7 +42134,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Aachey Jurow,
+Instructor Aachey Jurow, 
 Vanessa Schwarz
 
 Room EDUC 132
@@ -42743,7 +42743,7 @@ Consent Required N
 Seats Remaining 42
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Craig Robertson,
+Instructor Craig Robertson, 
 Gregory Gentry
 
 Room MCKY 102
@@ -42760,7 +42760,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Gregory Gentry,
+Instructor Gregory Gentry, 
 Nathan Payant
 
 Room MCKY 102
@@ -42994,7 +42994,7 @@ Consent Required N
 Seats Remaining 61
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Christopher Tran,
+Instructor Christopher Tran, 
 Rafael Rodriguez
 
 Room MUS E160
@@ -43059,7 +43059,7 @@ Consent Required N
 Seats Remaining 42
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Craig Robertson,
+Instructor Craig Robertson, 
 Gregory Gentry
 
 Room MCKY 102
@@ -43076,7 +43076,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Gregory Gentry,
+Instructor Gregory Gentry, 
 Nathan Payant
 
 Room MCKY 102
@@ -43308,7 +43308,7 @@ Consent Required N
 Seats Remaining 61
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor Christopher Tran,
+Instructor Christopher Tran, 
 Rafael Rodriguez
 
 Room MUS E160
@@ -44004,7 +44004,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Erica Sabelawski,
+Instructor Erica Sabelawski, 
 Katherine Little
 
 Room CLRE 212
@@ -44021,7 +44021,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Erica Sabelawski,
+Instructor Erica Sabelawski, 
 Katherine Little
 
 Room CHEM 145
@@ -44038,7 +44038,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Katherine Little,
+Instructor Katherine Little, 
 Kathryn Roberts
 
 Room HLMS 177
@@ -44055,7 +44055,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Katherine Little,
+Instructor Katherine Little, 
 Kathryn Roberts
 
 Room ATLS 1B25
@@ -44728,7 +44728,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Denise Weber,
+Instructor Denise Weber, 
 Teresa Nugent
 
 Room HLMS 259
@@ -44745,7 +44745,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Denise Weber,
+Instructor Denise Weber, 
 Teresa Nugent
 
 Room HLMS 259
@@ -44762,7 +44762,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Tarah Dykeman,
+Instructor Tarah Dykeman, 
 Teresa Nugent
 
 Room HLMS 259
@@ -44779,7 +44779,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Julia Pillard,
+Instructor Julia Pillard, 
 Teresa Nugent
 
 Room HLMS 259
@@ -44796,7 +44796,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Julia Pillard,
+Instructor Julia Pillard, 
 Teresa Nugent
 
 Room MUEN E130
@@ -44813,7 +44813,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Tarah Dykeman,
+Instructor Tarah Dykeman, 
 Teresa Nugent
 
 Room STAD 135
@@ -46127,7 +46127,7 @@ Consent Required N
 Seats Remaining 26
 Waitlist Total 0
 MiscInfo nil
-Instructor Justin Bellucci,
+Instructor Justin Bellucci, 
 Kimberly Drennan
 
 Room ENVD 134
@@ -46224,7 +46224,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Justin Bellucci,
+Instructor Justin Bellucci, 
 Kimberly Drennan
 
 Room HLMS 201
@@ -47025,7 +47025,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Topic: Revit
-Instructor Alexander Gore,
+Instructor Alexander Gore, 
 Lance Cayko
 
 Room ENVD 211
@@ -47186,7 +47186,7 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Lydia Lawhon,
+Instructor Lydia Lawhon, 
 Shannon Simpson
 
 Room SEEC N124
@@ -47459,7 +47459,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Anna Hermes,
+Instructor Anna Hermes, 
 Eve Hinckley
 
 Room SEEC N129
@@ -47476,7 +47476,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Anna Hermes,
+Instructor Anna Hermes, 
 Eve Hinckley
 
 Room SEEC N128
@@ -47829,7 +47829,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Youkey,
+Instructor David Youkey, 
 Jasmine Carter
 
 Room MCOL W100
@@ -47846,7 +47846,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Youkey,
+Instructor David Youkey, 
 Heather Stewart
 
 Room RAMY N1B31
@@ -47879,8 +47879,8 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Garrett Rue,
-Mary Osnes,
+Instructor Garrett Rue, 
+Mary Osnes, 
 Maxwell Boykoff
 
 Room ATLS 1B31
@@ -47913,7 +47913,7 @@ Consent Required N
 Seats Remaining 11
 Waitlist Total 0
 MiscInfo Topic: Climate Impact - Arid Regions
-Instructor Atreyee Bhattacharya,
+Instructor Atreyee Bhattacharya, 
 Clare Stumpf
 
 Room SEEC N124
@@ -48042,7 +48042,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Liam Downey,
+Instructor Liam Downey, 
 Micah Pyles
 
 Room RAMY N1B23
@@ -48092,7 +48092,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Topic: Sustainable Communities
-Instructor Brian Muller,
+Instructor Brian Muller, 
 Susan Leach
 
 Room ENVD 213
@@ -48270,7 +48270,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo Topic: Science and Technology Policy
-Instructor Jack Stilgoe,
+Instructor Jack Stilgoe, 
 Patricia Romero Lankao
 
 Room SEE DEPT
@@ -48511,7 +48511,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Clinton Carroll,
+Instructor Clinton Carroll, 
 Deanne Grant
 
 Room EKLC E1B20
@@ -48528,7 +48528,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Amani Husain,
+Instructor Amani Husain, 
 Kwame Holmes
 
 Room HUMN 250
@@ -48545,7 +48545,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Amani Husain,
+Instructor Amani Husain, 
 Emma Perez
 
 Room KTCH 1B87
@@ -48722,7 +48722,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Joanne Belknap,
+Instructor Joanne Belknap, 
 Kim-Phuong Truong-Vu
 
 Room EKLC E1B20
@@ -48787,7 +48787,7 @@ Consent Required N
 Seats Remaining 67
 Waitlist Total 0
 MiscInfo Topic: The Governance of Sport
-Instructor Laura Malaver,
+Instructor Laura Malaver, 
 Roger Pielke
 
 Room SEE DEPT
@@ -48868,7 +48868,7 @@ Consent Required N
 Seats Remaining 30
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Cassandra Gonzalez,
+Instructor Cassandra Gonzalez, 
 Hillary Potter
 
 Room VAC 1B20
@@ -49065,7 +49065,7 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Christopher Corwin,
+Instructor Christopher Corwin, 
 Michael Walker
 
 Room FLMG 104
@@ -49535,8 +49535,8 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christin Turner,
-Dario Ortega,
+Instructor Christin Turner, 
+Dario Ortega, 
 Elizabeth Striegl
 
 Room ATLS 2B10
@@ -49553,8 +49553,8 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Christin Turner,
-Dario Ortega,
+Instructor Christin Turner, 
+Dario Ortega, 
 Elizabeth Striegl
 
 Room ATLS 2B10
@@ -50139,7 +50139,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Seoyeon Moon,
+Instructor Seoyeon Moon, 
 Shaun Davies
 
 Room KOBL 320
@@ -50156,7 +50156,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Seoyeon Moon,
+Instructor Seoyeon Moon, 
 Shaun Davies
 
 Room KOBL 320
@@ -50173,7 +50173,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Seoyeon Moon,
+Instructor Seoyeon Moon, 
 Shaun Davies
 
 Room KOBL 320
@@ -50190,7 +50190,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Seoyeon Moon,
+Instructor Seoyeon Moon, 
 Shaun Davies
 
 Room KOBL 320
@@ -50576,7 +50576,7 @@ Consent Required N
 Seats Remaining 47
 Waitlist Total 0
 MiscInfo nil
-Instructor Juan Jimenez Diaz,
+Instructor Juan Jimenez Diaz, 
 Kieran Murphy
 
 Room HALE 270
@@ -50977,7 +50977,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Reza Farokhfal,
+Instructor Reza Farokhfal, 
 Seyed Biashad
 
 Room EDUC 136
@@ -52002,8 +52002,8 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor Jennifer Fluri,
-John O'Loughlin,
+Instructor Jennifer Fluri, 
+John O'Loughlin, 
 William Travis
 
 Room BESC 180
@@ -53031,7 +53031,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Robert Anderson,
+Instructor Robert Anderson, 
 William Armstrong
 
 Room BESC 1B81
@@ -53764,7 +53764,7 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Mylene Jacquemart
 
 Room BESC 155
@@ -53781,7 +53781,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Lina Perez Angel,
+Instructor Lina Perez Angel, 
 Lon Abbott
 
 Room BESC 155
@@ -53798,7 +53798,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Lina Perez Angel,
+Instructor Lina Perez Angel, 
 Lon Abbott
 
 Room BESC 155
@@ -53815,7 +53815,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Hurst,
+Instructor Aaron Hurst, 
 Lon Abbott
 
 Room BESC 155
@@ -53832,7 +53832,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Lucas Haas
 
 Room BESC 155
@@ -53849,7 +53849,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Allison Kimbrough,
+Instructor Allison Kimbrough, 
 Lon Abbott
 
 Room BESC 155
@@ -53866,7 +53866,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Allison Kimbrough,
+Instructor Allison Kimbrough, 
 Lon Abbott
 
 Room BESC 155
@@ -53883,7 +53883,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Laura Stamp,
+Instructor Laura Stamp, 
 Lon Abbott
 
 Room BESC 145
@@ -53900,7 +53900,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Nadine Reitman
 
 Room BESC 145
@@ -53917,7 +53917,7 @@ Consent Required N
 Seats Remaining 11
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Nadine Reitman
 
 Room BESC 145
@@ -53934,7 +53934,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Laura Stamp,
+Instructor Laura Stamp, 
 Lon Abbott
 
 Room BESC 145
@@ -53951,7 +53951,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Mike Zawaski
 
 Room BESC 145
@@ -53968,7 +53968,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Lucas Haas
 
 Room BESC 145
@@ -53985,7 +53985,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Hurst,
+Instructor Aaron Hurst, 
 Lon Abbott
 
 Room BESC 1B81
@@ -54002,7 +54002,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Mylene Jacquemart
 
 Room BESC 1B81
@@ -54051,7 +54051,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Emily Carbone,
+Instructor Emily Carbone, 
 Robert Anderson
 
 Room BESC 1B75
@@ -54068,7 +54068,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Robert Anderson,
+Instructor Robert Anderson, 
 Thomas Enzminger
 
 Room BESC 1B75
@@ -54101,7 +54101,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor James Mize,
+Instructor James Mize, 
 Lon Abbott
 
 Room BESC 455
@@ -54118,7 +54118,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor James Mize,
+Instructor James Mize, 
 Lon Abbott
 
 Room BESC 455
@@ -54135,7 +54135,7 @@ Consent Required N
 Seats Remaining 37
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Axel Brandenburg,
+Instructor Axel Brandenburg, 
 Daniel Everding
 
 Room BESC 180
@@ -54152,7 +54152,7 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mike Zawaski,
+Instructor Mike Zawaski, 
 Stephen Mojzsis
 
 Room HUMN 135
@@ -54169,7 +54169,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Katherine Pfeiffer,
+Instructor Katherine Pfeiffer, 
 Lon Abbott
 Lon Abbott
 
@@ -54206,7 +54206,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Stern,
+Instructor Charles Stern, 
 Rhiana Henry
 
 Room BESC 455
@@ -54223,7 +54223,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Stern,
+Instructor Charles Stern, 
 Derek Weller
 
 Room BESC 455
@@ -54240,7 +54240,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Stern,
+Instructor Charles Stern, 
 Derek Weller
 
 Room BESC 455
@@ -54289,7 +54289,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Lon Abbott,
+Instructor Lon Abbott, 
 Peter Molnar
 
 Room BESC 265
@@ -54306,7 +54306,7 @@ Consent Required N
 Seats Remaining 26
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Alexis Templeton,
+Instructor Alexis Templeton, 
 Anne Fetrow
 Alexis Templeton
 
@@ -54343,7 +54343,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Budd,
+Instructor David Budd, 
 Rebekah Simon
 
 Room BESC 265
@@ -54360,7 +54360,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Budd,
+Instructor David Budd, 
 Rebekah Simon
 
 Room BESC 265
@@ -54473,7 +54473,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Anne Sheehan,
+Instructor Anne Sheehan, 
 Jefferson Yarce
 
 Room BESC 1B75
@@ -54506,7 +54506,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Robert Anderson,
+Instructor Robert Anderson, 
 William Armstrong
 
 Room BESC 1B81
@@ -54556,7 +54556,7 @@ Seats Remaining 6
 Waitlist Total 0
 MiscInfo Topic: Geologic Evolution in Amer SW
 Notes: This is a combined section class
-Instructor Jennifer Stempien,
+Instructor Jennifer Stempien, 
 Lon Abbott
 
 Room BESC 355
@@ -54606,7 +54606,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Karl Mueller,
+Instructor Karl Mueller, 
 Katherine Kravitz
 
 Room BESC 185
@@ -54721,7 +54721,7 @@ Seats Remaining 8
 Waitlist Total 0
 MiscInfo Topic: Grad Geochemical Principles
 Notes: This is a combined section class
-Instructor Alexis Templeton,
+Instructor Alexis Templeton, 
 Anne Fetrow
 Alexis Templeton
 
@@ -54776,7 +54776,7 @@ Seats Remaining 0
 Waitlist Total nil
 MiscInfo Topic: Geologic Evolution in Amer SW
 Notes: This is a combined section class
-Instructor Jennifer Stempien,
+Instructor Jennifer Stempien, 
 Lon Abbott
 
 Room BESC 355
@@ -55706,7 +55706,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Kathryn Randall,
+Instructor Kathryn Randall, 
 Nancy Vavra
 
 Room HUMN 125
@@ -56299,7 +56299,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Amani Husain,
+Instructor Amani Husain, 
 Kwame Holmes
 
 Room HUMN 250
@@ -57453,7 +57453,7 @@ Consent Required N
 Seats Remaining 118
 Waitlist Total 0
 MiscInfo nil
-Instructor Giulia Bernardini,
+Instructor Giulia Bernardini, 
 Marjorie Eddy
 
 Room MATH 100
@@ -58278,7 +58278,7 @@ Consent Required N
 Seats Remaining 27
 Waitlist Total 0
 MiscInfo nil
-Instructor Jed Brubaker,
+Instructor Jed Brubaker, 
 Rick Robinson
 
 Room HUMN 1B80
@@ -58295,7 +58295,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jed Brubaker,
+Instructor Jed Brubaker, 
 Rick Robinson
 
 Room ENVD 234A
@@ -58312,7 +58312,7 @@ Consent Required N
 Seats Remaining 13
 Waitlist Total 0
 MiscInfo nil
-Instructor Jed Brubaker,
+Instructor Jed Brubaker, 
 Rick Robinson
 
 Room ENVD 234A
@@ -58345,7 +58345,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Mohammad Rashidujjaman Rifat,
+Instructor Mohammad Rashidujjaman Rifat, 
 Wendy Norris
 
 Room ARMR 201
@@ -58362,7 +58362,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Mohammad Rashidujjaman Rifat,
+Instructor Mohammad Rashidujjaman Rifat, 
 Wendy Norris
 
 Room ARMR 201
@@ -58379,7 +58379,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Wendy Norris,
+Instructor Wendy Norris, 
 Xiaolei Huang
 
 Room ARMR 201
@@ -58396,7 +58396,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Wendy Norris,
+Instructor Wendy Norris, 
 Xiaolei Huang
 
 Room ARMR 201
@@ -59167,7 +59167,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Mathew Arnold,
+Instructor Mathew Arnold, 
 Steven Hobbs
 
 Room RAMY N268
@@ -59632,7 +59632,7 @@ Consent Required N
 Seats Remaining 21
 Waitlist Total 0
 MiscInfo nil
-Instructor Jessenia Cruz-Robles,
+Instructor Jessenia Cruz-Robles, 
 Teresa Foley
 
 Room DUAN G2B60
@@ -59857,7 +59857,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Shalaya Kipp,
+Instructor Shalaya Kipp, 
 Tyler Bammert
 
 Room RAMY C209
@@ -60550,7 +60550,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Atherton,
+Instructor David Atherton, 
 Lani Alden
 
 Room EDUC 138
@@ -60567,7 +60567,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor David Atherton,
+Instructor David Atherton, 
 Lani Alden
 
 Room MCOL E186
@@ -60584,7 +60584,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor David Atherton,
+Instructor David Atherton, 
 Ji Young Shouse
 
 Room EDUC 134
@@ -60601,7 +60601,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Atherton,
+Instructor David Atherton, 
 Ji Young Shouse
 
 Room CHEM 145
@@ -60618,7 +60618,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Joanna Blaine,
+Instructor Joanna Blaine, 
 Yoshie Arima
 
 Room HUMN 186
@@ -60651,7 +60651,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashley Webber,
+Instructor Ashley Webber, 
 Yoshie Arima
 
 Room HUMN 186
@@ -60668,7 +60668,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Allison Ahlberg,
+Instructor Allison Ahlberg, 
 Yoshie Arima
 
 Room HUMN 186
@@ -60685,7 +60685,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Brendan Craine,
+Instructor Brendan Craine, 
 Yoshie Arima
 
 Room HUMN 186
@@ -60718,7 +60718,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Natalie Collar,
+Instructor Natalie Collar, 
 Yumiko Matsunaga
 
 Room HLMS 185
@@ -60735,7 +60735,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Minako Kuhara,
+Instructor Minako Kuhara, 
 Yumiko Matsunaga
 
 Room HLMS 181
@@ -60752,7 +60752,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Catherine Turley,
+Instructor Catherine Turley, 
 Yumiko Matsunaga
 
 Room HLMS 181
@@ -60801,7 +60801,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Husby,
+Instructor Megan Husby, 
 Michiko Kaneyasu
 
 Room EDUC 134
@@ -60818,7 +60818,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Husby,
+Instructor Megan Husby, 
 Michiko Kaneyasu
 
 Room HUMN 180
@@ -60835,7 +60835,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Katherine Alexander,
+Instructor Katherine Alexander, 
 Sarah Zanolini
 
 Room HUMN 270
@@ -60852,7 +60852,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Katherine Alexander,
+Instructor Katherine Alexander, 
 Sarah Zanolini
 
 Room HUMN 245
@@ -61029,9 +61029,9 @@ Consent Required N
 Seats Remaining 55
 Waitlist Total 0
 MiscInfo nil
-Instructor Angela Chiarmonte,
-Hannah Granberry,
-Tammy Matthews,
+Instructor Angela Chiarmonte, 
+Hannah Granberry, 
+Tammy Matthews, 
 Tom Yulsman
 
 Room HALE 270
@@ -61560,7 +61560,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mei-Ling McNamara,
+Instructor Mei-Ling McNamara, 
 Paul Daugherty
 
 Room ARMR 218
@@ -61577,7 +61577,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mei-Ling McNamara,
+Instructor Mei-Ling McNamara, 
 Paul Daugherty
 Staff
 
@@ -61695,7 +61695,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mei-Ling McNamara,
+Instructor Mei-Ling McNamara, 
 Paul Daugherty
 
 Room ARMR 218
@@ -61712,7 +61712,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Mei-Ling McNamara,
+Instructor Mei-Ling McNamara, 
 Paul Daugherty
 Staff
 
@@ -62182,7 +62182,7 @@ Consent Required Y
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Dupont,
+Instructor David Dupont, 
 Ronald Sandgrund
 
 Room WLAW 300
@@ -62455,7 +62455,7 @@ Consent Required N
 Seats Remaining 15
 Waitlist Total 0
 MiscInfo nil
-Instructor Gabrielle Stafford,
+Instructor Gabrielle Stafford, 
 Susan Nevelow Mart
 
 Room WLAW 300
@@ -62680,8 +62680,8 @@ Consent Required N
 Seats Remaining 15
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashley Boothby,
-Michael Schaalman,
+Instructor Ashley Boothby, 
+Michael Schaalman, 
 Scott Moss
 
 Room WLAW 207
@@ -63242,7 +63242,7 @@ Consent Required N
 Seats Remaining 33
 Waitlist Total 0
 MiscInfo nil
-Instructor Kari Hershey,
+Instructor Kari Hershey, 
 Patrick O Rourke
 
 Room WLAW 306
@@ -63675,7 +63675,7 @@ Consent Required Y
 Seats Remaining 15
 Waitlist Total 0
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Johanna Maes
 
 Room KCEN S163
@@ -63692,7 +63692,7 @@ Consent Required Y
 Seats Remaining 15
 Waitlist Total 0
 MiscInfo nil
-Instructor Alisha Hammett,
+Instructor Alisha Hammett, 
 Ann Scarritt
 
 Room KCEN S161
@@ -63709,7 +63709,7 @@ Consent Required Y
 Seats Remaining 21
 Waitlist Total nil
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Donna Ida
 
 Room KCEN N100
@@ -63726,7 +63726,7 @@ Consent Required Y
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Lisa Bates
 
 Room KCEN S161
@@ -63743,7 +63743,7 @@ Consent Required Y
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Lisa Bates
 
 Room KCEN S161
@@ -63760,7 +63760,7 @@ Consent Required Y
 Seats Remaining 17
 Waitlist Total 0
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Johanna Maes
 
 Room KCEN N101
@@ -63777,7 +63777,7 @@ Consent Required Y
 Seats Remaining 17
 Waitlist Total 0
 MiscInfo nil
-Instructor Ann Scarritt,
+Instructor Ann Scarritt, 
 Johanna Maes
 
 Room KCEN S163
@@ -63794,8 +63794,8 @@ Consent Required Y
 Seats Remaining 20
 Waitlist Total 0
 MiscInfo nil
-Instructor Alyssa Willet,
-Ann Scarritt,
+Instructor Alyssa Willet, 
+Ann Scarritt, 
 Hannah Wilks
 
 Room CLUB 4
@@ -65771,7 +65771,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Harrison Stalvey,
+Instructor Harrison Stalvey, 
 Noah Williams
 
 Room DUAN G131
@@ -65788,7 +65788,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Harrison Stalvey,
+Instructor Harrison Stalvey, 
 Noah Williams
 
 Room MCOL E186
@@ -65805,7 +65805,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Ira Becker,
+Instructor Ira Becker, 
 Noah Williams
 
 Room MCOL E155
@@ -65822,7 +65822,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Ilia Mishev,
+Instructor Ilia Mishev, 
 Noah Williams
 
 Room STAD 112
@@ -65839,7 +65839,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Divya Vernerey,
+Instructor Divya Vernerey, 
 Vanessa Little
 
 Room CLUB 4
@@ -65856,7 +65856,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Divya Vernerey,
+Instructor Divya Vernerey, 
 Vanessa Little
 
 Room MCOL E155
@@ -65873,7 +65873,7 @@ Consent Required N
 Seats Remaining 11
 Waitlist Total 0
 MiscInfo nil
-Instructor Harrison Stalvey,
+Instructor Harrison Stalvey, 
 Vanessa Little
 
 Room STAD 112
@@ -66054,7 +66054,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Brendt Gerics,
+Instructor Brendt Gerics, 
 Sarah Arpin
 
 Room MUEN E431
@@ -66071,7 +66071,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Leo Herr,
+Instructor Leo Herr, 
 Sarah Arpin
 
 Room MUEN E126
@@ -66088,7 +66088,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Lauren Farquhar,
+Instructor Lauren Farquhar, 
 Tyler Schrock
 
 Room MUEN E118
@@ -66105,7 +66105,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Lauren Farquhar,
+Instructor Lauren Farquhar, 
 Lee Roberson
 
 Room MUEN E126
@@ -66122,7 +66122,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Braden Balentine,
+Instructor Braden Balentine, 
 Joel Ornstein
 
 Room MUEN E123
@@ -66139,7 +66139,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Sarah Arpin,
+Instructor Sarah Arpin, 
 Xingzhou Yang
 
 Room MUEN E118
@@ -66156,7 +66156,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Lauren Farquhar,
+Instructor Lauren Farquhar, 
 Lee Roberson
 
 Room MUEN E126
@@ -66173,7 +66173,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Joel Ornstein,
+Instructor Joel Ornstein, 
 Shen Lu
 
 Room MUEN E118
@@ -66190,7 +66190,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Joel Ornstein,
+Instructor Joel Ornstein, 
 Suzanne Craig
 
 Room MUEN E126
@@ -66207,7 +66207,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Stocker,
+Instructor Andrew Stocker, 
 Carlos Pinilla Suarez
 
 Room MUEN E118
@@ -66224,7 +66224,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Michael Wheeler,
+Instructor Michael Wheeler, 
 Nathan Davidoff
 
 Room MUEN E126
@@ -66241,7 +66241,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Stocker,
+Instructor Andrew Stocker, 
 Sion Ledbetter
 
 Room MUEN E118
@@ -66258,7 +66258,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Michael Wheeler,
+Instructor Michael Wheeler, 
 Ruofan Li
 
 Room MUEN E126
@@ -66275,7 +66275,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Daniel Martin,
+Instructor Daniel Martin, 
 Keli Parker
 
 Room MUEN E118
@@ -66292,7 +66292,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Isabel Corona,
+Instructor Isabel Corona, 
 Michael Wheeler
 
 Room MUEN E126
@@ -66309,7 +66309,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Ira Becker,
+Instructor Ira Becker, 
 Keli Parker
 
 Room ECCR 131
@@ -66326,7 +66326,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Stocker,
+Instructor Andrew Stocker, 
 Ira Becker
 
 Room ECCR 1B55
@@ -66379,7 +66379,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Caroline Matson,
+Instructor Caroline Matson, 
 Krisztina Dearborn
 
 Room MUEN E432
@@ -66396,7 +66396,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Caroline Matson,
+Instructor Caroline Matson, 
 Natalie Coston
 
 Room MUEN D144
@@ -66413,7 +66413,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Albany Thompson,
+Instructor Albany Thompson, 
 Caroline Matson
 
 Room CLRE 301
@@ -66510,7 +66510,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Robert Riddle,
+Instructor Robert Riddle, 
 Sarah Salmon
 
 Room MUEN E432
@@ -66527,7 +66527,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Robert Riddle,
+Instructor Robert Riddle, 
 Shawn Burkett
 
 Room MUEN E432
@@ -66544,7 +66544,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Katharine Adamyk,
+Instructor Katharine Adamyk, 
 Robert Riddle
 
 Room MUEN E432
@@ -66561,7 +66561,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Albert Bronstein,
+Instructor Albert Bronstein, 
 Yu Wang
 
 Room MUEN E123
@@ -66578,7 +66578,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Athena Sparks,
+Instructor Athena Sparks, 
 Cherry Ng
 
 Room MUEN D144
@@ -66595,7 +66595,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jun Hong,
+Instructor Jun Hong, 
 Saeed Khalili
 
 Room MUEN E432
@@ -66612,7 +66612,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Albert Bronstein,
+Instructor Albert Bronstein, 
 Matthew Pierson
 
 Room MUEN E123
@@ -66629,7 +66629,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Jun Hong,
+Instructor Jun Hong, 
 Mason Pelfrey
 
 Room MUEN E432
@@ -66646,7 +66646,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Moorhead,
+Instructor Andrew Moorhead, 
 Trubee Davison
 
 Room MUEN E432
@@ -66663,7 +66663,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Ilia Mishev,
+Instructor Ilia Mishev, 
 Laken Top
 
 Room FLMG 157
@@ -66680,7 +66680,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Jun Hong,
+Instructor Jun Hong, 
 Mark Pullins
 
 Room MUEN E126
@@ -66697,7 +66697,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Athena Sparks,
+Instructor Athena Sparks, 
 John Willis
 
 Room MUEN D144
@@ -66714,7 +66714,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Ilia Mishev,
+Instructor Ilia Mishev, 
 Yu Wang
 
 Room CLRE 301
@@ -66731,7 +66731,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Hanson Smith,
+Instructor Hanson Smith, 
 Matthew Pierson
 
 Room HLMS 263
@@ -66748,7 +66748,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Kevin Manley,
+Instructor Kevin Manley, 
 Matthew Pierson
 
 Room MCOL E158
@@ -66765,7 +66765,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Kevin Manley,
+Instructor Kevin Manley, 
 Yu Wang
 
 Room HLMS 247
@@ -66782,7 +66782,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Athena Sparks,
+Instructor Athena Sparks, 
 Sebastian Bozlee
 
 Room MUEN D144
@@ -66799,7 +66799,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Moorhead,
+Instructor Andrew Moorhead, 
 Joseph Timmer
 
 Room ECCR 1B51
@@ -66832,7 +66832,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Clifford Blakestad,
+Instructor Clifford Blakestad, 
 Pearce Washabaugh
 
 Room ECCR 1B55
@@ -66849,7 +66849,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Ryan Rosenbaum,
+Instructor Ryan Rosenbaum, 
 Taylor Klotz
 
 Room ECCR 1B55
@@ -66866,7 +66866,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jonathan Belcher,
+Instructor Jonathan Belcher, 
 Ryan Rosenbaum
 
 Room ECCR 1B55
@@ -66883,7 +66883,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Joshua Frinak,
+Instructor Joshua Frinak, 
 Pearce Washabaugh
 
 Room ECCR 1B55
@@ -66900,7 +66900,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Healy,
+Instructor Andrew Healy, 
 Magda Czubak
 
 Room ECCR 1B55
@@ -66917,7 +66917,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Paul Lessard,
+Instructor Paul Lessard, 
 Ryan Rosenbaum
 
 Room ECCR 1B55
@@ -66934,7 +66934,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Healy,
+Instructor Andrew Healy, 
 Kevin Berg
 
 Room MUEN E118
@@ -66951,7 +66951,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Pearce Washabaugh,
+Instructor Pearce Washabaugh, 
 Steven Weinell
 
 Room MUEN E118
@@ -66968,7 +66968,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Andrew Healy,
+Instructor Andrew Healy, 
 Megan Ly
 
 Room MUEN E118
@@ -68649,7 +68649,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Jennifer Martin,
+Instructor Jennifer Martin, 
 Nancy Guild
 
 Room GOLD A120
@@ -68730,7 +68730,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Nancy Guild
 
 Room GOLD A120
@@ -68795,7 +68795,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Charles Odorizzi,
+Instructor Charles Odorizzi, 
 Jennifer Knight
 
 Room MUEN E050
@@ -68812,7 +68812,7 @@ Consent Required N
 Seats Remaining 26
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Odorizzi,
+Instructor Charles Odorizzi, 
 Jennifer Knight
 
 Room MUEN E050
@@ -68829,7 +68829,7 @@ Consent Required Y
 Seats Remaining 20
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Charles Odorizzi,
+Instructor Charles Odorizzi, 
 Jennifer Knight
 
 Room MUEN E050
@@ -68878,7 +68878,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Greening,
+Instructor Megan Greening, 
 Nancy Guild
 
 Room PORT B0026
@@ -68895,7 +68895,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Greening,
+Instructor Megan Greening, 
 Nancy Guild
 
 Room PORT B0026
@@ -69040,7 +69040,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69057,7 +69057,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69074,7 +69074,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69091,7 +69091,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69108,7 +69108,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69125,7 +69125,7 @@ Consent Required N
 Seats Remaining 19
 Waitlist Total 0
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Jennifer Knight
 
 Room GOLD A2B07
@@ -69142,7 +69142,7 @@ Consent Required Y
 Seats Remaining 20
 Waitlist Total nil
 MiscInfo nil
-Instructor Christy Fillman,
+Instructor Christy Fillman, 
 Nancy Guild
 
 Room GOLD A1B20
@@ -69271,7 +69271,7 @@ Consent Required N
 Seats Remaining 87
 Waitlist Total 0
 MiscInfo nil
-Instructor Andreas Hoenger,
+Instructor Andreas Hoenger, 
 Gia Voeltz
 
 Room GOLD A2B70
@@ -69304,7 +69304,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Topic: Mutating Xenopus
-Instructor Bilge Birsoy,
+Instructor Bilge Birsoy, 
 Michael Klymkowsky
 
 Room GOLD A250
@@ -69613,7 +69613,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Erin Furtak,
+Instructor Erin Furtak, 
 Michael Klymkowsky
 
 Room EDUC 346
@@ -69630,7 +69630,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Gia Voeltz,
+Instructor Gia Voeltz, 
 Min Han
 
 Room GOLD A350
@@ -70543,7 +70543,7 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor Daria Kotys,
+Instructor Daria Kotys, 
 Julie Steinbrenner
 
 Room SEE DEPT
@@ -71369,7 +71369,7 @@ Consent Required Y
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo Topic: PBL in Rural Schools
-Instructor Daniel Knight,
+Instructor Daniel Knight, 
 Michael Hannigan
 
 Room FLMG 271B
@@ -71386,7 +71386,7 @@ Consent Required Y
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo Topic: Thermofluids Lab
-Instructor Gregory Rieker,
+Instructor Gregory Rieker, 
 Julie Steinbrenner
 
 Room ECCR 139
@@ -71403,7 +71403,7 @@ Consent Required Y
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Topic: Thermofluids Lab
-Instructor Gregory Rieker,
+Instructor Gregory Rieker, 
 Julie Steinbrenner
 
 Room SEE DEPT
@@ -71420,7 +71420,7 @@ Consent Required Y
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Topic: Thermofluids Lab
-Instructor Gregory Rieker,
+Instructor Gregory Rieker, 
 Julie Steinbrenner
 
 Room SEE DEPT
@@ -71437,7 +71437,7 @@ Consent Required Y
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Topic: Thermofluids Lab
-Instructor Gregory Rieker,
+Instructor Gregory Rieker, 
 Julie Steinbrenner
 
 Room SEE DEPT
@@ -71899,7 +71899,7 @@ Consent Required N
 Seats Remaining 11
 Waitlist Total 0
 MiscInfo nil
-Instructor Elizabeth Skewes,
+Instructor Elizabeth Skewes, 
 Harsha Gangadharbatla
 
 Room ARMR 1B01
@@ -73212,7 +73212,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashkan Angha,
+Instructor Ashkan Angha, 
 Karl Freund
 
 Room STAD 140
@@ -73229,7 +73229,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashkan Angha,
+Instructor Ashkan Angha, 
 Karl Freund
 
 Room STAD 140
@@ -73246,7 +73246,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashkan Angha,
+Instructor Ashkan Angha, 
 Kristin Stelzer
 
 Room STAD 112
@@ -73263,7 +73263,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Ashkan Angha,
+Instructor Ashkan Angha, 
 Kristin Stelzer
 
 Room SEE DEPT
@@ -73280,7 +73280,7 @@ Consent Required N
 Seats Remaining 24
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Roof,
+Instructor Aaron Roof, 
 Sandra Llaury
 
 Room STAD 112
@@ -73297,7 +73297,7 @@ Consent Required N
 Seats Remaining 24
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Roof,
+Instructor Aaron Roof, 
 Sandra Llaury
 
 Room SEE DEPT
@@ -75445,7 +75445,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor David Rickels,
+Instructor David Rickels, 
 Margaret Berg
 
 Room MUS C191
@@ -75510,9 +75510,9 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total nil
 MiscInfo nil
-Instructor James Dunn,
-Michael Thornton,
-Terry Sawchuk,
+Instructor James Dunn, 
+Michael Thornton, 
+Terry Sawchuk, 
 William Stanley
 
 Room MUS C191
@@ -75658,7 +75658,7 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor David Rickels,
+Instructor David Rickels, 
 Margaret Berg
 
 Room MUS C191
@@ -76011,7 +76011,7 @@ Consent Required Y
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christina Cain,
+Instructor Christina Cain, 
 Talia Karim
 
 Room MCOL E280
@@ -76660,7 +76660,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Heidi Day,
+Instructor Heidi Day, 
 Kayla Siletti
 
 Room MUEN E048
@@ -76677,7 +76677,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Eduardo Villegas,
+Instructor Eduardo Villegas, 
 Heidi Day
 
 Room MUEN E048
@@ -77190,7 +77190,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Garrett Bredeson,
+Instructor Garrett Bredeson, 
 Maggie Taylor
 
 Room HLMS 177
@@ -77207,7 +77207,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Garrett Bredeson,
+Instructor Garrett Bredeson, 
 Maggie Taylor
 
 Room HLMS 177
@@ -77224,7 +77224,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Garrett Bredeson,
+Instructor Garrett Bredeson, 
 Maggie Taylor
 
 Room HLMS 177
@@ -77289,7 +77289,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total nil
 MiscInfo Notes: This is a combined section class
-Instructor John Christmann,
+Instructor John Christmann, 
 Mi-Kyoung Lee
 
 Room HLMS 199
@@ -78122,7 +78122,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Alexandra Lloyd,
+Instructor Alexandra Lloyd, 
 Graeme Forbes
 
 Room HLMS 229
@@ -78139,7 +78139,7 @@ Consent Required N
 Seats Remaining 17
 Waitlist Total 0
 MiscInfo nil
-Instructor Alexandra Lloyd,
+Instructor Alexandra Lloyd, 
 Graeme Forbes
 
 Room HLMS 245
@@ -78156,7 +78156,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Dominic Bailey,
+Instructor Dominic Bailey, 
 Lenhardt Stevens
 
 Room VAC 1B90
@@ -78173,7 +78173,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor John Christmann,
+Instructor John Christmann, 
 Mi-Kyoung Lee
 
 Room HLMS 237
@@ -78238,7 +78238,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Alastair Norcross,
+Instructor Alastair Norcross, 
 Philip Choi
 
 Room DUAN G2B47
@@ -78255,7 +78255,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Youkey,
+Instructor David Youkey, 
 Jasmine Carter
 
 Room MCOL W100
@@ -78272,7 +78272,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor David Youkey,
+Instructor David Youkey, 
 Heather Stewart
 
 Room RAMY N1B31
@@ -78626,9 +78626,9 @@ Consent Required N
 Seats Remaining 18
 Waitlist Total nil
 MiscInfo nil
-Instructor Carol Cleland,
-Graeme Forbes,
-Raul Saucedo Ceballos,
+Instructor Carol Cleland, 
+Graeme Forbes, 
+Raul Saucedo Ceballos, 
 Robert Pasnau
 
 Room HLMS 177
@@ -81301,8 +81301,8 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Eric Zimmerman,
-Sascha Kempf,
+Instructor Eric Zimmerman, 
+Sascha Kempf, 
 Stephen Wagner
 
 Room DUAN G125
@@ -81431,7 +81431,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81448,7 +81448,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81465,7 +81465,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81482,7 +81482,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81563,7 +81563,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81580,7 +81580,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81597,7 +81597,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -81614,7 +81614,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor James Thompson,
+Instructor James Thompson, 
 Scott Diddams
 
 Room SEE DEPT
@@ -86487,7 +86487,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Emily Sager,
+Instructor Emily Sager, 
 Janet Donavan
 
 Room VAC 1B88
@@ -86504,7 +86504,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Mark Trautmann
 
 Room CLRE 302
@@ -86521,7 +86521,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Katherine Runge
 
 Room CLRE 208
@@ -86538,7 +86538,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Samantha Moya
 
 Room CLRE 302
@@ -86555,7 +86555,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Pavel Bacovsky
 
 Room CLRE 302
@@ -86572,7 +86572,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Emily Sager,
+Instructor Emily Sager, 
 Janet Donavan
 
 Room ECCR 135
@@ -86589,7 +86589,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Samantha Moya
 
 Room MUEN E064
@@ -86606,7 +86606,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Katherine Runge
 
 Room ECON 205
@@ -86623,7 +86623,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Mark Trautmann
 
 Room GUGG 2
@@ -86640,7 +86640,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Janet Donavan,
+Instructor Janet Donavan, 
 Pavel Bacovsky
 
 Room CLRE 302
@@ -86689,7 +86689,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Horst Mewes,
+Instructor Horst Mewes, 
 Kimberly Killen
 
 Room HALE 236
@@ -86706,7 +86706,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Horst Mewes,
+Instructor Horst Mewes, 
 Kimberly Killen
 
 Room DUAN G2B60
@@ -86723,7 +86723,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Brett Bessen,
+Instructor Brett Bessen, 
 Horst Mewes
 
 Room MCOL E186
@@ -86740,7 +86740,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Horst Mewes,
+Instructor Horst Mewes, 
 Matthew Bradney
 
 Room CLUB 13
@@ -86757,7 +86757,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Horst Mewes,
+Instructor Horst Mewes, 
 Matthew Bradney
 
 Room CLRE 302
@@ -86774,7 +86774,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Brett Bessen,
+Instructor Brett Bessen, 
 Horst Mewes
 
 Room CLRE 209
@@ -86823,7 +86823,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Anna Gray,
+Instructor Anna Gray, 
 Carew Boulding
 
 Room MUEN E431
@@ -86840,7 +86840,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Carew Boulding,
+Instructor Carew Boulding, 
 Erkan Gunes
 
 Room GUGG 2
@@ -86857,7 +86857,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Brendan Connell,
+Instructor Brendan Connell, 
 Carew Boulding
 
 Room ATLS 1B31
@@ -86874,7 +86874,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Anna Gray,
+Instructor Anna Gray, 
 Carew Boulding
 
 Room CLRE 104
@@ -86891,7 +86891,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Brendan Connell,
+Instructor Brendan Connell, 
 Carew Boulding
 
 Room EDUC 143
@@ -86908,7 +86908,7 @@ Consent Required N
 Seats Remaining 12
 Waitlist Total 0
 MiscInfo nil
-Instructor Adriana Molina Garzon,
+Instructor Adriana Molina Garzon, 
 Carew Boulding
 
 Room GUGG 2
@@ -86925,7 +86925,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Carew Boulding,
+Instructor Carew Boulding, 
 Erkan Gunes
 
 Room MCOL E186
@@ -86942,7 +86942,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Carew Boulding,
+Instructor Carew Boulding, 
 Vania Velasco Guachalla
 
 Room CLRE 302
@@ -86959,7 +86959,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Adriana Molina Garzon,
+Instructor Adriana Molina Garzon, 
 Carew Boulding
 
 Room MUEN E123
@@ -86976,7 +86976,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Carew Boulding,
+Instructor Carew Boulding, 
 Vania Velasco Guachalla
 
 Room GUGG 3
@@ -87025,7 +87025,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Joseph Zamadics
 
 Room GUGG 2
@@ -87042,7 +87042,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Roger Emmelhainz
 
 Room ATLS 1B25
@@ -87059,7 +87059,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Martin Vieiro
 
 Room FLMG 102
@@ -87076,7 +87076,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Dalton Dorr,
+Instructor Dalton Dorr, 
 David Brown
 
 Room GUGG 2
@@ -87093,7 +87093,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Martin Vieiro
 
 Room CLRE 302
@@ -87110,7 +87110,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Roger Emmelhainz
 
 Room EDUC 136
@@ -87127,7 +87127,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Dalton Dorr,
+Instructor Dalton Dorr, 
 David Brown
 
 Room MUEN E123
@@ -87144,7 +87144,7 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor David Brown,
+Instructor David Brown, 
 Joseph Zamadics
 
 Room EDUC 138
@@ -87209,7 +87209,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Matthew Yarbrough
 
 Room DUAN G2B60
@@ -87226,7 +87226,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Matthew Yarbrough
 
 Room MCOL E186
@@ -87243,7 +87243,7 @@ Consent Required N
 Seats Remaining 5
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Christina Boyes
 
 Room RAMY N1B31
@@ -87260,7 +87260,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Craig White
 
 Room ATLS 1B31
@@ -87277,7 +87277,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Adam Cronk,
+Instructor Adam Cronk, 
 Aysegul Aydin
 
 Room EDUC 143
@@ -87294,7 +87294,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Adam Cronk,
+Instructor Adam Cronk, 
 Aysegul Aydin
 
 Room CLRE 104
@@ -87311,7 +87311,7 @@ Consent Required N
 Seats Remaining 6
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Kimberlee Chang
 
 Room ECCR 151
@@ -87328,7 +87328,7 @@ Consent Required N
 Seats Remaining 16
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Kimberlee Chang
 
 Room CLRE 302
@@ -87345,7 +87345,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Christina Boyes
 
 Room CLRE 104
@@ -87362,7 +87362,7 @@ Consent Required N
 Seats Remaining 17
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Craig White
 
 Room CLRE 209
@@ -87379,7 +87379,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Josalyn Williams,
+Instructor Josalyn Williams, 
 Srinivas Parinandi
 
 Room HLMS 201
@@ -87524,7 +87524,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Christopher Jorde,
+Instructor Christopher Jorde, 
 Gregory Young
 
 Room HUMN 135
@@ -87621,7 +87621,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Aysegul Aydin,
+Instructor Aysegul Aydin, 
 Joshua Hunter
 
 Room KTCH 1B87
@@ -87895,7 +87895,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Megan Shannon,
+Instructor Megan Shannon, 
 Timothy Passmore
 
 Room KTCH 1B87
@@ -87912,7 +87912,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Adrian Shin,
+Instructor Adrian Shin, 
 Hannah Paul
 
 Room RAMY N1B23
@@ -88041,7 +88041,7 @@ Consent Required N
 Seats Remaining 8
 Waitlist Total 0
 MiscInfo nil
-Instructor Carey Stapleton,
+Instructor Carey Stapleton, 
 Jennifer Wolak
 
 Room KTCH 1B31
@@ -88074,7 +88074,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Topic: Network Analysis
-Instructor Alexandra Palmer,
+Instructor Alexandra Palmer, 
 Anand Sokhey
 
 Room KTCH 1B31
@@ -89531,7 +89531,7 @@ Consent Required N
 Seats Remaining 30
 Waitlist Total 0
 MiscInfo nil
-Instructor Charles Judd,
+Instructor Charles Judd, 
 Joshua Correll
 
 Room MUEN E113
@@ -89868,7 +89868,7 @@ Consent Required N
 Seats Remaining 14
 Waitlist Total 0
 MiscInfo nil
-Instructor Curtis Sears,
+Instructor Curtis Sears, 
 Lisa Chambers
 
 Room KOBL 330
@@ -91470,9 +91470,9 @@ Consent Required N
 Seats Remaining 4
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Steffen,
+Instructor Jeffrey Steffen, 
 Jennifer Lewon
-Jeffrey Steffen,
+Jeffrey Steffen, 
 Jennifer Lewon
 
 Room SLHS 230
@@ -91684,7 +91684,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Aaron Johnson,
+Instructor Aaron Johnson, 
 Michael Radelet
 
 Room HLMS 201
@@ -91701,10 +91701,10 @@ Consent Required N
 Seats Remaining 45
 Waitlist Total 0
 MiscInfo nil
-Instructor Alaina Iacobucci,
-Catherine Talbot,
-Justin Vinneau,
-Thomas Wadsworth,
+Instructor Alaina Iacobucci, 
+Catherine Talbot, 
+Justin Vinneau, 
+Thomas Wadsworth, 
 Tracy Fehr Sardone
 
 Room MUEN E050
@@ -92009,7 +92009,7 @@ Consent Required N
 Seats Remaining 19
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Jasmine Suryawan,
+Instructor Jasmine Suryawan, 
 Matthew Brown
 
 Room HUMN 1B80
@@ -92090,7 +92090,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Aubrey Limburg,
+Instructor Aubrey Limburg, 
 Matthew Brown
 
 Room CLRE 207
@@ -92155,7 +92155,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Cristen Dalessandro,
+Instructor Cristen Dalessandro, 
 Sanyu Mojola
 
 Room HLMS 199
@@ -92236,7 +92236,7 @@ Consent Required N
 Seats Remaining 22
 Waitlist Total 0
 MiscInfo nil
-Instructor Bertha Bermudez Tapia,
+Instructor Bertha Bermudez Tapia, 
 Christina Sue
 
 Room ECCR 245
@@ -92317,7 +92317,7 @@ Consent Required N
 Seats Remaining 3
 Waitlist Total 0
 MiscInfo nil
-Instructor Adenife Modile,
+Instructor Adenife Modile, 
 Liane Pedersen-Gallegos
 
 Room HUMN 135
@@ -92366,7 +92366,7 @@ Consent Required N
 Seats Remaining 20
 Waitlist Total 0
 MiscInfo nil
-Instructor Derek Lee,
+Instructor Derek Lee, 
 Mathieu Desan
 
 Room MCOL W100
@@ -92431,7 +92431,7 @@ Consent Required N
 Seats Remaining 21
 Waitlist Total 0
 MiscInfo nil
-Instructor Daniel Simon,
+Instructor Daniel Simon, 
 Ryan Masters
 
 Room HLMS 199
@@ -92464,7 +92464,7 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo nil
-Instructor Amanda Stevenson,
+Instructor Amanda Stevenson, 
 Joshua Goode
 
 Room HUMN 135
@@ -92561,7 +92561,7 @@ Consent Required N
 Seats Remaining 42
 Waitlist Total 0
 MiscInfo Topic: Sociology of Law
-Instructor Michael Burtis,
+Instructor Michael Burtis, 
 Michael Sousa
 
 Room HUMN 135
@@ -92594,7 +92594,7 @@ Consent Required N
 Seats Remaining 10
 Waitlist Total 0
 MiscInfo nil
-Instructor Michael Haffey,
+Instructor Michael Haffey, 
 Nataly Banda
 
 Room HLMS 199
@@ -92723,7 +92723,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Joanne Belknap,
+Instructor Joanne Belknap, 
 Kim-Phuong Truong-Vu
 
 Room EKLC E1B20
@@ -92740,7 +92740,7 @@ Consent Required N
 Seats Remaining 41
 Waitlist Total 0
 MiscInfo nil
-Instructor Michael Haffey,
+Instructor Michael Haffey, 
 Urooj Raja
 
 Room BESC 185
@@ -92757,7 +92757,7 @@ Consent Required N
 Seats Remaining 7
 Waitlist Total 0
 MiscInfo nil
-Instructor Hillary Steinberg,
+Instructor Hillary Steinberg, 
 Matthew Brown
 
 Room HUMN 1B80
@@ -92774,7 +92774,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Cassandra Gonzalez,
+Instructor Cassandra Gonzalez, 
 Hillary Potter
 
 Room VAC 1B20
@@ -92791,7 +92791,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Janet Jacobs,
+Instructor Janet Jacobs, 
 Stephanie Bonnes
 
 Room RAMY N1B23
@@ -92808,7 +92808,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo Topic: Street Gangs: Causes & Conseq
-Instructor David Pyrooz,
+Instructor David Pyrooz, 
 Kendra Clark
 
 Room DUAN G125
@@ -92857,7 +92857,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Qian Sun,
+Instructor Qian Sun, 
 Seth Wright
 
 Room ENVD 120
@@ -92874,7 +92874,7 @@ Consent Required N
 Seats Remaining 9
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Liam Downey,
+Instructor Liam Downey, 
 Micah Pyles
 
 Room RAMY N1B23
@@ -92939,7 +92939,7 @@ Consent Required N
 Seats Remaining 22
 Waitlist Total 0
 MiscInfo nil
-Instructor Don Grant,
+Instructor Don Grant, 
 Kendra Hutchens
 
 Room HUMN 1B80
@@ -93020,7 +93020,7 @@ Consent Required N
 Seats Remaining 35
 Waitlist Total 0
 MiscInfo Topic: Yoga, Culture and Society
-Instructor Jake Carias,
+Instructor Jake Carias, 
 Lori Hunter
 
 Room KTCH 1B87
@@ -95149,7 +95149,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo nil
-Instructor Iain Court,
+Instructor Iain Court, 
 Kerry Cripe
 
 Room THTR C370
@@ -95408,8 +95408,8 @@ Consent Required N
 Seats Remaining 1
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Garrett Rue,
-Mary Osnes,
+Instructor Garrett Rue, 
+Mary Osnes, 
 Maxwell Boykoff
 
 Room ATLS 1B31
@@ -95972,7 +95972,7 @@ Consent Required N
 Seats Remaining 19
 Waitlist Total 0
 MiscInfo nil
-Instructor Jeffrey Dimaio,
+Instructor Jeffrey Dimaio, 
 Jeffrey Smith
 
 Room ECCR 108
@@ -96118,7 +96118,7 @@ Seats Remaining 5
 Waitlist Total 0
 MiscInfo Topic: Entrep Innov & Public Policy
 Notes: This is a combined section class
-Instructor David Dupont,
+Instructor David Dupont, 
 Ronald Sandgrund
 
 Room WLAW 300
@@ -96231,7 +96231,7 @@ Consent Required N
 Seats Remaining 28
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Jasmine Suryawan,
+Instructor Jasmine Suryawan, 
 Matthew Brown
 
 Room HUMN 1B80
@@ -96248,7 +96248,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Cristen Dalessandro,
+Instructor Cristen Dalessandro, 
 Sanyu Mojola
 
 Room HLMS 199
@@ -96521,7 +96521,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Joanne Belknap,
+Instructor Joanne Belknap, 
 Kim-Phuong Truong-Vu
 
 Room EKLC E1B20
@@ -96602,7 +96602,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Cassandra Gonzalez,
+Instructor Cassandra Gonzalez, 
 Hillary Potter
 
 Room VAC 1B20
@@ -96716,7 +96716,7 @@ Consent Required N
 Seats Remaining 0
 Waitlist Total 0
 MiscInfo Notes: This is a combined section class
-Instructor Janet Jacobs,
+Instructor Janet Jacobs, 
 Stephanie Bonnes
 
 Room RAMY N1B23
@@ -97662,7 +97662,7 @@ Consent Required N
 Seats Remaining 2
 Waitlist Total 0
 MiscInfo nil
-Instructor Caroline Sinkinson,
+Instructor Caroline Sinkinson, 
 Michelle Albert
 
 Room CLRE 302
