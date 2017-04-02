@@ -4,22 +4,58 @@ import datetime
 from django.db import models
 from django.utils import timezone
 
-class Question(models.Model):
-    question_text = models.CharField(max_length=200)
-    pub_date = models.DateTimeField('date published')
+class subject(models.Model):
+    subject_name = models.CharField(max_length=4)
 
-    def __str__(self):
-        return self.question_text
+class course(models.Model):
+    subject_id = models.ForeignKey(subject, on_delete=models.CASCADE)
+    course_number = models.CharField(max_length=4)
+    course_title = models.CharField(max_length=100)
+    credit_hours = models.IntegerField()
+    description = models.CharField(max_length=2000)
 
-    def was_published_recently(self):
-        return self.pub_date >= timezone.now() - datetime.timedelta(days=1)
+class section(models.Model):
+    course_id = models.ForeignKey(course, on_delete=models.CASCADE)
+    section_description = models.CharField(max_length=100)
+    enrollment_restriction = models.BooleanField()
+    consent_required = models.BooleanField()
+    available_seats = models.IntegerField()
+    wait_list_total = models.IntegerField()
+    room = models.CharField(max_length=20)
+    instructor = models.CharField(max_length=40)
+    startdate = models.DateField()
+    enddate = models.DateField()
+    term_year = models.IntegerField()
+    FALL = 'F'
+    SPRING = 'S'
+    SUMMER = 'U'
+    TERM_SECTION_CHOICES = (
+        (FALL, 'Fall'),
+        (SPRING, 'Spring'),
+        (SUMMER, 'Summer'),
+    )
+    term_section = models.CharField(max_length=2, choices=TERM_SECTION_CHOICES)
 
-class Choice(models.Model):
-    question = models.ForeignKey(Question, on_delete=models.CASCADE)
-    choice_text = models.CharField(max_length=200)
-    votes = models.IntegerField(default=0)
-
-    def __str__(self):
-        return self.choice_text
+class classtime(models.Model):
+    section_id = models.ForeignKey(section, on_delete=models.CASCADE)
+    SUNDAY = 'S'
+    MONDAY = 'M'
+    TUESDAY = 'T'
+    WEDNESDAY = 'W'
+    THURSDAY = 'R'
+    FRIDAY = 'F'
+    SATURDAY = 'A'
+    DAY_CHOICES = (
+        (SUNDAY, 'Sunday'),
+        (MONDAY, 'Monday'),
+        (TUESDAY, 'Tuesday'),
+        (WEDNESDAY, 'Wednesday'),
+        (THURSDAY, 'Thursday'),
+        (FRIDAY, 'Friday'),
+        (SATURDAY, 'Saturday'),
+    )
+    day = models.CharField(max_length=1, choices = DAY_CHOICES)
+    start_time = models.TimeField()
+    end_time = models.TimeField()
 
 # Create your models here.

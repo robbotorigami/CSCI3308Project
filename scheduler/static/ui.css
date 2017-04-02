@@ -1,17 +1,19 @@
 html, body
 {
-	background-color: rgb(68, 98, 118);
+	background-color: rgb(225, 225, 225);
 
 	box-sizing: border-box;
-	color:lightgrey;
+	color: rgba(0, 0, 0, .8);
 	width: 100%;
 	height: 100%;
 	margin: 0;
 	padding: 0;
 
 	/*font-family: 'Lato', serif;*/
-	font-family: 'Roboto';
+	/*font-family: 'Roboto';*/
+	font-family: 'Montserrat', sans-serif;
     font-size: 18px;
+    font-weight: 400;
 }
 
 *, *:before, *:after
@@ -28,6 +30,15 @@ html, body
 	margin: 0;
 }
 
+hr
+{
+	border: none;
+	border-top: 4px solid rgba(0, 0, 0, .8);
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
 div:hover
 {
 	/*background-color: rgba(20, 20, 20, .2);*/
@@ -39,7 +50,8 @@ div:hover
 	width: 100%;
 	text-align: center;
 	font-size: 48px;
-	background-color: rgb(50, 70, 82);
+	/*background-color: rgb(50, 70, 82);*/
+	/*background: linear-gradient(transparent, rgba(0, 0, 0, .1));*/
 }
 
 .rowcontainer
@@ -63,7 +75,7 @@ div:hover
 
 .headeritem:hover
 {
-	background-color: rgba(200, 200, 200, .15);
+	/*background-color: rgba(200, 200, 200, .15);*/
 }
 
 #headerLinks
@@ -81,13 +93,13 @@ div:hover
 	border-width: 2px;
 	border-style: solid;
 	border-color: rgba(10, 10, 10, .8);
-	background-color: rgba(200,200,200,.1);
+	/*background-color: rgba(200,200,200,.1);*/
 	border-radius: 5px;
 }
 
 .functionitem:hover
 {
-	background-color: rgb(39, 52, 60)
+	/*background-color: rgb(39, 52, 60);*/
 }
 
 #functions
@@ -95,7 +107,7 @@ div:hover
 	font-size: 20px;
 	max-width: 300px;
 	min-width: 300px;
-	background-color: rgb(44, 60, 70);
+	/*background-color: rgb(44, 60, 70);*/
 	transition: all .15s;
 }
 
@@ -113,7 +125,8 @@ div:hover
 #schedule
 {
 	flex-grow: 1;
-	background-color: rgb(58, 83, 100);
+	/*background-color: rgb(58, 83, 100);*/
+	/*background-color: rgba( 0, 0, 0, .1 );*/
 	font-style: italic;
 	overflow: auto;
 }
@@ -122,12 +135,19 @@ div:hover
 {
 	padding: 10px;
 	margin: 10px;
-	border-radius: 15px;
+	border-radius: 3px;
 	display: flex;
 	flex-direction: row;
-	overflow: auto;
 	min-height: 70px;
 	font-style: normal;
+	background-color: rgba( 255, 255, 255, .7 );
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	/* this was added to get the term text display absolute to work. plz don't screw up other stuff later */
+	position: relative;
+
+	/* this was added to get the course adder to display over everything else. plz don't screw up other stuff later. was simply overflow: auto*/
+	overflow: visible;
 }
 
 .course
@@ -135,12 +155,24 @@ div:hover
 	min-width: 300px;
 	max-width: 300px;
 	width: 300px;
-	background-color: rgba(0, 0, 0, .2);
+	background-color: rgba(0, 0, 0, .7);
 	margin: 5px;
 	padding: 5px;
 	text-align: center;
 	max-height: 100px;
 	overflow: auto;
+	/*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+	border-radius: 3px;
+	border-style: solid;
+	border-color: rgba( 0, 0, 0, 1 );
+	border-width: 2px;
+	color: rgb(225, 225, 225);
+
+	z-index: 4;
+
+/*	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;*/
 }
 
 .classholder
@@ -151,24 +183,47 @@ div:hover
 	flex-wrap: wrap;
 }
 
-.fall
+.scheduleterm::before
 {
-	background-color: rgba(50, 50, 150, .3);
+	position: absolute;
+	top: 5px;
+	right: 80px;
+	/*width: 0;*/
+	flex: none;
+	font-size: 46px;
+	font-weight: 900;
+
+
+background-color: #888;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.25) 0px 3px 3px;
 }
 
-.spring
+.fall::before
 {
-	background-color: rgba(50, 150, 50, .3);
+	/*background-color: rgba(50, 50, 150, .3);*/
+	content: "Fall";
 }
 
-.summer
+.spring::before
 {
-	background-color: rgba(150, 50, 50, .3);
+	/*background-color: rgba(50, 150, 50, .3);*/
+	content: "Spring";
 }
 
-.intermediary
+.summer::before
 {
-	background-color: rgba(50, 50, 50, .3);
+	/*background-color: rgba(150, 50, 50, .3);*/
+	content: "Summer";
+}
+
+.intermediary::before
+{
+	/*background-color: rgba(50, 50, 50, .3);*/
+	content: "Intermediary";
 }
 
 #classaddinterface
@@ -242,6 +297,31 @@ div:hover
 {
 	font-size: 40px;
 	transition: all .5s;
+}
+
+input
+{
+	background-color: transparent;
+	border-style: solid;
+	border-width: 3px;
+	border-radius: 5px;
+	border-color: rgba( 0, 0, 0, .8 );
+	padding: 5px;
+	width: 120px;
+	transition: all .5s;
+}
+
+input:focus
+{
+	background-color: rgba( 0, 0, 0, .7 );
+}
+
+.awesomplete > ul
+{
+	width: 600px;
+	height: 600px;
+	overflow: auto;
+	z-index: 6 !important;
 }
 
 .sortable-drag {

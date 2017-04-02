@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 ]
 
-MIDDLEWARE = [
+MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -76,8 +76,12 @@ TEMPLATES = [
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd1v572lirkqi09',
+        'USER': 'tqaocagkxukbuo',
+        'PASSWORD': 'bb970c60a541050810865ef96162ebca3c2734b3a16b3b7fe084b0dedad08d5c',
+        'HOST': 'ec2-107-22-223-6.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
