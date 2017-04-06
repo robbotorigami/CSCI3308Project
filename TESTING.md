@@ -10,79 +10,79 @@ Vision Statement: To make educational goals reachable and understable
 User Acceptance Tests:  
 
 Use case name  
-	Verify scheduler GUI  
+    Verify scheduler GUI  
 Description  
-	Test that user can add and arrange classes  
+    Test that user can add and arrange classes  
 Pre-conditions  
-	Site has had database updated  
+    Site has had database updated  
 Test steps  
-	1. Navigate to scheduler page  
-	2. Add a Fall term  
-	3. Add a Spring term  
-	4. Add a Summer term  
-	5. Add a class to the Fall term  
-	6. Add a class to the Spring term  
-	7. Add a class to the Summer term  
-	8. Rearrange the terms to be Summer, Fall, Spring  
-	9. Remove all of the classes   
-	10. Remove all of the terms  
+    1. Navigate to scheduler page  
+    2. Add a Fall term  
+    3. Add a Spring term  
+    4. Add a Summer term  
+    5. Add a class to the Fall term  
+    6. Add a class to the Spring term  
+    7. Add a class to the Summer term  
+    8. Rearrange the terms to be Summer, Fall, Spring  
+    9. Remove all of the classes   
+    10. Remove all of the terms  
 Expected result  
-	User should be able to complete all of the above tasks  
+    User should be able to complete all of the above tasks  
 Actual result  
-	User is unable to delete classes  
+    User is unable to delete classes  
 Status (Pass/Fail)  
-	Fail  
+    Fail  
 Notes  
-	N/A  
+    N/A  
 Post-conditions  
-	None  
+    None  
 	
-Use case name
-	Verify that admins can update class list
-Description
-	Test that admins can update the class list from the cu website
-Pre-conditions
-	site must not already have courses from the term/year to be tested
-Test steps
-	1. login to admin portal at /admin
-	2. Click on update classes link
-	3. Select year and term
-	4. Click run
-	5. Look at database viewer
-Expected result
-	User should be able to see added classes and terms
-Actual result
-	User is unable to perform step 2
-Status (Pass/Fail)
-	Fail
-Notes
-	N/A
-Post-conditions
-	None
+Use case name  
+    Verify that admins can update class list  
+Description  
+    Test that admins can update the class list from the cu website  
+Pre-conditions  
+    site must not already have courses from the term/year to be tested  
+Test steps  
+    1. login to admin portal at /admin  
+    2. Click on update classes link  
+    3. Select year and term  
+    4. Click run  
+    5. Look at database viewer  
+Expected result  
+    User should be able to see added classes and terms  
+Actual result  
+    User is unable to perform step 2  
+Status (Pass/Fail)  
+    Fail  
+Notes  
+    N/A  
+Post-conditions  
+    None  
 	
-Use case name
-	Verify that user can save and open a schedule
-Description
-	Test that user is able to save a scheduler to the server, and then open the schedule
-Pre-conditions
-	site must not already have courses from the term/year to be tested
-Test steps
-	1. navigate to scheduler page
-	2. Add a fall term
-	3. Add three classes to the term
-	4. Click save
-	5. Enter a name and hit enter
-	6. Refresh the page
-	7. click load
-	8. Enter the name from 5 and hit enter
-Expected result
-	User should see the schedule they created
-Actual result
-	User is unable to perform step 4
-Status (Pass/Fail)
-	Fail
-Notes
-	N/A
+Use case name  
+    Verify that user can save and open a schedule  
+Description  
+    Test that user is able to save a scheduler to the server, and then open the schedule  
+Pre-conditions  
+    site must not already have courses from the term/year to be tested  
+Test steps  
+    1. navigate to scheduler page  
+    2. Add a fall term  
+    3. Add three classes to the term  
+    4. Click save  
+    5. Enter a name and hit enter  
+    6. Refresh the page  
+    7. click load  
+    8. Enter the name from 5 and hit enter  
+Expected result  
+    User should see the schedule they created  
+Actual result  
+    User is unable to perform step 4  
+Status (Pass/Fail)  
+    Fail  
+Notes  
+    N/A  
 Post-conditions
-	None
+    None
 	
