@@ -6,6 +6,8 @@ from django.utils import timezone
 
 class subject(models.Model):
     subject_name = models.CharField(max_length=4)
+    def __str__(self):
+        return self.subject_name
 
 class course(models.Model):
     subject_id = models.ForeignKey(subject, on_delete=models.CASCADE)
@@ -14,8 +16,13 @@ class course(models.Model):
     credit_hours = models.IntegerField()
     description = models.CharField(max_length=2000)
 
+    def __str__(self):
+        return self.subject_id.__str__() + self.course_number
+
+
 class section(models.Model):
     course_id = models.ForeignKey(course, on_delete=models.CASCADE)
+    section_number = models.IntegerField()
     section_description = models.CharField(max_length=100)
     enrollment_restriction = models.BooleanField()
     consent_required = models.BooleanField()
@@ -35,6 +42,9 @@ class section(models.Model):
         (SUMMER, 'Summer'),
     )
     term_section = models.CharField(max_length=2, choices=TERM_SECTION_CHOICES)
+
+    def __str__(self):
+        return self.course.subject + self.course + self.section_description
 
 class classtime(models.Model):
     section_id = models.ForeignKey(section, on_delete=models.CASCADE)
@@ -57,5 +67,8 @@ class classtime(models.Model):
     day = models.CharField(max_length=1, choices = DAY_CHOICES)
     start_time = models.TimeField()
     end_time = models.TimeField()
+
+    def __str__(self):
+        return self.section.section_description + self.day
 
 # Create your models here.
