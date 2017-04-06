@@ -11,7 +11,8 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 """
 
 import os
-import os.path  import sys
+import os.path
+import sys
 
 PROJECT_ROOT = os.path.normpath(os.path.dirname(__file__))
 
