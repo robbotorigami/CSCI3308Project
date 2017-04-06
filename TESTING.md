@@ -7,35 +7,35 @@ Description: CU Scheduler will be a utility for planning course schedules across
 
 Vision Statement: To make educational goals reachable and understable
 
-User Acceptance Tests:
+User Acceptance Tests:  
 
-Use case name
-	Verify scheduler GUI
-Description
-	Test that user can add and arrange classes
-Pre-conditions
-	Site has had database updated
-Test steps
-	1. Navigate to scheduler page
-	2. Add a Fall term
-	3. Add a Spring term
-	4. Add a Summer term
-	5. Add a class to the Fall term
-	6. Add a class to the Spring term
-	7. Add a class to the Summer term
-	8. Rearrange the terms to be Summer, Fall, Spring
-	9. Remove all of the classes 
-	10. Remove all of the terms
-Expected result
-	User should be able to complete all of the above tasks
-Actual result
-	User is unable to delete classes
-Status (Pass/Fail)
-	Fail
-Notes
-	N/A
-Post-conditions
-	None
+Use case name  
+	Verify scheduler GUI  
+Description  
+	Test that user can add and arrange classes  
+Pre-conditions  
+	Site has had database updated  
+Test steps  
+	1. Navigate to scheduler page  
+	2. Add a Fall term  
+	3. Add a Spring term  
+	4. Add a Summer term  
+	5. Add a class to the Fall term  
+	6. Add a class to the Spring term  
+	7. Add a class to the Summer term  
+	8. Rearrange the terms to be Summer, Fall, Spring  
+	9. Remove all of the classes   
+	10. Remove all of the terms  
+Expected result  
+	User should be able to complete all of the above tasks  
+Actual result  
+	User is unable to delete classes  
+Status (Pass/Fail)  
+	Fail  
+Notes  
+	N/A  
+Post-conditions  
+	None  
 	
 Use case name
 	Verify that admins can update class list
