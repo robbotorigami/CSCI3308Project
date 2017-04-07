@@ -7,6 +7,8 @@ Description: CU Scheduler will be a utility for planning course schedules across
 
 Vision Statement: To make educational goals reachable and understable
 
+Automated Testing: All automated tests are done using django's wrapper for pythons built in unit test. See Tests.png for screenshot. Currently, tests check for base database functionality
+
 User Acceptance Tests:  
 
 **Use case name**
