@@ -1,12 +1,13 @@
-import unittest
+from django.test import TestCase
+from .models import *
 
-class TestDatabase(unittest.TestCase):
+class TestDatabase(TestCase):
     def setUp(self):
         pass
 
     def test_insert(self):
         self.assertTrue(True, "Insert into DB failed")
-        
+
     def test_getclassinfo(self):
         self.assertTrue(True, "Get class info failed")
 
