@@ -22,7 +22,7 @@ class course(models.Model):
 
 class section(models.Model):
     course_id = models.ForeignKey(course, on_delete=models.CASCADE)
-    section_number = models.IntegerField()
+    section_number = models.IntegerField() #class number/primary key
     section_description = models.CharField(max_length=100)
     enrollment_restriction = models.BooleanField()
     consent_required = models.BooleanField()
@@ -44,7 +44,7 @@ class section(models.Model):
     term_section = models.CharField(max_length=2, choices=TERM_SECTION_CHOICES)
 
     def __str__(self):
-        return self.course.subject + self.course + self.section_description
+        return self.course_id.subject_id.__str__() + self.course_id.__str__() + self.section_description
 
 class classtime(models.Model):
     section_id = models.ForeignKey(section, on_delete=models.CASCADE)
