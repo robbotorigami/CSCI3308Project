@@ -5,6 +5,7 @@ from django.core.urlresolvers import reverse
 from django.views import generic
 from django.contrib.auth.decorators import user_passes_test
 from django.contrib.admin.views.decorators import staff_member_required
+import datetime
 from .models import *
 
 def index(request):
@@ -44,8 +45,27 @@ def addsection(request):
     sect.enddate = datetime.date(int(request.POST['endyear']),int(request.POST['endmonth']),int(request.POST['endday']))
     sect.term_year = request.POST['term_year']
     sect.term_section = request.POST['term_section']
-
     sect.save()
+
+    #remove any existing class times
+    classtime.objects.filter(section_id = sect).delete()
+    stringTimes = request.POST['times']
+    while len(stringTimes) > 0:
+        daydict = {'Sa': 'Saturday', 'Su':'Sunday', 'Mo':'Monday', 'Tu':'Tuesday', 'We':'Wednesday', 'Th':'Thursday', 'Fr':'Friday'}
+        try:
+            day = daydict[stringTimes[:2]]
+            starttime = datetime.datetime.strptime(stringTimes.split('/',1)[1].split('-',1)[0], '%I:%M%p')
+            endtime = datetime.datetime.strptime(stringTimes.split('-',1)[1].split(',',1)[0], '%I:%M%p')
+        except Exception:
+            raise Http404("Invalid class times")
+        ct = classtime()
+        ct.section_id = sect
+        ct.day = day
+        ct.start_time = starttime
+        ct.end_time = endtime
+        ct.save()
+        stringTimes = stringTimes.split(',', 1)[1]
+
     return HttpResponse("Added section" + sect.__str__())
 
 

@@ -51,7 +51,8 @@ class TestDatabase(TestCase):
             'endmonth': 9,
             'endyear': 2011,
             'term_year': 2011,
-            'term_section': 'Fall'})
+            'term_section': 'Fall',
+            'times': 'Mo/12:30PM-1:20PM,We/12:30PM-1:20PM,'})
         post_request.user = self.user
         response = addsection(post_request)
 
@@ -72,6 +73,13 @@ class TestDatabase(TestCase):
         self.assertTrue(sec.enddate == datetime.date(2011, 9, 12), 'Failed to insert section, enddate')
         self.assertTrue(sec.term_year == 2011, 'Failed to insert section, term_year')
         self.assertTrue(sec.term_section == 'Fall', 'Failed to insert section, term_section')
+
+        try:
+            ct1 = classtime.objects.get(section_id = sec, day = 'Monday', start_time=datetime.time(12,30,0), end_time=datetime.time(13,20,0))
+            ct2 = classtime.objects.get(section_id = sec, day = 'Wednesday', start_time=datetime.time(12,30,0), end_time=datetime.time(13,20,0))
+        except Exception:
+            self.fail('Failed to insert section, classtimes not inserted')
+
 
     def test_getclassinfo(self):
         self.assertTrue(True, "Get class info failed")
