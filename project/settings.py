@@ -74,7 +74,7 @@ TEMPLATES = [
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
-DATABASES = {
+DATABASES = { # i believe that heroku provides a nice way to do this that's not posting our credentials publicly
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'd1v572lirkqi09',

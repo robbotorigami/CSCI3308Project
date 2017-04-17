@@ -9,7 +9,12 @@ import datetime
 from .models import *
 
 def index(request):
-    return render(request, 'scheduler/home.html', {})
+    # return render(request, 'scheduler/home.html', {})
+    return render( request, 'scheduler/home.tmpl', {} )
+    # return HttpResponse(subject.objects.all())
+
+def getsubjs(request):
+    return HttpResponse(subject.objects.all())
 
 @staff_member_required
 def addcourse(request):
