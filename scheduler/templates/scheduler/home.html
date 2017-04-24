@@ -26,14 +26,33 @@
 		<div class="colcontainer">
 			<div>It's time to end scheduling insanity.</div>
 			<div class="rowcontainer" id="headerLinks">
-				<div class="headeritem">Publish</div>
+<!-- 				<div class="headeritem">Publish</div>
 				<div class="headeritem">Compare With</div>
-				<div class="headeritem">Fork</div>
+				<div class="headeritem">Fork</div> -->
+				<div class="headeritem" id="viewToggle" onclick="document.getElementById('viewCustomizer').classList.toggle('isOpen');">Customize View</div>
 				<button style="flex: 1;background: transparent; color: inherit; text-align: right;" onclick="document.getElementById('functions').classList.toggle('isOpen');">toggle functions</button>
 			</div>
 		</div>
 	</div>
 	<hr />
+	<div class="rowcontainer" id="viewCustomizer">
+		<div class="customViewElement" id="courseid" onclick="toggleCustomViewDisabled(this);">ID</div>
+		<div class="customViewElement" id="coursesubject" onclick="toggleCustomViewDisabled(this);">Subject</div>
+		<div class="customViewElement" id="coursenumber" onclick="toggleCustomViewDisabled(this);">Number</div>
+		<div class="customViewElement" id="coursename" onclick="toggleCustomViewDisabled(this);">Name</div>
+		<div class="customViewElement" id="courseunits" onclick="toggleCustomViewDisabled(this);">Units</div>
+		<div class="customViewElement" id="courseconsentrequired" onclick="toggleCustomViewDisabled(this);">Consent Required</div>
+		<div class="customViewElement" id="courseseatsremaining" onclick="toggleCustomViewDisabled(this);">Seats Remaining</div>
+		<div class="customViewElement" id="coursewaitlisttotal" onclick="toggleCustomViewDisabled(this);">Waitlist Total</div>
+		<div class="customViewElement" id="coursemiscinfo" onclick="toggleCustomViewDisabled(this);">Misc Info</div>
+		<div class="customViewElement" id="courseinstructor" onclick="toggleCustomViewDisabled(this);">Instructor</div>
+		<div class="customViewElement" id="courseroom" onclick="toggleCustomViewDisabled(this);">Room</div>
+		<div class="customViewElement" id="coursemeetingtime" onclick="toggleCustomViewDisabled(this);">Meeting Time</div>
+		<div class="customViewElement" id="coursesection" onclick="toggleCustomViewDisabled(this);">Section</div>
+		<div class="customViewElement" id="coursecode" onclick="toggleCustomViewDisabled(this);">Code</div>
+		<div class="customViewElement" id="coursemeetingdates" onclick="toggleCustomViewDisabled(this);">Meeting Dates</div>
+		<div class="customViewElement" id="courseopenstatus" onclick="toggleCustomViewDisabled(this);">Open Status</div>
+	</div>
 	<div class="rowcontainer">
 <!-- 		<div class="colcontainer" id="classaddinterface">
 			Course Adder
