@@ -129,7 +129,7 @@ function addTerm( id )
 
 	schedule.appendChild( t );
 
-	new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1, maxItems: 300 } );
+	new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1, maxItems: 300, autoFirst: true } );
 //	var ajax = new XMLHttpRequest();
 //	ajax.open( "GET", "https://restcountries.eu/rest/v1/lang/fr" );
 //	ajax.onload = function()
