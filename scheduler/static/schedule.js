@@ -153,11 +153,11 @@ function removeTerm( id )
 }
 
 
-// links to audit
 // and mycuinfo
-// and map
 // and yourcuinfo
 // and catalog
 // and cufcq (both the deprecated site and the current one)...
 // and ratemyprofessor
 // and google - both for professor and for course itself
+// --- links to audit
+// --- and map
