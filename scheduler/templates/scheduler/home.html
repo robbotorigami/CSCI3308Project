@@ -16,6 +16,10 @@
 	<link rel="stylesheet" href="/static/dependencies/awesomplete-gh-pages/awesomplete.css" />
 
 	<script src="/static/dependencies/awesomplete-gh-pages/awesomplete.js" async></script>
+
+	<script src="/static/dependencies/dom-to-image/dom-to-image-not-pulled.js" async></script>
+
+	<script src="/static/dependencies/FileSaver/FileSaver.min.js" async></script>
 </head>
 
 <body>
@@ -30,6 +34,7 @@
 				<div class="headeritem">Compare With</div>
 				<div class="headeritem">Fork</div> -->
 				<div class="headeritem" id="viewToggle" onclick="document.getElementById('viewCustomizer').classList.toggle('isOpen');">Customize View</div>
+				<div class="headeritem"onclick="pngExport();">Export to PNG</div>
 				<button style="flex: 1;background: transparent; color: inherit; text-align: right;" onclick="document.getElementById('functions').classList.toggle('isOpen');">toggle functions</button>
 			</div>
 		</div>

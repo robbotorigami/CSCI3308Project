@@ -58,13 +58,44 @@ function toggleCustomViewDisabled( id )
 function rearrange( evt )
 {
 	if( evt.oldIndex == evt.newIndex ) return;
-	console.log( evt )
 	Array.prototype.forEach.call( document.getElementsByClassName( "course" ), function( el )
 	{
 		var toMove = el.getElementsByClassName( evt.item.id )[0];
-		// console.log( toMove );
 		toMove.parentNode.insertBefore( toMove, el.getElementsByClassName( "courserender" )[evt.newIndex + (evt.newIndex > evt.oldIndex ? 1 : 0)] );
 	});
+}
+
+// well... turns out html has quite a lot of transparency going on... which makes sense
+// because I use transparent colours a lot... so this is a jpg. that's ok.
+// I'm sure if I just save it as a png no one will notice...
+// TODO: render all data about classes instead of restricting height of course cards
+//       additionally, don't render screwed up page heights (due to awesomplete)
+function pngExport()
+{
+	var props = {
+		width: schedule.clientWidth*3,
+		height: schedule.clientHeight*3,
+		style: {
+		'transform': 'scale('+3+')',
+		'transform-origin': 'top left'
+		},
+		bgcolor: "rgb(225, 225, 225)"
+	}
+	domtoimage.toJpeg( schedule, props )
+    .then (function (/*blob*/dataUrl) {
+        // window.saveAs( blob, "schedule.png" );
+        // var img = new Image();
+        // img.src = dataUrl;
+        // document.body.appendChild( img );
+        var link = document.createElement( 'a' );
+        link.download = "schedule.png";
+        link.href = dataUrl;
+        link.click();
+    })
+    .catch(function (error) {
+        console.error('Failed to export to png.', error);
+        alert( "Failed to export to png." );
+    });
 }
 
 function addTerm( id )
