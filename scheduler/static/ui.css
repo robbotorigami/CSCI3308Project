@@ -53,6 +53,13 @@ div:hover
 	/*background: linear-gradient(transparent, rgba(0, 0, 0, .1));*/
 }
 
+#scrapeInfo
+{
+	font-size: 14px;
+	text-align: right;
+	flex: 1;
+}
+
 .rowcontainer
 {
 	display: flex;
@@ -356,67 +363,6 @@ input:focus
 {
 	display: none;
 	visibility: hidden;
-}
-
-.courseid
-{
-	
-}
-.coursesubject
-{
-
-}
-.coursenumber
-{
-
-}
-.coursename
-{
-
-}
-.courseunits
-{
-
-}
-.coursesection
-{
-
-}
-.courseinstructor
-{
-
-}
-.coursemeetingtime
-{
-
-}
-.courseroom
-{
-
-}
-.coursemeetingdates
-{
-
-}
-.courseopenstatus
-{
-
-}
-.courseseatsremaining
-{
-
-}
-.coursewaitlisttotal
-{
-
-}
-.courseconsentrequired
-{
-
-}
-.coursemiscinfo
-{
-
 }
 
 
