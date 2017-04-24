@@ -153,15 +153,3 @@ function removeTerm( id )
 {
 	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
 }
-
-
-// and mycuinfo
-// and yourcuinfo
-// and cufcq (both the deprecated site and the current one)...
-// and google - both for professor and for course itself
-
-// --- links to audit
-
-// --- and map
-// --- and catalog
-// --- and ratemyprofessor
