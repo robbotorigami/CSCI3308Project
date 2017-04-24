@@ -39,6 +39,7 @@ document.addEventListener( "awesomplete-selectcomplete", function( selection )
 	// there is a blank line at the end of the current scrape that should be removed earlier than this stage
 
 	cls.innerHTML += "<div class='officialMapSearch'><a class='link' href='http://www.colorado.edu/campusmap/map.html?bldg=" + data[10].split( " " )[1] + "' target='_blank'>Official Map Search</a></div>"
+	cls.innerHTML += "<div class='officialMapSearch'><a class='link' href='http://www.colorado.edu/catalog/2016-17/courses?subject=" + data[1].split( " - " )[0].split( " " )[0] + "&number=" + data[1].split( " - " )[0].split( " " )[1] + "' target='_blank'>View in Catalog</a></div>"
 
 	selection.srcElement.parentNode.parentNode.getElementsByClassName( "classholder" )[0].appendChild( cls );
 	selection.srcElement.value = "";
