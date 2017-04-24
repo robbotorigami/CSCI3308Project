@@ -55,8 +55,9 @@ div:hover
 
 .link
 {
-	color: rgb(100, 50, 120);
-	text-decoration: none;
+	/*color: rgb(100, 50, 120);*/
+	color: rgb(100, 180, 180);
+	/*text-decoration: none;*/
 }
 
 .link:hover

@@ -37,6 +37,9 @@ document.addEventListener( "awesomplete-selectcomplete", function( selection )
 	cls.innerHTML += "<div class='courserender coursemeetingdates'>" + data[14] + "</div>";
 	cls.innerHTML += "<div class='courserender courseopenstatus'>" + data[15] + "</div>";
 	// there is a blank line at the end of the current scrape that should be removed earlier than this stage
+
+	cls.innerHTML += "<div class='officialMapSearch'><a class='link' href='http://www.colorado.edu/campusmap/map.html?bldg=" + data[10].split( " " )[1] + "' target='_blank'>Official Map Search</a></div>"
+
 	selection.srcElement.parentNode.parentNode.getElementsByClassName( "classholder" )[0].appendChild( cls );
 	selection.srcElement.value = "";
 	selection.srcElement.height = 0;
@@ -148,3 +151,13 @@ function removeTerm( id )
 {
 	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
 }
+
+
+// links to audit
+// and mycuinfo
+// and map
+// and yourcuinfo
+// and catalog
+// and cufcq (both the deprecated site and the current one)...
+// and ratemyprofessor
+// and google - both for professor and for course itself
