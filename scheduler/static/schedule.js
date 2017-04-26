@@ -45,7 +45,7 @@ function addTerm( id )
 	t.appendChild( classholder );
 	t.appendChild( del );
 
-	schedule.appendChild( t );
+	schedule.appendChild( c );
 
 	new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1 } );
 }
