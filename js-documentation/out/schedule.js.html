@@ -1,4 +1,32 @@
-/**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: schedule.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: schedule.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>/**
 @alias addTermCallbacks
 @description Specifies the callback for clicking an add term button.
 */
@@ -9,15 +37,15 @@ document.getElementById( "tsintermediary" ).onclick = addTerm;
 
 // This should be migrated into a database query eventually.
 /**
-This list is a hard copy from a guest search scrape.<br />
+This list is a hard copy from a guest search scrape.&lt;br />
 This is an array of strings that have the exact data that the scrape yielded.
 */
 var unparsedCourseList = courseAmalgam.split( /(?=^\d{1,4}$)/m );
 
 /**
-Variable that directly holds the terms div.<br /><br />
-Serves as link for Sortable.js to make terms rearrangable,<br />
-as reference to directly add terms upon clicking the respective term adding callback,<br />
+Variable that directly holds the terms div.&lt;br />&lt;br />
+Serves as link for Sortable.js to make terms rearrangable,&lt;br />
+as reference to directly add terms upon clicking the respective term adding callback,&lt;br />
 and as a link to export to png.
 */
 var schedule = document.getElementById( "terms" );
@@ -27,7 +55,7 @@ Sortable.create( document.getElementById( "viewCustomizer" ), {animation:250, dr
 
 /**
 @name confirmClassAdd
-@description Callback for Awesomplete's selection complete function<br />
+@description Callback for Awesomplete's selection complete function&lt;br />
 Parses guest search scrape (unparsedCourseList) and inserts a course div into the specified term.
 */
 document.addEventListener( "awesomplete-selectcomplete", function( selection )
@@ -37,29 +65,29 @@ document.addEventListener( "awesomplete-selectcomplete", function( selection )
 	// cls.innerText = selection.text.value;
 	// console.log( selection.text.value.split( "\n" ) );
 	var data = selection.text.value.split( "\n" );
-	cls.innerHTML += "<div class='courserender courseid'>" + data[0] + "</div>";
-	cls.innerHTML += "<div class='courserender coursesubject'>" + data[1].split( " - " )[0].split( " " )[0] + "</div>";
-	cls.innerHTML += "<div class='courserender coursenumber'>" + data[1].split( " - " )[0].split( " " )[1] + "</div>";
-	cls.innerHTML += "<div class='courserender coursename'>" + data[1].split( " - " )[1] + "</div>";
-	cls.innerHTML += "<div class='courserender courseunits'>" + data[2] + "</div>";
+	cls.innerHTML += "&lt;div class='courserender courseid'>" + data[0] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursesubject'>" + data[1].split( " - " )[0].split( " " )[0] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursenumber'>" + data[1].split( " - " )[0].split( " " )[1] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursename'>" + data[1].split( " - " )[1] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender courseunits'>" + data[2] + "&lt;/div>";
 	// we currently don't deal with course restriction status even though we scrape it
-	cls.innerHTML += "<div class='courserender courseconsentrequired'>" + data[4] + "</div>";
-	cls.innerHTML += "<div class='courserender courseseatsremaining'>" + data[5] + "</div>";
-	cls.innerHTML += "<div class='courserender coursewaitlisttotal'>" + data[6] + "</div>";
-	cls.innerHTML += "<div class='courserender coursemiscinfo'>" + data[7] + "</div>";
-	cls.innerHTML += "<div class='courserender courseinstructor'>" + data[8] + "</div>";
+	cls.innerHTML += "&lt;div class='courserender courseconsentrequired'>" + data[4] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender courseseatsremaining'>" + data[5] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursewaitlisttotal'>" + data[6] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursemiscinfo'>" + data[7] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender courseinstructor'>" + data[8] + "&lt;/div>";
 	// there is a blank line in the current scrape that should be removed earlier than this stage
-	cls.innerHTML += "<div class='courserender courseroom'>" + data[10] + "</div>";
-	cls.innerHTML += "<div class='courserender coursemeetingtime'>" + data[11] + "</div>";
-	cls.innerHTML += "<div class='courserender coursesection'>" + data[12] + "</div>";
-	cls.innerHTML += "<div class='courserender coursecode'>" + data[13] + "</div>";
-	cls.innerHTML += "<div class='courserender coursemeetingdates'>" + data[14] + "</div>";
-	cls.innerHTML += "<div class='courserender courseopenstatus'>" + data[15] + "</div>";
+	cls.innerHTML += "&lt;div class='courserender courseroom'>" + data[10] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursemeetingtime'>" + data[11] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursesection'>" + data[12] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursecode'>" + data[13] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender coursemeetingdates'>" + data[14] + "&lt;/div>";
+	cls.innerHTML += "&lt;div class='courserender courseopenstatus'>" + data[15] + "&lt;/div>";
 	// there is a blank line at the end of the current scrape that should be removed earlier than this stage
 
-	cls.innerHTML += "<div class='officialMapSearch'><a class='link' href='http://www.colorado.edu/campusmap/map.html?bldg=" + data[10].split( " " )[1] + "' target='_blank'>Official Map Search</a></div>"
-	cls.innerHTML += "<div class='courseCatalogSearch'><a class='link' href='http://www.colorado.edu/catalog/2016-17/courses?subject=" + data[1].split( " - " )[0].split( " " )[0] + "&number=" + data[1].split( " - " )[0].split( " " )[1] + "' target='_blank'>View in Catalog</a></div>"
-	cls.innerHTML += "<div class='ratemyprofessorsSearch'><a class='link' href='http://www.ratemyprofessors.com/search.jsp?query=" + data[8].substring( 11 ) + "' target='_blank'>Search RateMyProfessors</a></div>"
+	cls.innerHTML += "&lt;div class='officialMapSearch'>&lt;a class='link' href='http://www.colorado.edu/campusmap/map.html?bldg=" + data[10].split( " " )[1] + "' target='_blank'>Official Map Search&lt;/a>&lt;/div>"
+	cls.innerHTML += "&lt;div class='courseCatalogSearch'>&lt;a class='link' href='http://www.colorado.edu/catalog/2016-17/courses?subject=" + data[1].split( " - " )[0].split( " " )[0] + "&amp;number=" + data[1].split( " - " )[0].split( " " )[1] + "' target='_blank'>View in Catalog&lt;/a>&lt;/div>"
+	cls.innerHTML += "&lt;div class='ratemyprofessorsSearch'>&lt;a class='link' href='http://www.ratemyprofessors.com/search.jsp?query=" + data[8].substring( 11 ) + "' target='_blank'>Search RateMyProfessors&lt;/a>&lt;/div>"
 
 	selection.srcElement.parentNode.parentNode.getElementsByClassName( "classholder" )[0].appendChild( cls );
 	selection.srcElement.value = "";
@@ -67,7 +95,7 @@ document.addEventListener( "awesomplete-selectcomplete", function( selection )
 } );
 
 /**
-All courses are updated to cull view components as specified by the custom view.<br />
+All courses are updated to cull view components as specified by the custom view.&lt;br />
 This is a callback on the custom view components' onclick.
 */
 function toggleCustomViewDisabled( id )
@@ -84,7 +112,7 @@ function toggleCustomViewDisabled( id )
 }
 
 /**
-All courses are updated with the order of view components as specified by the custom view.<br />
+All courses are updated with the order of view components as specified by the custom view.&lt;br />
 This is a callback on the custom view components' being rearranged by Sortable.js. 
 */
 function rearrange( evt )
@@ -103,8 +131,8 @@ function rearrange( evt )
 // TODO: render all data about classes instead of restricting height of course cards
 //       additionally, don't render screwed up page heights (due to awesomplete)
 /**
-Exports the schedule to a png.<br />
-Scales the current view of the schedule up and renders with domtoimage.<br />
+Exports the schedule to a png.&lt;br />
+Scales the current view of the schedule up and renders with domtoimage.&lt;br />
 Prompts user to download 'schedule.png' directly. 
 */
 function pngExport()
@@ -136,9 +164,9 @@ function pngExport()
 }
 
 /**
-Adds a term to the schedule plan.<br />
-Constructs the html and directly appends it to the document.<br />
-Creates a Sortable.js instance to rearrange classes within the term.<br />
+Adds a term to the schedule plan.&lt;br />
+Constructs the html and directly appends it to the document.&lt;br />
+Creates a Sortable.js instance to rearrange classes within the term.&lt;br />
 Creates a Awesomplete instance to search for classes to later add to the term.
 */
 function addTerm( id )
@@ -188,10 +216,32 @@ function addTerm( id )
 }
 
 /**
-Callback for removal of a term.<br />
+Callback for removal of a term.&lt;br />
 Invoked upon onclick of the removal button.
 */
 function removeTerm( id )
 {
 	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
-}
+}</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Global</h3><ul><li><a href="global.html#addTerm">addTerm</a></li><li><a href="global.html#addTermCallbacks">addTermCallbacks</a></li><li><a href="global.html#confirmClassAdd">confirmClassAdd</a></li><li><a href="global.html#pngExport">pngExport</a></li><li><a href="global.html#rearrange">rearrange</a></li><li><a href="global.html#removeTerm">removeTerm</a></li><li><a href="global.html#schedule">schedule</a></li><li><a href="global.html#toggleCustomViewDisabled">toggleCustomViewDisabled</a></li><li><a href="global.html#unparsedCourseList">unparsedCourseList</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.4.3</a> on Mon May 01 2017 01:13:56 GMT-0600 (Mountain Daylight Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

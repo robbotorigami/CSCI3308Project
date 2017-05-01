@@ -1,0 +1,6 @@
+install node and npm
+	https://nodejs.org/en/
+install jsdoc
+	npm install -g jsdoc
+run against *.js
+	docco ../scheduler/static/*.js
