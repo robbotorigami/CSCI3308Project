@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <title>test_scheduler.py</title>
+  <link rel="stylesheet" href="pycco.css">
+</head>
+<body>
+<div id='container'>
+  <div id="background"></div>
+  <div class='section'>
+    <div class='docs'><h1>test_scheduler.py</h1></div>
+  </div>
+  <div class='clearall'>
+  <div class='section' id='section-0'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-0'>#</a>
+      </div>
+      <h3><span id="tests." href="tests."> Tests. </span></h3>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">django.contrib.auth.models</span> <span class="kn">import</span> <span class="n">User</span>
+<span class="kn">from</span> <span class="nn">django.test</span> <span class="kn">import</span> <span class="n">TestCase</span>
+<span class="kn">from</span> <span class="nn">django.test.client</span> <span class="kn">import</span> <span class="n">RequestFactory</span>
+<span class="kn">from</span> <span class="nn">.views</span> <span class="kn">import</span> <span class="o">*</span>
+<span class="kn">from</span> <span class="nn">.models</span> <span class="kn">import</span> <span class="o">*</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-1'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-1'>#</a>
+      </div>
+      <p>Tests setting up, inserting into, and accessing the database.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">class</span> <span class="nc">TestDatabase</span><span class="p">(</span><span class="n">TestCase</span><span class="p">):</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-2'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-2'>#</a>
+      </div>
+      
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="k">def</span> <span class="nf">setUp</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">user</span> <span class="o">=</span> <span class="n">User</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">create_superuser</span><span class="p">(</span><span class="s1">&#39;admin&#39;</span><span class="p">,</span> <span class="s1">&#39;admin@test.com&#39;</span><span class="p">,</span> <span class="s1">&#39;pass&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">user</span><span class="o">.</span><span class="n">save</span><span class="p">()</span>
+        <span class="k">pass</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-3'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-3'>#</a>
+      </div>
+      
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="k">def</span> <span class="nf">test_insert</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-4'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-4'>#</a>
+      </div>
+      <p>insert a course/subject</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>        <span class="n">rf</span> <span class="o">=</span> <span class="n">RequestFactory</span><span class="p">()</span>
+        <span class="n">post_request</span> <span class="o">=</span> <span class="n">rf</span><span class="o">.</span><span class="n">post</span><span class="p">(</span><span class="s1">&#39;/addcourse/&#39;</span><span class="p">,</span> <span class="p">{</span>
+            <span class="s1">&#39;subject_name&#39;</span> <span class="p">:</span> <span class="s1">&#39;CSCI&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;course_number&#39;</span><span class="p">:</span> <span class="s1">&#39;3308&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;course_title&#39;</span> <span class="p">:</span> <span class="s1">&#39;Software Development Methods and Tools&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;credit_hours&#39;</span> <span class="p">:</span> <span class="mi">3</span><span class="p">,</span>
+            <span class="s1">&#39;description&#39;</span>  <span class="p">:</span> <span class="s1">&#39;This class&#39;</span><span class="p">})</span>
+        <span class="n">post_request</span><span class="o">.</span><span class="n">user</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">user</span>
+        <span class="n">response</span> <span class="o">=</span> <span class="n">addcourse</span><span class="p">(</span><span class="n">post_request</span><span class="p">)</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">s</span> <span class="o">=</span> <span class="n">subject</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">subject_name</span><span class="o">=</span><span class="s1">&#39;CSCI&#39;</span><span class="p">)</span>
+        <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">fail</span><span class="p">(</span><span class="s1">&#39;Failed to insert course, subject not inserted&#39;</span><span class="p">)</span>
+
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">c</span> <span class="o">=</span> <span class="n">course</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">subject_id</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">id</span><span class="p">,</span> <span class="n">course_number</span> <span class="o">=</span> <span class="s1">&#39;3308&#39;</span><span class="p">,</span> <span class="n">credit_hours</span> <span class="o">=</span> <span class="mi">3</span><span class="p">)</span>
+        <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">fail</span><span class="p">(</span><span class="s1">&#39;Failed to insert course, course not inserted&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">c</span><span class="o">.</span><span class="n">course_title</span> <span class="o">==</span> <span class="s1">&#39;Software Development Methods and Tools&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert course, title not set&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">c</span><span class="o">.</span><span class="n">description</span> <span class="o">==</span> <span class="s1">&#39;This class&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert course, description not set&#39;</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-5'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-5'>#</a>
+      </div>
+      <p>Insert a section</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>        <span class="n">post_request</span> <span class="o">=</span> <span class="n">rf</span><span class="o">.</span><span class="n">post</span><span class="p">(</span><span class="s1">&#39;/addsection/&#39;</span><span class="p">,</span> <span class="p">{</span>
+            <span class="s1">&#39;subject_name&#39;</span> <span class="p">:</span> <span class="s1">&#39;CSCI&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;course_number&#39;</span><span class="p">:</span> <span class="s1">&#39;3308&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;section_number&#39;</span> <span class="p">:</span> <span class="mi">20345</span><span class="p">,</span>
+            <span class="s1">&#39;section_description&#39;</span><span class="p">:</span> <span class="s1">&#39;Section 001-LEC</span><span class="se">\n</span><span class="s1">Boulder 16-Wk Session/Full Sem&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;enrollment_restriction&#39;</span><span class="p">:</span> <span class="bp">True</span><span class="p">,</span>
+            <span class="s1">&#39;consent_required&#39;</span><span class="p">:</span> <span class="bp">True</span><span class="p">,</span>
+            <span class="s1">&#39;available_seats&#39;</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+            <span class="s1">&#39;wait_list_total&#39;</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span>
+            <span class="s1">&#39;room&#39;</span><span class="p">:</span> <span class="s1">&#39;KOBL 220&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;instructor&#39;</span><span class="p">:</span><span class="s1">&#39;Rick Sanchez&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;startday&#39;</span><span class="p">:</span> <span class="mi">8</span><span class="p">,</span>
+            <span class="s1">&#39;startmonth&#39;</span><span class="p">:</span> <span class="mi">9</span><span class="p">,</span>
+            <span class="s1">&#39;startyear&#39;</span><span class="p">:</span> <span class="mi">2010</span><span class="p">,</span>
+            <span class="s1">&#39;endday&#39;</span><span class="p">:</span> <span class="mi">12</span><span class="p">,</span>
+            <span class="s1">&#39;endmonth&#39;</span><span class="p">:</span> <span class="mi">9</span><span class="p">,</span>
+            <span class="s1">&#39;endyear&#39;</span><span class="p">:</span> <span class="mi">2011</span><span class="p">,</span>
+            <span class="s1">&#39;term_year&#39;</span><span class="p">:</span> <span class="mi">2011</span><span class="p">,</span>
+            <span class="s1">&#39;term_section&#39;</span><span class="p">:</span> <span class="s1">&#39;Fall&#39;</span><span class="p">,</span>
+            <span class="s1">&#39;times&#39;</span><span class="p">:</span> <span class="s1">&#39;Mo/12:30PM-1:20PM,We/12:30PM-1:20PM,&#39;</span><span class="p">})</span>
+        <span class="n">post_request</span><span class="o">.</span><span class="n">user</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">user</span>
+        <span class="n">response</span> <span class="o">=</span> <span class="n">addsection</span><span class="p">(</span><span class="n">post_request</span><span class="p">)</span>
+
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">sec</span> <span class="o">=</span> <span class="n">section</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">section_number</span> <span class="o">=</span> <span class="mi">20345</span><span class="p">)</span>
+        <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">fail</span><span class="p">(</span><span class="s1">&#39;Failed to insert section, section not inserted&#39;</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">section_number</span> <span class="o">==</span> <span class="mi">20345</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, section_number&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">section_description</span> <span class="o">==</span> <span class="s1">&#39;Section 001-LEC</span><span class="se">\n</span><span class="s1">Boulder 16-Wk Session/Full Sem&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, section_description&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">enrollment_restriction</span> <span class="o">==</span> <span class="bp">True</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, enrollment_restriction&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">consent_required</span> <span class="o">==</span> <span class="bp">True</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, consent_required&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">available_seats</span> <span class="o">==</span> <span class="mi">20</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, available_seats&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">wait_list_total</span> <span class="o">==</span> <span class="mi">2</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, wait_list_total&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">room</span> <span class="o">==</span> <span class="s1">&#39;KOBL 220&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, room&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">instructor</span> <span class="o">==</span> <span class="s1">&#39;Rick Sanchez&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, instructor&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">startdate</span> <span class="o">==</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2010</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">8</span><span class="p">),</span> <span class="s1">&#39;Failed to insert section, startdate&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">enddate</span> <span class="o">==</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2011</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">12</span><span class="p">),</span> <span class="s1">&#39;Failed to insert section, enddate&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">term_year</span> <span class="o">==</span> <span class="mi">2011</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, term_year&#39;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="n">sec</span><span class="o">.</span><span class="n">term_section</span> <span class="o">==</span> <span class="s1">&#39;Fall&#39;</span><span class="p">,</span> <span class="s1">&#39;Failed to insert section, term_section&#39;</span><span class="p">)</span>
+
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">ct1</span> <span class="o">=</span> <span class="n">classtime</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">section_id</span> <span class="o">=</span> <span class="n">sec</span><span class="p">,</span> <span class="n">day</span> <span class="o">=</span> <span class="s1">&#39;Monday&#39;</span><span class="p">,</span> <span class="n">start_time</span><span class="o">=</span><span class="n">datetime</span><span class="o">.</span><span class="n">time</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span><span class="mi">30</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">end_time</span><span class="o">=</span><span class="n">datetime</span><span class="o">.</span><span class="n">time</span><span class="p">(</span><span class="mi">13</span><span class="p">,</span><span class="mi">20</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span>
+            <span class="n">ct2</span> <span class="o">=</span> <span class="n">classtime</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">section_id</span> <span class="o">=</span> <span class="n">sec</span><span class="p">,</span> <span class="n">day</span> <span class="o">=</span> <span class="s1">&#39;Wednesday&#39;</span><span class="p">,</span> <span class="n">start_time</span><span class="o">=</span><span class="n">datetime</span><span class="o">.</span><span class="n">time</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span><span class="mi">30</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">end_time</span><span class="o">=</span><span class="n">datetime</span><span class="o">.</span><span class="n">time</span><span class="p">(</span><span class="mi">13</span><span class="p">,</span><span class="mi">20</span><span class="p">,</span><span class="mi">0</span><span class="p">))</span>
+        <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">fail</span><span class="p">(</span><span class="s1">&#39;Failed to insert section, classtimes not inserted&#39;</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-6'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-6'>#</a>
+      </div>
+      
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="k">def</span> <span class="nf">test_getclassinfo</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="bp">True</span><span class="p">,</span> <span class="s2">&quot;Get class info failed&quot;</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-7'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-7'>#</a>
+      </div>
+      
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="k">def</span> <span class="nf">test_deleteclass</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="bp">True</span><span class="p">,</span> <span class="s2">&quot;Deleting class failed&quot;</span><span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-8'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-8'>#</a>
+      </div>
+      
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="k">def</span> <span class="nf">test_modifyclass</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">assertTrue</span><span class="p">(</span><span class="bp">True</span><span class="p">,</span> <span class="s2">&quot;Modifying class failed&quot;</span><span class="p">)</span>
+
+</pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+</div>
+</body>

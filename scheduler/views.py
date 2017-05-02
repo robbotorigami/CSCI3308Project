@@ -1,3 +1,5 @@
+# === Specifies webpage responses. ===
+
 from django.shortcuts import get_object_or_404, render
 from django.http import HttpResponseRedirect, HttpResponse, Http404
 from django.template import loader
@@ -8,14 +10,23 @@ from django.contrib.admin.views.decorators import staff_member_required
 import datetime
 from .models import *
 
+"""
+Returns the html of the main page.
+"""
 def index(request):
     return render(request, 'scheduler/home.html', {})
     # return render( request, 'scheduler/home.tmpl', {} )
     # return HttpResponse(subject.objects.all())
 
+"""
+Returns a list of subjects. This is for testing purposes.
+"""
 def getsubjs(request):
     return HttpResponse(subject.objects.all())
 
+"""
+POSTs a course.
+"""
 @staff_member_required
 def addcourse(request):
     if request.method != 'POST':
@@ -27,6 +38,9 @@ def addcourse(request):
     c.save()
     return HttpResponse("{}{} - {} for {}".format(subj.subject_name, c.course_number, c.course_title, c.credit_hours))
 
+"""
+POSTs a section.
+"""
 @staff_member_required
 def addsection(request):
     if request.method != 'POST':

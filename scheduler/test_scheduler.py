@@ -1,9 +1,14 @@
+# === Tests. ===
+
 from django.contrib.auth.models import User
 from django.test import TestCase
 from django.test.client import RequestFactory
 from .views import *
 from .models import *
 
+"""
+Tests setting up, inserting into, and accessing the database.
+"""
 class TestDatabase(TestCase):
     def setUp(self):
         self.user = User.objects.create_superuser('admin', 'admin@test.com', 'pass')

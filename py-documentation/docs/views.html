@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <title>views.py</title>
+  <link rel="stylesheet" href="pycco.css">
+</head>
+<body>
+<div id='container'>
+  <div id="background"></div>
+  <div class='section'>
+    <div class='docs'><h1>views.py</h1></div>
+  </div>
+  <div class='clearall'>
+  <div class='section' id='section-0'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-0'>#</a>
+      </div>
+      <h3><span id="specifies-webpage-responses." href="specifies-webpage-responses."> Specifies webpage responses. </span></h3>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">django.shortcuts</span> <span class="kn">import</span> <span class="n">get_object_or_404</span><span class="p">,</span> <span class="n">render</span>
+<span class="kn">from</span> <span class="nn">django.http</span> <span class="kn">import</span> <span class="n">HttpResponseRedirect</span><span class="p">,</span> <span class="n">HttpResponse</span><span class="p">,</span> <span class="n">Http404</span>
+<span class="kn">from</span> <span class="nn">django.template</span> <span class="kn">import</span> <span class="n">loader</span>
+<span class="kn">from</span> <span class="nn">django.core.urlresolvers</span> <span class="kn">import</span> <span class="n">reverse</span>
+<span class="kn">from</span> <span class="nn">django.views</span> <span class="kn">import</span> <span class="n">generic</span>
+<span class="kn">from</span> <span class="nn">django.contrib.auth.decorators</span> <span class="kn">import</span> <span class="n">user_passes_test</span>
+<span class="kn">from</span> <span class="nn">django.contrib.admin.views.decorators</span> <span class="kn">import</span> <span class="n">staff_member_required</span>
+<span class="kn">import</span> <span class="nn">datetime</span>
+<span class="kn">from</span> <span class="nn">.models</span> <span class="kn">import</span> <span class="o">*</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-1'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-1'>#</a>
+      </div>
+      <p>Returns the html of the main page.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">def</span> <span class="nf">index</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">render</span><span class="p">(</span><span class="n">request</span><span class="p">,</span> <span class="s1">&#39;scheduler/home.html&#39;</span><span class="p">,</span> <span class="p">{})</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-2'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-2'>#</a>
+      </div>
+      <p>return render( request, 'scheduler/home.tmpl', {} )
+return HttpResponse(subject.objects.all())</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-3'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-3'>#</a>
+      </div>
+      <p>Returns a list of subjects. This is for testing purposes.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="k">def</span> <span class="nf">getsubjs</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">HttpResponse</span><span class="p">(</span><span class="n">subject</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">all</span><span class="p">())</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-4'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-4'>#</a>
+      </div>
+      <p>POSTs a course.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="nd">@staff_member_required</span>
+<span class="k">def</span> <span class="nf">addcourse</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">request</span><span class="o">.</span><span class="n">method</span> <span class="o">!=</span> <span class="s1">&#39;POST&#39;</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="n">Http404</span><span class="p">(</span><span class="s2">&quot;No course info provided&quot;</span><span class="p">)</span>
+    <span class="n">subj</span><span class="p">,</span> <span class="n">_</span> <span class="o">=</span> <span class="n">subject</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get_or_create</span><span class="p">(</span><span class="n">subject_name</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;subject_name&#39;</span><span class="p">])</span>
+    <span class="n">c</span><span class="p">,</span> <span class="n">_</span> <span class="o">=</span> <span class="n">course</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get_or_create</span><span class="p">(</span><span class="n">subject_id</span> <span class="o">=</span> <span class="n">subj</span><span class="p">,</span> <span class="n">course_number</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;course_number&#39;</span><span class="p">],</span> <span class="n">credit_hours</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;credit_hours&#39;</span><span class="p">])</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">course_title</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;course_title&#39;</span><span class="p">]</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">description</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;description&#39;</span><span class="p">]</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">save</span><span class="p">()</span>
+    <span class="k">return</span> <span class="n">HttpResponse</span><span class="p">(</span><span class="s2">&quot;{}{} - {} for {}&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">subj</span><span class="o">.</span><span class="n">subject_name</span><span class="p">,</span> <span class="n">c</span><span class="o">.</span><span class="n">course_number</span><span class="p">,</span> <span class="n">c</span><span class="o">.</span><span class="n">course_title</span><span class="p">,</span> <span class="n">c</span><span class="o">.</span><span class="n">credit_hours</span><span class="p">))</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-5'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-5'>#</a>
+      </div>
+      <p>POSTs a section.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre><span class="nd">@staff_member_required</span>
+<span class="k">def</span> <span class="nf">addsection</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">request</span><span class="o">.</span><span class="n">method</span> <span class="o">!=</span> <span class="s1">&#39;POST&#39;</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="n">Http404</span><span class="p">(</span><span class="s2">&quot;No course info provided&quot;</span><span class="p">)</span>
+    <span class="n">subj</span> <span class="o">=</span> <span class="n">subject</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">subject_name</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;subject_name&#39;</span><span class="p">])</span>
+    <span class="n">c</span> <span class="o">=</span> <span class="n">course</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">subject_id</span> <span class="o">=</span> <span class="n">subj</span><span class="p">,</span> <span class="n">course_number</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;course_number&#39;</span><span class="p">])</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">sect</span> <span class="o">=</span> <span class="n">section</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">section_number</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;section_number&#39;</span><span class="p">])</span>
+    <span class="k">except</span> <span class="n">section</span><span class="o">.</span><span class="n">DoesNotExist</span><span class="p">:</span>
+        <span class="n">sect</span> <span class="o">=</span> <span class="n">section</span><span class="p">()</span>
+        <span class="n">sect</span><span class="o">.</span><span class="n">section_number</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;section_number&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">course_id</span> <span class="o">=</span> <span class="n">c</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">section_description</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;section_description&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">enrollment_restriction</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;enrollment_restriction&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">consent_required</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;consent_required&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">available_seats</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;available_seats&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">wait_list_total</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;wait_list_total&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">room</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;room&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">instructor</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;instructor&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">startdate</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;startyear&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;startmonth&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;startday&#39;</span><span class="p">]))</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">enddate</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endyear&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endmonth&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endday&#39;</span><span class="p">]))</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">term_year</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;term_year&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">term_section</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;term_section&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">save</span><span class="p">()</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-6'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-6'>#</a>
+      </div>
+      <p>remove any existing class times</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre>    <span class="n">classtime</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">filter</span><span class="p">(</span><span class="n">section_id</span> <span class="o">=</span> <span class="n">sect</span><span class="p">)</span><span class="o">.</span><span class="n">delete</span><span class="p">()</span>
+    <span class="n">stringTimes</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;times&#39;</span><span class="p">]</span>
+    <span class="k">while</span> <span class="nb">len</span><span class="p">(</span><span class="n">stringTimes</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="n">daydict</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;Sa&#39;</span><span class="p">:</span> <span class="s1">&#39;Saturday&#39;</span><span class="p">,</span> <span class="s1">&#39;Su&#39;</span><span class="p">:</span><span class="s1">&#39;Sunday&#39;</span><span class="p">,</span> <span class="s1">&#39;Mo&#39;</span><span class="p">:</span><span class="s1">&#39;Monday&#39;</span><span class="p">,</span> <span class="s1">&#39;Tu&#39;</span><span class="p">:</span><span class="s1">&#39;Tuesday&#39;</span><span class="p">,</span> <span class="s1">&#39;We&#39;</span><span class="p">:</span><span class="s1">&#39;Wednesday&#39;</span><span class="p">,</span> <span class="s1">&#39;Th&#39;</span><span class="p">:</span><span class="s1">&#39;Thursday&#39;</span><span class="p">,</span> <span class="s1">&#39;Fr&#39;</span><span class="p">:</span><span class="s1">&#39;Friday&#39;</span><span class="p">}</span>
+        <span class="k">try</span><span class="p">:</span>
+            <span class="n">day</span> <span class="o">=</span> <span class="n">daydict</span><span class="p">[</span><span class="n">stringTimes</span><span class="p">[:</span><span class="mi">2</span><span class="p">]]</span>
+            <span class="n">starttime</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="n">stringTimes</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;/&#39;</span><span class="p">,</span><span class="mi">1</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">,</span><span class="mi">1</span><span class="p">)[</span><span class="mi">0</span><span class="p">],</span> <span class="s1">&#39;%I:%M%p&#39;</span><span class="p">)</span>
+            <span class="n">endtime</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="n">stringTimes</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">,</span><span class="mi">1</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;,&#39;</span><span class="p">,</span><span class="mi">1</span><span class="p">)[</span><span class="mi">0</span><span class="p">],</span> <span class="s1">&#39;%I:%M%p&#39;</span><span class="p">)</span>
+        <span class="k">except</span> <span class="ne">Exception</span><span class="p">:</span>
+            <span class="k">raise</span> <span class="n">Http404</span><span class="p">(</span><span class="s2">&quot;Invalid class times&quot;</span><span class="p">)</span>
+        <span class="n">ct</span> <span class="o">=</span> <span class="n">classtime</span><span class="p">()</span>
+        <span class="n">ct</span><span class="o">.</span><span class="n">section_id</span> <span class="o">=</span> <span class="n">sect</span>
+        <span class="n">ct</span><span class="o">.</span><span class="n">day</span> <span class="o">=</span> <span class="n">day</span>
+        <span class="n">ct</span><span class="o">.</span><span class="n">start_time</span> <span class="o">=</span> <span class="n">starttime</span>
+        <span class="n">ct</span><span class="o">.</span><span class="n">end_time</span> <span class="o">=</span> <span class="n">endtime</span>
+        <span class="n">ct</span><span class="o">.</span><span class="n">save</span><span class="p">()</span>
+        <span class="n">stringTimes</span> <span class="o">=</span> <span class="n">stringTimes</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;,&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span>
+
+    <span class="k">return</span> <span class="n">HttpResponse</span><span class="p">(</span><span class="s2">&quot;Added section&quot;</span> <span class="o">+</span> <span class="n">sect</span><span class="o">.</span><span class="fm">__str__</span><span class="p">())</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-7'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-7'>#</a>
+      </div>
+      <p>Create your views here.</p>
+    </div>
+    <div class='code'>
+      <div class="highlight"><pre></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+</div>
+</body>

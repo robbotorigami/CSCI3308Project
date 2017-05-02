@@ -1,14 +1,20 @@
+# === Interface with PostgreSQL database. ===
+
 from __future__ import unicode_literals
 import datetime
 
 from django.db import models
 from django.utils import timezone
 
+"""
+Subject Table
+"""
 class subject(models.Model):
     subject_name = models.CharField(max_length=4)
     def __str__(self):
         return self.subject_name
 
+"""Course Table"""
 class course(models.Model):
     subject_id = models.ForeignKey(subject, on_delete=models.CASCADE)
     course_number = models.CharField(max_length=4)
@@ -20,6 +26,7 @@ class course(models.Model):
         return self.subject_id.__str__() + self.course_number
 
 
+"""Section Table"""
 class section(models.Model):
     course_id = models.ForeignKey(course, on_delete=models.CASCADE)
     section_number = models.IntegerField() #class number/primary key
@@ -46,6 +53,7 @@ class section(models.Model):
     def __str__(self):
         return self.course_id.subject_id.__str__() + self.course_id.__str__() + self.section_description
 
+"""Classtime Table"""
 class classtime(models.Model):
     section_id = models.ForeignKey(section, on_delete=models.CASCADE)
     SUNDAY = 'S'
@@ -70,5 +78,3 @@ class classtime(models.Model):
 
     def __str__(self):
         return self.section.section_description + self.day
-
-# Create your models here.
