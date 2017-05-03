@@ -13,6 +13,9 @@ This list is a hard copy from a guest search scrape.<br />
 This is an array of strings that have the exact data that the scrape yielded.
 */
 var unparsedCourseList = courseAmalgam.split( /(?=^\d{1,4}$)/m );
+unparsedCourseList = unparsedCourseList.filter(function(item, pos) { // http://stackoverflow.com/a/9229821
+    return unparsedCourseList.indexOf(item) == pos;
+})
 
 /**
 Variable that directly holds the terms div.<br /><br />
@@ -197,30 +200,10 @@ function removeTerm( id )
 	id.target.parentNode.parentNode.removeChild( id.target.parentNode );
 }
 
-var reqs = [[1, "HUEN1010", "HUEN3100", "PHYS3050", "WRTG3030", "WRTG3035"],
-			[2, "CLAS4120", "HUEN3350"],
-			[4, "ECON2010", "ECON2020", "LATN1024", "LATN2114"],
-			[1, "CSCI1000"],
-			[1, "CSCI1300"],
-			[1, "CSCI2270"],
-			[1, "CSCI2400"],
-			[1, "CSCI3104"],
-			[1, "CSCI3155"],
-			[1, "CSCI3308"],
-			[4, "CSCI3002", "CSCI3202", "CSCI3287", "CSCI3302", "CSCI3434", "CSCI3702", "CSCI3832", "CSCI4229", "CSCI4239", "CSCI4253", "CSCI4273", "CSCI4302", "CSCI4314", "CSCI4413", "CSCI4446", "CSCI4448", "CSCI4502", "CSCI4555", "CSCI4576", "CSCI4586", "CSCI4593", "CSCI4753", "CSCI4809"],
-			[2, "CSCI4308", "CSCI4318"],
-			[1, "MATH1300"],
-			[1, "MATH2300"],
-			[1, "CSCI2824"],
-			[1, "MATH3130"],
-			[1, "APPM3570"]];
-
-// 58 total csci hours
-//128 total hours
-
-prereqs = {"CSCI2270": [ ["CSCI1300"] ]};
-
-
+/**
+Imports a schdule export.<br />
+Invoked upon onclick of the import button.
+*/
 function insert()
 {
 	var imp = prompt( "Paste the content of an export.", "" );
@@ -245,6 +228,11 @@ function insert()
 	}
 }
 
+/**
+Exports a schdule.<br />
+Invoked upon onclick of the export button.<br />
+Directly saves the export to the clipboard.<br />
+*/
 function exportSchedule()
 {
 	var out = "";
@@ -361,10 +349,100 @@ function addCourseManually( selectionText, toTerm )
 	toTerm.getElementsByClassName( "classholder" )[0].appendChild( cls );
 };
 
+var reqs = [[1, "HUEN1010", "HUEN3100", "PHYS3050", "WRTG3030", "WRTG3035"],
+			// [2, "CLAS4120", "HUEN3350"],
+			[4, "ECON2010", "ECON2020", "LATN1024", "LATN2114"],
+			[1, "CSCI1000"],
+			[1, "CSCI1300"],
+			[1, "CSCI2270"],
+			[1, "CSCI2400"],
+			[1, "CSCI3104"],
+			[1, "CSCI3155"],
+			[1, "CSCI3308"],
+			[4, "CSCI3002", "CSCI3202", "CSCI3287", "CSCI3302", "CSCI3434", "CSCI3702", "CSCI3832", "CSCI4229", "CSCI4239", "CSCI4253", "CSCI4273", "CSCI4302", "CSCI4314", "CSCI4413", "CSCI4446", "CSCI4448", "CSCI4502", "CSCI4555", "CSCI4576", "CSCI4586", "CSCI4593", "CSCI4753", "CSCI4809"],
+			[2, "CSCI4308", "CSCI4318"],
+			[1, "MATH1300"],
+			[1, "MATH2300"],
+			[1, "CSCI2824"],
+			[1, "MATH3130"],
+			[1, "APPM3570"],
+			[1, "PHYS1110"],
+			[1, "PHYS1120"],
+			[1, "PHYS1140"]];
+
+// 58 total csci hours
+//128 total hours
+
+prereqs =
+{
+	"APPM3570": [ ["APPM2350", "MATH2400"] ],
+	"APPM2350": [ ["APPM1360", "MATH2300"] ],
+	"MATH2001": [ ["MATH1300", "MATH1310", "APPM1345", "APPM1350"] ],
+	"CSCI2270": [ ["CSCI1300", "CSCI1310", "CSCI1320", "ECEN1030", "ECEN1310"], ["APPM1345", "APPM1350", "MATH1300", "MATH1310"] ],
+	"CSCI2824": [ ["CSCI2270"], ["MATH1300", "MATH1310", "APPM1345", "APPM1350"] ],
+	"CSCI3104": [ ["CSCI2270"], ["APPM1360", "MATH2300"], ["CSCI2824", "ECEN2703", "APPM3170", "MATH2001"] ],
+	"CSCI2400": [ ["CSCI2270"], ["CSCI2824", "MATH2001", "ECEN2703", "APPM3170"] ],
+	"CSCI3308": [ ["CSCI2270"] ],
+	"PHYS2130": [ ["PHYS1120"], ["MATH2400", "APPM2350"] ],
+	"PHYS1140": [ ["PHYS1120"] ]
+};
+
+// doesn't deal with coreqs at all
+function checkReqs()
+{
+	console.log( "---" );
+	var ret = true;
+	var schdg = [];
+	Array.prototype.forEach.call( schedule.getElementsByClassName( "scheduleterm" ), function( term )
+	{
+		schdg.push( [] );
+		Array.prototype.forEach.call( term.getElementsByClassName( "course" ), function( course )
+		{
+			schdg[ schdg.length - 1 ].push( course.getElementsByClassName( "coursesubject" )[0].innerText + course.getElementsByClassName( "coursenumber" )[0].innerText );
+		});
+	});
+	Array.prototype.forEach.call( reqs, function( req )
+	{
+		for( var i = 1, c = 0; i < req.length; i++ )
+			Array.prototype.forEach.call( schdg, function( term )
+				{
+					if( term.indexOf( req[i] ) != -1 )
+						c++;
+				} )
+		if( c < req[0] )
+		{
+			console.log( "Schedule missing: " + req );
+			ret = false;
+		}
+	});
+	for( var i = 0; i < schdg.length; i++ )
+		courseLoop: for( var j = 0; j < schdg[i].length; j++ )
+			for( var k = 0; prereqs[ schdg[i][j] ] && k < prereqs[ schdg[i][j] ].length; k++ ) // and prereq
+			{
+				var success = false;
+				orReqLoop: for( var l = 0; l < prereqs[ schdg[i][j] ][k].length; l++ ) // or prereq
+				{
+					//if one of these is found in previous terms, continue andPrereq loop
+					for( var m = 0; m < i; m++ )
+						if( schdg[m].indexOf( prereqs[ schdg[i][j] ][k][l] ) > -1 )
+						{
+							success = true;
+							break orReqLoop;
+						}
+				}
+				if( !success )
+				{
+					console.log( schdg[i][j] + " (term " + (i+1) + ") missing prerequisite: " + JSON.stringify( prereqs[ schdg[i][j] ] ) );
+					continue courseLoop;
+				}
+			}
+	console.log( "---" );
+	return ret;
+}
 
 
-/*
-fall```93```MATH 1300 - Calculus 1```Units 5```Restriction Y```Consent Required N```Seats Remaining 3```Waitlist Total 0```MiscInfo nil```Instructor Michael Roy``````Room MUEN D144```Meeting Time TuTh 6:00PM - 8:30PM```Section 300E-LECCE Evening Full Session```Class Code 35568```Meeting Dates 01/24/2017 - 05/04/2017```Open Status Open`````` -```99```CHEM 1133 - General Chemistry 2```Units 4```Restriction Y```Consent Required N```Seats Remaining 5```Waitlist Total 0```MiscInfo nil```Instructor Yu Gong``````Room EKLC M2B26```Meeting Time Th 9:00AM - 9:50AM```Section 161-RECBoulder 16-Wk Session/Full Sem```Class Code 19045```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```- - -```spring```32```PHYS 1110 - General Physics 1```Units 4```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Wei Mao``````Room DUAN G2B60```Meeting Time Th 4:00PM - 4:50PM```Section 427-RECBoulder 16-Wk Session/Full Sem```Class Code 22269```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed`````` -```- - -```
+// my fall and spring
+//fall```132```APPM 3570 - Applied Probability```Units 3```Restriction Y```Consent Required N```Seats Remaining 4```Waitlist Total 0```MiscInfo nil```Instructor Manuel Lladser``````Room ECCR 150```Meeting Time MoWeFr 2:00PM - 2:50PM```Section 002-LECBoulder 16-Wk Session/Full Sem```Class Code 21692```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```67```APPM 2350 - Calculus 3 for Engineers```Units 4```Restriction Y```Consent Required N```Seats Remaining 4```Waitlist Total 0```MiscInfo nil```Instructor Justin Cole``````Room ECCR 200```Meeting Time MoWeFr 1:00PM - 1:50PM```Section 160-LECBoulder 16-Wk Session/Full Sem```Class Code 15598```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```99```MATH 2001 - Introduction to Discrete Mathematics```Units 3```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Faan Liu``````Room ECCR 131```Meeting Time MoWeFr 10:00AM - 10:50AM```Section 002-LECBoulder 16-Wk Session/Full Sem```Class Code 21917```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed`````` -```30```CSCI 2270 - Computer Science 2: Data Structures```Units 4```Restriction Y```Consent Required N```Seats Remaining 16```Waitlist Total 0```MiscInfo nil```Instructor Rhonda Hoenigman``````Room MATH 100```Meeting Time MoWeFr 3:00PM - 3:50PM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 26334```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```65```CSCI 2824 - Discrete Structures```Units 3```Restriction Y```Consent Required N```Seats Remaining 3```Waitlist Total 0```MiscInfo nil```Instructor Christian Ketelsen``````Room FLMG 155```Meeting Time MoWeFr 9:00AM - 9:50AM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 28545```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```- - -```spring```67```CSCI 3104 - Algorithms```Units 4```Restriction Y```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo nil```Instructor Aaron Clauset``````Room CHEM 140```Meeting Time TuTh 12:30PM - 1:45PM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 27713```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```54```CSCI 2400 - Computer Systems```Units 4```Restriction Y```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Richard Han``````Room GOLD A2B70```Meeting Time TuTh 9:30AM - 10:45AM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 28021```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed`````` -```82```CSCI 3308 - SoftwareDevelopment Methods and Tools```Units 3```Restriction Y```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor David Graham``````Room DUAN G1B20```Meeting Time MoFr 11:00AM - 11:50AM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 28192```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed`````` -```147```PHYS 2130 - General Physics 3```Units 3```Restriction Y```Consent Required N```Seats Remaining 11```Waitlist Total 0```MiscInfo nil```Instructor Minhyea Lee``````Room DUAN G130```Meeting Time MoWeFr 12:00PM - 12:50PM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 17649```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```100```PHYS 1140 - Experimental Physics 1```Units 1```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Chen Tang``````Room DUAN G2B75```Meeting Time Th 8:00AM - 9:50AM```Section 321-LABBoulder 16-Wk Session/Full Sem```Class Code 22471```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed`````` -```42```CLAS 4120 - Greek and Roman Tragedy```Units 3```Restriction N```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo Notes: This is a combined section class```Instructor Jacqueline Elliott``````Room HLMS 201```Meeting Time TuTh 2:00PM - 3:15PM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 29304```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```- - -```
 
-fall```93```MATH 1300 - Calculus 1```Units 5```Restriction Y```Consent Required N```Seats Remaining 3```Waitlist Total 0```MiscInfo nil```Instructor Michael Roy``````Room MUEN D144```Meeting Time TuTh 6:00PM - 8:30PM```Section 300E-LECCE Evening Full Session```Class Code 35568```Meeting Dates 01/24/2017 - 05/04/2017```Open Status Open````````` -```99```CHEM 1133 - General Chemistry 2```Units 4```Restriction Y```Consent Required N```Seats Remaining 5```Waitlist Total 0```MiscInfo nil```Instructor Yu Gong``````Room EKLC M2B26```Meeting Time Th 9:00AM - 9:50AM```Section 161-RECBoulder 16-Wk Session/Full Sem```Class Code 19045```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```- - -```spring```32```PHYS 1110 - General Physics 1```Units 4```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Wei Mao``````Room DUAN G2B60```Meeting Time Th 4:00PM - 4:50PM```Section 427-RECBoulder 16-Wk Session/Full Sem```Class Code 22269`...maining 3```Waitlist Total 0```MiscInfo nil```Instructor Michael Roy``````Room MUEN D144```Meeting Time TuTh 6:00PM - 8:30PM```Section 300E-LECCE Evening Full Session```Class Code 35568```Meeting Dates 01/24/2017 - 05/04/2017```Open Status Open```````````` -```99```CHEM 1133 - General Chemistry 2```Units 4```Restriction Y```Consent Required N```Seats Remaining 5```Waitlist Total 0```MiscInfo nil```Instructor Yu Gong``````Room EKLC M2B26```Meeting Time Th 9:00AM - 9:50AM```Section 161-RECBoulder 16-Wk Session/Full Sem```Class Code 19045```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open```````````` -```- - -```spring```32```PHYS 1110 - General Physics 1```Units 4```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Wei Mao``````Room DUAN G2B60```Meeting Time Th 4:00PM - 4:50PM```Section 427-RECBoulder 16-Wk Session/Full Sem```Class Code 22269```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed```````````` -```- - -```
-*/
+// my fall and spring with some prerequisites filled out
+//intermediary```91```MATH 1300 - Calculus 1```Units 5```Restriction Y```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo nil```Instructor Ira Becker, ```Keli Parker``````Room ECCR 131```Meeting Time MoTuWeThFr 3:00PM - 3:50PM```Section 016-LECBoulder 16-Wk Session/Full Sem```Class Code 24266```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```121```MATH 2300 - Calculus 2```Units 5```Restriction N```Consent Required N```Seats Remaining 3```Waitlist Total 0```MiscInfo nil```Instructor Trubee Davison``````Room HUMN 1B70```Meeting Time MoTuWeThFr 9:00AM - 9:50AM```Section 800-LECBoulder 16-Wk Session/Full Sem```Class Code 34958```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```1```CSCI 1300 - Computer Science 1: Starting Computing```Units 4```Restriction Y```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo nil```Instructor David Knox``````Room MATH 100```Meeting Time MoWeFr 1:00PM - 1:50PM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 28268```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```40```PHYS 1120 - General Physics 2```Units 4```Restriction Y```Consent Required N```Seats Remaining 27```Waitlist Total 0```MiscInfo nil```Instructor Michael Dubson``````Room DUAN G1B30```Meeting Time MoWeFr 8:00AM - 8:50AM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 17263```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open`````` -```- - -```fall```132```APPM 3570 - Applied Probability```Units 3```Restriction Y```Consent Required N```Seats Remaining 4```Waitlist Total 0```MiscInfo nil```Instructor Manuel Lladser``````Room ECCR 150```Meeting Time MoWeFr 2:00PM - 2:50PM```Section 002-LECBoulder 16-Wk Session/Full Sem```Class Code 21692```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```67```APPM 2350 - Calculus 3 for Engineers```Units 4```Restriction Y```Consent Required N```Seats Remaining 4```Waitlist Total 0```MiscInfo nil```Instructor Justin Cole``````Room ECCR 200```Meeting Time MoWeFr 1:00PM - 1:50PM```Section 160-LECBoulder 16-Wk Session/Full Sem```Class Code 15598```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```99```MATH 2001 - Introduction to Discrete Mathematics```Units 3```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Faan Liu``````Room ECCR 131```Meeting Time MoWeFr 10:00AM - 10:50AM```Section 002-LECBoulder 16-Wk Session/Full Sem```Class Code 21917```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed````````` -```30```CSCI 2270 - Computer Science 2: Data Structures```Units 4```Restriction Y```Consent Required N```Seats Remaining 16```Waitlist Total 0```MiscInfo nil```Instructor Rhonda Hoenigman``````Room MATH 100```Meeting Time MoWeFr 3:00PM - 3:50PM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 26334```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```65```CSCI 2824 - Discrete Structures```Units 3```Restriction Y```Consent Required N```Seats Remaining 3```Waitlist Total 0```MiscInfo nil```Instructor Christian Ketelsen``````Room FLMG 155```Meeting Time MoWeFr 9:00AM - 9:50AM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 28545```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```- - -```spring```67```CSCI 3104 - Algorithms```Units 4```Restriction Y```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo nil```Instructor Aaron Clauset``````Room CHEM 140```Meeting Time TuTh 12:30PM - 1:45PM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 27713```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```54```CSCI 2400 - Computer Systems```Units 4```Restriction Y```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Richard Han``````Room GOLD A2B70```Meeting Time TuTh 9:30AM - 10:45AM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 28021```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed````````` -```82```CSCI 3308 - SoftwareDevelopment Methods and Tools```Units 3```Restriction Y```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor David Graham``````Room DUAN G1B20```Meeting Time MoFr 11:00AM - 11:50AM```Section 100-LECBoulder 16-Wk Session/Full Sem```Class Code 28192```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed````````` -```147```PHYS 2130 - General Physics 3```Units 3```Restriction Y```Consent Required N```Seats Remaining 11```Waitlist Total 0```MiscInfo nil```Instructor Minhyea Lee``````Room DUAN G130```Meeting Time MoWeFr 12:00PM - 12:50PM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 17649```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```100```PHYS 1140 - Experimental Physics 1```Units 1```Restriction N```Consent Required N```Seats Remaining 0```Waitlist Total 0```MiscInfo nil```Instructor Chen Tang``````Room DUAN G2B75```Meeting Time Th 8:00AM - 9:50AM```Section 321-LABBoulder 16-Wk Session/Full Sem```Class Code 22471```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Closed````````` -```42```CLAS 4120 - Greek and Roman Tragedy```Units 3```Restriction N```Consent Required N```Seats Remaining 1```Waitlist Total 0```MiscInfo Notes: This is a combined section class```Instructor Jacqueline Elliott``````Room HLMS 201```Meeting Time TuTh 2:00PM - 3:15PM```Section 001-LECBoulder 16-Wk Session/Full Sem```Class Code 29304```Meeting Dates 01/17/2017 - 05/05/2017```Open Status Open````````` -```- - -```
