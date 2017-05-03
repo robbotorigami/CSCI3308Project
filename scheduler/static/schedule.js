@@ -388,13 +388,6 @@ prereqs =
 };
 
 // doesn't deal with coreqs at all
-/**
-Runs a mock audit given reqs and prereqs.<br />
-reqs is the list of courses which must be taken to satisfy the degree audit.<br />
-prereqs is the list of prerequisites for each class that has them.<br />
-Outputs which courses must be added to the schedule to satisfy the audit.<br />
-Outputs which courses do not have their prerequisites satisfied.
-*/
 function checkReqs()
 {
 	console.log( "---" );
