@@ -113,11 +113,12 @@ Prompts user to download 'schedule.png' directly.
 */
 function pngExport()
 {
+	var scale = prompt( "Enter an upscale factor.", 3 );
 	var props = {
-		width: schedule.clientWidth*3,
-		height: schedule.clientHeight*3,
+		width: schedule.clientWidth*scale,
+		height: schedule.clientHeight*scale,
 		style: {
-		'transform': 'scale('+3+')',
+		'transform': 'scale('+scale+')',
 		'transform-origin': 'top left'
 		},
 		bgcolor: "rgb(225, 225, 225)"
