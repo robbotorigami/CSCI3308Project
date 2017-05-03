@@ -38,6 +38,10 @@
 				<div class="headeritem">Fork</div> -->
 				<div class="headeritem" id="viewToggle" onclick="document.getElementById('viewCustomizer').classList.toggle('isOpen');">Customize View</div>
 				<div class="headeritem"onclick="pngExport();">Export to PNG<br />(zoom out is recommended)</div>
+				<div style="flex: 2;">
+					<div class="headeritem" onclick="insert();">Import.</div>
+					<div class="headeritem" onclick="exportSchedule();">Export.</div>
+				</div>
 				<button style="flex: 1;background: transparent; color: inherit; text-align: right;" onclick="document.getElementById('functions').classList.toggle('isOpen');">Toggle Functions</button>
 			</div>
 		</div>
@@ -136,7 +140,6 @@
 			<div class="functionitem">etc4</div> -->
 		</div>
 	</div>
-
 
 	<script src="/static/schedule.js"></script> <!-- TODO load this when confirmed ready; relies upon element id's -->
 	</body>
