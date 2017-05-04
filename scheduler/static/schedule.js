@@ -190,7 +190,7 @@ var ajResponseList;
 aj.onload = function()
 {
 	// new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText )["courses"] } );
-	ajResponseList = JSON.parse( aj.respoinseText )["courses"];
+	ajResponseList = JSON.parse( aj.responseText )["courses"];
 	// console.log( "wyyy" );
 };
 aj.send();
