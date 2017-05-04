@@ -185,6 +185,7 @@ function addTerm( id )
 		new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText ) } );
 		// console.log( "wyyy" );
 	};
+	aj.send();
 	// console.log( aj );
 }
 
