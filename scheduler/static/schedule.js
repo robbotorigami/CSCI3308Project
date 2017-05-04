@@ -41,7 +41,7 @@ document.addEventListener( "awesomplete-selectcomplete", function( selection )
 	// cls.innerText = selection.text.value;
 	// console.log( selection.text.value.split( "\n" ) );
 	var data = selection.text.value.split( "\n" );
-	cls.innerHTML += "<div class='courserender courseid'>" + data[0] + "</div>";
+	// cls.innerHTML += "<div class='courserender courseid'>" + data[0] + "</div>";
 	cls.innerHTML += "<div class='courserender coursesubject'>" + data[1].split( " - " )[0].split( " " )[0] + "</div>";
 	cls.innerHTML += "<div class='courserender coursenumber'>" + data[1].split( " - " )[0].split( " " )[1] + "</div>";
 	cls.innerHTML += "<div class='courserender coursename'>" + data[1].split( " - " )[1] + "</div>";
