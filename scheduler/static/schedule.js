@@ -178,21 +178,18 @@ function addTerm( id )
 	schedule.appendChild( t );
 
 	// new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1, maxItems: 300, autoFirst: true } );
-	new Awesomplete( classaddinput, { list: ajResponseList } );
+	new Awesomplete( classaddinput, { list: ajResponseList, minChars: 1, maxItems: 300, autoFirst: true } );
 	
-	
-	// console.log( aj );
 }
 
+/**
+Database request.<br />
+Loads searchable data into a list for Awesomplete.
+*/
 var aj = new XMLHttpRequest();
 aj.open( "GET", "https://csci3308project.herokuapp.com/getsections/", true );
 var ajResponseList;
-aj.onload = function()
-{
-	// new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText )["courses"] } );
-	ajResponseList = JSON.parse( aj.responseText )["courses"];
-	// console.log( "wyyy" );
-};
+aj.onload = function() { ajResponseList = JSON.parse( aj.responseText )["courses"]; };
 aj.send();
 
 /**
