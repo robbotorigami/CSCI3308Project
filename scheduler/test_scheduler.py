@@ -57,7 +57,23 @@ class TestDatabase(TestCase):
             'endyear': 2011,
             'term_year': 2011,
             'term_section': 'Fall',
-            'times': 'Mo/12:30PM-1:20PM,We/12:30PM-1:20PM,'})
+            'times': 'Mo/12:30PM-1:20PM,We/12:30PM-1:20PM,',
+            'direct_data': """0
+ACCT 3220 - Corporate Financial Reporting 1
+Units 3
+Restriction Y
+Consent Required N
+Seats Remaining 0
+Waitlist Total 0
+MiscInfo nil
+Instructor Frances Tice
+
+Room KOBL 230
+Meeting Time TuTh 11:00AM - 12:15PM
+Section 001-LECBoulder 16-Wk Session/Full Sem
+Class Code 24650
+Meeting Dates 01/17/2017 - 05/05/2017
+Open Status Closed"""})
         post_request.user = self.user
         response = addsection(post_request)
 

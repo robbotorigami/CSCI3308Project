@@ -177,19 +177,15 @@ function addTerm( id )
 
 	schedule.appendChild( t );
 
-	new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1, maxItems: 300, autoFirst: true } );
-//	var ajax = new XMLHttpRequest();
-//	ajax.open( "GET", "https://restcountries.eu/rest/v1/lang/fr" );
-//	ajax.onload = function()
-//	{
-//		// var list = JSON.parse( ajax.responseText );
-//		// var list = ajax.responseText;
-//		var list = JSON.parse( ajax.responseText ).map( function(i){ return i.name; } );
-//		new Awesomplete( classaddinput, { list: list } );
-//		console.log( "argh" );
-//		alert( list );
-//	};
-//	// console.log( ajax );
+	// new Awesomplete( classaddinput, { list: unparsedCourseList, minChars: 1, maxItems: 300, autoFirst: true } );
+	var aj = new XMLHttpRequest();
+	aj.open( "GET", "http://csci3308project.herokuapp.com/getsections/", true );
+	aj.onload = function()
+	{
+		new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText ) } );
+		// console.log( "wyyy" );
+	};
+	// console.log( aj );
 }
 
 /**

@@ -10,5 +10,6 @@ urlpatterns = [
     url(r'^addsection/$', views.addsection, name='addsection'),
     
 
-    url(r'^getsubjs/$', views.getsubjs, name='getsubjs')
+    url(r'^getsubjs/$', views.getsubjs, name='getsubjs'),
+    url(r'^getsections/$', views.getsections, name='getsections')
 ]

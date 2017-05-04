@@ -1,7 +1,7 @@
 # === Specifies webpage responses. ===
 
 from django.shortcuts import get_object_or_404, render
-from django.http import HttpResponseRedirect, HttpResponse, Http404
+from django.http import HttpResponseRedirect, HttpResponse, Http404, JsonResponse
 from django.template import loader
 from django.core.urlresolvers import reverse
 from django.views import generic
@@ -23,6 +23,12 @@ Returns a list of subjects. This is for testing purposes.
 """
 def getsubjs(request):
     return HttpResponse(subject.objects.all())
+
+def getsections(request):
+    out = []
+    for obj in section.objects.all():
+        out.append( getattr( obj, "direct_data" ) )
+    return JsonResponse( { "courses": out } )
 
 """
 POSTs a course.
@@ -64,6 +70,7 @@ def addsection(request):
     sect.enddate = datetime.date(int(request.POST['endyear']),int(request.POST['endmonth']),int(request.POST['endday']))
     sect.term_year = request.POST['term_year']
     sect.term_section = request.POST['term_section']
+    sect.direct_data = request.POST['direct_data']
     sect.save()
 
     #remove any existing class times

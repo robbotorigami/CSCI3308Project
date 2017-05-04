@@ -28,6 +28,7 @@ class course(models.Model):
 
 """Section Table"""
 class section(models.Model):
+    direct_data = models.CharField(max_length=1500, default="null")
     course_id = models.ForeignKey(course, on_delete=models.CASCADE)
     section_number = models.IntegerField() #class number/primary key
     section_description = models.CharField(max_length=100)
