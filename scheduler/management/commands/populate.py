@@ -2,6 +2,10 @@ from scheduler.models import section
 from django.core.management.base import BaseCommand
 import re
 
+"""
+Inserts every course from the direct guest search scrape into the database.
+Their representation in the database needs to be sanitized.
+"""
 class Command(BaseCommand):
     courseAmalgam = """0
 ACCT 3220 - Corporate Financial Reporting 1

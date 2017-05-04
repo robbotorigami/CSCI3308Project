@@ -21,7 +21,7 @@
     </div>
     <div class='code'>
       <div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">django.shortcuts</span> <span class="kn">import</span> <span class="n">get_object_or_404</span><span class="p">,</span> <span class="n">render</span>
-<span class="kn">from</span> <span class="nn">django.http</span> <span class="kn">import</span> <span class="n">HttpResponseRedirect</span><span class="p">,</span> <span class="n">HttpResponse</span><span class="p">,</span> <span class="n">Http404</span>
+<span class="kn">from</span> <span class="nn">django.http</span> <span class="kn">import</span> <span class="n">HttpResponseRedirect</span><span class="p">,</span> <span class="n">HttpResponse</span><span class="p">,</span> <span class="n">Http404</span><span class="p">,</span> <span class="n">JsonResponse</span>
 <span class="kn">from</span> <span class="nn">django.template</span> <span class="kn">import</span> <span class="n">loader</span>
 <span class="kn">from</span> <span class="nn">django.core.urlresolvers</span> <span class="kn">import</span> <span class="n">reverse</span>
 <span class="kn">from</span> <span class="nn">django.views</span> <span class="kn">import</span> <span class="n">generic</span>
@@ -79,6 +79,22 @@ return HttpResponse(subject.objects.all())</p>
       <p>POSTs a course.</p>
     </div>
     <div class='code'>
+      <div class="highlight"><pre><span class="k">def</span> <span class="nf">getsections</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+    <span class="n">out</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">obj</span> <span class="ow">in</span> <span class="n">section</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">all</span><span class="p">():</span>
+        <span class="n">out</span><span class="o">.</span><span class="n">append</span><span class="p">(</span> <span class="nb">getattr</span><span class="p">(</span> <span class="n">obj</span><span class="p">,</span> <span class="s2">&quot;direct_data&quot;</span> <span class="p">)</span> <span class="p">)</span>
+    <span class="k">return</span> <span class="n">JsonResponse</span><span class="p">(</span> <span class="p">{</span> <span class="s2">&quot;courses&quot;</span><span class="p">:</span> <span class="n">out</span> <span class="p">}</span> <span class="p">)</span></pre></div>
+    </div>
+  </div>
+  <div class='clearall'></div>
+  <div class='section' id='section-5'>
+    <div class='docs'>
+      <div class='octowrap'>
+        <a class='octothorpe' href='#section-5'>#</a>
+      </div>
+      <p>POSTs a section.</p>
+    </div>
+    <div class='code'>
       <div class="highlight"><pre><span class="nd">@staff_member_required</span>
 <span class="k">def</span> <span class="nf">addcourse</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
     <span class="k">if</span> <span class="n">request</span><span class="o">.</span><span class="n">method</span> <span class="o">!=</span> <span class="s1">&#39;POST&#39;</span><span class="p">:</span>
@@ -92,12 +108,12 @@ return HttpResponse(subject.objects.all())</p>
     </div>
   </div>
   <div class='clearall'></div>
-  <div class='section' id='section-5'>
+  <div class='section' id='section-6'>
     <div class='docs'>
       <div class='octowrap'>
-        <a class='octothorpe' href='#section-5'>#</a>
+        <a class='octothorpe' href='#section-6'>#</a>
       </div>
-      <p>POSTs a section.</p>
+      
     </div>
     <div class='code'>
       <div class="highlight"><pre><span class="nd">@staff_member_required</span>
@@ -123,14 +139,15 @@ return HttpResponse(subject.objects.all())</p>
     <span class="n">sect</span><span class="o">.</span><span class="n">enddate</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endyear&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endmonth&#39;</span><span class="p">]),</span><span class="nb">int</span><span class="p">(</span><span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;endday&#39;</span><span class="p">]))</span>
     <span class="n">sect</span><span class="o">.</span><span class="n">term_year</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;term_year&#39;</span><span class="p">]</span>
     <span class="n">sect</span><span class="o">.</span><span class="n">term_section</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;term_section&#39;</span><span class="p">]</span>
+    <span class="n">sect</span><span class="o">.</span><span class="n">direct_data</span> <span class="o">=</span> <span class="n">request</span><span class="o">.</span><span class="n">POST</span><span class="p">[</span><span class="s1">&#39;direct_data&#39;</span><span class="p">]</span>
     <span class="n">sect</span><span class="o">.</span><span class="n">save</span><span class="p">()</span></pre></div>
     </div>
   </div>
   <div class='clearall'></div>
-  <div class='section' id='section-6'>
+  <div class='section' id='section-7'>
     <div class='docs'>
       <div class='octowrap'>
-        <a class='octothorpe' href='#section-6'>#</a>
+        <a class='octothorpe' href='#section-7'>#</a>
       </div>
       <p>remove any existing class times</p>
     </div>
@@ -157,10 +174,10 @@ return HttpResponse(subject.objects.all())</p>
     </div>
   </div>
   <div class='clearall'></div>
-  <div class='section' id='section-7'>
+  <div class='section' id='section-8'>
     <div class='docs'>
       <div class='octowrap'>
-        <a class='octothorpe' href='#section-7'>#</a>
+        <a class='octothorpe' href='#section-8'>#</a>
       </div>
       <p>Create your views here.</p>
     </div>
