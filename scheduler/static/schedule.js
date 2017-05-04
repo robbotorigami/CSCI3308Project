@@ -182,7 +182,7 @@ function addTerm( id )
 	aj.open( "GET", "https://csci3308project.herokuapp.com/getsections/", true );
 	aj.onload = function()
 	{
-		new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText ) } );
+		new Awesomplete( classaddinput, { list: JSON.parse( aj.responseText )["courses"] } );
 		// console.log( "wyyy" );
 	};
 	aj.send();
