@@ -3,4 +3,4 @@ install node and npm
 install jsdoc
 	npm install -g jsdoc
 run against *.js
-	docco ../scheduler/static/*.js
+	jsdoc ../scheduler/static/*.js
