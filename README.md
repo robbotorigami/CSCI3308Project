@@ -33,8 +33,6 @@ Project Tracking software: we intend to use Trello, and potentially Github issue
 Link: https://trello.com/b/f3YAkExL/tasks
 
 
-[Latest Master Preview (be wary of caching) - this probably doesn't work anymore due to django](http://htmlpreview.github.io/?https://github.com/robbotorigami/CSCI3308Project/blob/master/index.html)
-
 [Part 2 Demo Presentation](https://docs.google.com/presentation/d/10fvtCiHCuii0phYofOP2jvLumiXRMDdUO2DaOeJoV_w/edit?usp=sharing)
 
-[Final Presentation](https://docs.google.com/a/colorado.edu/presentation/d/1sRVLQ2HHiUTjzHk16t8Z9D-gno72x0aD1D9UmEJa5tU/edit?usp=sharing)
+[Final Presentation / Tech Stack Overview](https://docs.google.com/a/colorado.edu/presentation/d/1sRVLQ2HHiUTjzHk16t8Z9D-gno72x0aD1D9UmEJa5tU/edit?usp=sharing)
