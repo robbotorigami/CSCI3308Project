@@ -1,4 +1,4 @@
-# CSCI3308Project
+# CSCI3308Project: https://csci3308project.herokuapp.com/
 Who: Robert Belter (robbotorigami), Michael Rahn (7UR7L3), Raghav Sharma (Sharmaraghav260)
 
 Title: CU Scheduler
